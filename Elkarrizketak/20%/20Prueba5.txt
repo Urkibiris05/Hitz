@@ -1,0 +1,27 @@
+ Doctor: Hola, buenos días. Soy el Dr. García, el otorrinolaringólogo que lo va a atender hoy. Antes de comenzar, le realizaré una serie de preguntas para conocer mejor su caso y entender exactamente qué es lo que le ocurre.
+
+Paciente: Está bien, doctor.
+
+Doctor: Primero, ¿podría decirme su nombre completo y cuántos años tiene?
+
+Paciente: Me llamo Carlos Ruiz y tengo 45 años.
+
+Doctor: Muy bien, Carlos. Cuénteme con sus palabras, ¿qué es lo que lo trae hoy por aquí?
+
+Paciente: Pues mire, me he despertado con la cara un poco rara, siento que no puedo mover bien el lado izquierdo.
+
+Doctor: Entiendo. ¿A qué atribuye usted este problema o con qué cree que podría estar relacionado?
+
+Paciente: No estoy seguro, ayer pasé mucho frío esperando el autobús, quizá sea por eso.
+
+Doctor: ¿Cuándo comenzó exactamente a notar esta falta de movimiento?
+
+Paciente: Fue esta mañana mismo, al despertarme sobre las siete de la mañana.
+
+Doctor: Desde ese momento hasta ahora, ¿ha sentido que el problema ha ido empeorando o se ha mantenido estable?
+
+Paciente: Diría que se ha mantenido igual de paralizado desde que me levanté.
+
+Doctor: Una última cosa, ¿ha notado si al intentar sonreír la boca se le tuerce o se le desvía hacia un lado?
+
+Paciente: Sí, precisamente al mirarme al espejo he visto que la comisura de la boca no sube y se queda colgada. 

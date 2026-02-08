@@ -1,0 +1,47 @@
+**Médico (Otorrinolaringólogo):**  
+— Buenas tardes, ¿qué lo trae a consultar hoy?  
+
+**Paciente:**  
+— Hola, doctor. Tengo dificultad para mover la mitad derecha de la cara, no puedo cerrar bien el ojo y al sonreír se me tuerce la boca.  
+
+**Médico:**  
+— Entiendo. ¿Qué piensa usted que pudo causar este problema?  
+
+**Paciente:**  
+— Tal vez fue por el frío intenso de la semana pasada; estuve mucho tiempo en la calle sin abrigo.  
+
+**Médico:**  
+— ¿Desde cuándo notó estos síntomas?  
+
+**Paciente:**  
+— Empezó hace tres días, de la noche a la mañana.  
+
+**Médico:**  
+— ¿Fue algo repentino o fue empeorando poco a poco?  
+
+**Paciente:**  
+— De repente, como si me hubiera desconectado un lado de la cara.  
+
+**Médico:**  
+— ¿Ha ido mejorando o empeorando desde entonces?  
+
+**Paciente:**  
+— Un poco mejor, pero sigo sin poder cerrar el ojo derecho.  
+
+**Médico:**  
+— ¿Le ha pasado algo similar antes?  
+
+**Paciente:**  
+— No, es la primera vez.  
+
+**Médico:**  
+— Trate de cerrar el ojo derecho. ¿Puede hacerlo por completo?  
+
+**Paciente:**  
+— No, se me queda abierto y me cuesta parpadear.  
+
+**Médico:**  
+— Ahora, ¿al sonreír nota que su boca se desvía hacia un lado?  
+
+**Paciente:**  
+— Sí, la sonrisa se me tuerce hacia la izquierda. 

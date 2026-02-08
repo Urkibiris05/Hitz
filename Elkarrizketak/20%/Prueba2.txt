@@ -1,0 +1,20 @@
+**Médico:** Buenos días, soy el Dr. Martínez, otorrinolaringólogo. Hoy voy a evaluar su caso, así que le haré algunas preguntas para entender mejor qué le ocurre.  
+**Paciente:** Buenos días, doctor.  
+**Médico:** ¿Qué lo trae a consultar hoy?  
+**Paciente:** Es que desde hace dos días tengo dificultad para mover la mitad derecha de la cara, como si estuviera paralizada.  
+**Médico:** ¿A qué cree que se debe esto?  
+**Paciente:** No sé, quizás por el resfriado que tuve la semana pasada.  
+**Médico:** ¿Cuándo comenzó exactamente?  
+**Paciente:** El lunes por la mañana, al despertar.  
+**Médico:** ¿Empezó de repente o fue progresivo?  
+**Paciente:** De repente, de un momento a otro.  
+**Médico:** ¿Siente que su oído derecho suena más bajo o que escucha menos?  
+**Paciente:** Sí, ahora que lo menciona, el oído derecho no capta bien los sonidos.  
+**Médico:** ¿Solo afecta el lado derecho o ambos?  
+**Paciente:** Solo el derecho.  
+**Médico:** Muy bien. ¿Ha tenido otros síntomas recientemente, como mareos o dolor de cabeza?  
+**Paciente:** No, solo eso. A veces me cuesta cerrar el ojo, pero no sé si es relevante.  
+**Médico:** Lo anotaré. Ahora procederé con el examen físico. ¿Tiene alguna alergia que deba saber?  
+**Paciente:** Ninguna.  
+**Médico:** Perfecto. Le haré algunas pruebas rápidas.
+

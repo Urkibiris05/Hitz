@@ -1,0 +1,227 @@
+**Doctor:** Buenos días, soy el Dr. Luis Gómez, otorrinolaringólogo. Hoy vamos a conversar para entender mejor lo que le ocurre.  
+
+**Paciente:** Buenos días, doctor.  
+
+**Doctor:** ¿Cómo se llama usted?  
+
+**Paciente:** Juan Pérez Martínez.  
+
+**Doctor:** ¿Cuántos años tiene?  
+
+**Paciente:** 52.  
+
+**Doctor:** ¿Cuál es su estado civil?  
+
+**Paciente:** Casado.  
+
+**Doctor:** ¿Dónde vive actualmente?  
+
+**Paciente:** En la ciudad de Córdoba.  
+
+**Doctor:** ¿A qué se dedica?  
+
+**Paciente:** Soy contador en una empresa de auditoría.  
+
+**Doctor:** ¿Qué lo trae a consultar?  
+
+**Paciente:** Hace dos días noté que la mitad izquierda de mi cara está débil y no puedo moverla bien.  
+
+**Doctor:** ¿Qué piensa que puede ser la causa de este problema?  
+
+**Paciente:** Creo que está relacionado con el resfriado que tuve la semana pasada.  
+
+**Doctor:** ¿Recuerda el día y la hora exacta en que empezó?  
+
+**Paciente:** Fue ayer, alrededor de las 19:30, después de cenar.  
+
+**Doctor:** ¿El inicio fue brusco o progresivo?  
+
+**Paciente:** Fue bastante brusco.  
+
+**Doctor:** Desde entonces, ¿ha mejorado o empeorado?  
+
+**Paciente:** Ha empeorado un poco; ahora es más difícil sonreír.  
+
+**Doctor:** ¿Le ha pasado algo similar antes?  
+
+**Paciente:** No, nunca antes había tenido eso.  
+
+**Doctor:** ¿Qué lado está afectado?  
+
+**Paciente:** El lado izquierdo.  
+
+**Doctor:** ¿Puede cerrar el ojo izquierdo completamente?  
+
+**Paciente:** No, queda parcialmente abierto.  
+
+**Doctor:** ¿Al sonreír, la boca se desvía a algún lado?  
+
+**Paciente:** Sí, se desvía hacia la derecha.  
+
+**Doctor:** ¿Se le cae saliva o tiene dificultad para retenerla?  
+
+**Paciente:** A veces se me escapa saliva.  
+
+**Doctor:** ¿Ha notado que su habla suena diferente?  
+
+**Paciente:** Sí, la articulación está más arrastrada.  
+
+**Doctor:** ¿Tiene dolor detrás de la oreja izquierda?  
+
+**Paciente:** Sí, una molestia retroauricular.  
+
+**Doctor:** ¿Ha presentado alguna cefalea asociada?  
+
+**Paciente:** Tengo una ligera cefalea en la frente.  
+
+**Doctor:** ¿Siente algún adormecimiento o hormigueo en la cara?  
+
+**Paciente:** Un leve hormigueo en la zona afectada.  
+
+**Doctor:** ¿Siente dolor de oído o secreción?  
+
+**Paciente:** No dolor, pero una ligera picazón en el oído.  
+
+**Doctor:** ¿Ha notado pérdida de audición?  
+
+**Paciente:** Sí, escucho menos en el oído izquierdo.  
+
+**Doctor:** ¿Le molestan los ruidos fuertes?  
+
+**Paciente:** Sí, me resultan irritantes.  
+
+**Doctor:** ¿Escucha algún zumbido o pitido en los oídos?  
+
+**Paciente:** A veces escucho un zumbido constante.  
+
+**Doctor:** ¿Ha tenido mareos o sensación de inestabilidad?  
+
+**Paciente:** Un poco de vértigo al levantarme.  
+
+**Doctor:** ¿Ha tenido alguna otitis reciente?  
+
+**Paciente:** No, nada de otitis.  
+
+**Doctor:** ¿Ha notado algún cambio en el gusto?  
+
+**Paciente:** Los sabores se sienten más apagados.  
+
+**Doctor:** ¿Siente sequedad ocular o menos lagrimeo en el ojo izquierdo?  
+
+**Paciente:** Sí, está más seco.  
+
+**Doctor:** ¿Ha notado sequedad o cambios en la salivación?  
+
+**Paciente:** La boca está más seca, aunque a veces se acumula saliva.  
+
+**Doctor:** ¿Le han salido vesículas o ampollas en la lengua?  
+
+**Paciente:** Sí, unas pequeñas ampollas.  
+
+**Doctor:** ¿Tiene debilidad en brazos o piernas?  
+
+**Paciente:** No, mis extremidades están bien.  
+
+**Doctor:** ¿Ha tenido dificultad para encontrar palabras o para hablar con claridad?  
+
+**Paciente:** A veces me cuesta articular.  
+
+**Doctor:** ¿Ha notado visión doble o alguna alteración visual?  
+
+**Paciente:** No, la visión está normal.  
+
+**Doctor:** ¿Le cuesta caminar o mantener el equilibrio?  
+
+**Paciente:** No, puedo caminar sin problemas.  
+
+**Doctor:** ¿Tiene dificultad para tragar alimentos o líquidos?  
+
+**Paciente:** A veces se me siente que se atasca, pero no es constante.  
+
+**Doctor:** ¿Ha perdido el conocimiento o tenido convulsiones?  
+
+**Paciente:** No, nunca.  
+
+**Doctor:** ¿Este problema le dificulta comunicarse con otras personas?  
+
+**Paciente:** Sí, tengo que repetir mucho y eso me frustra.  
+
+**Doctor:** ¿La sequedad ocular le genera molestias durante el día?  
+
+**Paciente:** Sí, me pica e irrita.  
+
+**Doctor:** ¿Ha afectado su desempeño laboral o sus actividades sociales?  
+
+**Paciente:** Sí, he tenido que ausentarme del trabajo y evito reuniones.  
+
+**Doctor:** ¿Ha tenido algún resfriado o infección viral reciente?  
+
+**Paciente:** Sí, un resfriado la semana pasada.  
+
+**Doctor:** ¿Ha estado expuesto a corrientes de aire frío últimamente?  
+
+**Paciente:** Sí, el viernes hubo aire acondicionado muy fuerte.  
+
+**Doctor:** ¿Ha vivido situaciones de estrés intenso recientemente?  
+
+**Paciente:** Sí, mucho estrés en el trabajo.  
+
+**Doctor:** ¿Ha sufrido algún golpe en la cabeza o traumatismo craneoencefálico?  
+
+**Paciente:** No.  
+
+**Doctor:** ¿Se ha realizado algún procedimiento dental o cirugía reciente?  
+
+**Paciente:** Me extrajeron una muela hace dos meses.  
+
+**Doctor:** ¿Ha tenido fiebre recientemente?  
+
+**Paciente:** No, la temperatura ha estado normal.  
+
+**Doctor:** ¿Se siente cansado o con malestar general?  
+
+**Paciente:** Sí, me siento más cansado de lo habitual.  
+
+**Doctor:** ¿Ha tenido episodios previos de parálisis facial?  
+
+**Paciente:** No.  
+
+**Doctor:** ¿Qué enfermedades ha padecido en el pasado?  
+
+**Paciente:** Hipertensión y diabetes tipo 2, ambas controladas.  
+
+**Doctor:** ¿Ha tenido alguna cirugía importante antes?  
+
+**Paciente:** Solo una apendicectomía hace diez años.  
+
+**Doctor:** ¿Está recibiendo algún tratamiento actualmente, como corticoides, antivirales o fisioterapia?  
+
+**Paciente:** Estoy en fisioterapia para el hombro y tomo antihipertensivos.  
+
+**Doctor:** ¿Qué medicamentos toma habitualmente?  
+
+**Paciente:** Antihipertensivos, metformina y una pastilla para el colesterol.  
+
+**Doctor:** En su trabajo, ¿está expuesto a ruidos, vibraciones o frío?  
+
+**Paciente:** Sí, ruido de impresoras y aire acondicionado.  
+
+**Doctor:** ¿Fuma actualmente?  
+
+**Paciente:** No, nunca he fumado.  
+
+**Doctor:** ¿Consume alcohol?  
+
+**Paciente:** Sí, socialmente, una o dos copas de vino los fines de semana.  
+
+**Doctor:** ¿Consume alguna droga recreativa?  
+
+**Paciente:** No.  
+
+**Doctor:** ¿Ha recibido alguna vacuna en los últimos meses?  
+
+**Paciente:** Me vacuné contra la influenza hace dos meses.  
+
+**Doctor:** ¿Hay antecedentes familiares de parálisis facial o enfermedades neurológicas?  
+
+**Paciente:** No, en mi familia no hay esos casos.

@@ -1,0 +1,249 @@
+**Doctor (Dra. Ana Martínez, otorrinolaringóloga):** Buen día, soy la 
+doctora Ana Martínez, otorrinolaringóloga.  
+
+**Doctor:** Explico que hará preguntas para conocer el problema y así 
+poder hacer una valoración adecuada.  
+
+**Paciente (Carlos Gómez, 52 años):** Buenos días, doctora.  
+
+**Doctor:** ¿Podría decirme su nombre completo, por favor?  
+
+**Paciente:** Carlos Alberto Gómez Rivera.  
+
+**Doctor:** Gracias, Carlos. ¿Cuántos años tiene?  
+
+**Paciente:** Tengo 52 años.  
+
+**Doctor:** ¿Cuál es su estado civil?  
+
+**Paciente:** Estoy casado.  
+
+**Doctor:** ¿Dónde vive actualmente?  
+
+**Paciente:** En la zona de San Miguel, Santiago.  
+
+**Doctor:** ¿Trabaja?  
+
+**Paciente:** Sí, soy ingeniero civil y trabajo en una empresa 
+constructora.  
+
+**Doctor:** ¿Qué lo trae a consultar?  
+
+**Paciente:** Hace dos días noté que no puedo cerrar bien el ojo derecho y 
+la cara se ve asimétrica.  
+
+**Doctor:** ¿Cuál piensa que es la causa?  
+
+**Paciente:** Creo que se debe a un golpe que me di la cabeza cuando me 
+caí del escalón.  
+
+**Doctor:** ¿Cuándo comenzó?  
+
+**Paciente:** Recuerdo que empezó justo después de la caída, ayer a eso de 
+las 17:30.  
+
+**Doctor:** ¿Comenzó repentina o progresivamente?  
+
+**Paciente:** Fue repentino, al instante sentí la diferencia.  
+
+**Doctor:** Desde entonces, ¿ha mejorado o empeorado?  
+
+**Paciente:** La situación se ha mantenido, no he notado mejoría.  
+
+**Doctor:** ¿Le ha pasado antes algo parecido?  
+
+**Paciente:** No, nunca antes había tenido nada similar.  
+
+**Doctor:** ¿Qué lado está afectado?  
+
+**Paciente:** El lado derecho.  
+
+**Doctor:** ¿Tiene dificultad para cerrar el ojo?  
+
+**Paciente:** Sí, el cierre palpebral es parcial.  
+
+**Doctor:** ¿Ha notado que la boca se desvía al sonreír?  
+
+**Paciente:** Sí, la boca se inclina hacia la izquierda cuando intento 
+sonreír.  
+
+**Doctor:** ¿Se le cae saliva con frecuencia?  
+
+**Paciente:** Sí, tengo bastante baboseo y a veces se me escapa saliva al 
+hablar.  
+
+**Doctor:** ¿Ha notado algún cambio en su forma de hablar?  
+
+**Paciente:** Sí, mi habla suena distinta, como si las palabras me 
+costaran más.  
+
+**Doctor:** ¿Siente dolor detrás de la oreja?  
+
+**Paciente:** Un poco de molestia en la zona retroauricular.  
+
+**Doctor:** ¿Tiene dolor de cabeza?  
+
+**Paciente:** Sí, he tenido una cefalea leve durante el día.  
+
+**Doctor:** ¿Siente adormecimiento o hormigueo en la cara?  
+
+**Paciente:** Un leve hormigueo en la zona de la mejilla derecha.  
+
+**Doctor:** ¿Tiene dolor de oído o secreción?  
+
+**Paciente:** Un poco de dolor de oído, pero no hay supuración.  
+
+**Doctor:** ¿Ha notado que escucha menos que antes?  
+
+**Paciente:** No he percibido una pérdida importante, pero sí parece que 
+me cuesta entender sonidos suaves.  
+
+**Doctor:** ¿Le molestan los ruidos fuertes?  
+
+**Paciente:** Sí, los ruidos intensos me resultan incómodos.  
+
+**Doctor:** ¿Ha escuchado zumbidos en los oídos?  
+
+**Paciente:** Sí, hay pequeños acúfenos intermitentes.  
+
+**Doctor:** ¿Ha tenido mareos o sensación de inestabilidad?  
+
+**Paciente:** Un par de veces he sentido mareos, como si todo girara.  
+
+**Doctor:** ¿Ha tenido alguna infección de oído reciente?  
+
+**Paciente:** No, no he tenido otitis recientemente.  
+
+**Doctor:** ¿Ha notado algún cambio en el gusto de los alimentos?  
+
+**Paciente:** Ahora los sabores me parecen más apagados, casi sin gusto.  
+
+**Doctor:** ¿Tiene ojo seco o menos lagrimeo?  
+
+**Paciente:** Sí, el ojo derecho está más seco y casi no lagrimea.  
+
+**Doctor:** ¿Ha notado boca seca o exceso de saliva?  
+
+**Paciente:** La boca está seca en la parte interna, pero al mismo tiempo 
+se me escapa saliva de la mejilla.  
+
+**Doctor:** ¿Le han salido ampollas en la lengua?  
+
+**Paciente:** No, no he notado nada en la lengua.  
+
+**Doctor:** ¿Ha tenido debilidad en brazos o piernas?  
+
+**Paciente:** No, mis extremidades están bien.  
+
+**Doctor:** ¿Tiene dificultad para hablar? (Trastorno del lenguaje)  
+
+**Paciente:** Como le comenté, mi habla suena arrastrada, pero no he 
+perdido la capacidad de articular palabras.  
+
+**Doctor:** ¿Ha visto visión doble o alguna alteración visual?  
+
+**Paciente:** No, mi visión está normal.  
+
+**Doctor:** ¿Ha tenido dificultad para caminar o problemas de 
+coordinación?  
+
+**Paciente:** No, mi marcha es estable.  
+
+**Doctor:** ¿Ha tenido dificultad para tragar alimentos o líquidos?  
+
+**Paciente:** Sí, a veces siento que se me atasca la comida y toso.  
+
+**Doctor:** ¿Ha experimentado pérdida de conciencia o convulsiones?  
+
+**Paciente:** Ninguna de esas cosas.  
+
+**Doctor:** Indaga problemas comunicativos: ¿Los demás le entienden bien 
+cuando habla?  
+
+**Paciente:** Algunas veces me piden que repita, pero en general me 
+entienden.  
+
+**Doctor:** Explora dificultad visual diaria: ¿El ojo seco le genera 
+problemas en sus actividades cotidianas?  
+
+**Paciente:** Sí, me irrita mucho cuando trabajo frente a la computadora.  
+
+**Doctor:** ¿Esto afecta su trabajo?  
+
+**Paciente:** La sequedad me obliga a hacer pausas frecuentes, lo que retrasa mi labor.  
+
+**Doctor:** Ahora, hablemos de posibles desencadenantes. ¿Ha tenido resfrío reciente?  
+
+**Paciente:** Sí, la semana pasada tuve un cuadro gripal leve.  
+
+**Doctor:** ¿Ha estado expuesto a frío o corrientes de aire últimamente?  
+
+**Paciente:** Sí, tuve que trabajar en una obra con aire acondicionado muy fuerte.  
+
+**Doctor:** ¿Ha vivido estrés reciente?  
+
+**Paciente:** Sí, estamos terminando un proyecto importante y he estado muy estresado.  
+
+**Doctor:** ¿Ha tenido golpes recientes o alguna caída además de la que menciona?  
+
+**Paciente:** No, solo la caída del escalón.  
+
+**Doctor:** ¿Se ha realizado algún tratamiento dental o cirugía recientemente?  
+
+**Paciente:** Hace dos meses me hicieron una extracción de una muela del juicio.  
+
+**Doctor:** ¿Ha tenido temperatura elevada?  
+
+**Paciente:** No he tenido fiebre.  
+
+**Doctor:** ¿Ha sentido decaimiento o cansancio general?  
+
+**Paciente:** Me he sentido algo fatigado, pero no extremadamente.  
+
+**Doctor:** ¿Ha tenido parálisis anteriores?  
+
+**Paciente:** Nunca antes había tenido parálisis facial.  
+
+**Doctor:** ¿Qué enfermedades ha padecido en el pasado?  
+
+**Paciente:** Tengo hipertensión y hace cinco años me operé de apendicitis.  
+
+**Doctor:** ¿Ha tenido cirugías previas?  
+
+**Paciente:** Además de la apendicitis, no he tenido otras cirugías.  
+
+**Doctor:** ¿Qué tratamiento ha recibido para este cuadro? (Corticoides, antivirales, fisioterapia)  
+
+**Paciente:** Aún no he recibido ningún tratamiento; estoy aquí para que me indiquen qué hacer.  
+
+**Doctor:** ¿Qué medicamentos toma habitualmente?  
+
+**Paciente:** Tomo enalapril para la presión y a veces ibuprofeno para dolores musculares.  
+
+**Doctor:** Pregunta ocupación: ¿Cuál es su profesión y hay alguna exposición laboral relevante?  
+
+**Paciente:** Soy ingeniero civil; paso mucho tiempo al aire libre y a veces en lugares con polvo y ruido.  
+
+**Doctor:** ¿Fuma?  
+
+**Paciente:** No, nunca he fumado.  
+
+**Doctor:** ¿Consume alcohol?  
+
+**Paciente:** Tomo una copa de vino los fines de semana.  
+
+**Doctor:** ¿Consume drogas?  
+
+**Paciente:** No, nunca he consumido drogas ilícitas.  
+
+**Doctor:** Pregunta Vacunación reciente: ¿Ha recibido alguna vacuna en los últimos meses?  
+
+**Paciente:** Sí, me pusieron la vacuna de la gripe hace un mes.  
+
+**Doctor:** Por último, ¿hay antecedentes de parálisis facial en su familia?  
+
+**Paciente:** No, ninguno en mi familia.  
+
+**Doctor:** Gracias, Carlos. Con toda esta información podremos elaborar un plan de diagnóstico y tratamiento adecuado.  
+
+**Paciente:** Gracias a usted, doctora.

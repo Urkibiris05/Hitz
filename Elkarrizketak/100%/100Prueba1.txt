@@ -1,0 +1,176 @@
+**Doctor:** Buen día, soy el Dr. Luis Pérez, otorrinolaringólogo, y seré quien lo atienda hoy.  
+**Doctor:** Vamos a hacerle algunas preguntas para entender lo que le ocurre y poder ayudarle mejor.  
+
+**Doctor:** ¿Cuál es su nombre completo?  
+**Paciente:** Me llamo María González López.  
+
+**Doctor:** ¿Cuántos años tiene?  
+**Paciente:** Tengo 52 años.  
+
+**Doctor:** ¿Cuál es su estado civil?  
+**Paciente:** Soy casada.  
+
+**Doctor:** ¿En qué ciudad y barrio reside?  
+**Paciente:** Vivo en la ciudad de Córdoba, barrio San Javier.  
+
+**Doctor:** ¿Trabaja?  
+**Paciente:** Sí, soy profesora de primaria.  
+
+**Doctor:** ¿Qué la trae a consultar?  
+**Paciente:** Hace tres días noté que mi cara se ve un poco extraña y me cuesta moverla.  
+
+**Doctor:** ¿A qué atribuye usted el problema?  
+**Paciente:** Creo que empezó después de un resfriado que tuve la semana pasada.  
+
+**Doctor:** ¿Cuándo comenzó exactamente?  
+**Paciente:** Recuerdo que fue ayer por la tarde, alrededor de las 5 p.m.  
+
+**Doctor:** ¿El inicio fue repentino o progresivo?  
+**Paciente:** Fue bastante repentino, sentí que se “apagó” de un momento a otro.  
+
+**Doctor:** ¿Ha mejorado o empeorado desde entonces?  
+**Paciente:** Más bien ha empeorado; ahora mi ojo no cierra bien.  
+
+**Doctor:** ¿Le ha pasado algo similar antes?  
+**Paciente:** No, nunca había tenido algo parecido.  
+
+**Doctor:** ¿En qué lado le afecta?  
+**Paciente:** En el lado derecho de la cara.  
+
+**Doctor:** ¿Puede cerrar el ojo sin dificultad?  
+**Paciente:** No, el ojo derecho queda abierto parcialmente.  
+
+**Doctor:** ¿Nota alguna desviación al sonreír?  
+**Paciente:** Sí, la sonrisa se dirige hacia la izquierda.  
+
+**Doctor:** ¿Se le cae saliva o tiene dificultad para retenerla?  
+**Paciente:** A veces se me escapa saliva cuando hablo.  
+
+**Doctor:** ¿Ha notado algún cambio en su habla?  
+**Paciente:** Sí, mi discurso suena un poco arrastrado.  
+
+**Doctor:** ¿Siente dolor detrás de la oreja?  
+**Paciente:** Un poco de molestia justo detrás de la oreja derecha.  
+
+**Doctor:** ¿Tiene alguna cefalea?  
+**Paciente:** He tenido un leve dolor de cabeza desde que empezó.  
+
+**Doctor:** ¿Siente adormecimiento o hormigueo en la cara?  
+**Paciente:** Un leve hormigueo en la mejilla derecha.  
+
+**Doctor:** ¿Tiene dolor de oído?  
+**Paciente:** Un poco de molestia, pero no mucho.  
+
+**Doctor:** ¿Ha notado cambios en la audición?  
+**Paciente:** Sí, parece que oigo un poco menos del lado derecho.  
+
+**Doctor:** ¿Le molestan los ruidos fuertes?  
+**Paciente:** Sí, los sonidos fuertes me resultan más irritantes.  
+
+**Doctor:** ¿Escucha zumbidos en los oídos?  
+**Paciente:** A veces percibo un zumbido leve.  
+
+**Doctor:** ¿Ha sentido mareos o vértigo?  
+**Paciente:** No, no he tenido mareos.  
+
+**Doctor:** ¿Ha tenido una infección de oído reciente?  
+**Paciente:** No, nada de eso.  
+
+**Doctor:** ¿Ha notado cambios en el gusto?  
+**Paciente:** El sabor parece más apagado.  
+
+**Doctor:** ¿Tiene ojo seco o menos lagrimeo?  
+**Paciente:** Sí, el ojo derecho está más seco de lo habitual.  
+
+**Doctor:** ¿Tiene la boca seca o exceso de saliva?  
+**Paciente:** La boca está seca, aunque a veces la saliva se escapa.  
+
+**Doctor:** ¿Ha notado vesículas en la lengua?  
+**Paciente:** No, mi lengua está normal.  
+
+**Doctor:** ¿Tiene debilidad en brazos o piernas?  
+**Paciente:** No, mis extremidades están bien.  
+
+**Doctor:** ¿Tiene dificultad para hablar? — (para confirmar)  
+**Paciente:** Como le dije, mi habla está un poco arrastrada.  
+
+**Doctor:** ¿Ve visión doble?  
+**Paciente:** No, mi visión está bien.  
+
+**Doctor:** ¿Tiene dificultad para caminar?  
+**Paciente:** No, puedo caminar sin problema.  
+
+**Doctor:** ¿Tiene dificultad para tragar?  
+**Paciente:** No, no hay problema para deglutir.  
+
+**Doctor:** ¿Ha tenido alguna pérdida de conciencia o convulsiones?  
+**Paciente:** Nunca.  
+
+**Doctor:** ¿Le cuesta comunicarse con los demás?  
+**Paciente:** A veces me cuesta que me entiendan bien.  
+
+**Doctor:** ¿Le afecta su visión diaria?  
+**Paciente:** No, solo el ojo está seco.  
+
+**Doctor:** ¿Afecta esto su trabajo o actividades sociales?  
+**Paciente:** Sí, me preocupa seguir enseñando y conversar con los padres.  
+
+**Doctor:** ¿Ha tenido un resfriado o fiebre recientemente?  
+**Paciente:** Sí, tuve un resfriado con fiebre hace una semana.  
+
+**Doctor:** ¿Ha estado expuesto a corrientes de aire frío?  
+**Paciente:** Sí, ayer por la tarde había mucho aire acondicionado.  
+
+**Doctor:** ¿Ha pasado por estrés intenso últimamente?  
+**Paciente:** Sí, los exámenes finales del colegio fueron bastante estresantes.  
+
+**Doctor:** ¿Ha sufrido algún golpe en la cabeza recientemente?  
+**Paciente:** No, nada de eso.  
+
+**Doctor:** ¿Se ha hecho algún tratamiento dental o cirugía recientemente?  
+**Paciente:** No, no he tenido procedimientos dentales.  
+
+**Doctor:** ¿Ha tenido fiebre?  
+**Paciente:** Sólo la tuve la semana pasada con el resfriado.  
+
+**Doctor:** ¿Se siente cansado o con malestar general?  
+**Paciente:** Sí, me siento algo fatigada.  
+
+**Doctor:** ¿Ha tenido parálisis facial anteriormente?  
+**Paciente:** No, es la primera vez.  
+
+**Doctor:** ¿Qué enfermedades ha padecido?  
+**Paciente:** Tengo hipertensión controlada y alergia estacional.  
+
+**Doctor:** ¿Ha tenido alguna cirugía importante?  
+**Paciente:** Hace diez años me operaron de apéndice.  
+
+**Doctor:** ¿Qué tratamiento está recibiendo actualmente?  
+**Paciente:** Estoy tomando antihipertensivos y una pomada para la alergia; nada más.  
+
+**Doctor:** ¿Qué medicamentos toma habitualmente?  
+**Paciente:** Los antihipertensivos y un suplemento de calcio.  
+
+**Doctor:** ¿Cuál es su ocupación?  
+**Paciente:** Soy profesora de primaria.  
+
+**Doctor:** ¿Fuma?  
+**Paciente:** No, nunca he fumado.  
+
+**Doctor:** ¿Consume alcohol?  
+**Paciente:** Sólo una copa de vino los fines de semana.  
+
+**Doctor:** ¿Consume alguna droga?  
+**Paciente:** No.  
+
+**Doctor:** ¿Ha recibido alguna vacuna recientemente?  
+**Paciente:** Sí, la vacuna antigripal hace un mes.  
+
+**Doctor:** ¿Hay antecedentes de parálisis facial en su familia?  
+**Paciente:** No que yo sepa.  
+
+**Doctor:** Gracias, María. Con toda esta información podré valorar mejor su cuadro y planificar el manejo adecuado. ¿Tiene alguna pregunta adicional?  
+
+**Paciente:** No, por ahora eso es todo. Gracias, doctor.
+
+

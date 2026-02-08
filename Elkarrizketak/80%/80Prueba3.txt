@@ -1,0 +1,85 @@
+Doctor: Hola, muy buenos días. Soy el Dr. Martínez, otorrinolaringólogo, y soy quien lo va a atender hoy. El objetivo de esta conversación es hacerle una serie de preguntas para conocer a fondo su problema y realizar una evaluación médica correcta. ¿Le parece bien?
+
+Paciente: Sí, doctor, de acuerdo.
+
+Doctor: Antes de empezar, ¿podría decirme su nombre completo y cuántos años tiene?
+
+Paciente: Me llamo Juan Carlos Pérez Gómez y tengo 52 años.
+
+Doctor: Muy bien, Juan Carlos. ¿Cuál es su estado civil y dónde reside actualmente?
+
+Paciente: Estoy casado y vivo aquí mismo, en el centro de la ciudad.
+
+Doctor: Perfecto. Ahora cuénteme, ¿qué es lo que le trae hoy a la consulta?
+
+Paciente: Pues mire, doctor, me he levantado con la cara como torcida y me he asustado mucho.
+
+Doctor: Entiendo. ¿A qué cree usted que se debe esto? ¿Lo asocia a algún evento o causa en particular?
+
+Paciente: La verdad es que no lo sé... quizá a que ayer estuve trabajando en el jardín y hacía mucho aire frío, o tal vez por el estrés que llevo últimamente en la oficina.
+
+Doctor: Comprendo. ¿Recuerda el momento exacto en que empezó? ¿Fue de forma repentina o lo ha notado progresivamente?
+
+Paciente: Fue ayer por la mañana, al despertarme. Fue de golpe, no tenía nada el día anterior.
+
+Doctor: Y desde ayer hasta hoy, ¿siente que el cuadro se mantiene estable o ha notado algún empeoramiento?
+
+Paciente: Yo diría que ha empeorado un poco; ayer podía mover algo más el labio.
+
+Doctor: ¿Le había ocurrido esto en alguna ocasión anterior?
+
+Paciente: No, es la primera vez.
+
+Doctor: Dígame, ¿qué lado de la cara siente que no puede mover?
+
+Paciente: El lado derecho.
+
+Doctor: ¿Tiene dificultad para cerrar el ojo de ese lado o para parpadear?
+
+Paciente: Sí, no puedo cerrarlo del todo, se me queda un poco abierto.
+
+Doctor: ¿Ha notado si la boca se le tuerce al intentar sonreír o si se le escapan los líquidos al beber?
+
+Paciente: Sí, la sonrisa se me va para el otro lado y cuando bebo agua se me sale un poco por la comisura derecha.
+
+Doctor: Entiendo. ¿Ha sentido algún dolor detrás de la oreja o dolor de cabeza estos días?
+
+Paciente: Me duele un poco por detrás del oído derecho, pero no he tenido jaqueca.
+
+Doctor: ¿Siente alguna sensación de hormigueo o acorchamiento en la piel de la cara?
+
+Paciente: Sí, noto la mejilla derecha como dormida, una sensación muy rara.
+
+Doctor: Con respecto al oído, ¿ha notado si escucha menos, si le molestan los sonidos fuertes o si tiene algún zumbido o pitido?
+
+Paciente: Oigo bien, pero sí que noto que los ruidos fuertes me molestan más de lo normal en ese oído. No tengo ruidos extraños.
+
+Doctor: ¿Ha tenido sensación de mareo, vértigo o inestabilidad al caminar?
+
+Paciente: No, para nada.
+
+Doctor: ¿Ha notado algún cambio en el sabor de las comidas o siente el ojo más seco de lo habitual?
+
+Paciente: La comida me sabe algo distinta, como a metal en la punta de la lengua. Y el ojo sí que me escuece bastante, como si estuviera seco.
+
+Doctor: Esto es muy importante: ¿ha notado debilidad en los brazos o en las piernas, visión doble o dificultad para tragar la comida?
+
+Paciente: No, de fuerza estoy bien y veo perfectamente. Al tragar tampoco he tenido problemas.
+
+Doctor: ¿Se ha sentido decaído o ha tenido fiebre recientemente?
+
+Paciente: Fiebre no, pero sí me siento un poco cansado y algo desanimado por verme así.
+
+Doctor: Es comprensible. ¿Padece alguna enfermedad crónica, toma alguna medicación habitual o lo han operado de algo importante?
+
+Paciente: Soy hipertenso y tomo una pastilla para la tensión. Solo me operaron de la vesícula hace cinco años.
+
+Doctor: ¿Se ha vacunado de algo en las últimas semanas?
+
+Paciente: Sí, de la gripe hace diez días.
+
+Doctor: Para terminar, ¿fuma o bebe alcohol con frecuencia? ¿Alguien en su familia ha sufrido alguna parálisis facial?
+
+Paciente: Fumo unos 10 cigarrillos al día y bebo algo de vino en las comidas. En mi familia no recuerdo que a nadie le haya pasado esto.
+
+Doctor: Muy bien, Juan Carlos. Con esta información ya tengo una idea clara. Ahora vamos a pasar a la camilla para realizar una exploración física detallada...

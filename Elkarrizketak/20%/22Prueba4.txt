@@ -1,0 +1,31 @@
+Médico: Hola, buenos días. Soy el Dr. García, el otorrinolaringólogo que le va a atender hoy.
+
+Paciente: Hola, doctor, buenos días.
+
+Médico: Antes de comenzar, le haré una serie de preguntas para conocer a fondo su problema; esta conversación es una parte esencial de su evaluación médica. Para empezar, ¿me indica su nombre completo?
+
+Paciente: Sí, me llamo Roberto Sanza.
+
+Médico: Muy bien, Roberto. ¿Qué edad tiene y cuál es su estado civil?
+
+Paciente: Tengo 42 años y estoy casado.
+
+Médico: ¿En qué localidad reside actualmente y a qué se dedica usted?
+
+Paciente: Vivo aquí en el centro y trabajo como informático en una oficina.
+
+Médico: Perfecto. Cuénteme, ¿qué es lo que le trae hoy a consultar con nosotros?
+
+Paciente: Pues mire, me he asustado mucho porque me he levantado con la mitad de la cara como paralizada, no puedo moverla bien.
+
+Médico: Entiendo. ¿A qué atribuye usted este problema? ¿Cree que tiene relación con algo que le haya pasado recientemente?
+
+Paciente: Pues ayer estuve caminando por la sierra y hacía un viento muy frío; yo pienso que igual se me ha "pasmo" la cara por el aire, pero no estoy seguro.
+
+Médico: ¿Recuerda el momento exacto en el que comenzó a notar esa falta de movimiento? ¿Qué día y a qué hora fue?
+
+Paciente: Ha sido hoy mismo, justo al despertarme, a eso de las 7:30 de la mañana.
+
+Médico: Por último, ¿qué lado de la cara es el que nota afectado, el derecho o el izquierdo?
+
+Paciente: Es el lado derecho, doctor.

@@ -1,0 +1,174 @@
+**Doctor:** Buen día, soy el doctor Martínez, otorrinolaringólogo, y seré quien lo atienda hoy.  
+**Doctor:** Voy a hacerle una serie de preguntas para conocer mejor lo que le ocurre y poder valorar su problema.  
+
+**Doctor:** Primero, ¿me dice su nombre completo, por favor?  
+**Paciente:** Me llamo Carlos Gómez Pérez.  
+
+**Doctor:** Gracias, Carlos. ¿Cuántos años tiene?  
+**Paciente:** Tengo 58 años.  
+
+**Doctor:** ¿Cuál es su estado civil?  
+**Paciente:** Estoy casado y vivo con mi esposa.  
+
+**Doctor:** ¿En qué ciudad o localidad reside actualmente?  
+**Paciente:** Vivo en la ciudad de Córdoba.  
+
+**Doctor:** ¿A qué se dedica?  
+**Paciente:** Soy jefe de obra en una empresa constructora, aunque recientemente estoy de baja por este problema.  
+
+**Doctor:** ¿Qué lo trae a consulta?  
+**Paciente:** Hace tres días noté que mi cara se quedó “floja” del lado izquierdo y no puedo cerrar bien el ojo.  
+
+**Doctor:** ¿Qué cree que pueda haber causado esto?  
+**Paciente:** Pensé que tal vez fue por el resfriado que tuve la semana pasada, o quizá por el estrés del trabajo.  
+
+**Doctor:** ¿Cuándo comenzó exactamente? ¿Recuerda el día y la hora en que notó el primer síntoma?  
+**Paciente:** Fue ayer, alrededor de las 7 de la noche, cuando me lavaba la cara.  
+
+**Doctor:** ¿El inicio fue repentino o progresivo?  
+**Paciente:** Fue bastante repentino, de la nada.  
+
+**Doctor:** Desde entonces, ¿ha notado alguna mejoría o empeoramiento, o se ha mantenido igual?  
+**Paciente:** Parece que se ha empeorado un poco; ahora también se me cae saliva al hablar.  
+
+**Doctor:** ¿Le ha ocurrido algo similar en el pasado?  
+**Paciente:** Sí, hace dos años tuve una parálisis facial que se resolvió en unas semanas.  
+
+**Doctor:** ¿Qué lado está afectado, el derecho o el izquierdo?  
+**Paciente:** El lado izquierdo.  
+
+**Doctor:** ¿Puede cerrar completamente el ojo de ese lado?  
+**Paciente:** No, me queda una abertura y a veces me pica.  
+
+**Doctor:** Cuando sonríe, ¿la boca se desvía hacia algún lado?  
+**Paciente:** Sí, la boca se inclina hacia la derecha.  
+
+**Doctor:** ¿Ha notado escape de saliva o baboseo al beber o al hablar?  
+**Paciente:** Sí, la saliva se me escapa con frecuencia.  
+
+**Doctor:** ¿Hay alguna alteración del habla, como dificultad para articular palabras?  
+**Paciente:** Hablo más arrastrado, pero entiendo que el problema es la posición de la boca.  
+
+**Doctor:** ¿Siente dolor detrás de la oreja o en la zona mastoidea?  
+**Paciente:** Sí, tengo una molestia retroauricular constante.  
+
+**Doctor:** ¿Tiene cefalea asociada?  
+**Paciente:** Un leve dolor de cabeza en la frente, pero no muy intenso.  
+
+**Doctor:** ¿Nota adormecimiento, hormigueo o pérdida de sensibilidad en la cara?  
+**Paciente:** Un ligero hormigueo en la zona afectada.  
+
+**Doctor:** ¿Tiene dolor de oído o alguna secreción (otorrea) en el oído izquierdo?  
+**Paciente:** No dolor, pero sí un poco de picor.  
+
+**Doctor:** ¿Ha notado pérdida de audición o que escucha menos en ese lado?  
+**Paciente:** Sí, me cuesta entender cuando hay ruido.  
+
+**Doctor:** ¿Le molestan los ruidos fuertes (hiperacusia)?  
+**Paciente:** Sí, los sonidos fuertes me resultan desagradables.  
+
+**Doctor:** ¿Escucha algún zumbido o pitido en el oído?  
+**Paciente:** Un leve zumbido intermitente.  
+
+**Doctor:** ¿Ha experimentado mareos, sensación de giro o inestabilidad al caminar?  
+**Paciente:** Un pequeño vértigo al levantarme rápido.  
+
+**Doctor:** ¿Ha tenido una otitis reciente?  
+**Paciente:** No, nada de infección reciente.  
+
+**Doctor:** ¿Ha notado algún cambio en el gusto de los alimentos?  
+**Paciente:** Sí, los sabores están más apagados.  
+
+**Doctor:** ¿Presenta sequedad ocular o disminución del lagrimeo?  
+**Paciente:** Mis ojos están secos, y a veces me pica.  
+
+**Doctor:** ¿Ha notado alguna alteración de la salivación, como boca seca o exceso de saliva?  
+**Paciente:** La boca está más seca, aunque cuando hablo se me escapa saliva.  
+
+**Doctor:** ¿Ha visto alguna vesícula o ampolla en la lengua?  
+**Paciente:** No, mi lengua está normal.  
+
+**Doctor:** ¿Tiene debilidad en los brazos o piernas?  
+**Paciente:** No, mis extremidades están bien.  
+
+**Doctor:** ¿Algún trastorno del lenguaje, como dificultad para formar palabras?  
+**Paciente:** Solo la forma de la boca al hablar, pero no problemas de articulación.  
+
+**Doctor:** ¿Alguna alteración visual como visión doble?  
+**Paciente:** No.  
+
+**Doctor:** ¿Dificultad para caminar o pérdida de coordinación?  
+**Paciente:** No, camino normalmente.  
+
+**Doctor:** ¿Tiene dificultad para tragar (disfagia) o tos al comer?  
+**Paciente:** No, puedo tragar sin problema.  
+
+**Doctor:** ¿Ha tenido pérdida de conciencia o convulsiones?  
+**Paciente:** Ninguno de esos episodios.  
+
+**Doctor:** ¿Cómo afecta esto a su habla en la vida diaria?  
+**Paciente:** Mis colegas a veces no me entienden bien.  
+
+**Doctor:** ¿Los ojos secos le generan molestias durante el día?  
+**Paciente:** Sí, me irritan y a veces me duele.  
+
+**Doctor:** ¿Este problema ha influido en su actividad laboral o social?  
+**Paciente:** He tenido que tomar baja del trabajo y evitar reuniones, lo que me preocupa.  
+
+**Doctor:** ¿Tuvo algún resfriado o infección viral reciente?  
+**Paciente:** Sí, una gripe hace una semana.  
+
+**Doctor:** ¿Ha estado expuesto a frío o corrientes de aire últimamente?  
+**Paciente:** Sí, tuve que trabajar en un sitio con mucho aire acondicionado.  
+
+**Doctor:** ¿Ha pasado por estrés intenso recientemente?  
+**Paciente:** Mucho, el proyecto de la obra está bajo presión.  
+
+**Doctor:** ¿Sufrió algún traumatismo craneoencefálico, como golpes o caídas?  
+**Paciente:** No, nada de eso.  
+
+**Doctor:** ¿Ha tenido procedimientos dentales o alguna cirugía reciente?  
+**Paciente:** Me hicieron una extracción de muela hace dos meses.  
+
+**Doctor:** ¿Ha presentado fiebre en los últimos días?  
+**Paciente:** No, la temperatura ha estado normal.  
+
+**Doctor:** ¿Ha sentido malestar general, cansancio o decaimiento?  
+**Paciente:** Sí, me siento algo fatigado y con poca energía.  
+
+**Doctor:** ¿Ha tenido parálisis facial antes?  
+**Paciente:** Sí, como mencioné, hace dos años.  
+
+**Doctor:** ¿Qué enfermedades ha padecido a lo largo de su vida?  
+**Paciente:** Hipertensión arterial y una diabetes tipo 2 desde hace 5 años.  
+
+**Doctor:** ¿Ha sido intervenido quirúrgicamente en alguna ocasión relevante?  
+**Paciente:** Solo la extracción de la muela que le comenté.  
+
+**Doctor:** ¿Qué tratamientos está recibiendo actualmente para este problema?  
+**Paciente:** Desde que apareció, no he tomado nada, pero el médico anterior me recetó corticoides y fisioterapia, aunque no los he iniciado.  
+
+**Doctor:** ¿Qué medicación suele tomar de forma habitual?  
+**Paciente:** Metformina para la diabetes y enalapril para la presión.  
+
+**Doctor:** ¿Cuál es su profesión y está expuesto a algún riesgo laboral?  
+**Paciente:** Soy jefe de obra, a menudo estoy expuesto a ruidos intensos, polvo y vibraciones.  
+
+**Doctor:** ¿Fuma o ha fumado alguna vez?  
+**Paciente:** No fumo.  
+
+**Doctor:** ¿Consume alcohol?  
+**Paciente:** Tomo cerveza los fines de semana, una o dos botellas.  
+
+**Doctor:** ¿Usa drogas recreativas?  
+**Paciente:** No.  
+
+**Doctor:** ¿Se ha vacunado recientemente, por ejemplo contra la gripe o COVID‑19?  
+**Paciente:** Sí, me vacuné contra la gripe hace tres meses y completé el esquema de COVID‑19.  
+
+**Doctor:** ¿Alguien en su familia ha tenido parálisis facial o trastornos neurológicos?  
+**Paciente:** No, ninguno.  
+
+**Doctor:** Gracias por la información, Carlos. Con base en todo lo que me ha comentado, vamos a realizar una evaluación completa y, probablemente, iniciar el tratamiento con 
+corticoides y fisioterapia lo antes posible. ¿Tiene alguna duda o algo más que quiera comentar?  
+**Paciente:** No, doctor. Gracias por la atención.
