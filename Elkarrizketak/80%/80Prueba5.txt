@@ -1,0 +1,169 @@
+Médico: Buenos días, soy el Dr. Marín. Pase. Le voy a hacer unas preguntas para valorar su caso y ver qué tratamiento necesita.
+Paciente: Gracias, doctor.
+Médico: Para la ficha, confírmeme su nombre, edad, estado civil y dónde vive.
+Paciente: Carlos Ruiz, 42 años, casado, vivo en Madrid.
+Médico: ¿En qué trabaja usted, Carlos?
+Paciente: Soy taxista.
+Médico: Cuénteme, ¿qué le pasa y a qué cree que se debe?
+Paciente: Pues tengo la boca torcida. Creo que es del aire acondicionado del taxi.
+Médico: ¿Cuándo empezó exactamente y cómo fue, brusco o lento?
+Paciente: Esta mañana a las 8. Fue de golpe al mirarme al espejo.
+Médico: ¿Ha notado mejoría, ha ido a peor o está igual?
+Paciente: Sigue igual, no ha cambiado.
+Médico: ¿Le había pasado esto alguna vez antes? Paciente: No, nunca.
+Médico: Vamos a revisar síntomas. ¿Le cuesta cerrar el ojo o nota que se le cae la baba?
+Paciente: El ojo no me cierra bien y sí, se me escapa un poco la saliva.
+Médico: ¿Nota cambios en el gusto o el ojo seco?
+Paciente: La comida me sabe rara y el ojo me pica de seco.
+Médico: Dígame si tiene dolor detrás de la oreja o dolor de cabeza.
+Paciente: Sí, dolor detrás de la oreja tengo.
+Médico: Sobre el oído: ¿Oye menos, tiene zumbidos o se marea (vértigo)?
+Paciente: Oigo un pitido y estoy un poco mareado, pero oigo bien.
+Médico: ¿Le molestan los ruidos fuertes?
+Paciente: Sí, bastante.
+Médico: Importante para descartar gravedad: ¿Tiene fuerza en brazos y piernas? Levántelos.
+Paciente: (Los levanta) Sí, tengo fuerza.
+Médico: ¿Le cuesta tragar comida o le cuesta hablar?
+Paciente: Tragar no, pero hablar sí, vocalizo mal.
+Médico: ¿Camina bien? ¿Ve doble?
+Paciente: Camino bien y veo bien.
+Médico: Sobre las causas: ¿Ha tenido fiebre o malestar general tipo gripe estos días?
+Paciente: No, nada de fiebre.
+Médico: Aparte del aire, ¿ha tenido mucho estrés, algún golpe o ha ido al dentista hace poco?
+Paciente: Estrés sí, mucho tráfico. Golpes y dentista no.
+Médico: ¿Cómo le afecta esto para trabajar con el taxi?
+Paciente: Pues imagínese, no puedo trabajar así de cara al público.
+Médico: Para terminar. ¿Algún familiar ha tenido parálisis facial?
+Paciente: No que yo sepa.
+Médico: ¿Tiene enfermedades, alergias o toma medicación?
+Paciente: Estoy sano, no tomo nada.
+Médico: ¿Fuma o bebe alcohol?
+Paciente: No fumo. Bebo cerveza los fines de semana.
+Médico: Muy bien. Es una parálisis periférica por el frío y el estrés. Le daré tratamiento.
+
+PUNTUACIÓN
+
+gpt-oss:120b --> 78p
+
+## Evaluación del segundo diálogo (puntuación total = 78 de 100)
+
+| Criterio | Puntos obtenidos | Puntos posibles | Comentario breve |
+|----------|------------------|----------------|------------------|
+| **1. Se presenta e indica el motivo de la entrevista** | **5 / 5** | 5 | Se identifica y explica claramente el objetivo de la consulta. |
+| **2. Identifica al paciente y obtiene datos de filiación** | **5 / 5** | 5 | Recoge nombre, edad, estado civil, residencia y ocupación. |
+| **3. Pregunta por motivo de consulta y a qué lo atribuye** | **6 / 6** | 6 | Pregunta abierta y explora la atribución del paciente. |
+| **4. Inicio y evolución temporal del cuadro y episodios similares** | **10 / 10** | 10 | Pregunta fecha/hora, forma de inicio, evolución y antecedentes de episodios
+previos. |
+| **5. Pregunta por signos y síntomas faciales** | **5 / 8** | 8 | Cierra el ojo (2 pts) y baboseo (2 pts) y habla (1 pt). No indaga lateralidad ni simetría de la
+sonrisa. |
+| **6. Síntomas sensitivos faciales** | **5 / 7** | 7 | Dolor retro‑auricular (3 pts) y cefalea (2 pts). No pregunta alteraciones de la sensibilidad facial. |
+| **7. Síntomas otológicos y ORL** | **7 /10** |10| Pregunta hipoacusia (3 pts), hiperacusia (1 pt), acúfenos (1 pt) y vértigo (2 pts). No explora otalgia ni otitis
+reciente. |
+| **8. Otros síntomas por afectación del nervio facial** | **6 / 7** | 7| Gusto (2 pts), ojo seco (2 pts) y alteración de la salivación (2 pts). No pregunta vesículas en
+la lengua. |
+| **9. Síntomas neurológicos asociados (red‑flags)** | **9 /10** |10| Déficit motor (3 pts), trastorno del lenguaje (2 pts), alteraciones visuales (1 pt), marcha (1 pt),
+disfagia (2 pts). No se indaga nivel de conciencia o convulsiones. |
+| **10. Repercusión funcional / calidad de vida** | **1 / 3** | 3| Sólo se pregunta impacto laboral (1 pt). No se explora impacto del habla ni de la visión. |
+| **11. Factores desencadenantes / precipitantes** | **2 / 6** | 6| Estrés (1 pt) y exposición dental (1 pt). No se pregunta infección viral, exposición al frío,
+traumatismo. |
+| **12. Síntomas generales** | **4 / 4** | 4| Fiebre y malestar general preguntados. |
+| **13. Antecedentes personales** | **7 / 7** | 7| Episodios previos de parálisis (3 pts) y enfermedades previas (4 pts). |
+| **14. Tratamientos, cirugías y medicación** | **1 / 5** | 5| Sólo se pregunta medicación crónica (1 pt). No se indagan cirugías previas ni tratamientos en curso. |
+| **15. Contexto social, laboral, hábitos y antecedentes familiares** | **5 / 7** | 7| Profesión (1 pt), tabaco (1 pt), alcohol (1 pt) y antecedentes familiares (2 pts).
+Falta preguntar drogas, vacunas y exposiciones laborales específicas. |
+| **TOTAL** | **78 / 100** | 100 | **78 %** |
+
+qwen3-vl:235b --> 80p
+
+1. **Se presenta e indica el motivo de la entrevista**
+   - **Puntos obtenidos: 5/5**
+   - El médico se identifica claramente ("soy el Dr. Marín") y explica el propósito de la entrevista ("hacer preguntas para valorar su caso y ver qué tratamiento
+necesita").
+
+2. **Identifica al paciente y obtiene datos de filiación**
+   - **Puntos obtenidos: 5/5**
+   - Pregunta nombre, edad, estado civil, residencia y ocupación (taxista), cubriendo todos los subpuntos.
+
+3. **Pregunta por Motivo de consulta y a qué lo atribuye**
+   - **Puntos obtenidos: 6/6**
+   - Hace una pregunta abierta ("¿qué le pasa?") y explora la causa percibida por el paciente ("¿a qué cree que se debe?").
+
+4. **Pregunta por Inicio y evolución temporal del cuadro**
+   - **Puntos obtenidos: 10/10**
+   - Explora fecha exacta de inicio ("esta mañana a las 8"), forma de inicio (brusco), evolución (estable) y episodios previos (nunca).
+
+5. **Pregunta por signos y síntomas**
+   - **Puntos obtenidos: 5/8**
+   - **Aciertos:**
+     - Cierre palpebral (2 puntos): "¿Le cuesta cerrar el ojo?".
+     - Baboseo (2 puntos): "¿nota que se le cae la baba?".
+     - Alteración del habla (1 punto): "¿le cuesta hablar?".
+   - **Errores:**
+     - No pregunta explícitamente sobre lateralidad (unilateral/bilateral) ni simetría de la sonrisa, aunque el paciente menciona "boca torcida" sin ser preguntado.
+
+6. **Pregunta por signos y síntomas sensitivos faciales**
+   - **Puntos obtenidos: 5/7**
+   - **Aciertos:**
+     - Dolor retroauricular (3 puntos): "¿dolor detrás de la oreja?".
+     - Cefalea (2 puntos): "¿dolor de cabeza?".
+   - **Error:**
+     - No explora alteraciones de la sensibilidad facial (ej.: hormigueo o adormecimiento).
+
+7. **Pregunta por Síntomas otológicos y ORL**
+   - **Puntos obtenidos: 7/10**
+   - **Aciertos:**
+     - Hipoacusia (3 puntos): "¿Oye menos?".
+     - Hiperacusia (1 punto): "¿Le molestan los ruidos fuertes?".
+     - Acúfenos (1 punto): "¿tiene zumbidos?".
+     - Vértigo (2 puntos): "¿se marea?".
+   - **Errores:**
+     - No indaga otalgia/otorrea ni otitis reciente.
+
+8. **Pregunta por otros síntomas por afectación del nervio facial**
+   - **Puntos obtenidos: 4/7**
+   - **Aciertos:**
+     - Alteración del gusto (2 puntos): "¿nota cambios en el gusto?".
+     - Sequedad ocular (2 puntos): "¿el ojo seco?".
+   - **Errores:**
+     - No explora alteración de la salivación ni vesículas en la lengua.
+
+9. **Pregunta por Síntomas neurológicos asociados (Red flags)**
+   - **Puntos obtenidos: 9/10**
+   - **Aciertos:**
+     - Déficit motor (3 puntos), trastornos del lenguaje (2), alteraciones visuales (1), trastorno de marcha (1), disfagia (2).
+   - **Error:**
+     - No pregunta por alteración del nivel de conciencia o convulsiones.
+
+10. **Repercusión funcional social y calidad de vida**
+    - **Puntos obtenidos: 1/3**
+    - **Acierto:**
+      - Impacto laboral ("¿cómo le afecta para trabajar?").
+    - **Errores:**
+      - No explora impacto en la visión ni en la comunicación verbal.
+
+11. **Factores desencadenantes y precipitantes**
+    - **Puntos obtenidos: 6/6**
+    - Cubre infección viral (fiebre), frío (aire acondicionado), estrés, traumatismo y procedimientos dentales.
+
+12. **Síntomas generales**
+    - **Puntos obtenidos: 4/4**
+    - Pregunta por fiebre y malestar general.
+
+13. **Antecedentes personales**
+    - **Puntos obtenidos: 7/7**
+    - Explora episodios previos de parálisis facial y enfermedades generales.
+
+14. **Tratamientos, cirugías y medicación**
+    - **Puntos obtenidos: 1/5**
+    - **Acierto:**
+      - Medicación crónica ("¿toma medicación?").
+    - **Errores:**
+      - No indaga cirugías previas ni tratamientos actuales (ej.: corticoides).
+
+15. **Contexto social, laboral y hábitos + antecedentes familiares**
+    - **Puntos obtenidos: 5/7**
+    - **Aciertos:**
+      - Ocupación, tabaco, alcohol, antecedentes familiares.
+    - **Errores:**
+      - No pregunta por consumo de drogas ni vacunas recientes.
+
