@@ -1,0 +1,743 @@
+urkibiris@vivobooks:~$ ollama run gemma3:12b
+>>> """
+Te voy a mandar unos criterios que sirven para evaluar como de correctamente sigue un medico su protocolo a la hora de consultar a un paciente. Junto con los criterios, te voy a mandar una conversacion entre un medico y un paciente.
+Basandote en los criterios, quiero que me evalues la puntuación que consigue el medico en esta conversación.
+  Criterios: {
+    "Se presenta e indica el motivo de la entrevista": {
+      "Puntos totales": 5,
+      "Subpuntos": {
+        "Se presenta al paciente": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Dice su nombre y rol profesional.",
+            "Se identifica como otorrinolaringólogo.",
+            "Saluda indicando quién es.",
+            "Expresa 'soy quien lo va a atender hoy'.",
+            "Se presenta antes de iniciar la anamnesis."
+          ]
+        },
+        "Explica el motivo de la entrevista": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Explica que hará preguntas para conocer el problema.",
+            "Indica que la entrevista es parte de la evaluación médica.",
+            "Justifica el interrogatorio clínico.",
+            "Señala que busca entender lo que le ocurre.",
+            "Comunica el objetivo de la conversación."
+          ]
+        }
+      }
+    },
+    "Identifica al paciente y obtiene datos de filiación": {
+      "Puntos totales": 5,
+      "Subpuntos": {
+        "Pregunta el Nombre al paciente": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta nombre completo.",
+            "Pregunta cómo prefiere ser llamado.",
+            "Confirma identidad verbal.",
+            "Solicita nombre antes de continuar.",
+            "Verifica identidad del paciente."
+          ]
+        },
+        "Pregunta su edad": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta cuantos años tiene",
+            "Pregunta edad actual.",
+            "Solicita fecha de nacimiento.",
+            "Confirma años cumplidos."
+          ]
+        },
+        "Estado civil": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta estado civil.",
+            "Indaga si vive solo o acompañado.",
+            "Explora situación conyugal.",
+            "Pregunta por pareja estable.",
+            "Indaga contexto familiar."
+          ]
+        },
+        "Procedencia / residencia": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta dónde vive.",
+            "Indaga ciudad o localidad.",
+            "Explora lugar de residencia actual.",
+            "Pregunta procedencia.",
+            "Indaga origen geográfico."
+          ]
+        },
+        "Ocupación": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Trabaja",
+            "Esta Jubilado",
+            "Está de baja"
+          ]
+        }
+      }
+    },
+    "Pregunta por Motivo de consulta y a que lo atribuye": {
+      "Puntos totales": 6,
+      "Subpuntos": {
+        "Pregunta abierta por el motivo de consulta": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "¿Qué lo trae a consultar?",
+            "Cuénteme qué le pasa.",
+            "Por que viene a la consulta",
+            "Por que le ha enviado su médico a la consulta"
+          ]
+        },
+        "A qué atribuye el paciente el problema": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Cual piensa que es la causa",
+            "Pregunta qué cree que le ocurrió.",
+            "Que explicación le da a lo que le pasa",
+            "Pregunta si lo asocia a algo.",
+            "Le pregunta con que puede estar relacionado"
+          ]
+        }
+      }
+    },
+    "Pregunta por Inicio y evolución temporal del cuadro y episodios similares": {
+      "Puntos totales": 10,
+      "Subpuntos": {
+        "Fecha y hora exacta de inicio": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Pregunta cuándo comenzó.",
+            "Desde cuando le pasa",
+            "Explora momento exacto.",
+            "Pregunta si recuerda el día y la hora cuando empezó.",
+            "Pregunta cuánto tiempo lleva así"
+          ]
+        },
+        "Forma de inicio: brusco / progresivo": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Comenzó repentina o progresivamente",
+            "Indaga inicio súbito.",
+            "Explora progresión gradual."
+          ]
+        },
+        "Evolución: estable / mejoría / empeoramiento": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta si ha mejorado o empeorado.",
+            "Indaga mejorado o empeoramiento.",
+            "Explora estabilidad.",
+            "Determina tendencia clínica a mejora o empeoramiento"
+          ]
+        },
+        "Episodios previos similares": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Pregunta si le pasó antes.",
+            "Indaga antecedentes similares.",
+            "Explora recurrencias.",
+            "Pregunta por parálisis previas.",
+            "Indaga episodios repetidos."
+          ]
+        }
+      }
+    },
+    "Pregunta por signos y síntomas": {
+      "Puntos totales": 8,
+      "Subpuntos": {
+        "Lateralidad: unilateral / bilateral": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta qué lado está afectado.",
+            "Indaga si es un solo lado.",
+            "Explora compromiso bilateral.",
+            "Pregunta derecha o izquierda.",
+            "Determina distribución facial."
+          ]
+        },
+        "Pregunta si puede cerrar el ojo": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Cierre palpebral",
+            "Indaga dificultad para parpadear.",
+            "Pregunta cierre incompleto."
+          ]
+        },
+        "Pregunta por Simetría de la sonrisa": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta si la boca está desviada.",
+            "Indaga dificultad para sonreír.",
+            "Pregunta si la boca se tuerce.",
+            "Indaga alteración al reír."
+          ]
+        },
+        "Baboseo / escape de líquidos": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta si se le cae saliva.",
+            "Indaga escape al beber.",
+            "Pregunta si puede cerrar la boca",
+            "Pregunta pérdida de líquidos.",
+            "Indaga dificultad para retener saliva."
+          ]
+        },
+        "Alteración del habla": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta si habla distinto.",
+            "Indaga dificultad para articular.",
+            "Explora cambios en pronunciación.",
+            "Indaga alteración del habla."
+          ]
+        }
+      }
+    },
+    "Pregunta por signos y síntomas sensitivos faciales": {
+      "Puntos totales": 7,
+      "Subpuntos": {
+        "Dolor retroauricular": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Pregunta por dolores en cabeza o cuello",
+            "Pregunta por dolor detrás de la oreja.",
+            "Indaga molestia en región mastoidea.",
+            "Indaga dolor cerca del oído."
+          ]
+        },
+        "Cefalea asociada": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta dolor de cabeza.",
+            "Indaga cefalea concomitante.",
+            "Explora cefalea reciente.",
+            "Pregunta presión craneana.",
+            "Pregunta jaqueca.",
+            "Indaga dolor cefálico."
+          ]
+        },
+        "Alteraciones de la sensibilidad facial": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta adormecimiento facial.",
+            "Indaga hormigueo.",
+            "Explora pérdida de sensibilidad.",
+            "Pregunta sensación rara en la cara.",
+            "Pregunta por sensación de acorchamiento en la cara"
+          ]
+        }
+      }
+    },
+    "Pregunta por Síntomas otológicos y ORL": {
+      "Puntos totales": 10,
+      "Subpuntos": {
+        "Otalgia/otorrea": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta dolor de oído.",
+            "Indaga secreción por el oído.",
+            "Pregunta molestias otológicas. Picor",
+            "Pregunta supuración auricular.",
+            "Indaga infección del oído."
+          ]
+        },
+        "Hipoacusia": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Pregunta si escucha menos.",
+            "Ha notado cambios en la audición.",
+            "Ha notado pérdida auditiva",
+            "Ha notado hipoacusia",
+            "Ha notado sordera",
+            "Le cuesta entender lo que escucha"
+          ]
+        },
+        "Hiperacusia": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Indaga aumento de sensibilidad a ruidos",
+            "Pregunta si le molestan lo sonidos fuertes",
+            "Le molestan los ruidos intensos"
+          ]
+        },
+        "Acúfenos": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta zumbidos.",
+            "Indaga pitidos.",
+            "Explora ruidos en el oído.",
+            "Pregunta sonidos persistentes.",
+            "Indaga tinnitus."
+          ]
+        },
+        "Vértigo o inestabilidad": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta mareos.",
+            "Indaga sensación de giro.",
+            "Explora inestabilidad al caminar.",
+            "Pregunta pérdida de equilibrio.",
+            "Indaga vértigo.",
+            "Indaga inestabilidad"
+          ]
+        },
+        "Otitis reciente": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta infección de oído reciente.",
+            "Indaga tratamiento por otitis.",
+            "Explora antecedentes otológicos recientes.",
+            "Pregunta dolor/infección previa.",
+            "Indaga cuadro infeccioso auricular."
+          ]
+        }
+      }
+    },
+    "Pregunta por otros Síntomas por afectación del nervio facial": {
+      "Puntos totales": 7,
+      "Subpuntos": {
+        "Alteración del gusto": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta cambio en el gusto.",
+            "Indaga disminución de sabores.",
+            "Explora pérdida del gusto.",
+            "Pregunta sabor metálico."
+          ]
+        },
+        "Sequedad ocular menos lagrimeo": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta ojo seco.",
+            "Indaga variación en el lagrimeo.",
+            "Explora irritación ocular.",
+            "Indaga molestias oculares.",
+            "Indaga escozor ocular",
+            "Indaga picor ocular"
+          ]
+        },
+        "Alteración de la salivación": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta boca seca.",
+            "Indaga exceso de saliva.",
+            "Explora cambios salivales.",
+            "Pregunta dificultad con la saliva.",
+            "Indaga hiposalivación o hipersalivación."
+          ]
+        },
+        "Ha notado algo en la lengua le han salido vesículas": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Ha cambiado el aspecto de la lengua",
+            "Le pica la lengua",
+            "Le han salido ampollas en la lengua",
+            "Tiene granos en la lengua"
+          ]
+        }
+      }
+    },
+    "Pregunta por Síntomas neurológicos asociados  Red flags": {
+      "Puntos totales": 10,
+      "Subpuntos": {
+        "Déficit motor en extremidades": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Pregunta debilidad en brazos o piernas.",
+            "Indaga pérdida de fuerza.",
+            "Pregunta dificultad para mover extremidades.",
+            "Indaga dificultad motora periférica o central."
+          ]
+        },
+        "Trastornos del lenguaje": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta dificultad para hablar.",
+            "Indaga problemas de expresión.",
+            "Explora lenguaje incoherente.",
+            "Pregunta dificultad para comunicarse."
+          ]
+        },
+        "Alteraciones visuales": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta visión doble.",
+            "Indaga pérdida visual.",
+            "Explora visión borrosa.",
+            "Pregunta alteraciones visuales súbitas.",
+            "Indaga compromiso visual neurológico."
+          ]
+        },
+        "Trastorno de la marcha o coordinación": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta dificultad para caminar.",
+            "Indaga inestabilidad.",
+            "Explora torpeza motora.",
+            "Pregunta caídas recientes.",
+            "Indaga coordinación alterada."
+          ]
+        },
+        "Disfagia": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta dificultad para tragar.",
+            "Indaga atragantamiento.",
+            "Pregunta tos al comer.",
+            "Indaga deglución alterada.",
+            "Pregunta dificultad para comer.",
+            "Indaga problemas al masticar."
+          ]
+        },
+        "Alteración del nivel de conciencia o convulsiones": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta pérdida de conciencia.",
+            "Indaga convulsiones.",
+            "Explora desorientación.",
+            "Pregunta episodios de desconexión.",
+            "Indaga compromiso neurológico agudo."
+          ]
+        }
+      }
+    },
+    "Pregunta por la Repercusión funcional social y calidad de vida": {
+      "Puntos totales": 3,
+      "Subpuntos": {
+        "Impacto en el habla": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Indaga problemas comunicativos.",
+            "Explora impacto funcional del habla.",
+            "Pregunta si otros lo entienden.",
+            "Indaga limitación verbal."
+          ]
+        },
+        "Visión / ojo seco": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Explora dificultad visual diaria.",
+            "Pregunta visión borrosa por ojo.",
+            "Indaga impacto ocular."
+          ]
+        },
+        "Actividad laboral o social": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta si afecta su trabajo.",
+            "Indaga limitaciones sociales.",
+            "Explora ausentismo laboral.",
+            "Pregunta impacto en la rutina.",
+            "Indaga calidad de vida."
+          ]
+        }
+      }
+    },
+    "Pregunta por posibles Factores desencadenantes y precipitantes": {
+      "Puntos totales": 6,
+      "Subpuntos": {
+        "Infección viral reciente": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta resfrío reciente.",
+            "Indaga cuadro gripal.",
+            "Explora infección viral previa.",
+            "Pregunta fiebre reciente.",
+            "Indaga herpes u otros virus.",
+            "Pregunta por Covid"
+          ]
+        },
+        "Exposición a frío o corrientes de aire": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta exposición a frío.",
+            "Indaga corrientes de aire.",
+            "Explora aire acondicionado.",
+            "Pregunta cambios térmicos.",
+            "Indaga frío intenso reciente."
+          ]
+        },
+        "Estrés intenso": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta estrés reciente.",
+            "Indaga situación emocional intensa.",
+            "Explora carga psicológica.",
+            "Pregunta evento estresante.",
+            "Indaga estrés agudo."
+          ]
+        },
+        "Traumatismo craneoencefálico": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta golpes recientes.",
+            "Indaga caídas.",
+            "Explora accidentes.",
+            "Pregunta traumatismos.",
+            "Indaga Traumatismo Craneoencefálico"
+          ]
+        },
+        "Procedimientos dentales o cirugía reciente": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta tratamientos dentales.",
+            "Indaga cirugías recientes.",
+            "Explora procedimientos faciales.",
+            "Pregunta intervenciones médicas.",
+            "Indaga manipulaciones recientes."
+          ]
+        }
+      }
+    },
+    "Pregunta por Síntomas generales": {
+      "Puntos totales": 4,
+      "Subpuntos": {
+        "Fiebre": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta temperatura elevada.",
+            "Indaga fiebre reciente.",
+            "Explora febrícula.",
+            "Pregunta escalofríos.",
+            "Indaga cuadro febril."
+          ]
+        },
+        "Malestar general": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta decaimiento.",
+            "Indaga cansancio.",
+            "Explora astenia.",
+            "Pregunta sensación de enfermedad.",
+            "Indaga malestar sistémico."
+          ]
+        }
+      }
+    },
+    "Pregunta por Antecedentes personales": {
+      "Puntos totales": 7,
+      "Subpuntos": {
+        "Episodios previos de parálisis facial": {
+          "PuntosPregunta": 3,
+          "EquivalenciasValidas": [
+            "Pregunta parálisis anteriores.",
+            "Indaga episodios previos.",
+            "Explora recurrencias.",
+            "Preguntas antecedentes similares.",
+            "Indaga historia previa."
+          ]
+        },
+        "Enfermedades que ha padecido": {
+          "PuntosPregunta": 4,
+          "EquivalenciasValidas": [
+            "Pregunta enfermedades",
+            "Ha estado malo anteriormente",
+            "Ha sido ingresado",
+            "Por que motivos ha acudido al medico",
+            "Explora enfermedad metabólica."
+          ]
+        }
+      }
+    },
+    "Pregunta por Tratamientos, cirugías y medicación": {
+      "Puntos totales": 5,
+      "Subpuntos": {
+        "Cirugías previas relevantes": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta cirugías previas.",
+            "Indaga operaciones importantes.",
+            "Explora antecedentes quirúrgicos.",
+            "Pregunta intervenciones previas.",
+            "Indaga cirugías relevantes."
+          ]
+        },
+        "Tratamientos actuales": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "¿Tratamiento recibido (corticoides, antivirales, fisioterapia)?",
+            "Pregunta tratamientos en curso.",
+            "Indaga terapias actuales.",
+            "Explora manejo médico actual.",
+            "Pregunta controles médicos.",
+            "Indaga seguimiento clínico."
+          ]
+        },
+        "Medicación reciente o crónica": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta medicamentos habituales.",
+            "Indaga fármacos recientes.",
+            "Explora automedicación.",
+            "Pregunta tratamientos crónicos.",
+            "Indaga consumo farmacológico."
+          ]
+        }
+      }
+    },
+    "Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares": {
+      "Puntos totales": 7,
+      "Subpuntos": {
+        "Profesión y exposiciones laborales": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta ocupación.",
+            "Indaga riesgos laborales.",
+            "Explora exposición a frío, vibraciones ruidos intensos o tóxicos.",
+            "Pregunta condiciones de trabajo.",
+            "Indaga ambiente laboral."
+          ]
+        },
+        "Tabaco": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta si fuma.",
+            "Indaga consumo tabáquico.",
+            "Explora hábito de fumar.",
+            "Pregunta cantidad diaria.",
+            "Indaga antecedente tabaco."
+          ]
+        },
+        "Alcohol": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta consumo de alcohol.",
+            "Indaga frecuencia alcohólica.",
+            "Explora ingesta habitual.",
+            "Pregunta consumo social.",
+            "Indaga abuso alcohólico."
+          ]
+        },
+        "Drogas": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta consumo de drogas.",
+            "Indaga sustancias ilícitas.",
+            "Explora uso recreativo.",
+            "Pregunta drogas actuales.",
+            "Indaga antecedente de consumo."
+          ]
+        },
+        "Vacunas": {
+          "PuntosPregunta": 1,
+          "EquivalenciasValidas": [
+            "Pregunta Vacunación reciente"
+          ]
+        },
+        "Antecedentes familiares neurológicos o parálisis facial": {
+          "PuntosPregunta": 2,
+          "EquivalenciasValidas": [
+            "Pregunta parálisis facial en la familia.",
+            "Indaga antecedentes neurológicos familiares.",
+            "Explora historia familiar.",
+            "Pregunta enfermedades hereditarias.",
+            "Indaga antecedentes familiares relevantes."
+          ]
+        }
+      }
+    }
+  }
+...
+  Dialogos:
+  Médico: Pase y siéntese. Cuénteme, ¿qué es lo que le trae por aquí? Paciente: Buenos días. Pues mire, estoy asustado porque esta mañana me he levantado y me he notado la cara rara, como caída.
+...
+  Médico: Entiendo. ¿Y esto ha empezado hoy mismo entonces? Paciente: Sí, al mirarme al espejo para afeitarme a las 8 de la mañana.
+...
+  Médico: A ver, déjeme mirarle. Veo que es solo en el lado derecho, ¿verdad? Paciente: Sí, el izquierdo lo muevo bien.
+...
+  Médico: Intente hacer una cosa: cierre los ojos con fuerza. Paciente: El derecho no puedo cerrarlo del todo, se me queda abierto.
+...
+  Médico: Vale. Ahora intente enseñarme los dientes, sonría. Paciente: (Lo intenta) Se me va la boca para el otro lado.
+...
+  Médico: Bien. Dígame una cosa, ¿usted tiene alguna enfermedad importante? ¿Diabetes, corazón? Paciente: Bueno, tuve una arritmia hace años, pero estoy bien.
+...
+  Médico: ¿Toma alguna medicación para eso ahora mismo? Paciente: Sí, tomo una pastilla por las mañanas.
+...
+  Médico: De acuerdo. Una última cosa, levante los brazos. ¿Nota que haya perdido fuerza en los brazos o en las piernas? Paciente: No, no, de fuerza estoy bien, solo es la cara.
+...
+  Médico: Muy bien. Parece una parálisis facial periférica. Le voy a recetar unos corticoides y nos vemos en dos semanas.
+"""
+Okay, let's analyze the provided medical dialogue and map it against the assessment questions outlined in your provided data structure. I'll categorize the questions, determine which ones the dialogue addresses, and note where
+gaps exist.  I'll also add a "Relevance Score" (1-5, with 5 being highly relevant) to each matched question.  Finally, I'll include a summary at the end.
+
+**Dialogue Analysis & Matching to Assessment Questions**
+
+Here's a breakdown, organized by section from your data structure.  I'll present it as a table.
+
+| **Section** | **Question** | **Dialogue Relevance** | **Relevance Score** | **Notes/Explanation** |
+|---|---|---|---|---|
+| **Pregunta por Síntomas generales** | Fiebre | No | 1 |  The patient doesn't mention fever. |
+| **Pregunta por Síntomas generales** | Malestar general | No | 2 | Although the patient expresses worry (“estoy asustado”), there’s no specific mention of general malaise (decaimiento, cansancio). |
+| **Pregunta por Antecedentes personales** | Episodios previos de parálisis facial | No | 1 | The patient doesn't mention prior instances of facial paralysis. |
+| **Pregunta por Antecedentes personales** | Enfermedades que ha padecido | Partially | 3 |  The patient mentions "una arritmia hace años" (an arrhythmia some years ago). |
+| **Pregunta por Tratamientos, cirugías y medicación** | Cirugías previas relevantes | No | 1 | No mention of prior surgeries. |
+| **Pregunta por Tratamientos, cirugías y medicación** | Tratamientos actuales | Partially | 4 |  The patient mentions taking a medication ("tomo una pastilla por las mañanas") for their arrhythmia. |
+| **Pregunta por Tratamientos, cirugías y medicación** | Medicación reciente o crónica | Partially | 4 | The patient mentions a current medication. More detail would be beneficial. |
+| **Pregunta por Síntomas** | Infección viral reciente | No | 1 | Not addressed. |
+| **Pregunta por Síntomas** | Exposición a frío o corrientes de aire | No | 1 | Not addressed. |
+| **Pregunta por Síntomas** | Estrés intenso | No | 1 |  While the patient is "asustado" (scared), this isn't explicitly linked to stress. |
+| **Pregunta por Síntomas** | Traumatismo craneoencefálico | No | 1 | Not addressed. |
+| **Pregunta por Síntomas** | Procedimientos dentales o cirugía reciente | No | 1 | Not addressed. |
+| **Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares** | Profesión y exposiciones laborales | No | 1 | Not addressed. |
+| **Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares** | Tabaco | No | 1 |  Not addressed. |
+| **Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares** | Alcohol | No | 1 | Not addressed. |
+| **Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares** | Drogas | No | 1 | Not addressed. |
+| **Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares** | Vacunas | No | 1 | Not addressed. |
+| **Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares** | Antecedentes familiares neurológicos o parálisis facial | No | 1 | Not addressed. |
+| **Pregunta por Síntomas** | ¿Cerrar los ojos con fuerza?| Yes | 5 | Patient performs the task "el derecho no puedo cerrarlo del todo, se me queda abierto." |
+| **Pregunta por Síntomas** | ¿Mostrar los dientes, sonreír?| Yes | 5 | Patient performs the task "se me va la boca para el otro lado." |
+| **Pregunta por Síntomas** | ¿Levantar los brazos?| Yes | 4 | Patient performs the task "no, no, de fuerza estoy bien, solo es la cara." |
+| **Pregunta por Síntomas** | ¿Qué es lo que le trae por aquí?| Yes | 5 | Patient's opening statement. |
+
+**Summary & Gaps**
+
+*   **Good Coverage:** The dialogue successfully covers the immediate clinical presentation and some basic medical history. The specific maneuvers the doctor requests are very relevant and addressed.
+*   **Significant Gaps:**  There are *many* questions that are *not* addressed in the provided dialogue. This isn't necessarily a negative; it's normal for a history taking to be ongoing.
+*   **Areas for Deeper Inquiry:**
+    *   **Detailed Medication List:** The doctor should probe further about the arrhythmia medication: dose, duration, and any other medications being taken.
+    *   **Social History:** Occupation, smoking, alcohol, drug use.
+    *   **Family History:** Specific questions regarding neurological conditions or facial paralysis.
+    *   **Viral/Infectious History**: Exploring any recent or possible viral illness
+
+**Important Notes:**
+
+*   This analysis is based solely on the provided dialogue.  A complete medical assessment would require a more thorough examination and questioning.
+*   The "Relevance Score" is subjective and intended to represent the degree to which the dialogue addressed the question.
+*   The structure you’ve provided is a good foundation for a comprehensive assessment protocol.
+
+
+
+Let me know if you'd like me to elaborate on any part of this analysis or perform a similar assessment with different dialogue examples!
+
+>>> Que puntacion total tendria la conversacion entonces?
+Okay, let's calculate a total score for the conversation based on the Relevance Scores we assigned. We'll use a simple summation approach.
+
+**Calculation:**
+
+1.  **Sum all the Relevance Scores:** Add up all the scores from the table.
+2.  **Maximum Possible Score:** Determine the total possible score if *every* question had been fully addressed with a score of 5.
+3.  **Percentage Score:** Divide the sum of the relevance scores by the maximum possible score, then multiply by 100 to express the result as a percentage.
+
+**Let's do the math:**
+
+*   **Sum of Relevance Scores:**  1 + 2 + 1 + 3 + 1 + 4 + 4 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 5 + 5 + 4 + 5 = **44**
+*   **Number of Questions:** There are 22 questions in your list.
+*   **Maximum Possible Score:** 22 questions * 5 points/question = **110**
+*   **Percentage Score:** (44 / 110) * 100 = **40%**
+
+**Therefore, the conversation would have a total score of 40%.**
+
+**Interpretation:**
+
+A score of 40% indicates that the conversation covered a relatively small portion of the intended assessment. This isn't necessarily bad.  It highlights areas where further questioning is needed to complete the patient's history
+and build a more complete picture. This score reflects the fact that many questions were not addressed at all.
+
+**Important Considerations:**
+
+*   This is a simplistic scoring method.  Some questions are likely more critical than others.  A weighted scoring system could be used to reflect this.
+*   The value of a medical history isn't solely about answering every question.  It's about eliciting the *relevant* information for accurate diagnosis and treatment. Sometimes, not asking a question is also a valid decision.
+*   This is purely a quantitative measure. The *quality* of the information obtained within the answers is also crucial and not reflected in this calculation.

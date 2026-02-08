@@ -1,0 +1,17 @@
+Médico: Pase y siéntese. Cuénteme, ¿qué es lo que le trae por aquí?
+Paciente: Buenos días. Pues mire, estoy asustado porque esta mañana me he levantado y me he notado la cara rara, como caída.
+Médico: Entiendo. ¿Y esto ha empezado hoy mismo entonces?
+Paciente: Sí, al mirarme al espejo para afeitarme a las 8 de la mañana.
+Médico: A ver, déjeme mirarle. Veo que es solo en el lado derecho, ¿verdad?
+Paciente: Sí, el izquierdo lo muevo bien.
+Médico: Intente hacer una cosa: cierre los ojos con fuerza.
+Paciente: El derecho no puedo cerrarlo del todo, se me queda abierto.
+Médico: Vale. Ahora intente enseñarme los dientes, sonría.
+Paciente: (Lo intenta) Se me va la boca para el otro lado.
+Médico: Bien. Dígame una cosa, ¿usted tiene alguna enfermedad importante? ¿Diabetes, corazón?
+Paciente: Bueno, tuve una arritmia hace años, pero estoy bien.
+Médico: ¿Toma alguna medicación para eso ahora mismo?
+Paciente: Sí, tomo una pastilla por las mañanas.
+Médico: De acuerdo. Una última cosa, levante los brazos. ¿Nota que haya perdido fuerza en los brazos o en las piernas?
+Paciente: No, no, de fuerza estoy bien, solo es la cara.
+Médico: Muy bien. Parece una parálisis facial periférica. Le voy a recetar unos corticoides y nos vemos en dos semanas.

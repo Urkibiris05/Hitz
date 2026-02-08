@@ -1,0 +1,96 @@
+Médico: ¡Hola, muy buenas! Soy el Dr. Ruiz, encantado de saludarle. Pase, póngase cómodo.
+Paciente: Gracias, doctor.
+Médico: Antes de nada, cuénteme un poco para la ficha. ¿Cómo se llama usted completo?
+Paciente: Carlos Méndez García.
+Médico: Encantado, Carlos. ¿Y cuántos años tiene?
+Paciente: 42 años.
+Médico: Muy buena edad. ¿En qué trabaja usted, Carlos?
+Paciente: Soy administrativo en una empresa de logística.
+Médico: Vaya, mucho ordenador supongo. ¿Y vive aquí en la ciudad o viene de fuera?
+Paciente: Sí, vivo aquí en el centro.
+Médico: Estupendo. Bueno, dígame, ¿qué le trae a la consulta hoy?
+Paciente: Pues que tengo la boca torcida y el ojo me llora mucho.
+Médico: Vaya... Oiga, una pregunta personal pero importante, con el estrés del trabajo y tal... ¿Fuma usted?
+Paciente: Sí, medio paquete al día.
+Médico: Ya, ya... ¿Y alcohol? ¿Toma algo habitualmente?
+Paciente: Un par de cañas los fines de semana, nada más.
+Médico: Entendido. Y últimamente, ¿ha tenido mucho estrés o algún disgusto fuerte?
+Paciente: Buf, sí, en el trabajo estamos con un ERE y estoy muy nervioso.
+Médico: Eso influye mucho, el estrés baja las defensas. ¿Ha pasado algún catarro o gripe fuerte hace poco?
+Paciente: No, la verdad es que no.
+Médico: Bueno Carlos, pues tómese estos antivirales y relájese un poco. Si no mejora vuelva.
+
+PUNTUAZIOAK:
+
+gemini (sortzailea) --> 15
+
+1.1 Se presenta: 3 pts ("Soy el Dr. Ruiz").
+2.1 Nombre: 1 pt.
+2.2 Edad: 1 pt.
+2.4 Procedencia: 1 pt.
+2.5/15.1 Ocupación: 1 pt.
+3.1 Motivo consulta: 3 pts.
+15.2 Tabaco: 1 pt.
+15.3 Alcohol: 1 pt.
+11.3 Estrés: 1 pt.
+11.1 Infección viral: 2 pts.
+
+gpt-oss:120b-cloud --> 16
+
+| Se presenta e indica motivo | 3/5
+| Identifica al paciente | 4/5
+| Motivo de consulta | 3/6
+| Inicio y evolución temporal | 0/10
+| Signos y síntomas | 0/8
+| Síntomas sensitivos faciales | 0/7
+| Síntomas otológicos | 0/10
+| Otros síntomas nervio facial | 0/7
+| Síntomas neurológicos | 0/10
+| Repercusión funcional | 0/3
+| Factores desencadenantes | 3/6
+| Síntomas generales | 0/4
+| Antecedentes personales | 0/7
+| Tratamientos | 0/5
+| Contexto social | 3/7
+| **TOTAL** | **16/100**
+
+qwen3-vl:235b-cloud -->
+
+### **1. Se presenta e indica el motivo de la entrevista**
+- **Se presenta al paciente**: **3/3**
+  (Dijo: "Soy el Dr. Ruiz, encantado de saludarle")
+- **Explica el motivo de la entrevista**: **0/2**
+  (No explicó el propósito de la entrevista)
+
+### **2. Identifica al paciente y obtiene datos de filiación**
+- **Nombre**: **1/1**
+  (Preguntó: "¿Cómo se llama usted completo?")
+- **Edad**: **1/1**
+  (Preguntó: "¿Y cuántos años tiene?")
+- **Residencia**: **1/1**
+  (Preguntó: "¿Vive aquí en la ciudad o viene de fuera?")
+- **Ocupación**: **1/1**
+  (Preguntó: "¿En qué trabaja usted?")
+- **Estado civil**: **0/1**
+  (No indagó sobre situación conyugal)
+
+### **3. Pregunta por Motivo de consulta y a qué lo atribuye**
+- **Pregunta abierta por el motivo de consulta**: **3/3**
+  (Preguntó: "¿Qué le trae a la consulta hoy?")
+- **A qué atribuye el paciente el problema**: **0/3**
+  (No preguntó explícitamente qué piensa el paciente)
+
+### **11. Pregunta por posibles Factores desencadenantes y precipitantes**
+- **Infección viral reciente**: **2/2**
+  (Preguntó: "¿Ha pasado algún catarro o gripe fuerte hace poco?")
+- **Estrés intenso**: **1/1**
+  (Preguntó: "¿Ha tenido mucho estrés o algún disgusto fuerte?")
+
+### **15. Indaga sobre el Contexto social, laboral y hábitos + antecedentes
+familiares**
+- **Profesión**: **1/1**
+  (Preguntó: "¿En qué trabaja usted?")
+- **Tabaco**: **1/1**
+  (Preguntó: "¿Fuma usted?")
+- **Alcohol**: **1/1**
+  (Preguntó: "¿Toma algo habitualmente?")
