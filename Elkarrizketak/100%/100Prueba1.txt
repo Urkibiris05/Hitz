@@ -174,3 +174,178 @@
 **Paciente:** No, por ahora eso es todo. Gracias, doctor.
 
 
+EBALUAZIOA:
+
+gpt-oss:120b-cloud --> 100 puntu
+
+| Nº | Categoría | Sub‑puntos evaluados | Puntos obtenidos | Comentario |
+|----|-----------|----------------------|------------------|------------|
+| 1 | **Se presenta e indica el motivo de la entrevista** | → Presentación (3 pts)  → Explicación del motivo (2 pts) | **5 / 5** | El doctor se presenta con nombre,
+especialidad y dice que hará preguntas para entender el problema. |
+| 2 | **Identifica al paciente y obtiene datos de filiación** | → Nombre (1)  → Edad (1)  → Estado civil (1)  → Residencia (1)  → Ocupación (1) | **5 / 5** | Pregunta
+todos los datos solicitados y recibe respuestas claras. |
+| 3 | **Pregunta por motivo de consulta y a qué lo atribuye** | → Motivo (3)  → Atribución (3) | **6 / 6** | Pregunta abierta del motivo y luego la causa que el paciente
+cree responsable. |
+| 4 | **Inicio y evolución temporal del cuadro y episodios similares** | → Fecha/hora de inicio (3)  → Forma de inicio (2)  → Evolución (2)  → Episodios previos (3) |
+**10 / 10** | Todas las preguntas realizadas y contestadas. |
+| 5 | **Signos y síntomas faciales** | → Lateralidad (1)  → Cierre del ojo (2)  → Simetría de la sonrisa (2)  → Baboseo/escape de líquidos (2)  → Alteración del habla (1)
+| **8 / 8** | Cobertura completa del examen motor facial. |
+| 6 | **Síntomas sensitivos faciales** | → Dolor retroauricular (3)  → Cefalea (2)  → Alteración de la sensibilidad (2) | **7 / 7** | Preguntas específicas realizadas y
+respondidas. |
+| 7 | **Síntomas otológicos y ORL** | → Otalgia/otorrea (2)  → Hipoacusia (3)  → Hiperacusia (1)  → Acúfenos (1)  → Vértigo/inestabilidad (2)  → Otitis reciente (1) |
+**10 / 10** | Todas las áreas otológicas fueron cubiertas. |
+| 8 | **Otros síntomas por afectación del nervio facial** | → Alteración del gusto (2)  → Ojo seco/menor lagrimeo (2)  → Alteración de la salivación (2)  → Vesículas en
+lengua (1) | **7 / 7** | Preguntas realizadas y respuestas obtenidas. |
+| 9 | **Síntomas neurológicos asociados (Red‑flags)** | → Déficit motor extremidades (3)  → Trastornos del lenguaje (2)  → Alteraciones visuales (1)  → Trastorno de la
+marcha (1)  → Disfagia (2)  → Alteración del nivel de consciencia/convulsiones (1) | **10 / 10** | Red‑flags completamente indagados. |
+|10| **Repercusión funcional, social y calidad de vida** | → Impacto en el habla (1)  → Visión/ojo seco (1)  → Actividad laboral/social (1) | **3 / 3** | Preguntas de
+impacto funcional realizadas. |
+|11| **Factores desencadenantes y precipitantes** | → Infección viral reciente (2)  → Exposición a frío/aire (1)  → Estrés intenso (1)  → Trauma craneoencefálico (1)  →
+Procedimientos dentales o cirugía reciente (1) | **6 / 6** | Todas las causas potenciales fueron exploradas. |
+|12| **Síntomas generales** | → Fiebre (2)  → Malestar general (2) | **4 / 4** | Preguntado y respondido. |
+|13| **Antecedentes personales** | → Parálisis facial previa (3)  → Enfermedades previas (4) | **7 / 7** | Cobertura completa. |
+|14| **Tratamientos, cirugías y medicación** | → Cirugías previas relevantes (2)  → Tratamientos actuales (2)  → Medicación habitual (1) | **5 / 5** | Preguntas
+realizadas y contestadas. |
+|15| **Contexto social, laboral, hábitos y antecedentes familiares** | → Profesión/exposición laboral (1)  → Tabaco (1)  → Alcohol (1)  → Drogas (1)  → Vacunas (1)  →
+Antecedentes familiares neurológicos (2) | **7 / 7** | Todas las áreas indagadas. |
+
+qwen3-vl:235b-cloud --> 100 puntu
+
+**Total de Puntos Obtenidos: 100/100**
+El médico cumplió **totalmente** con todos los criterios evaluados. A continuación, se detalla la puntuación por sección:
+
+---
+
+### **1. Se presenta e indica el motivo de la entrevista: 5/5**
+- **Se presenta al paciente (3/3):**
+  - *"Soy el Dr. Luis Pérez, otorrinolaringólogo, y seré quien lo atienda hoy."*
+  → **Válido:** Menciona nombre, rol profesional y se identifica como otorrinolaringólogo.
+- **Explica el motivo de la entrevista (2/2):**
+  - *"Vamos a hacerle algunas preguntas para entender lo que le ocurre y poder ayudarle mejor."*
+  → **Válido:** Justifica el interrogatorio y comunica el objetivo de la conversación.
+
+---
+
+### **2. Identifica al paciente y obtiene datos de filiación: 5/5**
+- **Nombre (1/1):** *"¿Cuál es su nombre completo?"*
+- **Edad (1/1):** *"¿Cuántos años tiene?"*
+- **Estado civil (1/1):** *"¿Cuál es su estado civil?"*
+- **Residencia (1/1):** *"¿En qué ciudad y barrio reside?"*
+- **Ocupación (1/1):** *"¿Trabaja?"*
+→ **Todos los datos recogidos** (nombre completo, edad, estado civil, residencia, profesión).
+
+---
+
+### **3. Motivo de consulta y atribución: 6/6**
+- **Pregunta abierta (3/3):** *"¿Qué la trae a consultar?"*
+- **Atribución del paciente (3/3):** *"¿A qué atribuye usted el problema?"*
+→ **Ambas preguntas abiertas y relevantes.**
+
+---
+
+### **4. Inicio y evolución temporal: 10/10**
+- **Fecha exacta (3/3):** *"¿Cuándo comenzó exactamente?"* (paciente menciona hora y día).
+- **Forma de inicio (2/2):** *"¿El inicio fue repentino o progresivo?"*
+- **Evolución (2/2):** *"¿Ha mejorado o empeorado desde entonces?"*
+- **Episodios previos (3/3):** *"¿Le ha pasado algo similar antes?"*
+→ **Todas las dimensiones temporales exploradas con precisión.**
+
+---
+
+### **5. Signos y síntomas: 8/8**
+- **Lateralidad (1/1):** *"¿En qué lado le afecta?"*
+- **Cierre palpebral (2/2):** *"¿Puede cerrar el ojo sin dificultad?"*
+- **Simetría de la sonrisa (2/2):** *"¿Nota alguna desviación al sonreír?"*
+- **Baboseo (2/2):** *"¿Se le cae saliva o tiene dificultad para retenerla?"*
+- **Alteración del habla (1/1):** *"¿Ha notado algún cambio en su habla?"*
+→ **Exploración completa de síntomas clínicos.**
+
+---
+
+### **6. Síntomas sensitivos faciales: 7/7**
+- **Dolor retroauricular (3/3):** *"¿Siente dolor detrás de la oreja?"*
+- **Cefalea (2/2):** *"¿Tiene alguna cefalea?"*
+- **Alteración de sensibilidad (2/2):** *"¿Siente adormecimiento o hormigueo en la cara?"*
+→ **Todos los síntomas sensitivos abordados.**
+
+---
+
+### **7. Síntomas otológicos y ORL: 10/10**
+- **Otalgia/otorrea (2/2):** *"¿Tiene dolor de oído?"*
+- **Hipoacusia (3/3):** *"¿Ha notado cambios en la audición?"*
+- **Hiperacusia (1/1):** *"¿Le molestan los ruidos fuertes?"*
+- **Acúfenos (1/1):** *"¿Escucha zumbidos en los oídos?"*
+- **Vértigo (2/2):** *"¿Ha sentido mareos o vértigo?"*
+- **Otitis reciente (1/1):** *"¿Ha tenido una infección de oído reciente?"*
+→ **Evaluación exhaustiva de síntomas ORL.**
+
+---
+
+### **8. Otros síntomas nervio facial: 7/7**
+- **Gusto (2/2):** *"¿Ha notado cambios en el gusto?"*
+- **Ojo seco (2/2):** *"¿Tiene ojo seco o menos lagrimeo?"*
+- **Salivación (2/2):** *"¿Tiene la boca seca o exceso de saliva?"*
+- **Lengua (1/1):** *"¿Ha notado vesículas en la lengua?"*
+→ **Exploración completa de síntomas relacionados con el nervio facial.**
+
+---
+
+### **9. Síntomas neurológicos (Red Flags): 10/10**
+- **Déficit motor (3/3):** *"¿Tiene debilidad en brazos o piernas?"*
+- **Trastornos del lenguaje (2/2):** *"¿Tiene dificultad para hablar?"*
+- **Alteraciones visuales (1/1):** *"¿Ve visión doble?"*
+- **Marcha (1/1):** *"¿Tiene dificultad para caminar?"*
+- **Disfagia (2/2):** *"¿Tiene dificultad para tragar?"*
+- **Conciencia (1/1):** *"¿Ha tenido pérdida de conciencia o convulsiones?"*
+→ **Exploración rigurosa de "red flags" neurológicos.**
+
+---
+
+### **10. Repercusión funcional: 3/3**
+- **Impacto en el habla (1/1):** *"¿Le cuesta comunicarse con los demás?"*
+- **Visión/oculo (1/1):** *"¿Le afecta su visión diaria?"*
+- **Actividad laboral (1/1):** *"¿Afecta esto su trabajo o actividades sociales?"*
+→ **Análisis de impacto en calidad de vida.**
+
+---
+
+### **11. Factores desencadenantes: 6/6**
+- **Infección viral (2/2):** *"¿Ha tenido un resfriado o fiebre recientemente?"*
+- **Exposición a frío (1/1):** *"¿Ha estado expuesto a corrientes de aire frío?"*
+- **Estrés (1/1):** *"¿Ha pasado por estrés intenso últimamente?"*
+- **Traumatismo (1/1):** *"¿Ha sufrido algún golpe en la cabeza recientemente?"*
+- **Procedimientos dentales (1/1):** *"¿Se ha hecho algún tratamiento dental o cirugía recientemente?"*
+→ **Todos los factores explorados.**
+
+---
+
+### **12. Síntomas generales: 4/4**
+- **Fiebre (2/2):** *"¿Ha tenido fiebre?"*
+- **Malestar general (2/2):** *"¿Se siente cansado o con malestar general?"*
+→ **Evaluación de síntomas sistémicos.**
+
+---
+
+### **13. Antecedentes personales: 7/7**
+- **Episodios previos (3/3):** *"¿Ha tenido parálisis facial anteriormente?"*
+- **Enfermedades (4/4):** *"¿Qué enfermedades ha padecido?"* (hipertensión, alergias).
+→ **Historial médico completo.**
+
+---
+
+### **14. Tratamientos y medicación: 5/5**
+- **Cirugías (2/2):** *"¿Ha tenido alguna cirugía importante?"*
+- **Tratamientos actuales (2/2):** *"¿Qué tratamiento está recibiendo actualmente?"*
+- **Medicación habitual (1/1):** *"¿Qué medicamentos toma habitualmente?"*
+→ **Recopilación completa de información terapéutica.**
+
+---
+
+### **15. Contexto social y hábitos: 7/7**
+- **Profesión (1/1):** *"¿Cuál es su ocupación?"*
+- **Tabaco (1/1):** *"¿Fuma?"*
+- **Alcohol (1/1):** *"¿Consume alcohol?"*
+- **Drogas (1/1):** *"¿Consume alguna droga?"*
+- **Vacunas (1/1):** *"¿Ha recibido alguna vacuna recientemente?"*
+- **Antecedentes familiares (2/2):** *"¿Hay antecedentes de parálisis facial en su familia?"*
+→ **Contexto social y hábitos abordados con profundidad.**
