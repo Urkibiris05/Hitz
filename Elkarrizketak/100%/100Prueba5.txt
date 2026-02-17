@@ -228,3 +228,107 @@ mejor lo que le ocurre y planificar su tratamiento. ¿Listo para comenzar?
 **Javier:** ¿Es grave?  
 
 **Dra. Ruiz:** Es una parálisis facial periférica, probablemente por el virus del resfriado. Con tratamiento, la mayoría mejora en semanas. Le explicaré los pasos a seguir. 
+
+PUNTUAZIOA:
+
+gpt-oss:120b-cloud --> 96 puntu
+
+| Nº | Criterio (puntos máximos) | Puntos obtenidos | Comentario breve |
+|----|---------------------------|-------------------|-------------------|
+| 1 | **Se presenta e indica el motivo de la entrevista** (5) | **5** | La doctora se 
+presenta con nombre, especialidad y explica el objetivo de la entrevista. |
+| 2 | **Identifica al paciente y obtiene datos de filiación** (5) | **5** | Pregunta 
+nombre, edad, estado civil, residencia y ocupación. |
+| 3 | **Pregunta por motivo de consulta y a qué lo atribuye** (6) | **6** | “¿Qué lo 
+trae a consultar?” y “¿A qué cree que se debe este problema?”. |
+| 4 | **Inicio y evolución temporal del cuadro y episodios similares** (10) | **10** | 
+Fecha‑hora exacta, forma de inicio (brusco), evolución (empeoró‑está igual) y ausencia 
+de episodios previos. |
+| 5 | **Pregunta por signos y síntomas (motor facial)** (8) | **8** | Lateralidad, 
+cierre ocular, simetría de la sonrisa, pérdida de saliva, alteración del habla. |
+| 6 | **Pregunta por signos y síntomas sensitivos faciales** (7) | **7** | Dolor 
+retroauricular, cefalea leve, hormigueo/adormecimiento. |
+| 7 | **Síntomas otológicos y ORL** (10) | **9** | Otalgia (sí), hipoacusia (sí), 
+acúfenos (sí), vértigo/inestabilidad (sí), otitis reciente (sí). **Falta** la pregunta 
+explícita sobre hiperacusia (sensibilidad a ruidos fuertes). |
+| 8 | **Otros síntomas por afectación del nervio facial** (7) | **7** | Alteración del 
+gusto, ojo seco, alteración de la salivación, vesículas en la lengua. |
+| 9 | **Síntomas neurológicos (red‑flags)** (10) | **7** | Trastorno del lenguaje, 
+alteraciones visuales, marcha, disfagia y pérdida de conciencia son preguntados. **No** 
+se indaga déficit motor en extremidades (3 puntos perdidos). |
+|10| **Repercusión funcional, social y calidad de vida** (3) | **3** | Impacto en el 
+habla, molestias oculares y afectación laboral/social. |
+|11| **Factores desencadenantes y precipitantes** (6) | **6** | Infección viral 
+reciente, exposición al frío, estrés, traumatismo craneoencefálico, procedimientos 
+dentales. |
+|12| **Síntomas generales** (4) | **4** | Fiebre (negativa) y malestar general 
+consultados. |
+|13| **Antecedentes personales** (7) | **7** | No hay episodios previos de parálisis, 
+menciona hipertensión y apendicectomía. |
+|14| **Tratamientos, cirugías y medicación** (5) | **5** | Pregunta cirugías previas, 
+tratamientos actuales y medicación crónica. |
+|15| **Contexto social, laboral, hábitos y antecedentes familiares** (7) | **7** | 
+Ocupación, tabaquismo (negativo), alcohol (positivo ocasional), drogas (negativo), 
+vacunación, antecedentes familiares neurológicos. |
+
+
+qwen3-vl:235b-cloud --> 100 puntu
+
+### **Análisis detallado por criterios:**  
+1. **Se presenta e indica el motivo de la entrevista** (5/5):  
+   - **Se presenta al paciente** (3/3): La Dra. Ruiz dice su nombre, especialidad 
+("otorrinolaringóloga"), y se identifica como la profesional que atenderá al paciente.  
+   - **Explica el motivo de la entrevista** (2/2): Clarifica que es parte de la 
+evaluación médica para entender el problema y planificar el tratamiento.  
+
+2. **Identifica al paciente y obtiene datos de filiación** (5/5):  
+   - Pregunta nombre completo, edad, estado civil, residencia y ocupación (5 subpuntos 
+cumplidos).  
+
+3. **Pregunta por Motivo de consulta y a qué lo atribuye** (6/6):  
+   - **Motivo abierto** (3/3): "¿Qué lo trae a consultar hoy?".  
+   - **Atribución del paciente** (3/3): "¿A qué cree que se debe este problema?".  
+
+4. **Pregunta por Inicio y evolución temporal** (10/10):  
+   - Fecha/hora exacta (3/3), forma de inicio (2/2), evolución (2/2), episodios previos 
+(3/3).  
+
+5. **Pregunta por signos y síntomas** (8/8):  
+   - Lateralidad (1/1), cierre palpebral (2/2), simetría de sonrisa (2/2), baboseo 
+(2/2), alteración del habla (1/1).  
+
+6. **Pregunta por síntomas sensitivos faciales** (7/7):  
+   - Dolor retroauricular (3/3), cefalea (2/2), alteraciones de sensibilidad (2/2).  
+
+7. **Síntomas otológicos y ORL** (10/10):  
+   - Otalgia/otorrea (2/2), hipoacusia (3/3), hiperacusia (1/1), acúfenos (1/1), vértigo 
+(2/2), otitis reciente (1/1).  
+
+8. **Otros síntomas por nervio facial** (7/7):  
+   - Alteración del gusto (2/2), sequedad ocular (2/2), salivación (2/2), lengua (1/1).  
+
+
+9. **Síntomas neurológicos asociados (red flags)** (10/10):  
+   - Déficit motor (3/3), trastornos del lenguaje (2/2), visuales (1/1), marcha (1/1), 
+disfagia (2/2), conciencia (1/1).  
+
+10. **Repercusión funcional social** (3/3):  
+    - Impacto en habla (1/1), visión (1/1), actividad laboral/social (1/1).  
+
+11. **Factores desencadenantes** (6/6):  
+    - Infección viral (2/2), frío (1/1), estrés (1/1), traumatismo (1/1), procedimientos 
+dentales (1/1).  
+
+12. **Síntomas generales** (4/4):  
+    - Fiebre (2/2), malestar general (2/2).  
+
+13. **Antecedentes personales** (7/7):  
+    - Episodios previos (3/3), enfermedades (4/4).  
+
+14. **Tratamientos y medicación** (5/5):  
+    - Cirugías (2/2), tratamientos actuales (2/2), medicación crónica (1/1).  
+
+15. **Contexto social y hábitos** (7/7):  
+    - Profesión (1/1), tabaco (1/1), alcohol (1/1), drogas (1/1), vacunas (1/1), 
+antecedentes familiares (2/2).  
+

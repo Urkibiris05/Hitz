@@ -172,3 +172,216 @@
 **Doctor:** Gracias por la información, Carlos. Con base en todo lo que me ha comentado, vamos a realizar una evaluación completa y, probablemente, iniciar el tratamiento con 
 corticoides y fisioterapia lo antes posible. ¿Tiene alguna duda o algo más que quiera comentar?  
 **Paciente:** No, doctor. Gracias por la atención.
+
+PUNTUAZIOA:
+
+gpt-oss:120b-cloud --> 100 puntu
+
+| Nº | Criterio (máx.) | Puntos obtenidos | Comentario breve |
+|----|------------------------------|------------------|------------------------------|
+| 1 | **Se presenta e indica el motivo de la entrevista** (5) | 5 | El doctor se 
+presenta y explica que hará preguntas para valorar el problema. |
+| 2 | **Identifica al paciente y obtiene datos de filiación** (5) | 5 | Se preguntan 
+nombre, edad, estado civil, residencia y ocupación. |
+| 3 | **Pregunta por motivo de consulta y a qué lo atribuye** (6) | 6 | Se formula 
+pregunta abierta sobre el motivo y se indaga la causa que el paciente cree responsable. 
+|
+| 4 | **Inicio y evolución temporal del cuadro y episodios similares** (10) | 10 | Se 
+solicitan día‑hora de inicio, forma (repentino), evolución (empeoramiento) y 
+antecedentes de episodios previos. |
+| 5 | **Pregunta por signos y síntomas** (8) | 8 | Lateralidad, cierre ocular, simetría 
+de la sonrisa, baboseo y alteración del habla fueron preguntados. |
+| 6 | **Signos y síntomas sensitivos faciales** (7) | 7 | Dolor retroauricular, cefalea 
+y hormigueo/alteración sensitiva fueron abordados. |
+| 7 | **Síntomas otológicos y ORL** (10) | 10 | Otalgia/otorrea, hipoacusia, 
+hiperacusia, acúfenos, vértigo e historia de otitis reciente fueron preguntados. |
+| 8 | **Otros síntomas por afectación del nervio facial** (7) | 7 | Alteración del 
+gusto, ojo seco, alteración de la salivación y vesículas en lengua fueron indagados. |
+| 9 | **Síntomas neurológicos asociados (red‑flags)** (10) | 10 | Se preguntó déficit 
+motor en extremidades, trastornos del lenguaje, alteraciones visuales, marcha/coord., 
+disfagia y nivel de conciencia/conversiones. |
+|10| **Repercusión funcional, social y calidad de vida** (3) | 3 | Impacto en el habla, 
+molestias oculares y efecto en trabajo/social fueron evaluados. |
+|11| **Factores desencadenantes y precipitantes** (6) | 6 | Infección viral reciente, 
+exposición a frío, estrés intenso, trauma craneal y procedimientos dentales/s cirugías 
+fueron preguntados. |
+|12| **Síntomas generales** (4) | 4 | Se indagó fiebre y malestar/general. |
+|13| **Antecedentes personales** (7) | 7 | Episodios previos de parálisis facial y 
+enfermedades crónicas (HTA, DM2) fueron preguntados. |
+|14| **Tratamientos, cirugías y medicación** (5) | 5 | Se preguntó sobre cirugías 
+previas, tratamientos actuales y medicación habitual. |
+|15| **Contexto social, laboral, hábitos y antecedentes familiares** (7) | 7 | 
+Profesión/exposición laboral, tabaco, alcohol, drogas, vacunas y antecedentes familiares 
+neurológicos fueron cubiertos. |
+
+**Total obtenido:** **100 / 100 puntos**  
+
+qwen3-vl:235b-cloud --> 100 puntu
+
+### **Puntuación de la conversación clínica**  
+
+#### **1. Se presenta e indica el motivo de la entrevista**  
+- **Se presenta al paciente** (3/3):  
+  ✔️ Dice su nombre y rol profesional ("soy el doctor Martínez, otorrinolaringólogo").  
+  ✔️ Se identifica como otorrinolaringólogo.  
+  ✔️ Saluda indicando quién es ("Buen día").  
+  ✔️ Expresa "soy quien lo va a atender hoy".  
+  ✔️ Se presenta antes de iniciar la anamnesis.  
+- **Explica el motivo de la entrevista** (2/2):  
+  ✔️ Explica que hará preguntas para conocer el problema ("Voy a hacerle una serie de 
+preguntas...").  
+  ✔️ Justifica el interrogatorio clínico ("conocer mejor lo que le ocurre y poder 
+valorar su problema").  
+**Total: 5/5**  
+
+---
+
+#### **2. Identifica al paciente y obtiene datos de filiación**  
+- **Nombre** (1/1): ✔️ "¿Me dice su nombre completo?"  
+- **Edad** (1/1): ✔️ "¿Cuántos años tiene?"  
+- **Estado civil** (1/1): ✔️ "¿Cuál es su estado civil?"  
+- **Residencia** (1/1): ✔️ "¿En qué ciudad o localidad reside?"  
+- **Ocupación** (1/1): ✔️ "¿A qué se dedica?" (menciona ser jefe de obra y estar de 
+baja).  
+**Total: 5/5**  
+
+---
+
+#### **3. Pregunta por Motivo de consulta y a qué lo atribuye**  
+- **Motivo de consulta** (3/3): ✔️ "¿Qué lo trae a consulta?" (respuesta: parálisis 
+facial izquierda).  
+- **Atribución del problema** (3/3): ✔️ "¿Qué cree que pueda haber causado esto?" 
+(responde: resfriado o estrés).  
+**Total: 6/6**  
+
+---
+
+#### **4. Inicio y evolución temporal del cuadro**  
+- **Fecha y hora exacta** (3/3): ✔️ "¿Recuerda el día y la hora en que notó el primer 
+síntoma?"  
+- **Forma de inicio** (2/2): ✔️ "¿El inicio fue repentino o progresivo?"  
+- **Evolución** (2/2): ✔️ "¿Ha notado alguna mejoría o empeoramiento?"  
+- **Episodios previos** (3/3): ✔️ "¿Le ha ocurrido algo similar en el pasado?" (menciona 
+parálisis previa).  
+**Total: 10/10**  
+
+---
+
+#### **5. Signos y síntomas**  
+- **Lateralidad** (1/1): ✔️ "¿Qué lado está afectado?" (izquierdo).  
+- **Cierre palpebral** (2/2): ✔️ "¿Puede cerrar completamente el ojo?"  
+- **Simetría de la sonrisa** (2/2): ✔️ "¿La boca se desvía hacia algún lado?"  
+- **Baboseo** (2/2): ✔️ "¿Se le escapa saliva al beber o hablar?"  
+- **Alteración del habla** (1/1): ✔️ "¿Dificultad para articular palabras?"  
+**Total: 8/8**  
+
+---
+
+#### **6. Síntomas sensitivos faciales**  
+- **Dolor retroauricular** (3/3): ✔️ "¿Siente dolor detrás de la oreja?"  
+- **Cefalea** (2/2): ✔️ "¿Tiene cefalea asociada?"  
+- **Sensibilidad facial** (2/2): ✔️ "¿Adormecimiento, hormigueo o pérdida de 
+sensibilidad?"  
+**Total: 7/7**  
+
+---
+
+#### **7. Síntomas otológicos y ORL**  
+- **Otalgia/otorrea** (2/2): ✔️ "¿Dolor de oído o secreción?" (picor, sin dolor).  
+- **Hipoacusia** (3/3): ✔️ "¿Pérdida de audición?" (dificultad para entender en ruido).  
+
+- **Hiperacusia** (1/1): ✔️ "¿Le molestan los ruidos fuertes?"  
+- **Acúfenos** (1/1): ✔️ "¿Zumbido o pitido?"  
+- **Vértigo** (2/2): ✔️ "¿Mareos o inestabilidad?"  
+- **Otitis reciente** (1/1): ✔️ "¿Ha tenido una otitis reciente?"  
+**Total: 10/10**  
+
+---
+
+#### **8. Otros síntomas por afectación del nervio facial**  
+- **Alteración del gusto** (2/2): ✔️ "¿Cambio en el gusto?"  
+- **Sequedad ocular** (2/2): ✔️ "¿Ojos secos o disminución del lagrimeo?"  
+- **Salivación** (2/2): ✔️ "¿Alteración de la salivación?" (boca seca + escape de 
+saliva).  
+- **Vesículas en lengua** (1/1): ✔️ "¿Ha visto vesículas en la lengua?"  
+**Total: 7/7**  
+
+---
+
+#### **9. Síntomas neurológicos asociados (red flags)**  
+- **Déficit motor** (3/3): ✔️ "¿Debilidad en brazos o piernas?"  
+- **Trastornos del lenguaje** (2/2): ✔️ "¿Dificultad para formar palabras?"  
+- **Alteraciones visuales** (1/1): ✔️ "¿Visión doble?"  
+- **Marcha/coordinación** (1/1): ✔️ "¿Dificultad para caminar?"  
+- **Disfagia** (2/2): ✔️ "¿Dificultad para tragar?"  
+- **Conciencia/convulsiones** (1/1): ✔️ "¿Pérdida de conciencia o convulsiones?"  
+**Total: 10/10**  
+
+---
+
+#### **10. Repercusión funcional y calidad de vida**  
+- **Impacto en el habla** (1/1): ✔️ "¿Cómo afecta esto a su habla en la vida diaria?"  
+- **Visión/ojo seco** (1/1): ✔️ "¿Los ojos secos le generan molestias?"  
+- **Actividad laboral/social** (1/1): ✔️ "¿Este problema ha influido en su actividad 
+laboral o social?"  
+**Total: 3/3**  
+
+---
+
+#### **11. Factores desencadenantes**  
+- **Infección viral** (2/2): ✔️ "¿Tuvo resfriado o infección viral reciente?"  
+- **Exposición a frío** (1/1): ✔️ "¿Estuvo expuesto a frío o corrientes de aire?"  
+- **Estrés** (1/1): ✔️ "¿Ha pasado por estrés intenso?"  
+- **Traumatismo** (1/1): ✔️ "¿Sufrió traumatismo craneoencefálico?"  
+- **Procedimientos dentales** (1/1): ✔️ "¿Ha tenido procedimientos dentales recientes?"  
+
+**Total: 6/6**  
+
+---
+
+#### **12. Síntomas generales**  
+- **Fiebre** (2/2): ✔️ "¿Ha presentado fiebre?"  
+- **Malestar general** (2/2): ✔️ "¿Siente malestar general, cansancio o decaimiento?"  
+**Total: 4/4**  
+
+---
+
+#### **13. Antecedentes personales**  
+- **Episodios previos** (3/3): ✔️ "¿Ha tenido parálisis facial antes?"  
+- **Enfermedades** (4/4): ✔️ "¿Qué enfermedades ha padecido?" (hipertensión y diabetes). 
+ 
+**Total: 7/7**  
+
+---
+
+#### **14. Tratamientos, cirugías y medicación**  
+- **Cirugías previas** (2/2): ✔️ "¿Ha sido intervenido quirúrgicamente?" (extracción 
+dental).  
+- **Tratamientos actuales** (2/2): ✔️ "¿Qué tratamientos está recibiendo actualmente?"  
+- **Medicación crónica** (1/1): ✔️ "¿Qué medicación suele tomar?" (metformina y 
+enalapril).  
+**Total: 5/5**  
+
+---
+
+#### **15. Contexto social, laboral y hábitos + antecedentes familiares**  
+- **Profesión/riesgos** (1/1): ✔️ "¿Cuál es su profesión y está expuesto a riesgos 
+laborales?"  
+- **Tabaco** (1/1): ✔️ "¿Fuma o ha fumado?"  
+- **Alcohol** (1/1): ✔️ "¿Consume alcohol?"  
+- **Drogas** (1/1): ✔️ "¿Usa drogas recreativas?"  
+- **Vacunas** (1/1): ✔️ "¿Se ha vacunado recientemente?"  
+- **Antecedentes familiares** (2/2): ✔️ "¿Alguien en su familia ha tenido parálisis 
+facial?"  
+**Total: 7/7**  
+
+---
+
+### **Puntuación total: 100/100**  
+**Comentario:** La conversación cumple **rigurosamente** con todos los criterios 
+establecidos. El médico realiza una anamnesis estructurada, explora todos los síntomas 
+clave (incluyendo red flags), indaga en antecedentes y factores desencadenantes, y 
+aborda la repercusión funcional y social. No se omiten subpuntos críticos, y las 
+preguntas son claras y pertinentes al diagnóstico de parálisis facial (probable 
+parálisis de Bell).
+
