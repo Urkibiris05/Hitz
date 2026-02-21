@@ -1,0 +1,238 @@
+**Dra. Laura Gómez:** Buenos días, soy la doctora Laura Gómez. ¿Cómo prefiere que lo 
+llame y en qué puedo ayudarle hoy?
+
+**Carlos Méndez:** Hola, doctora. Me llamo Carlos Méndez.
+
+**Dra. Laura Gómez:** Mucho gusto, Carlos. ¿Podría decirme su edad, por favor?
+
+**Carlos Méndez:** Tengo 42 años.
+
+**Dra. Laura Gómez:** Gracias. Cuénteme, ¿qué le ha traído por aquí?
+
+**Carlos Méndez:** Hace dos días noté que la parte derecha de mi cara se siente 
+“adormecida” y la boca no me queda alineada cuando intento sonreír. Me preocupa porque 
+nunca me había pasado.
+
+**Dra. Laura Gómez:** ¿A qué atribuye usted ese problema? ¿Hay algo que crea que lo pudo 
+haber desencadenado?
+
+**Carlos Méndez:** La verdad, creo que pudo haber sido por el fuerte resfriado que tuve 
+la semana pasada y el estrés del trabajo.
+
+**Dra. Laura Gómez:** Entiendo. ¿Podría decirme exactamente cuándo notó por primera vez 
+estos síntomas? ¿Fecha y hora exacta?
+
+**Carlos Méndez:** Fue ayer, alrededor de las 10 p.m., justo después de cenar.
+
+**Dra. Laura Gómez:** ¿Cómo describiría el inicio? ¿ fue algo brusco, como si de repente 
+todo pasó, o más bien progresivo, que se fue desarrollando poco a poco?
+
+**Carlos Méndez:** Lo sentí de golpe, como si de repente la mitad de mi cara se “apagó”.
+
+**Dra. Laura Gómez:** ¿Puede intentar cerrar el ojo derecho sin ayuda?
+
+**Carlos Méndez:** No, me cuesta cerrarlo; el párpado se queda abierto.
+
+**Dra. Laura Gómez:** Gracias por la información, Carlos. Con estos datos ya podemos 
+orientar mejor la evaluación. (continúa la anamnesis…)
+
+
+PUNTUAZIOAK:
+
+gpt-oss:120b-cloud (sortzailea) --> 20 puntu
+
+- Se presenta e indica motivo: both subpoints (3+2) =5
+- Identifica al paciente: pick maybe name (1) and age (1) =2 points
+- Motivo de consulta: open question (3) =3 points
+- A que atribuye el problema: 3 points => total now 5+2+3+3=13
+- Inicio y evolución: pick fecha y hora exacta (3) and forma de inicio (2) =5 total => 
+18
+- Signos y síntomas: ask "¿Puede cerrar el ojo?" (2) => total 20
+
+qwen3-vl:235b-cloud --> 20 puntu
+
+#### **1. Se presenta e indica el motivo de la entrevista**  
+- **Se presenta al paciente**: 3/3  
+  - La Dra. Gómez dice: *"Buenos días, soy la doctora Laura Gómez"*. Cumple con "Dice su 
+nombre y rol profesional".  
+- **Explica el motivo de la entrevista**: 2/2  
+  - Pregunta: *"¿en qué puedo ayudarle hoy?"*, lo que equivale a "Señala que busca 
+entender lo que le ocurre".  
+- **Total**: 5/5  
+
+---
+
+#### **2. Identifica al paciente y obtiene datos de filiación**  
+- **Pregunta el Nombre**: 1/1  
+  - *"¿Cómo prefiere que lo llame?"* → Cumple con "Pregunta cómo prefiere ser llamado".  
+
+- **Pregunta su edad**: 1/1  
+  - *"¿Podría decirme su edad, por favor?"* → Cumple con "Pregunta edad actual".  
+- **Estado civil**: 0/1  
+  - No se aborda.  
+- **Procedencia/residencia**: 0/1  
+  - No se aborda.  
+- **Ocupación**: 0/1  
+  - No se aborda.  
+- **Total**: 2/5  
+
+---
+
+#### **3. Pregunta por Motivo de consulta y a qué lo atribuye**  
+- **Pregunta abierta por motivo de consulta**: 3/3  
+  - *"Cuénteme, ¿qué le ha traído por aquí?"* → Equivale a "Cuénteme qué le pasa".  
+- **A qué atribuye el problema**: 3/3  
+  - *"¿A qué atribuye usted ese problema? ¿Hay algo que cree que lo pudo haber 
+desencadenado?"* → Cumple con "Pregunta qué cree que le ocurrió".  
+- **Total**: 6/6  
+
+---
+
+#### **4. Pregunta por Inicio y evolución temporal del cuadro**  
+- **Fecha y hora exacta de inicio**: 3/3  
+  - *"¿Podría decirme exactamente cuándo notó por primera vez estos síntomas? ¿Fecha y 
+hora exacta?"* → Equivale a "Pregunta si recuerda el día y la hora cuando empezó".  
+- **Forma de inicio (brusco/progresivo)**: 2/2  
+  - *"¿Cómo describiría el inicio? ¿fue algo brusco... o más bien progresivo?"* → Cumple 
+con "Indaga inicio súbito".  
+- **Evolución (mejoría/empeoramiento)**: 0/2  
+  - No se pregunta.  
+- **Episodios previos similares**: 0/3  
+  - No se pregunta.  
+- **Total**: 5/10  
+
+---
+
+#### **5. Pregunta por signos y síntomas**  
+- **Lateralidad**: 0/1  
+  - El paciente menciona "parte derecha de mi cara", pero la doctora no pregunta 
+explícitamente.  
+- **Cierre palpebral**: 2/2  
+  - *"¿Puede intentar cerrar el ojo derecho sin ayuda?"* → Cumple con "Pregunta cierre 
+incompleto".  
+- **Simetría de la sonrisa**: 0/2  
+  - El paciente describe el síntoma, pero la doctora no pregunta directamente.  
+- **Baboseo/escape de líquidos**: 0/2  
+  - No se aborda.  
+- **Alteración del habla**: 0/1  
+  - No se aborda.  
+- **Total**: 2/8  
+
+---
+
+#### **6. Pregunta por signos y síntomas sensitivos faciales**  
+- **Dolor retroauricular**: 0/3  
+  - No se pregunta.  
+- **Cefalea asociada**: 0/2  
+  - No se pregunta.  
+- **Alteraciones de la sensibilidad**: 0/2  
+  - El paciente menciona "adormecida", pero la doctora no pregunta explícitamente.  
+- **Total**: 0/7  
+
+---
+
+#### **7. Pregunta por Síntomas otológicos y ORL**  
+- **Otalgia/otorrea**: 0/2  
+- **Hipoacusia**: 0/3  
+- **Hiperacusia**: 0/1  
+- **Acúfenos**: 0/1  
+- **Vértigo**: 0/2  
+- **Otitis reciente**: 0/1  
+- **Total**: 0/10  
+
+---
+
+#### **8. Otros síntomas por afectación del nervio facial**  
+- **Alteración del gusto**: 0/2  
+- **Sequedad ocular**: 0/2  
+- **Alteración de la salivación**: 0/2  
+- **Vesículas en lengua**: 0/1  
+- **Total**: 0/7  
+
+---
+
+#### **9. Síntomas neurológicos asociados (Red flags)**  
+- **Déficit motor**: 0/3  
+- **Trastornos del lenguaje**: 0/2  
+- **Alteraciones visuales**: 0/1  
+- **Trastorno de la marcha**: 0/1  
+- **Disfagia**: 0/2  
+- **Alteración de conciencia**: 0/1  
+- **Total**: 0/10  
+
+---
+
+#### **10. Repercusión funcional social y calidad de vida**  
+- **Impacto en el habla**: 0/1  
+- **Visión/ojo seco**: 0/1  
+- **Actividad laboral**: 0/1  
+- **Total**: 0/3  
+
+---
+
+#### **11. Factores desencadenantes**  
+- **Infección viral**: 0/2  
+  - El paciente menciona el resfriado, pero la doctora no pregunta directamente.  
+- **Exposición a frío**: 0/1  
+- **Estrés intenso**: 0/1  
+- **Traumatismo**: 0/1  
+- **Procedimientos dentales**: 0/1  
+- **Total**: 0/6  
+
+---
+
+#### **12. Síntomas generales**  
+- **Fiebre**: 0/2  
+- **Malestar general**: 0/2  
+- **Total**: 0/4  
+
+---
+
+#### **13. Antecedentes personales**  
+- **Episodios previos**: 0/3  
+- **Enfermedades previas**: 0/4  
+- **Total**: 0/7  
+
+---
+
+#### **14. Tratamientos, cirugías y medicación**  
+- **Cirugías previas**: 0/2  
+- **Tratamientos actuales**: 0/2  
+- **Medicación reciente**: 0/1  
+- **Total**: 0/5  
+
+---
+
+#### **15. Contexto social, laboral y hábitos**  
+- **Profesión**: 0/1  
+- **Tabaco**: 0/1  
+- **Alcohol**: 0/1  
+- **Drogas**: 0/1  
+- **Vacunas**: 0/1  
+- **Antecedentes familiares**: 0/2  
+- **Total**: 0/7  
+
+---
+
+### **Puntuación Total**  
+**20/100**  
+
+### **Observaciones**  
+- **Fortalezas**:  
+  - La doctora se presenta claramente y obtiene datos básicos (nombre, edad).  
+  - Realiza una pregunta abierta inicial y explora el inicio del cuadro (fecha, hora, 
+forma de aparición).  
+  - Evalúa signos clave como el cierre palpebral.  
+
+- **Áreas de mejora**:  
+  - No aborda antecedentes personales, hábitos, síntomas sistémicos ni factores de 
+riesgo (p. ej., estrés, infecciones).  
+  - Omite la exploración de síntomas neurológicos, otológicos y de repercusión 
+funcional.  
+  - Debe profundizar en la evolución del cuadro y síntomas asociados (p. ej., alteración 
+del gusto, sequedad ocular).  
+
+**Recomendación**: La anamnesis debe ser más estructurada para cubrir todos los aspectos 
+críticos en un caso de parálisis facial (p. ej., descartar causas neurológicas o 
+infecciosas).
+

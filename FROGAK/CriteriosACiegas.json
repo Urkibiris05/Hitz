@@ -1,0 +1,251 @@
+{
+  "Se presenta e indica el motivo de la entrevista": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Se presenta al paciente": {
+        "PuntosPregunta": 3
+      },
+      "Explica el motivo de la entrevista": {
+        "PuntosPregunta": 2
+      }
+    }
+  },
+  "Identifica al paciente y obtiene datos de filiación": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Pregunta el Nombre al paciente": {
+        "PuntosPregunta": 1
+      },
+      "Pregunta su edad": {
+        "PuntosPregunta": 1
+      },
+      "Estado civil": {
+        "PuntosPregunta": 1
+      },
+      "Procedencia / residencia": {
+        "PuntosPregunta": 1
+      },
+      "Ocupación": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Pregunta por Motivo de consulta y a que lo atribuye": {
+    "Puntos totales": 6,
+    "Subpuntos": {
+      "Pregunta abierta por el motivo de consulta": {
+        "PuntosPregunta": 3
+      },
+      "A qué atribuye el paciente el problema": {
+        "PuntosPregunta": 3
+      }
+    }
+  },
+  "Pregunta por Inicio y evolución temporal del cuadro y episodios similares": {
+    "Puntos totales": 10,
+    "Subpuntos": {
+      "Fecha y hora exacta de inicio": {
+        "PuntosPregunta": 3
+      },
+      "Forma de inicio: brusco / progresivo": {
+        "PuntosPregunta": 2
+      },
+      "Evolución: estable / mejoría / empeoramiento": {
+        "PuntosPregunta": 2
+      },
+      "Episodios previos similares": {
+        "PuntosPregunta": 3
+      }
+    }
+  },
+  "Pregunta por signos y síntomas": {
+    "Puntos totales": 8,
+    "Subpuntos": {
+      "Lateralidad: unilateral / bilateral": {
+        "PuntosPregunta": 1
+      },
+      "Pregunta si puede cerrar el ojo": {
+        "PuntosPregunta": 2
+      },
+      "Pregunta por Simetría de la sonrisa": {
+        "PuntosPregunta": 2
+      },
+      "Baboseo / escape de líquidos": {
+        "PuntosPregunta": 2
+      },
+      "Alteración del habla": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Pregunta por signos y síntomas sensitivos faciales": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Dolor retroauricular": {
+        "PuntosPregunta": 3
+      },
+      "Cefalea asociada": {
+        "PuntosPregunta": 2
+      },
+      "Alteraciones de la sensibilidad facial": {
+        "PuntosPregunta": 2
+      }
+    }
+  },
+  "Pregunta por Síntomas otológicos y ORL": {
+    "Puntos totales": 10,
+    "Subpuntos": {
+      "Otalgia/otorrea": {
+        "PuntosPregunta": 2
+      },
+      "Hipoacusia": {
+        "PuntosPregunta": 3
+      },
+      "Hiperacusia": {
+        "PuntosPregunta": 1
+      },
+      "Acúfenos": {
+        "PuntosPregunta": 1
+      },
+      "Vértigo o inestabilidad": {
+        "PuntosPregunta": 2
+      },
+      "Otitis reciente": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Pregunta por otros Síntomas por afectación del nervio facial": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Alteración del gusto": {
+        "PuntosPregunta": 2
+      },
+      "Sequedad ocular menos lagrimeo": {
+        "PuntosPregunta": 2
+      },
+      "Alteración de la salivación": {
+        "PuntosPregunta": 2
+      },
+      "Ha notado algo en la lengua le han salido vesículas": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Pregunta por Síntomas neurológicos asociados  Red flags": {
+    "Puntos totales": 10,
+    "Subpuntos": {
+      "Déficit motor en extremidades": {
+        "PuntosPregunta": 3
+      },
+      "Trastornos del lenguaje": {
+        "PuntosPregunta": 2
+      },
+      "Alteraciones visuales": {
+        "PuntosPregunta": 1
+      },
+      "Trastorno de la marcha o coordinación": {
+        "PuntosPregunta": 1
+      },
+      "Disfagia": {
+        "PuntosPregunta": 2
+      },
+      "Alteración del nivel de conciencia o convulsiones": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Pregunta por la Repercusión funcional social y calidad de vida": {
+    "Puntos totales": 3,
+    "Subpuntos": {
+      "Impacto en el habla": {
+        "PuntosPregunta": 1
+      },
+      "Visión / ojo seco": {
+        "PuntosPregunta": 1
+      },
+      "Actividad laboral o social": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Pregunta por posibles Factores desencadenantes y precipitantes": {
+    "Puntos totales": 6,
+    "Subpuntos": {
+      "Infección viral reciente": {
+        "PuntosPregunta": 2
+      },
+      "Exposición a frío o corrientes de aire": {
+        "PuntosPregunta": 1
+      },
+      "Estrés intenso": {
+        "PuntosPregunta": 1
+      },
+      "Traumatismo craneoencefálico": {
+        "PuntosPregunta": 1
+      },
+      "Procedimientos dentales o cirugía reciente": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Pregunta por Síntomas generales": {
+    "Puntos totales": 4,
+    "Subpuntos": {
+      "Fiebre": {
+        "PuntosPregunta": 2
+      },
+      "Malestar general": {
+        "PuntosPregunta": 2
+      }
+    }
+  },
+  "Pregunta por Antecedentes personales": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Episodios previos de parálisis facial": {
+        "PuntosPregunta": 3
+      },
+      "Enfermedades que ha padecido": {
+        "PuntosPregunta": 4
+      }
+    }
+  },
+  "Pregunta por Tratamientos, cirugías y medicación": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Cirugías previas relevantes": {
+        "PuntosPregunta": 2
+      },
+      "Tratamientos actuales": {
+        "PuntosPregunta": 2
+      },
+      "Medicación reciente o crónica": {
+        "PuntosPregunta": 1
+      }
+    }
+  },
+  "Indaga sobre el Contexto social, laboral y hábitos + antecedentes familiares": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Profesión y exposiciones laborales": {
+        "PuntosPregunta": 1
+      },
+      "Tabaco": {
+        "PuntosPregunta": 1
+      },
+      "Alcohol": {
+        "PuntosPregunta": 1
+      },
+      "Drogas": {
+        "PuntosPregunta": 1
+      },
+      "Vacunas": {
+        "PuntosPregunta": 1
+      },
+      "Antecedentes familiares neurológicos o parálisis facial": {
+        "PuntosPregunta": 2
+      }
+    }
+  }
+}
