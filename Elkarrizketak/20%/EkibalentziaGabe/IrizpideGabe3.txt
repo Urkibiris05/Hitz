@@ -1,0 +1,208 @@
+Doctor: Hola, siéntese. Dígame su nombre y su edad, por favor.
+Paciente: Me llamo Carlos y tengo 45 años.
+Doctor: Muy bien, Carlos. ¿Qué es lo que le trae por aquí hoy?
+Paciente: Pues me he levantado esta mañana y he notado que la mitad de la cara no se me mueve bien. Me asusté bastante pensando que era un ictus.
+Doctor: Ya veo. ¿De qué lado es la debilidad?
+Paciente: Del lado derecho, noto el labio caído y me cuesta hablar un poco.
+Doctor: A ver, míreme. Intente sonreír enseñando los dientes... Vale, sí, hay una clara asimetría. Ahora intente cerrar los ojos con mucha fuerza.
+Paciente: (Lo intenta) Este del lado derecho no cierra del todo, ¿verdad? Noto que me entra luz.
+Doctor: Exacto, no cierra bien. ¿Le duele el oído de ese lado derecho o le supura?
+Paciente: No, el oído está perfectamente, no me duele nada.
+Doctor: De acuerdo. ¿Padece alguna enfermedad importante, como diabetes, hipertensión o problemas de corazón?
+Paciente: Que yo sepa, no. Siempre he estado bastante sano.
+Doctor: ¿Está con algún tratamiento médico actualmente o toma alguna medicación crónica?
+Paciente: Nada, solo me tomo algún paracetamol de vez en cuando si me duele la cabeza, pero nada diario.
+Doctor: Bueno, pues todo apunta a una parálisis facial periférica. Le voy a recetar unos corticoides para la inflamación y unas gotas para protegerle el ojo derecho. Puede pasar por recepción a por el alta.
+
+PUNTUAZIOAK
+
+Gemini 3.1 Pro (sortzailea) --> 19 puntu
+
+Esta conversación suma aproximadamente 19 puntos (19%). El médico va directo al grano pero omite la presentación formal, antecedentes sociales, signos de alarma (red flags) y la evolución temporal detallada.
+
+Criterios cumplidos en este diálogo: Nombre (1), Edad (1), Pregunta abierta por motivo (3), Lateralidad (1), Simetría de la sonrisa (2), Cierre del ojo (2), Otalgia (2), Enfermedades previas (4), Tratamientos actuales (2), Medicación (1).
+
+gpt-oss:120b-cloud --> 15 puntu
+
+## Evaluación del médico (puntuación / máximo)
+
+| Área evaluada | Puntos conseguidos | Puntos máximos | Comentario |
+|---------------|-------------------|----------------|------------|
+| **1. Se presenta e indica el motivo de la entrevista** | **0 / 5** | 5 | No se
+identifica (nombre/rol) ni explica el objetivo de la entrevista. |
+| **2. Identifica al paciente y obtiene datos de filiación** | **2 / 5** | 5 |
+Preguntó nombre y edad (2 pts). No indagó estado civil, residencia ni ocupación.
+|
+| **3. Pregunta por motivo de consulta y a qué lo atribuye** | **3 / 6** | 6 |
+Preguntó abierto “¿Qué le trae por aquí?” (3 pts). No preguntó a qué atribuye el
+paciente el problema (0 pts). |
+| **4. Pregunta por inicio y evolución temporal del cuadro y episodios
+similares** | **0 / 10** | 10 | No se indagó fecha/hora exacta, forma de inicio,
+evolución ni episodios previos. |
+| **5. Pregunta por signos y síntomas (faciales)** | **1 / 8** | 8 | Preguntó
+lateralidad (“¿De qué lado es la debilidad?”) (1 pt). No preguntó cierre
+palpebral, simetría de sonrisa, baboseo, alteración del habla. |
+| **6. Signos y síntomas sensitivos faciales** | **0 / 7** | 7 | No se preguntó
+dolor retro‑auricular, cefalea ni alteraciones de sensibilidad facial. |
+| **7. Síntomas otológicos y ORL** | **2 / 10** | 10 | Preguntó dolor de oído
+(2 pts). No se abordó hipoacusia, hiperacusia, acúfenos, vértigo, otitis
+reciente. |
+| **8. Otros síntomas por afectación del nervio facial** | **0 / 7** | 7 | No se
+preguntó alteración del gusto, sequedad ocular, salivación ni vesículas en la
+lengua. |
+| **9. Síntomas neurológicos asociados (red‑flags)** | **0 / 10** | 10 | No se
+indagó déficit motor en extremidades, trastornos del lenguaje, alteraciones
+visuales, marcha, disfagia ni alteración de conciencia. |
+| **10. Repercusión funcional, social y calidad de vida** | **0 / 3** | 3 | No
+se preguntó impacto en el habla, visión/ ojo seco ni en la actividad
+laboral/social. |
+| **11. Factores desencadenantes y precipitantes** | **0 / 6** | 6 | No se
+preguntó infecciones virales recientes, exposición al frío, estrés, traumatismo
+craneoencefálico ni procedimientos dentales/quirúrgicos recientes. |
+| **12. Síntomas generales** | **0 / 4** | 4 | No se preguntó fiebre ni malestar
+general. |
+| **13. Antecedentes personales** | **4 / 7** | 7 | Preguntó enfermedades
+importantes (4 pts). No indagó episodios previos de parálisis facial (0 pts). |
+| **14. Tratamientos, cirugías y medicación** | **3 / 5** | 5 | Preguntó
+tratamientos actuales (2 pts) y medicación crónica (1 pt). No preguntó cirugías
+previas. |
+| **15. Contexto social, laboral, hábitos y antecedentes familiares** |
+**0 / 7** | 7 | No se preguntó ocupación, tabaquismo, alcohol, drogas, vacunas
+ni antecedentes familiares neurológicos. |
+
+**Puntuación total:** **15 / 100**
+
+qwen3-vl:235b-cloud --> 19 puntu
+
+**Evaluación de la Consulta Médica según los Criterios Proporcionados**
+**Puntuación Total: 19/100**
+
+---
+
+### **1. Se presenta e indica el motivo de la entrevista**
+- **Se presenta al paciente**: **0/3**
+  *El médico no se identifica (nombre, rol profesional, especialidad) ni saluda
+indicando quién es.*
+- **Explica el motivo de la entrevista**: **0/2**
+  *No justifica el interrogatorio ni explica que la conversación busca entender
+el problema del paciente.*
+  **Total: 0/5**
+
+---
+
+### **2. Identifica al paciente y obtiene datos de filiación**
+- **Nombre**: **1/1** (Pregunta "Dígame su nombre").
+- **Edad**: **1/1** (Pregunta "su edad").
+- **Estado civil**: **0/1** (No indaga).
+- **Procedencia/residencia**: **0/1** (No pregunta dónde vive).
+- **Ocupación**: **0/1** (No explora profesión o situación laboral).
+  **Total: 2/5**
+
+---
+
+### **3. Pregunta por Motivo de consulta y a qué lo atribuye**
+- **Motivo de consulta (pregunta abierta)**: **3/3** (Pregunta: "¿Qué es lo que
+le trae por aquí hoy?").
+- **Atribución del problema por el paciente**: **0/3** (No pregunta: "¿Qué
+piensa que causó esto?").
+  **Total: 3/6**
+
+---
+
+### **4. Inicio y evolución temporal del cuadro**
+- **Fecha/hora de inicio**: **0/3** (No explora exactitud temporal).
+- **Forma de inicio (brusco/progresivo)**: **0/2** (No indaga).
+- **Evolución (mejoría/empeoramiento)**: **0/2** (No pregunta tendencia
+clínica).
+- **Episodios previos**: **0/3** (No explora antecedentes similares).
+  **Total: 0/10**
+
+---
+
+### **5. Signos y síntomas**
+- **Lateralidad**: **1/1** (Pregunta: "¿De qué lado es la debilidad?").
+- **Cierre palpebral**: **2/2** (Evalúa: "Intente cerrar los ojos con fuerza").
+
+- **Simetría de la sonrisa**: **2/2** (Evalúa: "Intente sonreír enseñando los
+dientes").
+- **Baboseo/escape de líquidos**: **0/2** (No pregunta).
+- **Alteración del habla**: **0/1** (No explora cambios en la pronunciación).
+  **Total: 5/8**
+
+---
+
+### **6. Signos sensitivos faciales**
+- **Dolor retroauricular**: **0/3** (No pregunta).
+- **Cefalea asociada**: **0/2** (No indaga).
+- **Alteraciones sensitivas**: **0/2** (No explora hormigueo o adormecimiento).
+
+  **Total: 0/7**
+
+---
+
+### **7. Síntomas otológicos y ORL**
+- **Otalgia/otorrea**: **2/2** (Pregunta: "¿Le duele el oído o le supura?").
+- **Hipoacusia**: **0/3** (No pregunta por pérdida auditiva).
+- **Hiperacusia/Acúfenos/Vértigo**: **0/5** (No aborda estos síntomas).
+  **Total: 2/10**
+
+---
+
+### **8. Otros síntomas por afectación del nervio facial**
+- **Alteración del gusto/salivación/ojo seco**: **0/7** (No explora estos
+síntomas).
+  **Total: 0/7**
+
+---
+
+### **9. Síntomas neurológicos asociados (Red Flags)**
+- **Déficit motor, lenguaje, visión, etc.**: **0/10**
+  *No indaga sobre debilidad en extremidades, disfagia, alteraciones visuales o
+nivel de conciencia.*
+  **Total: 0/10**
+
+---
+
+### **10. Repercusión funcional y calidad de vida**
+- **Impacto en habla/visión/actividad laboral**: **0/3** (No explora
+limitaciones sociales o laborales).
+  **Total: 0/3**
+
+---
+
+### **11. Factores desencadenantes**
+- **Infección viral, estrés, traumatismo, etc.**: **0/6** (No pregunta por
+posibles causas).
+  **Total: 0/6**
+
+---
+
+### **12. Síntomas generales**
+- **Fiebre/malestar**: **0/4** (No indaga síntomas sistémicos).
+  **Total: 0/4**
+
+---
+
+### **13. Antecedentes personales**
+- **Episodios previos de parálisis facial**: **0/3** (No pregunta).
+- **Enfermedades previas**: **4/4** (Pregunta: "¿Padece alguna enfermedad
+importante?").
+  **Total: 4/7**
+
+---
+
+### **14. Tratamientos, cirugías y medicación**
+- **Cirugías previas**: **0/2** (No explora antecedentes quirúrgicos).
+- **Tratamientos actuales**: **2/2** (Pregunta: "¿Está con algún tratamiento
+médico?").
+- **Medicación crónica**: **1/1** (Confirma uso de paracetamol ocasional).
+  **Total: 3/5**
+
+---
+
+### **15. Contexto social, hábitos y antecedentes familiares**
+- **Profesión, tabaco, alcohol, drogas, vacunas, familiares**: **0/7** (No
+aborda estos temas).
+  **Total: 0/7**
+
+---
