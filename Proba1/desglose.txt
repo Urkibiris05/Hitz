@@ -1,0 +1,54 @@
+Desglose de Errores Detectados
+
+Aquí tienes los errores específicos que han penalizado la puntuación, organizados por tipo:
+1. Sustituciones (S): 12 palabras cambiadas
+
+    "...trae hoy a..." → "...traigo a la..." (Sustitución de "hoy" por "la")
+
+    "...cómo empezó..." → "...como empecé..."
+
+    "...síntomas aparecieron..." → "...síntomas aparecían..."
+
+    "Fueron bastante rápidos" → "Estaban bastante rápidos"
+
+    "...diría que está igual..." → "...diría que esté igual..."
+
+    "...lagrimeo..." → "...lagrime..."
+
+    "¿En qué trabaja usted?" → "¿En qué trabajo usted?"
+
+    "...se me escapa la saliva..." → "...se me escapa las saliva..."
+
+    "...cuando atiendo a clientes..." → "...cuando tienes a clientes..."
+
+    "...y evito mirar..." → "...y evitar mirar..."
+
+    "Tengo hipertensión..." → "No hipertensión..."
+
+    "...intervención dental..." → "...intervención de tal..." (Cuenta como sustitución e inserción)
+
+2. Eliminaciones (D): 8 palabras omitidas
+
+    Ovisión de "cuando intenta sonreír" (3 palabras) antes de preguntar por la boca desviada.
+
+    "se va claramente hacia el izquierdo" (omisión de "claramente").
+
+    "...lado afectado completamente" (omisión de "completamente").
+
+3. Inserciones (I): 7 palabras añadidas
+
+    "...empecé a todo" (inserción de "a").
+
+    "...en la parte de la lengua" (inserción de "la").
+
+    "...siento el ojo que se me..." (reordenación que genera inserción).
+
+    "...comenzar el tratamiento..." (inserción de "el").
+
+    "...explique con todo tan claro" (inserción de "con").
+
+Conclusión
+
+Un 5.91% de WER es un resultado excelente para un sistema de transcripción automática o manual. En la industria del habla (STT), cualquier valor por debajo del 10% se considera de "alta calidad" y es perfectamente comprensible para un lector humano.
+
+¿Te gustaría que analice otra transcripción o que genere un informe en formato tabla con la comparativa palabra por palabra?
