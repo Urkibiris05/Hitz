@@ -1,0 +1,252 @@
+1
+00:00:00,000 --> 00:00:08,000
+Buenos días, soy el doctor Méndez, otorreonolaringólogo, siéntese, voy a realizarle una serie de preguntas para evaluar su caso.
+
+2
+00:00:08,000 --> 00:00:09,000
+Gracias doctor.
+
+3
+00:00:09,000 --> 00:00:13,000
+Para el registro, dígame su nombre completo, edad, estado civil y dónde vive.
+
+4
+00:00:13,000 --> 00:00:17,000
+Juan Pérez, 45 años, casado, vivo en Madrid.
+
+5
+00:00:17,000 --> 00:00:18,000
+¿En qué trabaja usted?
+
+6
+00:00:18,000 --> 00:00:19,000
+Soy comercial.
+
+7
+00:00:19,000 --> 00:00:21,000
+Bien, ¿qué le ocurre exactamente?
+
+8
+00:00:21,000 --> 00:00:23,000
+Tengo la cara paralizada.
+
+9
+00:00:23,000 --> 00:00:24,000
+¿A qué cree que se debe?
+
+10
+00:00:24,000 --> 00:00:26,000
+No lo sé, la verdad.
+
+11
+00:00:26,000 --> 00:00:28,000
+Dígame fecha y hora exacta al inicio.
+
+12
+00:00:28,000 --> 00:00:30,000
+Ayer lunes a las ocho de la mañana.
+
+13
+00:00:30,000 --> 00:00:32,000
+¿Empezó de golpe o fue poco a poco?
+
+14
+00:00:32,000 --> 00:00:34,000
+Fue súbito, de golpe.
+
+15
+00:00:34,000 --> 00:00:37,000
+¿Ha notado mejoría, empeoramiento o sigue igual?
+
+16
+00:00:37,000 --> 00:00:38,000
+Sigue igual.
+
+17
+00:00:38,000 --> 00:00:40,000
+¿La había pasado antes?
+
+18
+00:00:40,000 --> 00:00:41,000
+No, nunca.
+
+19
+00:00:41,000 --> 00:00:43,000
+Vamos a buscar causas.
+
+20
+00:00:43,000 --> 00:00:46,000
+¿Ha pasado frío o ha estado en corrientes de aire recientemente?
+
+21
+00:00:46,000 --> 00:00:48,000
+Sí, ayer iba moto con la visera abierta.
+
+22
+00:00:48,000 --> 00:00:51,000
+¿Ha tenido alguna infección viral, gripe o fiebre estos días?
+
+23
+00:00:51,000 --> 00:00:52,000
+No.
+
+24
+00:00:52,000 --> 00:00:55,000
+¿Ha tenido mucho estrés o algún golpe en la cabeza?
+
+25
+00:00:55,000 --> 00:00:57,000
+Estrés sí, mucho trabajo.
+
+26
+00:00:57,000 --> 00:01:01,000
+¿Ha ido al dentista o le han operado de algo recientemente?
+
+27
+00:01:01,000 --> 00:01:02,000
+No.
+
+28
+00:01:02,000 --> 00:01:04,000
+Vamos a explorar la cara.
+
+29
+00:01:04,000 --> 00:01:07,000
+Dígame, ¿cuál es el lado afectado, derecho o izquierdo?
+
+30
+00:01:07,000 --> 00:01:08,000
+El derecho.
+
+31
+00:01:08,000 --> 00:01:10,000
+Por favor, intenté cerrar los ojos fuerte.
+
+32
+00:01:10,000 --> 00:01:12,000
+Lo intenté, el derecho no cierro.
+
+33
+00:01:12,000 --> 00:01:15,000
+Ahora intenté sonreír enseñando los dientes.
+
+34
+00:01:15,000 --> 00:01:17,000
+No se mueve el audio derecho.
+
+35
+00:01:17,000 --> 00:01:20,000
+¿Rota que se escapa la saliva o le cuesta pronunciar?
+
+36
+00:01:20,000 --> 00:01:23,000
+Sí, se me cae el agua y hablo un poco mal.
+
+37
+00:01:23,000 --> 00:01:25,000
+¿Síntomas sensitivos? ¿Le duele detrás de la oreja?
+
+38
+00:01:25,000 --> 00:01:27,000
+Sí, un dolor punzante.
+
+39
+00:01:27,000 --> 00:01:29,000
+¿Nota la cara acorchada o dormida?
+
+40
+00:01:29,000 --> 00:01:31,000
+Sí, la mejilla.
+
+41
+00:01:31,000 --> 00:01:33,000
+¿Tiene dolor de cabeza?
+
+42
+00:01:33,000 --> 00:01:34,000
+No.
+
+43
+00:01:34,000 --> 00:01:36,000
+¿Le duele dentro del oído o le supura?
+
+44
+00:01:36,000 --> 00:01:37,000
+No.
+
+45
+00:01:37,000 --> 00:01:39,000
+¿Oye menos o tiene zumbidos?
+
+46
+00:01:39,000 --> 00:01:41,000
+Oigo bien, pero tengo un pitido constante.
+
+47
+00:01:41,000 --> 00:01:43,000
+¿Le molestan los ruidos fuertes?
+
+48
+00:01:43,000 --> 00:01:45,000
+Sí, mucho.
+
+49
+00:01:45,000 --> 00:01:47,000
+¿Siente vértigo o inestabilidad?
+
+50
+00:01:47,000 --> 00:01:48,000
+No.
+
+51
+00:01:48,000 --> 00:01:50,000
+¿Ha notado cambios en el gusto?
+
+52
+00:01:50,000 --> 00:01:52,000
+La comida me sabe de metal.
+
+53
+00:01:52,000 --> 00:01:54,000
+¿Nota el ojo seco o le llora?
+
+54
+00:01:54,000 --> 00:01:55,000
+No.
+
+55
+00:01:55,000 --> 00:01:57,000
+¿Antecedentes familiares de parálisis?
+
+56
+00:01:57,000 --> 00:01:58,000
+No.
+
+57
+00:01:58,000 --> 00:02:00,000
+¿Fuma, bebe alcohol o consume drogas?
+
+58
+00:02:00,000 --> 00:02:03,000
+Fumo medio paquete, alcohol es ocasional, drogas no.
+
+59
+00:02:03,000 --> 00:02:05,000
+¿Alguna enfermedad importante o alergia?
+
+60
+00:02:05,000 --> 00:02:07,000
+Hipertensión.
+
+61
+00:02:07,000 --> 00:02:08,000
+¿Toma dedicación habitual?
+
+62
+00:02:08,000 --> 00:02:10,000
+En alapril.
+
+63
+00:02:10,000 --> 00:02:12,000
+Perfecto, la recetare corticoides.
+
