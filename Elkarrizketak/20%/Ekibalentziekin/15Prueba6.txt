@@ -54,7 +54,7 @@ gpt-oss:120b-cloud --> 16
 | Contexto social | 3/7
 | **TOTAL** | **16/100**
 
-qwen3-vl:235b-cloud -->
+qwen3-vl:235b-cloud --> 16
 
 ### **1. Se presenta e indica el motivo de la entrevista**
 - **Se presenta al paciente**: **3/3**
