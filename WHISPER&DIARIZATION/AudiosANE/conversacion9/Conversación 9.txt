@@ -1,0 +1,121 @@
+[DOCTOR]: Conversación 9.
+[DOCTOR]: Buenos días, yo soy la doctora Gayastegui y hoy voy a ser su otorrino.
+[DOCTOR]: ¿Me podría decir su nombre?
+[PACIENTE]: Buenos días, mi nombre es Ignacio.
+[DOCTOR]: Vale, Ignacio, antes de nada me gustaría preguntarle un par de cosas.
+[DOCTOR]: ¿Cuántos años tiene?
+[PACIENTE]: Tengo 76 años, pero puedo estudiarme sin problema, así estoy más cómodo.
+[DOCTOR]: Genial, como tú estés más cómodo.
+[DOCTOR]: Otra pregunta, ¿de dónde eres?
+[PACIENTE]: Yo soy del país vasco y he vivido aquí toda la vida.
+[DOCTOR]: Muy bien, ¿estás casado?
+[PACIENTE]: Sí, he venido aquí con mi mujer.
+[PACIENTE]: Me estoy esperando en la sala de espera.
+[DOCTOR]: ¿Qué suerte hay la tuya?
+[DOCTOR]: Cuéntame qué te trae por aquí.
+[PACIENTE]: Pues mira doctora, llevo un tiempo sin poder mover bien la cara.
+[PACIENTE]: No puedo sonreír ni mover el ojo.
+[DOCTOR]: Vale, ya veo el problema y antes de comenzar la exploración voy a hacerte unas preguntas para intentar averiguar qué te pasa.
+[DOCTOR]: ¿Te parece bien?
+[PACIENTE]: Sí, claro.
+[PACIENTE]: Pregunta lo que quieras.
+[DOCTOR]: Lo primero que querría saber es desde hace cuánto empezaste a notar que no podías mover bien la cara.
+[PACIENTE]: Pues no sabría decirte con exactitud, sobre diciembre empezó.
+[DOCTOR]: Vale, pues hace unos tres meses aproximadamente.
+[DOCTOR]: ¿Dirías que el comienzo fue brusco o progresivo?
+[PACIENTE]: Progresivo, ha ido poco a poco a más.
+[DOCTOR]: Y por lo que dices entiendo que ha ido empeorando progresivamente.
+[PACIENTE]: Eso es, al inicio era casi imperceptible, en cambio ahora se nota bastante.
+[DOCTOR]: ¿Sabrías decirme si en algún momento ha ido a mejor?
+[PACIENTE]: Yo diría que no.
+[DOCTOR]: Vale, y veo que solo tienes el lado derecho afectado, ¿en algún momento te ha pasado lo mismo en el otro?
+[PACIENTE]: No, siempre ha sido en el mismo lodo.
+[DOCTOR]: Vale, ¿y alguna vez en tu vida has tenido síntomas similares o es la primera vez que te ocurre?
+[PACIENTE]: Nunca que yo recuerde, esto es una cosa rarísima.
+[DOCTOR]: Genial Ignacio, pues ahora quiero que intentes recordar estos últimos meses y pienses en otros síntomas que hayas podido tener a la vez.
+[DOCTOR]: Por ejemplo, ¿has tenido dolor en el oído o detrás del oído?
+[PACIENTE]: No.
+[DOCTOR]: ¿Y secreciones?
+[DOCTOR]: Tampoco.
+[DOCTOR]: ¿Y has tenido la sensación de tener el oído lleno o taponado?
+[PACIENTE]: Eso tampoco me ha pasado.
+[DOCTOR]: Y también querría saber si te has visto en algún momento manchitas o granitas en el oído, tanto dentro como fuera.
+[DOCTOR]: Qué va.
+[DOCTOR]: ¿Y qué tal tienes el ojo?
+[DOCTOR]: ¿Has notado estos meses el ojo más seco o con más lágrimas de lo normal?
+[PACIENTE]: Nada, no he notado nada.
+[DOCTOR]: ¿Has notado cambios en la salivación, como tener la boca muy seca o, por el contrario, producir demasiada saliva?
+[PACIENTE]: No lo sé, quizás un poco, pero no es nada evidente.
+[DOCTOR]: ¿Y notas que los alimentos saben diferente o has perdido algo de gusto?
+[PACIENTE]: Sí, eso sí me ha pasado.
+[PACIENTE]: Últimamente la comida me sale menos.
+[DOCTOR]: ¿Y sabrías decirme si esto te pasa en toda la lengua o hay en alguna zona que te llame más la atención?
+[PACIENTE]: Pues diría que por la zona delantera más que la trasera.
+[DOCTOR]: Vale, Ignacio, esto que me cuentas es muy útil.
+[DOCTOR]: ¿Qué tal estás oyendo últimamente?
+[PACIENTE]: Pues, llevo un tiempo oyendo peor, pero esto viene de mucho antes que diciembre.
+[DOCTOR]: Vale, y además de notar que oyes peor, ¿sueles escuchar pitidos en el oído?
+[PACIENTE]: Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy escuchando nada.
+[PACIENTE]: Por ejemplo, me ha pasado alguna vez estando en la cama a la noche.
+[PACIENTE]: Ahí sí que noto un pitido, incluso cuando está todo en silencio.
+[DOCTOR]: Muy bien Ignacio, vamos avanzando.
+[DOCTOR]: Además de los síntomas de oído y audición, ¿has notado algún síntoma general como, por ejemplo, fiebre, malestar o dolor de cabeza?
+[PACIENTE]: Nada de eso.
+[DOCTOR]: ¿Y algo raro como debilidad, perdida de fuerza o cambios en la sensibilidad?
+[DOCTOR]: O bueno, cualquier cosa fuera la habitual.
+[PACIENTE]: Pues lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+[DOCTOR]: Vale, esto es interesante.
+[DOCTOR]: ¿Con desequilibrio a qué te refieres?
+[DOCTOR]: ¿Andar inseguro?
+[PACIENTE]: Sí, a eso me refiero.
+[PACIENTE]: Andar con sensación de que me voy a caer.
+[PACIENTE]: ¿Tiene sentido?
+[DOCTOR]: Tiene mucho sentido, vamos genial Ignacio.
+[DOCTOR]: Quiero que intentes recordar diciembre y me digas si asocias algo al comienzo de síntomas.
+[DOCTOR]: Algo fuera de lo normal que haya podido desencadenar esto, por ejemplo.
+[DOCTOR]: ¿Estuviste más estresado de lo normal?
+[PACIENTE]: No, el estrés habitual de las navidades, pero nada más.
+[DOCTOR]: Otras cosas que pueden afectar son los golpes y cirugías en la cabeza.
+[DOCTOR]: En tu historial no veo que hayas tenido ninguno, ¿pero te has podido dar algún golpe en la cabeza recientemente?
+[PACIENTE]: Tampoco, me caí una vez pero solo me golpeé en la rodilla.
+[PACIENTE]: Eso no tiene que ver, ¿no?
+[DOCTOR]: En principio no debería.
+[DOCTOR]: ¿Tuviste algún resfriado, gripe u otra infección viral por aquel tiempo?
+[PACIENTE]: Sí, estuve resfriado.
+[DOCTOR]: ¿Y tuviste alguna otra infección?
+[DOCTOR]: Por ejemplo, COVID, varícelo o herpes.
+[PACIENTE]: No, de eso no tuve nada.
+[DOCTOR]: Y el diciembre pasado fue un mes frío.
+[DOCTOR]: ¿Recuerdas si estuviste mucho tiempo expuesto a frío o corrientes de aire?
+[PACIENTE]: Yo te diría que no.
+[PACIENTE]: Solo iba a pasear, pero voy siempre bien abrigado.
+[DOCTOR]: Bueno Ignacio, vamos a hablar de tus antecedentes.
+[DOCTOR]: Además de nunca haber tenido esta parálisis, ¿tienes alguna otra enfermedad que debamos conocer?
+[PACIENTE]: Tengo diabetes.
+[DOCTOR]: Vale, y aparte de la diabetes, ¿has tenido algunos problemas respiratorios o enfermedades de pulmón?
+[PACIENTE]: Pues de pequeño tuve asma, pero nada más.
+[DOCTOR]: Y dime Ignacio, ¿eres alérgico a algo?
+[PACIENTE]: A la penicilina.
+[DOCTOR]: Bien, cuéntame qué operaciones están hechas y qué fármacos tomas habitualmente.
+[PACIENTE]: Pues me han hecho dos operaciones.
+[PACIENTE]: Me han quitado las amigdelas y también el apéndice.
+[PACIENTE]: Luego de fármaco, solo tomo un fármaco para la diabetes.
+[PACIENTE]: Ahora mismo no recuerdo el nombre.
+[DOCTOR]: Aquí me sale que tomas metformina.
+[DOCTOR]: ¿Te suena el nombre?
+[PACIENTE]: Efectivamente.
+[PACIENTE]: Ese es el nombre.
+[DOCTOR]: Genial.
+[DOCTOR]: Vamos a hablar un poco de tu trabajo.
+[DOCTOR]: ¿De qué trabajas o trabajabas?
+[PACIENTE]: Pues soy farmacéutico.
+[PACIENTE]: Recién jubilado.
+[PACIENTE]: Trabajaba en la farmacia en mi barrio.
+[DOCTOR]: Muy bien, ¿trabajabais en la farmacia con alguna sustancia tóxica?
+[PACIENTE]: No, yo no me encargaba de hacer las fórmulas, así que no estaba expuesto.
+[DOCTOR]: Me imagino que no, pero por si acaso prefiero preguntarlo.
+[DOCTOR]: ¿En tu trabajo estabas expuesto a temperaturas bajas o vibraciones?
+[PACIENTE]: Tampoco, era un trabajo tranquilo.
+[DOCTOR]: Y ya para terminar, ¿querrías saber si consumes alcohol, tabaco o alguna droga?
+[PACIENTE]: Nunca he fumado y solo luego los fines de semana.
+[DOCTOR]: Bueno, pues Ignacio, gracias por responder a todo, por favor pasa la camilla que comenzamos la exploración.

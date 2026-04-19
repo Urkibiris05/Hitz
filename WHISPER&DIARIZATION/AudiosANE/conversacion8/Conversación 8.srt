@@ -1,0 +1,492 @@
+1
+00:00:05,077 --> 00:00:06,118
+[SPEAKER_00]: Voy a ser su otro reino.
+
+2
+00:00:06,138 --> 00:00:06,839
+[SPEAKER_00]: ¿Cómo se llama usted?
+
+3
+00:00:07,139 --> 00:00:07,700
+[SPEAKER_00]: Buenos días.
+
+4
+00:00:07,720 --> 00:00:08,601
+[SPEAKER_00]: Mi nombre es Ignacio.
+
+5
+00:00:08,621 --> 00:00:09,121
+[SPEAKER_01]: Vale, Ignacio.
+
+6
+00:00:09,181 --> 00:00:11,384
+[SPEAKER_01]: Antes de nada, me gustaría preguntarte un par de cosas.
+
+7
+00:00:11,404 --> 00:00:12,645
+[SPEAKER_01]: ¿Cuántos años tiene?
+
+8
+00:00:12,765 --> 00:00:14,687
+[SPEAKER_00]: Tengo 76 años, pero puedo estudiarnos sin problema.
+
+9
+00:00:14,888 --> 00:00:15,909
+[SPEAKER_00]: Así estoy más común.
+
+10
+00:00:15,949 --> 00:00:16,269
+[SPEAKER_01]: Genial.
+
+11
+00:00:16,289 --> 00:00:17,170
+[SPEAKER_01]: Como tú prefieras.
+
+12
+00:00:17,210 --> 00:00:17,831
+[SPEAKER_01]: Otra pregunta.
+
+13
+00:00:17,851 --> 00:00:18,932
+[SPEAKER_01]: ¿Eres del país Vasco?
+
+14
+00:00:19,172 --> 00:00:19,653
+[SPEAKER_00]: Efectivamente.
+
+15
+00:00:19,893 --> 00:00:21,595
+[SPEAKER_00]: Mis padres son de Cantabria, pero yo nací aquí.
+
+16
+00:00:21,918 --> 00:00:22,358
+[SPEAKER_01]: Muy bien.
+
+17
+00:00:22,378 --> 00:00:23,219
+[SPEAKER_01]: ¿Y estás casado?
+
+18
+00:00:23,459 --> 00:00:24,660
+[SPEAKER_00]: Sí, he venido con mi mujer.
+
+19
+00:00:24,680 --> 00:00:25,881
+[SPEAKER_00]: Me está esperando en la sala de espera.
+
+20
+00:00:25,921 --> 00:00:26,881
+[SPEAKER_01]: Que suerte la tuya.
+
+21
+00:00:26,922 --> 00:00:28,242
+[SPEAKER_01]: Cuéntame qué te trae por aquí.
+
+22
+00:00:28,282 --> 00:00:30,704
+[SPEAKER_00]: Pues mira, Vártara, he llevado tiempo sin poder moverme la cara.
+
+23
+00:00:31,004 --> 00:00:32,245
+[SPEAKER_00]: Me cortas a reír y a abrir el lujo.
+
+24
+00:00:32,545 --> 00:00:33,366
+[SPEAKER_01]: Ya veo el problema.
+
+25
+00:00:33,646 --> 00:00:37,509
+[SPEAKER_01]: Antes de comentar la exploración, voy a hacerte unas preguntas para intentar orientar la causa.
+
+26
+00:00:37,529 --> 00:00:38,029
+[SPEAKER_01]: ¿Te parece?
+
+27
+00:00:38,370 --> 00:00:38,890
+[SPEAKER_00]: Sí, claro.
+
+28
+00:00:38,930 --> 00:00:39,831
+[SPEAKER_00]: Pregúntalo que quieras.
+
+29
+00:00:40,011 --> 00:00:42,112
+[SPEAKER_01]: Lo primero que querrías saber es desde hace cuándo.
+
+30
+00:00:42,132 --> 00:00:43,853
+[SPEAKER_01]: ¿Desde hace cuánto tiempo te ocurre esto?
+
+31
+00:00:43,873 --> 00:00:45,775
+[SPEAKER_01]: ¿Sabrías decirme qué día iniciaste?
+
+32
+00:00:46,115 --> 00:00:46,535
+[SPEAKER_00]: Pues no.
+
+33
+00:00:46,836 --> 00:00:50,238
+[SPEAKER_00]: Al día exacto, lo único que puedo decirte es que empezó sobre diciembre.
+
+34
+00:00:50,892 --> 00:00:52,833
+[SPEAKER_01]: Vale, pues comenzó hace unos tres meses.
+
+35
+00:00:52,853 --> 00:00:55,915
+[SPEAKER_01]: Acabas de mencionar que no te acuerdas del día en el que comenzó.
+
+36
+00:00:56,075 --> 00:00:57,996
+[SPEAKER_01]: Entiendo que entonces rampó un inicio brusco.
+
+37
+00:00:58,556 --> 00:00:59,657
+[SPEAKER_00]: No, ha ido poco a poco.
+
+38
+00:00:59,997 --> 00:01:04,820
+[SPEAKER_01]: Y en estos meses dirías que la incapacidad de mover la cara aéreo a mejor, a peor o sin el igual?
+
+39
+00:01:05,801 --> 00:01:06,101
+[SPEAKER_00]: A peor.
+
+40
+00:01:06,321 --> 00:01:07,702
+[SPEAKER_00]: Al inicio era casi imperceptible.
+
+41
+00:01:07,842 --> 00:01:08,802
+[SPEAKER_00]: En cambio ahora se nota bastante.
+
+42
+00:01:09,543 --> 00:01:11,704
+[SPEAKER_01]: Veo que solo tienes el lado derecho afectado.
+
+43
+00:01:11,724 --> 00:01:13,765
+[SPEAKER_01]: ¿En algún momento te ha pasado lo mismo en el izquierdo?
+
+44
+00:01:14,106 --> 00:01:15,947
+[SPEAKER_00]: No, siempre ha sido en el mismo lado.
+
+45
+00:01:15,987 --> 00:01:19,969
+[SPEAKER_01]: Vale, ¿y esta es la primera vez que tienes un episodio similar o alguna vez te ha pasado esto mismo?
+
+46
+00:01:20,502 --> 00:01:21,502
+[SPEAKER_00]: Nunca que yo recuerde.
+
+47
+00:01:21,522 --> 00:01:22,763
+[SPEAKER_00]: Esto es una cosa rosa.
+
+48
+00:01:22,803 --> 00:01:23,623
+[SPEAKER_01]: Genial, Ignacio.
+
+49
+00:01:23,743 --> 00:01:28,525
+[SPEAKER_01]: Quiero ahora que intentes recordar estos últimos meses y pienses en otros síntomas que hayas podido tener.
+
+50
+00:01:28,565 --> 00:01:31,306
+[SPEAKER_01]: Por ejemplo, ¿has tenido dolor en el oído o detrás del oído?
+
+51
+00:01:31,787 --> 00:01:31,907
+[SPEAKER_00]: No.
+
+52
+00:01:31,927 --> 00:01:33,647
+[SPEAKER_01]: ¿Y secreciones en el oído?
+
+53
+00:01:33,887 --> 00:01:34,228
+[SPEAKER_00]: Tampoco.
+
+54
+00:01:34,248 --> 00:01:36,589
+[SPEAKER_01]: ¿Y sensación de tener el oído lleno de taponado?
+
+55
+00:01:36,909 --> 00:01:38,149
+[SPEAKER_00]: Eso tampoco me ha pasado.
+
+56
+00:01:38,189 --> 00:01:42,131
+[SPEAKER_01]: ¿Recuerdas si en estos meses te han salido granitos o manchitas alrededor del oído?
+
+57
+00:01:42,151 --> 00:01:44,172
+[SPEAKER_01]: ¿Y qué tal tienes el ojo?
+
+58
+00:01:44,212 --> 00:01:47,533
+[SPEAKER_01]: ¿Has roto en estos meses el ojo más seco o con más lágrimas de lo normal?
+
+59
+00:01:47,553 --> 00:01:48,793
+[SPEAKER_00]: No.
+
+60
+00:01:48,813 --> 00:01:49,754
+[SPEAKER_00]: La verdad es que ya me ha pasado.
+
+61
+00:01:51,523 --> 00:01:55,946
+[SPEAKER_01]: También quería saber si has tenido problemas con la salivación, tanto por demasiada saliva como por sequedad.
+
+62
+00:01:56,406 --> 00:01:58,668
+[SPEAKER_00]: No, quizá un poco, pero no es nada evidente.
+
+63
+00:01:58,688 --> 00:02:00,409
+[SPEAKER_01]: ¿Y has tenido algún cambio en el gusto?
+
+64
+00:02:00,850 --> 00:02:01,810
+[SPEAKER_00]: Sí, eso sí me ha pasado.
+
+65
+00:02:01,990 --> 00:02:03,251
+[SPEAKER_00]: Últimamente la comida me salverde.
+
+66
+00:02:03,271 --> 00:02:07,354
+[SPEAKER_01]: ¿Sabrías decirme si esto te pasa en toda la lengua o ahí alguna zona que te llamemos la atención?
+
+67
+00:02:07,774 --> 00:02:10,356
+[SPEAKER_00]: Pues diría que por la zona delantera más que la trasera.
+
+68
+00:02:10,376 --> 00:02:12,317
+[SPEAKER_01]: Vale, y lo que me cuentas es muy útil.
+
+69
+00:02:12,678 --> 00:02:14,119
+[SPEAKER_01]: ¿Qué tal estás oyendo últimamente?
+
+70
+00:02:14,519 --> 00:02:17,381
+[SPEAKER_00]: Pues llevo un tiempo oyendo peor, pero esto viene de mucho antes que diciembre.
+
+71
+00:02:17,663 --> 00:02:20,145
+[SPEAKER_01]: Vale, y además de ir peor sueles escuchar pitidos?
+
+72
+00:02:20,465 --> 00:02:25,108
+[SPEAKER_00]: Sí, a veces he oído un siluido que parece que no era de fuera, incluso cuando no estoy escuchando nada.
+
+73
+00:02:25,148 --> 00:02:30,952
+[SPEAKER_00]: Por ejemplo, me ha pasado alguna vez estando en la cama, ahí sí que noto un pitido, incluso cuando está todo en silencio.
+
+74
+00:02:30,972 --> 00:02:32,273
+[SPEAKER_01]: Muy bien, nos nacimos muy bien.
+
+75
+00:02:32,293 --> 00:02:37,416
+[SPEAKER_01]: Más allá del oído y de la audición, ¿has tenido algún sistema más general como, por ejemplo, fiebre, malestar o dolor de cabeza?
+
+76
+00:02:37,636 --> 00:02:38,236
+[SPEAKER_00]: Nada de eso.
+
+77
+00:02:38,477 --> 00:02:40,318
+[SPEAKER_01]: ¿Y has notado algo raro como debilidad,
+
+78
+00:02:41,238 --> 00:02:44,579
+[SPEAKER_01]: cambios en la sensibilidad o cualquier cosa fuera de la habitual.
+
+79
+00:02:44,860 --> 00:02:47,941
+[SPEAKER_00]: Pues lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+
+80
+00:02:48,461 --> 00:02:50,062
+[SPEAKER_01]: Interesante.
+
+81
+00:02:50,642 --> 00:02:51,903
+[SPEAKER_01]: Con desequilibrio, ¿a qué te refieres?
+
+82
+00:02:51,923 --> 00:02:52,763
+[SPEAKER_01]: ¿A andar inseguro?
+
+83
+00:02:52,783 --> 00:02:53,903
+[SPEAKER_00]: Sí, eso me refiero.
+
+84
+00:02:53,923 --> 00:02:55,324
+[SPEAKER_00]: A andar con sensación de que me voy a cagar.
+
+85
+00:02:55,484 --> 00:02:56,424
+[SPEAKER_00]: ¿Tiene sentido?
+
+86
+00:02:56,464 --> 00:02:57,245
+[SPEAKER_01]: Tiene mucho sentido.
+
+87
+00:02:57,265 --> 00:02:58,385
+[SPEAKER_01]: Vamos, genial, Ignacio.
+
+88
+00:02:58,425 --> 00:03:02,367
+[SPEAKER_01]: Quiero que intentes recordar diciembre y me digas si haces algo al comienzo del segundo más.
+
+89
+00:03:02,809 --> 00:03:05,811
+[SPEAKER_01]: ¿Algo fuera de lo normal que haya podido desencadenar esto, por ejemplo?
+
+90
+00:03:05,831 --> 00:03:07,132
+[SPEAKER_01]: ¿Estuviste más espesa de lo normal?
+
+91
+00:03:07,392 --> 00:03:10,194
+[SPEAKER_00]: No, al estrés al cobrarme de ovejas, pero nada más.
+
+92
+00:03:10,234 --> 00:03:14,137
+[SPEAKER_01]: Otra cosa que... otras cosas que pueden estar relacionadas son los golpes y cirugías en la cabeza.
+
+93
+00:03:14,157 --> 00:03:17,739
+[SPEAKER_01]: En tu historial no me indica que te haya pasado nada, pero quizás te hayas dado un golpe.
+
+94
+00:03:17,999 --> 00:03:18,379
+[SPEAKER_00]: Tampoco.
+
+95
+00:03:18,499 --> 00:03:20,521
+[SPEAKER_00]: Me caí una vez, pero solo me golpeé la rodilla.
+
+96
+00:03:20,581 --> 00:03:22,002
+[SPEAKER_00]: Eso no tiene nada que ver, ¿no?
+
+97
+00:03:22,042 --> 00:03:23,102
+[SPEAKER_01]: En principio no debería.
+
+98
+00:03:23,122 --> 00:03:25,464
+[SPEAKER_01]: ¿Recuerdas haber pasado un virus por esa época?
+
+99
+00:03:25,764 --> 00:03:26,825
+[SPEAKER_00]: Bueno, tu eres frío.
+
+100
+00:03:26,845 --> 00:03:28,346
+[SPEAKER_01]: ¿Y alguna otra infección?
+
+101
+00:03:28,626 --> 00:03:30,447
+[SPEAKER_01]: Por ejemplo, COVID, parícela o herpes.
+
+102
+00:03:30,627 --> 00:03:31,428
+[SPEAKER_00]: De eso no tuve nada.
+
+103
+00:03:31,984 --> 00:03:33,645
+[SPEAKER_01]: El último de diciembre fue un mes frío.
+
+104
+00:03:33,665 --> 00:03:36,666
+[SPEAKER_01]: ¿Te acuerdas si estuviste expuesto a mucho frío o a corrientes de aire?
+
+105
+00:03:36,986 --> 00:03:37,666
+[SPEAKER_00]: Yo te diría que no.
+
+106
+00:03:37,806 --> 00:03:39,667
+[SPEAKER_00]: Solo iré a pasear, pero hoy siempre viene a menos.
+
+107
+00:03:40,047 --> 00:03:42,988
+[SPEAKER_01]: Bueno Ignacio, ahora vamos a hablar un poco a tus antecedentes personales.
+
+108
+00:03:43,308 --> 00:03:45,749
+[SPEAKER_01]: Ya me has dicho que nunca antes te había pasado esta parálisis.
+
+109
+00:03:45,769 --> 00:03:46,829
+[SPEAKER_01]: ¿Vas allá de eso?
+
+110
+00:03:46,849 --> 00:03:47,830
+[SPEAKER_01]: ¿Tienes alguna enfermedad?
+
+111
+00:03:48,190 --> 00:03:48,910
+[SPEAKER_00]: Tengo diabetes.
+
+112
+00:03:49,350 --> 00:03:53,372
+[SPEAKER_01]: Vale, y aparte de la diabetes, ¿alguna vez probé más respiratorios o enfermedades de pulmón?
+
+113
+00:03:53,872 --> 00:03:56,293
+[SPEAKER_00]: De pequeño tuve asma, pero nada más.
+
+114
+00:03:56,353 --> 00:03:57,994
+[SPEAKER_01]: Y dime Ignacio, ¿eres alérgico a algo?
+
+115
+00:03:58,454 --> 00:03:59,094
+[SPEAKER_00]: A la penicilina.
+
+116
+00:04:00,061 --> 00:04:03,504
+[SPEAKER_01]: Muy bien, cuéntame qué operaciones han hecho y qué fármacos tomas habitualmente.
+
+117
+00:04:03,684 --> 00:04:04,966
+[SPEAKER_00]: Pues, me han hecho dos operaciones.
+
+118
+00:04:05,026 --> 00:04:06,908
+[SPEAKER_00]: Me han quitado las amíbalas y darme el apendicé.
+
+119
+00:04:07,188 --> 00:04:11,092
+[SPEAKER_00]: Luego de fármacos, solo tomo un fármaco para la diabetes, que ahora mismo no recuerdo el nombre.
+
+120
+00:04:11,352 --> 00:04:13,674
+[SPEAKER_01]: Aquí me sale que tomas metformina, ¿te suena el nombre?
+
+121
+00:04:13,914 --> 00:04:15,356
+[SPEAKER_00]: Efectivamente, ese es el nombre.
+
+122
+00:04:15,696 --> 00:04:18,579
+[SPEAKER_01]: Ya para terminar, querría saber si consumes alcohol o tabaco.
+
+123
+00:04:19,139 --> 00:04:21,201
+[SPEAKER_00]: Nunca he fumado y solo luego lo siento hace semana.
+
