@@ -1,0 +1,49 @@
+Eredua: gpt-oss:120b-cloud
+
+**Evaluación de la entrevista (puntuación / máximo)**  
+
+| Nº | Criterio | Sub‑puntos obtenidos | Puntos posibles |
+|----|-----------------------------------------------|---------------------|----|-----------------------------------------------|----------------------|-------------------|
+| 1 | **Se presenta e indica el motivo de la entrevista** | 5 | 5 |
+| 2 | **Identifica al paciente y obtiene datos de filiación** | 5 | 5 |
+| 3 | **Pregunta por motivo de consulta y a qué lo atribuye** | 3 | 6 |
+| 4 | **Inicio y evolución temporal del cuadro y episodios similares** | 
+10 | 10 |
+| 5 | **Pregunta por signos y síntomas (facial)** | 1 | 8 |
+| 6 | **Síntomas sensitivos faciales** | 2 | 7 |
+| 7 | **Síntomas otológicos y ORL** | 8 | 10 |
+| 8 | **Otros síntomas por afectación del nervio facial** | 4 | 7 |
+| 9 | **Síntomas neurológicos (red‑flags)** | 1 | 10 |
+|10| **Repercusión funcional, social y calidad de vida** | 0 | 3 |
+|11| **Factores desencadenantes y precipitantes** | 5 | 6 |
+|12| **Síntomas generales (fiebre, malestar)** | 4 | 4 |
+|13| **Antecedentes personales** | 4 | 7 |
+|14| **Tratamientos, cirugías y medicación** | 5 | 5 |
+|15| **Contexto social, laboral, hábitos y antecedentes familiares** | 5 | 
+7 |
+|**TOTAL**| | **62** | **100** |
+
+### Comentario global
+- **Fortalezas**: La doctora se presentó claramente, explicó el objetivo 
+de la entrevista y obtuvo de forma completa los datos de filiación, edad, 
+estado civil, procedencia y ocupación. Preguntó adecuadamente sobre el 
+inicio, evolución y episodios previos del cuadro, y cubrió la mayoría de 
+los síntomas otológicos (dolor, hipoacusia, acúfenos, vértigo). También 
+indagó sobre factores desencadenantes (infección viral, frío, estrés, 
+traumatismo) y antecedentes familiares relevantes.  
+- **Áreas de mejora**: Falta de preguntas específicas sobre la 
+**lateralidad del cierre palpebral**, **simetría de la sonrisa**, 
+**baboseo**, **alteración del habla**, **dolor retroauricular**, 
+**alteraciones sensoriales faciales**, **hiperacusia**, **otitis 
+reciente**, **déficit motor en extremidades**, **trastornos del 
+lenguaje**, **alteraciones visuales**, **disfagia**, **nivel de 
+conciencia**, y la **repercusión funcional en la vida cotidiana**. También 
+no se abordó la exposición a alcohol ni la vacunación.  
+
+**Conclusión:** La entrevista cubrió adecuadamente los aspectos esenciales 
+de la anamnesis otorrinolaringológica, alcanzando **62 %** del puntaje 
+máximo. Mejorar la cobertura de los signos neurológicos y de la 
+repercusión funcional elevaría significativamente la calidad de la 
+valoración.
+
+

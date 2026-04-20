@@ -1,0 +1,260 @@
+Eredua: qwen3-vl:235b-cloud
+
+#### **1. Se presenta e indica el motivo de la entrevista**  
+**Puntos totales: 2/5**  
+- **Se presenta al paciente**: 0/3  
+  - *Razón*: El médico ([PACIENTE]) no se presenta. El paciente ([DOCTOR]) 
+se identifica como "Ignacio", pero el médico no menciona su nombre ni rol 
+profesional.  
+- **Explica el motivo de la entrevista**: 2/2  
+  - *Razón*: El médico dice: *"Antes de comentar la exploración, voy a 
+hacerte unas preguntas para intentar orientar la causa. ¿Te parece?"* 
+(equivalencia válida: "Explica que hará preguntas para conocer el 
+problema").  
+
+---
+
+#### **2. Identifica al paciente y obtiene datos de filiación**  
+**Puntos totales: 3/5**  
+- **Pregunta el Nombre**: 0/1  
+  - *Razón*: El médico no pregunta el nombre del paciente. El paciente se 
+identifica espontáneamente.  
+- **Pregunta su edad**: 1/1  
+  - *Razón*: *"¿Cuántos años tiene?"* (equivalencia válida: "Pregunta 
+cuantos años tiene").  
+- **Estado civil**: 1/1  
+  - *Razón*: *"¿Y estás casado?"* (equivalencia válida: "Pregunta estado 
+civil").  
+- **Procedencia / residencia**: 1/1  
+  - *Razón*: *"¿Eres del país Vasco?"* y *"Mis padres son de Cantabria, 
+pero yo nací aquí"* (equivalencia válida: "Pregunta dónde vive").  
+- **Ocupación**: 0/1  
+  - *Razón*: No se explora si el paciente trabaja, está jubilado o en 
+baja.  
+
+---
+
+#### **3. Pregunta por Motivo de consulta y a que lo atribuye**  
+**Puntos totales: 6/6**  
+- **Pregunta abierta por el motivo**: 3/3  
+  - *Razón*: *"Cuéntame qué te trae por aquí."* (equivalencia válida: 
+"Cuénteme qué le pasa").  
+- **Atribución del problema**: 3/3  
+  - *Razón*: *"¿Algo fuera de lo normal que haya podido desencadenar esto, 
+por ejemplo?"* (equivalencia válida: "Pregunta si lo asocia a algo").  
+
+---
+
+#### **4. Pregunta por Inicio y evolución temporal del cuadro y episodios 
+similares**  
+**Puntos totales: 10/10**  
+- **Fecha de inicio**: 3/3  
+  - *Razón*: *"¿Sabrías decirme qué día iniciaste?"* (equivalencia válida: 
+"Pregunta cuándo comenzó").  
+- **Forma de inicio**: 2/2  
+  - *Razón*: El médico infiere *"rampó un inicio brusco"* y el paciente 
+corrige: *"No, ha ido poco a poco."* (equivalencia válida: "Explora 
+progresión gradual").  
+- **Evolución**: 2/2  
+  - *Razón*: *"¿En estos meses dirías que la incapacidad de mover la cara 
+aéreo a mejor, a peor o sin el igual?"* (equivalencia válida: "Pregunta si 
+ha mejorado o empeorado").  
+- **Episodios previos**: 3/3  
+  - *Razón*: *"¿Y esta es la primera vez que tienes un episodio similar?"* 
+(equivalencia válida: "Pregunta si le pasó antes").  
+
+---
+
+#### **5. Pregunta por signos y síntomas**  
+**Puntos totales: 3/8**  
+- **Lateralidad**: 1/1  
+  - *Razón*: *"Veo que solo tienes el lado derecho afectado. ¿En algún 
+momento te ha pasado lo mismo en el izquierdo?"* (equivalencia válida: 
+"Pregunta qué lado está afectado").  
+- **Cierre del ojo**: 0/2  
+  - *Razón*: No se pregunta explícitamente si puede cerrar el ojo.  
+- **Simetría de la sonrisa**: 0/2  
+  - *Razón*: No se indaga sobre la simetría facial al sonreír.  
+- **Baboseo / escape de líquidos**: 2/2  
+  - *Razón*: *"¿has tenido problemas con la salivación, tanto por 
+demasiada saliva como por sequedad?"* (equivalencia válida: "Pregunta si 
+se le cae saliva").  
+- **Alteración del habla**: 0/1  
+  - *Razón*: No se explora cambios en la pronunciación.  
+
+---
+
+#### **6. Pregunta por signos y síntomas sensitivos faciales**  
+**Puntos totales: 7/7**  
+- **Dolor retroauricular**: 3/3  
+  - *Razón*: *"¿has tenido dolor en el oído o detrás del oído?"* 
+(equivalencia válida: "Pregunta dolor detrás de la oreja").  
+- **Cefalea asociada**: 2/2  
+  - *Razón*: *"¿has tenido algún sistema más general como... dolor de 
+cabeza?"* (equivalencia válida: "Pregunta dolor de cabeza").  
+- **Alteraciones de la sensibilidad facial**: 2/2  
+  - *Razón*: *"¿y has notado algo raro como debilidad, cambios en la 
+sensibilidad?"* (equivalencia válida: "Pregunta adormecimiento facial").  
+
+---
+
+#### **7. Pregunta por Síntomas otológicos y ORL**  
+**Puntos totales: 9/10**  
+- **Otalgia/otorrea**: 2/2  
+  - *Razón*: *"¿has tenido dolor en el oído o detrás del oído?"* y *"¿Y 
+secreciones en el oído?"* (equivalencia válida: "Pregunta dolor de oído"). 
+ 
+- **Hipoacusia**: 3/3  
+  - *Razón*: *"¿Qué tal estás oyendo últimamente?"* (equivalencia válida: 
+"Pregunta si escucha menos").  
+- **Hiperacusia**: 0/1  
+  - *Razón*: No se indaga sobre sensibilidad a ruidos fuertes.  
+- **Acúfenos**: 1/1  
+  - *Razón*: *"¿y sueles escuchar pitidos?"* (equivalencia válida: 
+"Pregunta zumbidos").  
+- **Vértigo o inestabilidad**: 2/2  
+  - *Razón*: *"¿has notado algo raro como... sensación de desequilibrio?"* 
+(equivalencia válida: "Pregunta pérdida de equilibrio").  
+- **Otitis reciente**: 1/1  
+  - *Razón*: *"¿Recuerdas haber pasado un virus por esa época?"* y *"¿y 
+alguna otra infección?"* (equivalencia válida: "Explora antecedentes 
+otológicos recientes").  
+
+---
+
+#### **8. Pregunta por otros Síntomas por afectación del nervio facial**  
+**Puntos totales: 6/7**  
+- **Alteración del gusto**: 2/2  
+  - *Razón*: *"¿Y has tenido algún cambio en el gusto?"* (equivalencia 
+válida: "Pregunta cambio en el gusto").  
+- **Sequedad ocular**: 2/2  
+  - *Razón*: *"¿has roto en estos meses el ojo más seco o con más lágrimas 
+de lo normal?"* (equivalencia válida: "Pregunta ojo seco").  
+- **Alteración de la salivación**: 2/2  
+  - *Razón*: *"¿has tenido problemas con la salivación?"* (equivalencia 
+válida: "Pregunta boca seca").  
+- **Vesículas en lengua**: 0/1  
+  - *Razón*: No se pregunta sobre granitos o ampollas en la lengua.  
+
+---
+
+#### **9. Pregunta por Síntomas neurológicos asociados (Red flags)**  
+**Puntos totales: 4/10**  
+- **Déficit motor**: 3/3  
+  - *Razón*: *"¿y has notado algo raro como debilidad?"* (equivalencia 
+válida: "Pregunta debilidad en brazos o piernas").  
+- **Trastornos del lenguaje**: 0/2  
+  - *Razón*: No se explora dificultad para hablar.  
+- **Alteraciones visuales**: 0/1  
+  - *Razón*: No se indaga sobre visión doble o borrosa.  
+- **Trastorno de la marcha**: 1/1  
+  - *Razón*: *"¿a andar inseguro?"* (equivalencia válida: "Pregunta 
+dificultad para caminar").  
+- **Disfagia**: 0/2  
+  - *Razón*: No se pregunta sobre dificultad para tragar.  
+- **Alteración de conciencia**: 0/1  
+  - *Razón*: No se explora pérdida de conciencia.  
+
+---
+
+#### **10. Repercusión funcional social y calidad de vida**  
+**Puntos totales: 1/3**  
+- **Impacto en el habla**: 0/1  
+  - *Razón*: No se indaga sobre problemas comunicativos.  
+- **Visión / ojo seco**: 1/1  
+  - *Razón*: Se aborda la sequedad ocular, vinculada a impacto diario.  
+- **Actividad laboral**: 0/1  
+  - *Razón*: No se pregunta sobre limitaciones sociales o laborales.  
+
+---
+
+#### **11. Pregunta por posibles Factores desencadenantes**  
+**Puntos totales: 5/6**  
+- **Infección viral**: 2/2  
+  - *Razón*: *"¿Recuerdas haber pasado un virus?"* y *"¿y alguna otra 
+infección? Por ejemplo, COVID, parícela o herpes."* (equivalencia válida: 
+"Pregunta por Covid").  
+- **Exposición a frío**: 1/1  
+  - *Razón*: *"¿te acuerdas si estuviste expuesto a mucho frío o a 
+corrientes de aire?"* (equivalencia válida: "Pregunta exposición a frío"). 
+ 
+- **Estrés intenso**: 1/1  
+  - *Razón*: *"¿Estuviste más espesa de lo normal?"* (posible error 
+tipográfico por "¿estuviste más estresado?") (equivalencia válida: 
+"Pregunta estrés reciente").  
+- **Traumatismo**: 1/1  
+  - *Razón*: *"¿te hayas dado un golpe?"* (equivalencia válida: "Pregunta 
+golpes recientes").  
+- **Procedimientos dentales**: 0/1  
+  - *Razón*: No se explora cirugía o tratamientos dentales.  
+
+---
+
+#### **12. Pregunta por Síntomas generales**  
+**Puntos totales: 4/4**  
+- **Fiebre**: 2/2  
+  - *Razón*: *"¿has tenido... fiebre, malestar o dolor de cabeza?"* 
+(equivalencia válida: "Pregunta temperatura elevada").  
+- **Malestar general**: 2/2  
+  - *Razón*: *"¿has tenido algún sistema más general como... malestar?"* 
+(equivalencia válida: "Pregunta decaimiento").  
+
+---
+
+#### **13. Pregunta por Antecedentes personales**  
+**Puntos totales: 7/7**  
+- **Episodios previos de parálisis**: 3/3  
+  - *Razón*: *"¿Y esta es la primera vez que tienes un episodio similar?"* 
+(equivalencia válida: "Pregunta parálisis anteriores").  
+- **Enfermedades padecidas**: 4/4  
+  - *Razón*: Se indagan diabetes, asma y alergias (equivalencia válida: 
+"Explora enfermedad metabólica").  
+
+---
+
+#### **14. Pregunta por Tratamientos, cirugías y medicación**  
+**Puntos totales: 5/5**  
+- **Cirugías previas**: 2/2  
+  - *Razón*: *"¿me han hecho dos operaciones... amídalas y apendicé."* 
+(equivalencia válida: "Pregunta cirugías previas").  
+- **Tratamientos actuales**: 2/2  
+  - *Razón*: *"¿cuéntame qué operaciones han hecho y qué fármacos tomas 
+habitualmente?"* (equivalencia válida: "Pregunta tratamientos en curso").  
+
+- **Medicación**: 1/1  
+  - *Razón*: Confirmación de metformina (equivalencia válida: "Pregunta 
+medicamentos habituales").  
+
+---
+
+#### **15. Indaga sobre Contexto social, laboral y hábitos**  
+**Puntos totales: 2/7**  
+- **Profesión**: 0/1  
+  - *Razón*: No se explora ocupación o riesgos laborales.  
+- **Tabaco**: 1/1  
+  - *Razón*: *"¿consumes alcohol o tabaco?"* y el paciente responde: 
+*"Nunca he fumado."* (equivalencia válida: "Pregunta si fuma").  
+- **Alcohol**: 1/1  
+  - *Razón*: *"¿consumes alcohol o tabaco?"* (equivalencia válida: 
+"Pregunta consumo de alcohol").  
+- **Drogas**: 0/1  
+  - *Razón*: No se indaga consumo de drogas.  
+- **Vacunas**: 0/1  
+  - *Razón*: No se pregunta sobre vacunación.  
+- **Antecedentes familiares**: 0/2  
+  - *Razón*: No se explora historia familiar de parálisis facial.  
+
+---
+
+### **Puntuación Final**  
+**Total: 74/100**  
+
+**Observaciones clave**:  
+- **Fortalezas**: Excelente exploración de la evolución del cuadro, 
+síntomas otológicos y antecedentes médicos.  
+- **Áreas de mejora**:  
+  - El médico no se presenta adecuadamente.  
+  - No se indagan síntomas clave como simetría facial, hiperacusia o 
+antecedentes familiares.  
+  - Falta explorar impacto en la calidad de vida y ocupación.
+

@@ -1,0 +1,79 @@
+Eredua: gpt-oss:120b-cloud
+
+**Puntuación de la entrevista (máximo 100 pts)**  
+
+| Categoría | Puntos obtenidos | Puntos máximos | Comentario |
+|-----------|------------------|----------------|------------|
+| **Se presenta e indica el motivo de la entrevista** | 5 | 5 | Se 
+presentó (nombre y especialidad) y explicó que iba a hacer preguntas para 
+conocer el problema. |
+| **Identifica al paciente y obtiene datos de filiación** | 5 | 5 | 
+Preguntó nombre, edad, estado civil, procedencia y ocupación. |
+| **Pregunta por motivo de consulta y a qué lo atribuye** | 3 | 6 | 
+Preguntó “¿Qué le trae por aquí?” (3 pts). **No** preguntó explícitamente 
+a qué atribuye el problema (0 pts). |
+| **Pregunta por inicio y evolución temporal del cuadro y episodios 
+similares** | 10 | 10 | Preguntó cuándo empezó, forma de inicio 
+(brusco / progresivo), evolución (empeoramiento) y episodios previos. |
+| **Pregunta por signos y síntomas (motor facial)** | 1 | 8 | Sólo indagó 
+lateralidad (lado derecho). No preguntó cierre ocular, simetría de 
+sonrisa, baboseo o alteración del habla. |
+| **Pregunta por signos y síntomas sensitivos faciales** | 3 | 7 | 
+Preguntó dolor retro‑auricular (3 pts). No preguntó cefalea ni 
+alteraciones de sensibilidad facial. |
+| **Pregunta por síntomas otológicos y ORL** | 8 | 10 | Preguntó dolor de 
+oído (2 pts), hipoacusia (3 pts), acúfenos (1 pt) y vértigo/inestabilidad 
+(2 pts). No se indagó otalgia/otorrea ni otitis reciente. |
+| **Otros síntomas del nervio facial** | 4 | 7 | Preguntó alteración del 
+gusto (2 pts) y de la salivación (2 pts). No se preguntó sequedad ocular 
+ni vesículas en la lengua. |
+| **Síntomas neurológicos asociados (red‑flags)** | 1 | 10 | Sólo indagó 
+“sensación de desequilibrio” (considerada trastorno de la marcha → 1 pt). 
+No se preguntó déficit motor en extremidades, trastornos del lenguaje, 
+alteraciones visuales, disfagia ni alteración de conciencia. |
+| **Repercusión funcional, social y calidad de vida** | 0 | 3 | No se 
+preguntó impacto en el habla, visión ocular ni en la actividad 
+laboral/social. |
+| **Factores desencadenantes y precipitantes** | 5 | 6 | Preguntó 
+infección viral reciente (2 pts), exposición a frío (1 pt), estrés (1 pt) 
+y traumatismo craneo‑encefálico (1 pt). No se indagó sobre procedimientos 
+dentales / cirugía reciente. |
+| **Síntomas generales** | 4 | 4 | Preguntó fiebre y malestar general 
+(2 pts cada uno). |
+| **Antecedentes personales** | 7 | 7 | Preguntó episodios previos de 
+parálisis facial (3 pts) y enfermedades previas (diabetes, asma, etc.) 
+(4 pts). |
+| **Tratamientos, cirugías y medicación** | 5 | 5 | Preguntó cirugías 
+previas (2 pts), tratamientos actuales (2 pts) y medicación habitual 
+(1 pt). |
+| **Contexto social, laboral y hábitos + antecedentes familiares** | 4 | 7 
+| Preguntó ocupación y exposición laboral (1 pt), tabaco (1 pt), alcohol 
+(1 pt) y drogas (1 pt). No se preguntó sobre vacunas ni antecedentes 
+familiares neurológicos. |
+
+**Total obtenido:** **65 pts / 100 pts**
+
+---
+
+### Resumen de los puntos pendientes o mejorables
+1. **Atribución del problema** – formular una pregunta directa del tipo 
+“¿A qué cree usted que se debe este problema?” (3 pts).
+2. **Signos y síntomas motor facial** – preguntar cierre ocular, simetría 
+de la sonrisa, baboseo y alteración del habla (7 pts).
+3. **Sensibilidad facial** – indagar cefalea y alteraciones sensoriales 
+faciales (4 pts).
+4. **Otología** – preguntar otalgia/otorrea y antecedentes de otitis 
+reciente (3 pts).
+5. **Red‑flags neurológicas** – preguntar déficit motor en extremidades, 
+trastornos del lenguaje, alteraciones visuales, disfagia y alteración del 
+nivel de conciencia (9 pts).
+6. **Repercusión funcional** – explorar impacto del problema en la 
+comunicación, visión ocular y actividades diarias/laborales (3 pts).
+7. **Factores desencadenantes** – preguntar sobre procedimientos dentales 
+o cirugías recientes (1 pt).
+8. **Contexto familiar** – indagar antecedentes familiares de parálisis 
+facial o trastornos neurológicos (2 pts).
+
+Incrementando esos ítems la puntuación podría acercarse al máximo, 
+reflejando una anamnesis más completa y estructurada.
+
