@@ -258,3 +258,64 @@ síntomas otológicos y antecedentes médicos.
 antecedentes familiares.  
   - Falta explorar impacto en la calidad de vida y ocupación.
 
+####################################################################
+####################################################################
+####################################################################
+
+**Puntuación de la entrevista (máximo 73 pts)**  
+
+| Categoría | Puntos obtenidos | Puntos posibles |
+|-----------|------------------|-----------------|
+| Comunicación | 5 | 5 |
+| Identificación del paciente (datos de filiación) | 5 | 5 |
+| Motivo de la consulta | 5 | 5 |
+| Historia del proceso actual | 2 | 5 |
+| Síntomas acompañantes | 13 | 16 |
+| Factores desencadenantes | 6 | 7 |
+| Síntomas generales y neurológicos | 4 | 5 |
+| Antecedentes personales y de salud | 11 | 11 |
+| Medio Laboral | 0 | 6 |
+| Hábitos y antecedentes familiares | 3 | 8 |
+| **Total** | **54** | **73** |
+
+### Comentarios por bloque
+
+| Bloque | Observaciones |
+|--------|----------------|
+| **Comunicación** | El médico se presentó y saludó al paciente 
+(Buenos días). ✔ |
+| **Identificación** | Preguntó nombre, edad, estado civil y procedencia. 
+✔ |
+| **Motivo de la consulta** | Preguntó explícitamente “¿Qué le trae por 
+aquí?”. ✔ |
+| **Historia del proceso actual** | Sólo obtuvo información sobre inicio y 
+episodios previos; no preguntó lateralidad, duración exacta, evolución ni 
+preguntó de forma directa sobre la duración del cuadro. ✗ (2 pts) |
+| **Síntomas acompañantes** | Preguntó sobre dolor de oído, secreciones, 
+audición, pitidos, gusto, salivación, ojo, sensación de plenitud auricular 
+y lesiones cutáneas alrededor del oído. No preguntó dolor retroauricular. 
+✔ (13 pts) |
+| **Factores desencadenantes** | Abordó infección viral reciente, 
+exposición al frío, cirugías previas y traumatismo craneal. No indagó 
+sobre estrés intenso. ✔ (6 pts) |
+| **Síntomas generales/neurológicos** | Preguntó fiebre, malestar general, 
+síntomas neurológicos (debilidad, sensibilidad) y vértigo. No preguntó 
+cefalea. ✔ (4 pts) |
+| **Antecedentes personales y salud** | Cubrió todos los ítems: episodios 
+previos de parálisis, antecedentes respiratorios, enfermedades crónicas 
+(DM, asma), alergia a penicilina, cirugías y medicación. ✔ (11 pts) |
+| **Medio laboral** | No se realizó ninguna pregunta sobre profesión, 
+exposición a frío, vibraciones o tóxicos en el trabajo. ✗ (0 pts) |
+| **Hábitos y antecedentes familiares** | Preguntó sobre consumo de tabaco 
+y alcohol; no indagó sobre antecedentes familiares de enfermedades 
+hereditarias ni sobre parálisis facial familiar. ✔ (3 pts) |
+
+### Resultado global
+- **Puntuación total:** **54 / 73** (≈ 74 %).  
+- La entrevista cubrió muy bien la identificación, el motivo de consulta y 
+los antecedentes personales, pero quedó incompleta en la historia del 
+proceso actual, en varios síntomas acompañantes (dolor retroauricular), en 
+la exploración del entorno laboral y en la anamnesis familiar. Mejorar 
+estos aspectos permitiría alcanzar una puntuación más alta y una 
+valoración clínica más completa.
+

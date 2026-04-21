@@ -46,4 +46,56 @@ máximo. Mejorar la cobertura de los signos neurológicos y de la
 repercusión funcional elevaría significativamente la calidad de la 
 valoración.
 
+#############################################################################
+#############################################################################
+#############################################################################
+
+**Puntuación de la conversación**  
+
+| Área de valoración | Puntuación obtenida | Puntuación máxima | 
+Comentario breve |
+|--------------------|--------------------|-------------------|------------|--------------------|--------------------|-------------------|-------------------|
+| **Comunicación** | **5** | 5 | El doctor se presenta al inicio. |
+| **Identificación del Paciente (Datos de filiación)** | **5** | 5 | 
+Pregunta nombre, edad, estado civil y procedencia. |
+| **Motivo de la consulta** | **5** | 5 | Pregunta “¿qué le trae por 
+aquí?”. |
+| **Historia del proceso actual** | **4** | 5 | • Inicio y modo 
+(fecha + progresivo) ✔ <br>• Lateralidad ✔ <br>• Evolución ✔ <br>• 
+Episodios previos ✔ <br>• **Duración** no se indaga (horas/días). |
+| **Síntomas acompañantes** | **16** | 16 | Se cubren todos los ítems 
+(otalgia/otorrea, dolor retro‑auricular, audición, gusto, salivación, 
+lagrimeo, erupción vesicular, sensación de plenitud auricular). |
+| **Factores desencadenantes** | **6** | 7 | ✔ Infección viral reciente 
+<br>✔ Exposición al frío <br>✔ Estrés <br>✖ Cirugía reciente 
+<br>✔ Traumatismo craneo‑encefálico |
+| **Síntomas generales y neurológicos** | **4** | 5 | ✔ Fiebre 
+<br>✔ Malestar general <br>✔ Síntomas neurológicos (desequilibrio) 
+<br>✔ Vértigo (interpretado como desequilibrio) <br>✖ Cefalea |
+| **Antecedentes personales y salud** | **11** | 11 | Se cubren episodios 
+de parálisis facial, antecedentes respiratorios, enfermedades crónicas 
+(DM, asma), alergia a penicilina, cirugías previas y medicación habitual. 
+|
+| **Medio Laboral** | **6** | 6 | Profesión y situación laboral, 
+exposición a frío, vibraciones y a tóxicos (ninguno). |
+| **Hábitos y Antecedentes familiares** | **7** | 8 | ✔ Hábitos (no fuma, 
+consumo de alcohol/bebidas no mencionado claramente) <br>✔ Enfermedades 
+hereditarias (DM, HTA) <br>✔ Parálisis facial familiar (no) 
+<br>✔ Enfermedades neurológicas familiares (no) <br>✖ Otros antecedentes 
+hereditarios generales no preguntados. |
+
+**Total obtenido:** **69 / 73**  
+**Porcentaje:** **94,5 %**
+
+---
+
+### Observaciones finales
+- La entrevista cubre prácticamente todos los ítems requeridos, mostrando 
+una buena estructuración y un abordaje integral del paciente.
+- Los únicos puntos perdidos se deben a la ausencia de una pregunta 
+explícita sobre la **duración exacta** de los síntomas y a no indagar si 
+existió una **cirugía reciente**; además, la cefalea no fue explorada y no 
+se preguntó por “otros antecedentes hereditarios generales”.
+- En general, la conversación es muy completa y se ajusta muy bien a los 
+criterios de valoración.
 

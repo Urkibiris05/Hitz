@@ -77,3 +77,64 @@ facial o trastornos neurológicos (2 pts).
 Incrementando esos ítems la puntuación podría acercarse al máximo, 
 reflejando una anamnesis más completa y estructurada.
 
+
+##########################################################################
+##########################################################################
+##########################################################################
+
+
+**Puntuación de la entrevista (máximo 73 pts)**  
+
+| Categoría | Puntos obtenidos | Puntos posibles |
+|-----------|------------------|-----------------|
+| **Comunicación** | 5 | 5 |
+| **Identificación del paciente (datos de filiación)** | 5 | 5 |
+| **Motivo de la consulta** | 5 | 5 |
+| **Historia del proceso actual** | 4 | 5 |
+| **Síntomas acompañantes** | 15 | 16 |
+| **Factores desencadenantes** | 6 | 7 |
+| **Síntomas generales y neurológicos** | 5 | 5 |
+| **Antecedentes personales y de salud** | 11 | 11 |
+| **Medio Laboral** | 6 | 6 |
+| **Hábitos y antecedentes familiares** | 3 | 8 |
+| **Total** | **65** | **73** |
+
+### Comentarios por bloque
+
+| Bloque | Observaciones |
+|--------|---------------|
+| **Comunicación** | El médico se presenta, saluda y establece contacto. ✔ 
+|
+| **Identificación** | Pregunta nombre, edad, estado civil y procedencia. 
+✔ |
+| **Motivo de la consulta** | “¿Qué le trae por aquí?” formulada 
+claramente. ✔ |
+| **Historia del proceso actual** | Se cubren inicio, modo progresivo, 
+lateralidad, evolución y ausencia de episodios previos (4 pts). Falta 
+preguntar la **duración exacta** en horas/días. |
+| **Síntomas acompañantes** | Se indagan otalgia, otorrea, audición, 
+gusto, salivación, ojo, erupción vesicular, sensación de plenitud 
+auricular y cambios en la salivación (15 pts). Sólo falta **dolor 
+retroauricular**. |
+| **Factores desencadenantes** | Se preguntan infección viral reciente, 
+exposición al frío, estrés, y traumatismo craneal (6 pts). No se aborda 
+cirugía reciente. |
+| **Síntomas generales/neurológicos** | Se cubren fiebre, malestar 
+general, síntomas neurológicos, cefalea y vértigo. ✔ |
+| **Antecedentes personales y salud** | Se cubren episodios previos de 
+parálisis, antecedentes respiratorios, DM, alergia a penicilina, cirugías 
+y medicación. ✔ |
+| **Medio Laboral** | Se pregunta profesión, exposición a frío, 
+vibraciones y a tóxicos. ✔ |
+| **Hábitos y antecedentes familiares** | Se indagan tabaco, alcohol y 
+drogas (3 pts). No se exploran antecedentes familiares de enfermedades 
+hereditarias ni de parálisis facial. |
+
+### Resultado global
+- **Puntuación total:** **65 / 73** (≈ 89 %).  
+- La entrevista es completa en la mayoría de los ítems, pero se pierden 
+puntos por la falta de preguntas sobre la **duración exacta del cuadro**, 
+**dolor retroauricular**, **cirugía reciente**, y **antecedentes 
+familiares**. Incorporar esas preguntas permitiría alcanzar la puntuación 
+máxima.
+
