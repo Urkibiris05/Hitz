@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:07,000
+Conversación 6. Buenos días, yo soy la doctora Gallastegui y hoy voy a ser su otorrino. ¿Cómo se llama usted?
+
+2
+00:00:07,000 --> 00:00:09,000
+Buenos días, mi nombre es Ignacio.
+
+3
+00:00:09,000 --> 00:00:13,000
+Vale, Ignacio, antes de nada me gustaría preguntarle un par de cosas. ¿Cuántos años tiene?
+
+4
+00:00:13,000 --> 00:00:16,000
+Tengo 76 años, pero puedes tutearme sin problema, así estoy más cómodo.
+
+5
+00:00:16,000 --> 00:00:19,000
+Como tú prefieras. Otra pregunta, ¿eres del País Vasco?
+
+6
+00:00:19,000 --> 00:00:22,000
+Efectivamente, mis padres son de Cantauria, pero yo nací aquí.
+
+7
+00:00:22,000 --> 00:00:24,000
+Vale, ¿y estás casado?
+
+8
+00:00:24,000 --> 00:00:27,000
+Sí, he venido hoy con mi mujer, me está esperando en la sala de espera.
+
+9
+00:00:27,000 --> 00:00:29,000
+Genial, ahora sí. ¿Qué es lo que te trae por aquí?
+
+10
+00:00:29,000 --> 00:00:34,000
+Pues mira, doctora, llevo un tiempo sin poder mover bien la cara, me cuesta sonreír y abrir el ojo.
+
+11
+00:00:34,000 --> 00:00:40,000
+Vale, ya veo el problema. Antes de comenzar la exploración voy a hacerte unas preguntas para intentar orientar la causa, ¿te parece?
+
+12
+00:00:40,000 --> 00:00:42,000
+Sí, claro, pregunta lo que quieras.
+
+13
+00:00:42,000 --> 00:00:45,000
+Vale, comencemos. ¿Cuánto tiempo llevas sin poder mover la cara?
+
+14
+00:00:45,000 --> 00:00:49,000
+Pues no sé decirte el día exacto, pero más o menos diría que llevo así desde diciembre.
+
+15
+00:00:49,000 --> 00:00:56,000
+Vale, pues unos tres o cuatro meses aproximadamente, por lo que veo solo tienes afectado el lado derecho de la cara, pero en algún momento has tenido también el otro lado afectado.
+
+16
+00:00:56,000 --> 00:01:00,000
+No, el lado izquierdo lo tengo perfecto y en estos meses no he notado nada.
+
+17
+00:01:00,000 --> 00:01:06,000
+Me has comentado antes que no te acuerdas del día en el que empezaste a estar así, ¿eso significa que no fue un cambio brusco?
+
+18
+00:01:06,000 --> 00:01:12,000
+Para nada, yo diría que esto ha sido poco a poco, al inicio era casi imperceptible, en cambio ahora es bastante evidente.
+
+19
+00:01:12,000 --> 00:01:15,000
+Vale, ¿y dirías que ha habido un empeoramiento progresivo?
+
+20
+00:01:15,000 --> 00:01:16,000
+Exactamente.
+
+21
+00:01:16,000 --> 00:01:19,000
+¿Y te acuerdas de si en algún momento hubo una leve mejoría?
+
+22
+00:01:19,000 --> 00:01:21,000
+No, lo he dicho, esto va a costa abajo.
+
+23
+00:01:22,000 --> 00:01:28,000
+Vale Ignacio, también querría saber si esta incapacidad de mover la cara te ha pasado en algún otro momento, o fue en diciembre la primera vez.
+
+24
+00:01:36,000 --> 00:01:43,000
+Genial Ignacio, ahora quiero que intentes hacer memoria de estos últimos meses, entre los dos vamos a intentar recordar otros síntomas que has podido tener.
+
+25
+00:01:43,000 --> 00:01:46,000
+Uf, no tengo muy buena memoria, no me acordaré de mucho.
+
+26
+00:01:46,000 --> 00:01:51,000
+No te preocupes, que yo te voy haciendo preguntas y tú me respondes. ¿Has tenido dolor de oído?
+
+27
+00:01:51,000 --> 00:01:52,000
+No, la verdad que no.
+
+28
+00:01:52,000 --> 00:01:53,000
+¿Y secreciones?
+
+29
+00:01:53,000 --> 00:01:54,000
+Tampoco, nada de eso.
+
+30
+00:01:54,000 --> 00:01:56,000
+¿Ya has notado en algún momento dolor detrás del oído?
+
+31
+00:01:56,000 --> 00:01:57,000
+Tampoco.
+
+32
+00:01:58,000 --> 00:02:01,000
+¿Y sensación de tener el oído lleno o taponado?
+
+33
+00:02:01,000 --> 00:02:02,000
+No, no lo recuerdo.
+
+34
+00:02:02,000 --> 00:02:07,000
+Vale, ¿y te acuerdas si has tenido cambios de saliva, tanto disminución como aumento de saliva?
+
+35
+00:02:07,000 --> 00:02:11,000
+No, tampoco notaba nada, solamente la incapacidad de mover la cara.
+
+36
+00:02:11,000 --> 00:02:14,000
+¿Y en la última temporada qué tal oíes? ¿Has notado algún empeoramiento?
+
+37
+00:02:14,000 --> 00:02:20,000
+Ahí va, pues ahora que lo dices llevo una temporada oyendo regular, pero llevo más de un año así, eso será por la edad, ¿no?
+
+38
+00:02:20,000 --> 00:02:25,000
+Bueno, ahora mismo eso no lo podemos saber, y además de oír peor te suena haber oído alguna vez un pitido.
+
+39
+00:02:25,000 --> 00:02:30,000
+Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy escuchando nada.
+
+40
+00:02:30,000 --> 00:02:36,000
+Por ejemplo, me ha pasado alguna vez estando en la cama a la noche, ahí sí que noto el pitido, incluso cuando está todo en silencio.
+
+41
+00:02:36,000 --> 00:02:42,000
+Vale, vamos muy bien. Más allá de lo oído y la audición, ¿has tenido algún síntoma más general, fiebre o malestar, por ejemplo?
+
+42
+00:02:42,000 --> 00:02:46,000
+Ya lo siento, doctora, le estoy diciendo que no a todo, pero ciertamente no me encuentro mal.
+
+43
+00:02:46,000 --> 00:02:49,000
+No te preocupes, me alegro de que no te hayas encontrado mal estos meses.
+
+44
+00:02:49,000 --> 00:02:56,000
+¿Has notado algo raro como debilidad, perdida de fuerza o cambios en la sensibilidad, o bueno, cualquier cosa que tú veas fuera el habitual?
+
+45
+00:02:56,000 --> 00:03:00,000
+Lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+
+46
+00:03:00,000 --> 00:03:02,000
+Puede ser que estás experimentando vértigo.
+
+47
+00:03:02,000 --> 00:03:05,000
+No, nunca he tenido vértigo, las alturas no me dan miedo.
+
+48
+00:03:05,000 --> 00:03:09,000
+Bueno, sí, pero me refiero más bien a una sensación de mareo o andar inseguro.
+
+49
+00:03:09,000 --> 00:03:13,000
+Sí, a eso me refiero cuando es equilibrio, andar con esa sensación de que me voy a caer. ¿Tiene sentido?
+
+50
+00:03:13,000 --> 00:03:16,000
+Sí, tiene mucho sentido, vamos genial, Ignacio.
+
+51
+00:03:16,000 --> 00:03:19,000
+Ahora quiero que pienses en diciembre, que es cuando te empezaron los síntomas.
+
+52
+00:03:19,000 --> 00:03:23,000
+Y querría saber si crees que hay algo que ha podido desencadenar esta parálisis.
+
+53
+00:03:23,000 --> 00:03:25,000
+No entiendo muy bien a qué te refieres.
+
+54
+00:03:25,000 --> 00:03:29,000
+No te preocupes, que te voy preguntando yo. ¿Estuviste, por ejemplo, estresado estos meses?
+
+55
+00:03:29,000 --> 00:03:34,000
+Nada más de lo normal, todos estamos un poco estresados al preparar toda la Navidad, pero nada extraordinario.
+
+56
+00:03:34,000 --> 00:03:37,000
+¿Y te acuerdas de si estuviste expuesto a mucho frío en esa época?
+
+57
+00:03:37,000 --> 00:03:40,000
+Hombre, pues frío sí, pero no más de lo habitual.
+
+58
+00:03:40,000 --> 00:03:45,000
+Me gusta salir a la calle incluso cuando hace frío, pero solo es bien protegido e intento no estar mucho tiempo fuera en el frío.
+
+59
+00:03:45,000 --> 00:03:49,000
+Vale, ¿y tuviste alguna operación o quizás algún golpe en la cabeza?
+
+60
+00:03:51,000 --> 00:03:56,000
+No creo que sea importante, pero en noviembre me caí y me dio un golpe bastante fuerte en la rodilla.
+
+61
+00:03:56,000 --> 00:03:58,000
+¿Puede tener algo que ver?
+
+62
+00:04:00,000 --> 00:04:03,000
+No lo puedo asegurar por ahora, pero no creo que tenga relación.
+
+63
+00:04:03,000 --> 00:04:07,000
+Bueno, ya lo último antes de pasar a la exploración. Vamos a hablar un poco de tus antecedentes.
+
+64
+00:04:07,000 --> 00:04:09,000
+Cuéntame, ¿tienes alguna alergia?
+
+65
+00:04:09,000 --> 00:04:10,000
+Sí, a la penicilina.
+
+66
+00:04:10,000 --> 00:04:12,000
+¿Y tienes alguna otra enfermedad?
+
+67
+00:04:12,000 --> 00:04:13,000
+Soy diabético.
+
+68
+00:04:13,000 --> 00:04:16,000
+Vale, esto lo voy a apuntar. ¿Qué medicamentos sueles tomar?
+
+69
+00:04:16,000 --> 00:04:18,000
+Tomo algo que empieza por MET.
+
+70
+00:04:18,000 --> 00:04:19,000
+¿Metformina quizás?
+
+71
+00:04:19,000 --> 00:04:22,000
+Sí, eso es, siempre se me olvida. Menudo nombre más raro.
+
+72
+00:04:22,000 --> 00:04:26,000
+Bueno Ignacio, gracias por responder a todo. Por favor pasa la camilla que comenzamos la exploración.
+
