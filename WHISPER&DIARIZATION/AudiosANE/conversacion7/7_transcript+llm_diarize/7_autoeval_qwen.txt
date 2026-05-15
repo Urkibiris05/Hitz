@@ -1,0 +1,144 @@
+Autor diarization: gpt
+Puntuación real: 51/73
+
+**Evaluación de la Consulta Médica según los Criterios Proporcionados**
+
+---
+
+### **Resumen de Puntuación**
+- **Puntos totales obtenidos:** **56/73**
+- **Porcentaje de cumplimiento:** **76.7%**
+
+---
+
+### **Desglose por Categoría**
+
+#### **1. Comunicación (5/5)**
+- **Se presenta al Paciente:**
+  ✅ El médico se identifica claramente: *"Buenos días, yo soy la doctora
+Gallastegui y hoy voy a ser su otorrino."*
+  **Puntos:** 5/5.
+
+---
+
+#### **2. Identificación del Paciente (5/5)**
+- **Nombre:** ✅ Pregunta: *"¿Cómo se llama usted?"*
+- **Edad:** ✅ Pregunta: *"¿Cuántos años tiene?"*
+- **Estado Civil:** ✅ Pregunta: *"¿Estás casado?"*
+- **Lugar de procedencia:** ✅ Pregunta: *"¿Eres del País Vasco?"*
+  **Puntos:** 5/5.
+
+---
+
+#### **3. Motivo de la Consulta (5/5)**
+- **Por qué acude a la consulta:**
+  ✅ Pregunta directa: *"Cuéntame qué te trae por aquí."*
+  **Puntos:** 5/5.
+
+---
+
+#### **4. Historia del Proceso Actual (5/5)**
+- **Inicio del cuadro:** ✅ Pregunta: *"¿Cuánto tiempo llevas con esta
+dificultad?"* y *"¿El inicio no fue muy brusco?"*
+- **Lateralidad:** ✅ Pregunta: *"¿Has notado síntomas en el lado izquierdo?"*
+- **Duración:** ✅ Establece "alrededor de tres meses".
+- **Evolución:** ✅ Pregunta: *"¿En algún momento ha ido mejor o a peor?"*
+- **Episodios previos:** ✅ Pregunta: *"¿Es esta la primera vez que tienes un
+episodio similar?"*
+  **Puntos:** 5/5.
+
+---
+
+#### **5. Síntomas Acompañantes (6/16)**
+- **Otalgia y otorrea:** ✅ Pregunta: *"¿Has tenido dolor de oído?"* y *"¿Y
+secreciones?"*
+- **Dolor retroauricular:** ✅ Pregunta: *"¿Has notado dolor detrás del oído?"*
+
+- **Audición (Hipoacusia/Hiperacusia):** ✅ Pregunta: *"¿Oyes peor?"* y *"¿Has
+oído un pitido?"* (aunque no explora hiperacusia explícitamente, aborda síntomas
+auditivos relevantes).
+- **Sensación de plenitud auricular:** ✅ Pregunta: *"¿Has notado sensación de
+oído lleno?"*
+- **Otros síntomas (gusto, salivación, ojo seco, erupción, etc.):** ❌ **No
+abordados**.
+  **Puntos:** 1+1+2+2 = **6/16**.
+
+---
+
+#### **6. Factores Desencadenantes (6/7)**
+- **Infección viral reciente:** ✅ Pregunta: *"¿Tuviste un resfriado, herpes,
+varicela?"*
+- **Exposición al frío:** ✅ Pregunta: *"¿Estuviste expuesto a mucho frío?"*
+- **Traumatismo craneoencefálico:** ✅ Pregunta: *"¿Te has dado algún golpe?"*
+- **Cirugía reciente:** ✅ Pregunta: *"¿Te has hecho alguna cirugía?"*
+- **Estrés intenso:** ❌ **No abordado**.
+  **Puntos:** 2+2+1+1 = **6/7**.
+
+---
+
+#### **7. Síntomas Generales y Neurológicos (4/5)**
+- **Fiebre y malestar general:** ✅ Pregunta: *"¿Has tenido fiebre o malestar?"*
+
+- **Síntomas neurológicos:** ✅ Pregunta: *"¿Notaste debilidad o pérdida de
+fuerza?"*
+- **Vértigo:** ✅ Explora "desequilibrio" (relacionado con vértigo).
+- **Cefalea:** ❌ **No abordada**.
+  **Puntos:** 1+1+1+1 = **4/5**.
+
+---
+
+#### **8. Antecedentes Personales y Salud (11/11)**
+- **Episodios previos de parálisis facial:** ✅ Pregunta explícita.
+- **Síntomas respiratorios previos:** ✅ Pregunta: *"¿Tuviste problemas
+respiratorios?"*
+- **Enfermedades previas:** ✅ Pregunta: *"¿Tienes alguna enfermedad?"*
+(diabetes).
+- **Alergias:** ✅ Pregunta: *"¿Tienes alguna alergia?"*
+- **Intervenciones quirúrgicas:** ✅ Pregunta: *"¿Qué operaciones has tenido?"*
+
+- **Medicamentos:** ✅ Pregunta: *"¿Qué fármacos tomas?"*
+  **Puntos:** 11/11.
+
+---
+
+#### **9. Medio Laboral (6/6)**
+- **Profesión y situación laboral:** ✅ Pregunta: *"¿Cuál es tu profesión?"*
+- **Exposición a frío/vibraciones/tóxicos:** ✅ Preguntas específicas sobre
+riesgos laborales.
+  **Puntos:** 6/6.
+
+---
+
+#### **10. Hábitos y Antecedentes Familiares (3/8)**
+- **Hábitos (tabaco, alcohol, drogas):** ✅ Pregunta: *"¿Consumes alcohol,
+tabaco u otras drogas?"*
+- **Antecedentes familiares:** ❌ **No abordados** (enfermedades hereditarias,
+parálisis facial recurrente, etc.).
+  **Puntos:** 3/8.
+
+---
+
+### **Observaciones Clave**
+1. **Fortalezas:**
+   - El médico cumple rigurosamente con la identificación del paciente, motivo
+de consulta, historia clínica y antecedentes personales.
+   - Aborda de forma efectiva factores laborales y hábitos tóxicos.
+
+2. **Áreas de Mejora:**
+   - **Síntomas acompañantes:** No explora síntomas como alteración del gusto,
+ojo seco, erupción vesicular o salivación.
+   - **Antecedentes familiares:** Omite preguntas sobre enfermedades
+hereditarias o parálisis facial en la familia.
+   - **Síntomas generales:** No indaga sobre cefalea.
+   - **Factores desencadenantes:** No aborda el estrés como posible factor.
+
+---
+
+### **Recomendaciones**
+- Incluir preguntas estructuradas para cubrir **todos los síntomas
+acompañantes** (p. ej., "¿Has notado cambios en el gusto?" o "¿Tienes sequedad
+en los ojos?").
+- Agregar un apartado explícito sobre **antecedentes familiares** (ej.: "¿Hay
+casos de diabetes o parálisis facial en tu familia?").
+- Explorar **estrés intenso** como factor desencadenante,Error: Internal Server Error (ref: 8ab88efc-fe0e-4226-80e4-2b479a326a39)
+

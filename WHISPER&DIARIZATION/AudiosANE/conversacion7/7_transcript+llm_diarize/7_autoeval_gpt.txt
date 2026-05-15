@@ -1,0 +1,105 @@
+Autor diarization: qwen
+Puntuación real: 51/73
+
+## Evaluación del cumplimiento del protocolo
+
+| Área del protocolo | Puntos posibles | Puntos obtenidos | Comentario breve |
+|-------------------|----------------|------------------|-------------------|
+| **Comunicación** | 5 | **5** | Se presentó al paciente al iniciar la consulta.
+|
+| **Identificación del paciente (datos de filiación)** | 5 | **5** | Preguntó
+nombre, edad, estado civil y origen (País Vasco). |
+| **Motivo de la consulta** | 5 | **5** | “Cuéntame qué te trae por aquí”. |
+| **Historia del proceso actual** | 5 | **5** | Abordó inicio, lateralidad,
+duración, evolución y episodios previos. |
+| **Síntomas acompañantes** | 16 | **6** | • Otalgia / otorrea (1)  <br>• Dolor
+retro‑auricular (1)  <br>• Alteración de la audición (2)  <br>• Sensación de
+plenitud auricular (2)  <br> No se indagó sobre gusto, salivación, ojo seco,
+erupción vesicular, etc. |
+| **Factores desencadenantes** | 7 | **5** | • Infección viral reciente (2)
+<br>• Exposición a frío / corrientes de aire (2)  <br>• Traumatismo
+craneoencefálico (1)  <br>No se preguntó específicamente por estrés intenso ni
+por cirugía reciente. |
+| **Síntomas generales y neurológicos** | 5 | **4** | Fiebre, malestar general y
+síntomas neurológicos (debilidad, sensibilidad) fueron preguntados. No se indagó
+sobre cefalea. |
+| **Antecedentes personales y salud** | 11 | **11** | Cubrió episodios previos
+de parálisis facial, antecedentes respiratorios, enfermedades crónicas,
+alergias, cirugías y medicación. |
+| **Medio laboral** | 6 | **5** | Profesión y situación laboral (1), exposición
+a frío (2) y a tóxicos (2). No se preguntó sobre vibraciones. |
+| **Hábitos y antecedentes familiares** | 8 | **3** | Preguntó sobre tabaco,
+alcohol y drogas (3). No se indagó en antecedentes familiares de enfermedades
+hereditarias, parálisis facial ni enfermedades neurológicas. |
+
+### Puntaje total
+- **Puntos obtenidos:** **54**
+- **Puntos posibles:** **73**
+
+**Porcentaje de cumplimiento:** **≈ 74 %**
+
+---
+
+## Análisis cualitativo
+
+1. **Aspectos muy bien cubiertos**
+   - Presentación y rapport inicial.
+   - Recolección exhaustiva de datos de filiación y del motivo de consulta.
+   - Historia del proceso actual y antecedentes personales (incluyendo cirugías
+y medicación).
+
+2. **Áreas con déficit importante**
+   - **Síntomas acompañantes:** faltaron preguntas sobre gusto, alteraciones de
+la salivación, ojo seco, erupción vesicular y otros síntomas otológicos que
+forman parte del protocolo (12 puntos no abordados).
+   - **Factores desencadenantes:** no se indagó sobre estrés intenso ni sobre la
+posible cirugía reciente, que suman 2 puntos.
+   - **Síntomas generales/neurológicos:** no se preguntó por cefalea (1 punto).
+
+   - **Medio laboral:** ausencia de preguntas sobre exposición a vibraciones
+(1 punto).
+   - **Antecedentes familiares:** se omitieron preguntas sobre enfermedades
+hereditarias, parálisis facial recurrente y trastornos neurológicos en la
+familia (5 puntos).
+
+3. **Observaciones de estilo de entrevista**
+   - El médico utilizó un tono informal y, en varios momentos, repitió frases o
+introdujo comentarios no clínicos (“Club”, “No te pidas perdón”), lo que puede
+distraer y reducir la claridad de la entrevista.
+   - En algunos casos la redacción de la pregunta fue algo confusa (por ejemplo,
+“¿Y estábais expuesto a biohiberaciones o frío habitualmente?”), aunque logró
+obtener la información requerida.
+
+---
+
+## Recomendaciones para mejorar el cumplimiento del protocolo
+
+1. **Utilizar una lista de verificación estructurada** al final de la entrevista
+para asegurarse de cubrir todos los ítems (especialmente los de síntomas
+acompañantes y factores desencadenantes).
+2. **Mantener un estilo de entrevista claro y conciso**, evitando repeticiones
+innecesarias y comentarios coloquiales que pueden entorpecer la obtención de
+datos precisos.
+3. **Incluir preguntas específicas sobre**:
+   - Alteración del gusto y de la salivación.
+   - Ojo seco o lagrimeo excesivo.
+   - Erupción vesicular o cambios cutáneos.
+   - Estrés intenso y cirugías recientes.
+   - Cefalea y vértigo con mayor precisión.
+   - Antecedentes familiares de enfermedades neuro‑otológicas y parálisis
+facial.
+4. **Revisar la exposición a vibraciones** en el entorno laboral, especialmente
+en actividades que impliquen uso de equipos mecánicos.
+
+---
+
+### Conclusión
+
+El médico mostró una sólida capacidad para establecer rapport y recabar la
+información esencial de identificación, motivo de consulta, historia del proceso
+actual y antecedentes personales. Sin embargo, la entrevista dejó varios vacíos
+importantes respecto a los síntomas acompañantes, factores desencadenantes y
+antecedentes familiares, lo que redujo el cumplimiento global del protocolo a
+**≈ 74 %**. Mejorar la cobertura de esos ítems y afinar el estilo de entrevista
+permitiría alcanzar una calificación cercana al 100 % y garantizar una
+valoración clínica más completa.

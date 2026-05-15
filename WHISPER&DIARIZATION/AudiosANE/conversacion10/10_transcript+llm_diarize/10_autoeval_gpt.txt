@@ -1,0 +1,71 @@
+Autor diarization: qwen
+Puntuación real: 73/73
+
+## Evaluación de la entrevista
+**Puntuación total obtenida:** **67 / 73** ≈ 92 %
+
+A continuación se detalla, categoría por categoría, los puntos conseguidos y los
+que no fueron alcanzados, con una breve observación de cada caso.
+
+| Categoría | Puntos posibles | Puntos obtenidos | Comentario |
+|-----------|----------------|------------------|------------|
+| **Comunicación** | 5 | **5** | Se presentó al paciente y usó un saludo
+cordial. |
+| **Identificación del paciente (Datos de filiación)** | 5 | **5** | Preguntó
+nombre, edad, estado civil y lugar de procedencia. |
+| **Motivo de la consulta** | 5 | **5** | Preguntó “¿qué le trae por aquí?”. |
+| **Historia del proceso actual** | 5 | **4** | - Inicio y modo
+brusco‑progresivo ✅  <br> - Lateralidad ✅  <br> - Evolución ✅  <br>
+- Episodios previos ✅  <br> - **Duración** **NO** (no se solicitó cuántos
+días/horas lleva los síntomas). |
+| **Síntomas acompañantes** | 16 | **15** | Todo se cubrió salvo el **dolor
+retro‑auricular** (no se preguntó). |
+| **Factores desencadenantes** | 7 | **6** | Infección viral, exposición al
+frío, estrés y traumatismo craniano fueron indagados. **Cirugía reciente** no se
+preguntó. |
+| **Síntomas generales y neurológicos** | 5 | **3** | Fiebre y malestar general ✅
+, síntomas neurológicos (desequilibrio) ✅. **Cefalea** y **vértigo** no se
+preguntaron. |
+| **Antecedentes personales y salud** | 11 | **11** | Se cubrieron todos los
+ítems (parálisis facial previa, síntomas respiratorios, enfermedades crónicas,
+alergias, cirugías y medicación). |
+| **Medio Laboral** | 6 | **6** | Profesión, exposición a frío, vibraciones y
+tóxicos fueron indagados. |
+| **Hábitos y antecedentes familiares** | 8 | **7** | Hábitos de
+tabaco‑alcohol‑drogas, enfermedades hereditarias (DM, HTA), parálisis facial
+familiar y enfermedades neurológicas familiares ✅. **Enfermedades hereditarias
+generales** (más allá de DM y HTA) no se preguntó. |
+
+### Resumen de los puntos perdidos (6 puntos)
+
+| Ítem | Puntos perdidos | Por qué |
+|------|----------------|---------|
+| Duración de los síntomas | 1 | No se solicitó cuántos días/horas lleva el
+cuadro. |
+| Dolor retroauricular | 1 | No se preguntó específicamente. |
+| Cirugía reciente (cabeza) | 1 | Sólo se preguntó sobre cirugías generales, no
+sobre intervenciones recientes que pudieran ser desencadenantes. |
+| Cefalea | 1 | No se indagó la presencia de dolor de cabeza. |
+| Vértigo | 1 | Se habló de sensación de desequilibrio, pero no de vértigo
+propiamente dicho. |
+| Enfermedades hereditarias generales | 1 | No se preguntó por otras patologías
+hereditarias distintas a DM y HTA. |
+
+## Recomendaciones para futuros protocolos
+
+1. **Duración específica** – Preguntar “¿Desde hace cuántos días/horas ha notado
+la debilidad facial?” para cubrir el ítem de duración.
+2. **Dolor retro‑auricular** – Incluir una pregunta directa: “¿ siente dolor
+detrás de la oreja o en la zona retro‑auricular?”.
+3. **Cirugías recientes** – Preguntar explícitamente “¿Ha tenido alguna cirugía
+en los últimos 3 meses, sobre todo en cabeza o cuello?”.
+4. **Cefalea y vértigo** – Añadir dos preguntas específicas: “¿Ha tenido dolor
+de cabeza recientemente?” y “¿Ha experimentado episodios de vértigo o sensación
+de que todo gira?”.
+5. **Enfermedades hereditarias generales** – Ampliar la indagación: “¿Hay alguna
+otra enfermedad crónica que sea frecuente en su familia (por ejemplo,
+enfermedades autoinmunes, cáncer, etc.)?”.
+
+Con la incorporación de estas preguntas, la puntuación máxima sería alcanzada
+(73 / 73). En general, el médico siguió muy adecuadamente el protocolo,
+superando el 90 % de los criterios establecidos. ¡Excelente desempeño!

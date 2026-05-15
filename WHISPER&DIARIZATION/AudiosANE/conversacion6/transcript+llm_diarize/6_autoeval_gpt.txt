@@ -1,0 +1,72 @@
+Diarization autor: qwen
+Puntuación real: 42/73
+
+**Evaluación del médico según los criterios proporcionados**
+
+| Categoría | Puntos obtenidos | Puntos máximos | % de cumplimiento |
+|-----------|------------------|----------------|--------------------|
+| **Comunicación** (Se presenta) | 5 | 5 | 100 % |
+| **Identificación del Paciente** (Datos de filiación) | 5 | 5 | 100 % |
+| **Motivo de la consulta** | 5 | 5 | 100 % |
+| **Historia del proceso actual** | 5 | 5 | 100 % |
+| **Síntomas acompañantes** | 10 | 16 | 62,5 % |
+| **Factores desencadenantes** | 5 | 7 | 71,4 % |
+| **Síntomas generales y neurológicos** | 4 | 5 | 80 % |
+| **Antecedentes personales y salud** | 9 | 11 | 81,8 % |
+| **Medio Laboral** | 0 | 6 | 0 % |
+| **Hábitos y antecedentes familiares** | 0 | 8 | 0 % |
+| **TOTAL** | **48** | **73** | **≈ 65,8 %** |
+
+---
+
+### Comentarios por categoría
+
+1. **Comunicación** – El médico se presentó con nombre y especialidad y preguntó
+el nombre del paciente. **✅**
+2. **Identificación** – Preguntó nombre, edad, estado civil y procedencia
+(país/región). **✅**
+3. **Motivo de la consulta** – “¿Qué es lo que le trae por aquí?”‑ Sí. **✅**
+4. **Historia del proceso actual** – Recopiló inicio, lateralidad, duración,
+evolución y episodios previos. **✅**
+5. **Síntomas acompañantes** – Cubrió otalgia, dolor retroauricular, audición,
+cambios de saliva y sensación de oído lleno. No indagó sobre gusto, ojo seco,
+erupción vesicular ni reforzó la diferencia entre disminución y sialorrea de
+forma separada. **⚠ 10/16**
+6. **Factores desencadenantes** – Preguntó exposición al frío, estrés, cirugía y
+trauma craneal. No indagó sobre infección viral reciente. **⚠ 5/7**
+7. **Síntomas generales y neurológicos** – Preguntó fiebre, malestar general,
+otros síntomas neurológicos y vértigo (a través de la sensación de
+desequilibrio). No abordó cefalea. **⚠ 4/5**
+8. **Antecedentes personales y salud** – Preguntó episodios previos de parálisis
+facial, enfermedades previas (DM), alergias, intervenciones quirúrgicas y
+medicación. No preguntó síntomas respiratorios previos. **⚠ 9/11**
+9. **Medio Laboral** – No se preguntó profesión, exposición ocupacional al frío,
+a vibraciones o a tóxicos. **❌ 0/6**
+10. **Hábitos y antecedentes familiares** – No se indagó sobre tabaquismo,
+alcohol, drogas, antecedentes familiares de enfermedades ni de parálisis facial.
+**❌ 0/8**
+
+---
+
+### Conclusión
+El médico obtuvo **48 puntos de 73 posibles (≈ 66 %)**.
+Destaca en la **presentación, identificación y recogida de la historia del
+proceso actual**, pero presenta **deficiencias importantes en la exploración de
+síntomas acompañantes, factores desencadenantes, antecedentes familiares y
+laborales**.
+
+Para mejorar la puntuación global sería necesario:
+
+* Incluir preguntas específicas sobre **gusto, ojo seco/lagrimeo, erupción
+vesicular y sialorrea**.
+* Preguntar activamente sobre **infección viral reciente** y **síntomas
+respiratorios previos**.
+* Indagar sobre **cefalea** y **hábitos de consumo (tabaco, alcohol, drogas)**.
+
+* Explorar **profesión, exposición ocupacional al frío, vibraciones y tóxicos**.
+
+* Preguntar sobre **antecedentes familiares de enfermedades neurológicas o
+parálisis facial**.
+
+Con la incorporación de esos ítems la puntuación podría acercarse al 100 % del
+protocolo.

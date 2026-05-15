@@ -1,0 +1,150 @@
+Autor diarization: gpt
+Puntuación real: 73/73
+
+**Evaluación de la Consulta Médica según los Criterios Proporcionados**
+
+---
+
+### **1. Comunicación**
+- **Se presenta al Paciente**:
+  - El médico se presenta claramente: *"Buenos días, yo soy la doctora
+Gallastegui y hoy voy a ser su otorrino."*
+  - **Puntos obtenidos**: 5/5
+
+---
+
+### **2. Identificación del Paciente (Datos de filiación)**
+- **Nombre**: Pregunta explícitamente: *"¿Cuál es su nombre?"* → **2/2**
+- **Edad**: *"¿Cuántos años tiene?"* → **1/1**
+- **Estado Civil**: *"¿Estás casado?"* → **1/1**
+- **Lugar de procedencia**: *"¿De dónde eres?"* → **1/1**
+  - **Puntos obtenidos**: 5/5
+
+---
+
+### **3. Motivo de la consulta**
+- **Por qué acude a la consulta**:
+  - Pregunta: *"¿Qué te trae por aquí?"* → Paciente describe síntomas faciales.
+
+  - **Puntos obtenidos**: 5/5
+
+---
+
+### **4. Historia del proceso actual**
+- **Inicio del cuadro**: Fecha (diciembre) y modo progresivo → **1/1**
+- **Lateralidad**: Confirma afectación unilateral (derecha) → **1/1**
+- **Duración**: "Hace unos tres meses" → **1/1**
+- **Evolución**: Empeoramiento progresivo sin mejoría → **1/1**
+- **Episodios anteriores**: Primera vez → **1/1**
+  - **Puntos obtenidos**: 5/5
+
+---
+
+### **5. Síntomas acompañantes**
+- **Otalgia y otorrea**:
+  - Pregunta sobre *otorrea* (secreciones), pero **no sobre otalgia** (dolor en
+el oído).
+  - **Puntos obtenidos**: 0/1
+- **Dolor retroauricular**: Pregunta explícita → **1/1**
+- **Audición**: Evalúa hipoacusia y acúfenos (no hiperacusia), pero cubre la
+esencia → **2/2**
+- **Alteración del gusto**: Explora ubicación y síntoma → **2/2**
+- **Disminución de la salivación**: Pregunta sobre sequedad/boca seca → **2/2**
+
+- **Ojo seco o lagrimeo**: Pregunta explícita → **2/2**
+- **Erupción vesicular**: Pregunta sobre lesiones en el oído → **2/2**
+- **Alteración Salivación (Sialorrea/Sequedad)**: Cubierto en la misma pregunta
+anterior → **2/2**
+- **Sensación de plenitud auricular**: Pregunta explícita → **2/2**
+  - **Puntos obtenidos**: 15/16
+
+---
+
+### **6. Factores desencadenantes**
+- **Infección viral reciente**: Pregunta por resfriado/COVID → **2/2**
+- **Exposición al frío**: Explora claramente → **2/2**
+- **Estrés**: Pregunta explícita → **1/1**
+- **Cirugía reciente**: Verifica en historial → **1/1**
+- **Traumatismo**: Pregunta sobre golpes → **1/1**
+  - **Puntos obtenidos**: 7/7
+
+---
+
+### **7. Síntomas generales y neurológicos**
+- **Fiebre, malestar, cefalea**: Pregunta explícita → **3/3**
+- **Síntomas neurológicos**: Explora debilidad y equilibrio → **1/1**
+- **Vértigo**: Paciente reporta "desequilibrio" → **1/1**
+  - **Puntos obtenidos**: 5/5
+
+---
+
+### **8. Antecedentes personales y salud**
+- **Episodios previos de parálisis facial**: Pregunta explícita → **2/2**
+- **Síntomas respiratorios previos**: Explora asma infantil → **2/2**
+- **Enfermedades previas**: Identifica diabetes → **2/2**
+- **Alergias**: Pregunta por alergias → **1/1**
+- **Intervenciones quirúrgicas**: Confirma amígdalas y apéndice → **2/2**
+- **Toma de medicamentos**: Identifica metformina → **2/2**
+  - **Puntos obtenidos**: 11/11
+
+---
+
+### **9. Medio Laboral**
+- **Profesión y situación laboral**: Pregunta y registra (farmacéutico jubilado)
+→ **1/1**
+- **Exposición a frío/vibraciones/tóxicos**: Explora todas las categorías →
+**5/5**
+  - **Puntos obtenidos**: 6/6
+
+---
+
+### **10. Hábitos y Antecedentes familiares**
+- **Hábitos**: Explora tabaco, alcohol y drogas → **3/3**
+- **Enfermedades hereditarias**: Diabetes y HTA en familia → **2/2**
+- **Parálisis facial recurrente**: Pregunta explícita → **1/1**
+- **Enfermedades neurológicas familiares**: Explora Parkinson → **1/1**
+- **Enfermedades hereditarias generales**: Cubierto en preguntas previas →
+**1/1**
+  - **Puntos obtenidos**: 8/8
+
+---
+
+### **Resumen Final**
+| **Categoría**                                | **Puntos Obtenidos** |
+**Total** |
+|----------------------------------------------|----------------------|----------|----------------------------------------------|----------------------|-----------|
+| Comunicación                                 | 5                    | 5
+ |
+| Identificación del Paciente                  | 5                    | 5
+ |
+| Motivo de la consulta                        | 5                    | 5
+ |
+| Historia del proceso actual                  | 5                    | 5
+ |
+| Síntomas acompañantes                        | 15                   | **16**
+ |
+| Factores desencadenantes                     | 7                    | 7
+ |
+| Síntomas generales y neurológicos            | 5                    | 5
+ |
+| Antecedentes personales y salud              | 11                   | 11
+ |
+| Medio Laboral                                | 6                    | 6
+ |
+| Hábitos y Antecedentes familiares            | 8                    | 8
+ |
+| **TOTAL**                                    | **71**               | **72**
+ |
+
+---
+
+### **Observación Clave**
+- **Punto perdido**: En **Síntomas acompañantes**, el médico no preguntó
+específicamente por **otalgia** (dolor en el oído), aunque sí exploró otorrea y
+otros síntomas. Esto representa la única omisión relevante en el protocolo.
+
+**Calificación final: 71/72 (98.6%)**
+El médico sigue el protocolo de manera exhaustiva, con una atención meticulosa a
+los detalles clínicos y una comunicación clara y empática. La única mejora
+sugerida es profundizar en la exploración de síntomas específicos como la
+otalgia.

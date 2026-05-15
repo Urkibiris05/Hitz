@@ -1,0 +1,149 @@
+Diarization autor: gpt
+Puntuación real: 42/73
+
+**Evaluación del Médico según los Criterios Proporcionados**
+
+---
+
+### **1. Comunicación**
+- **Subpunto: Se presenta al Paciente**
+  - El médico se presenta claramente: *"Buenos días, yo soy la doctora
+Gallastegui y hoy voy a ser su otorrino"*.
+  - **Puntos obtenidos**: 5/5.
+
+---
+
+### **2. Identificación del Paciente (Datos de filiación)**
+- **Nombre**: Pregunta explícita: *"¿Cómo se llama usted?"* → **2/2**.
+- **Edad**: *"¿Cuántos años tiene?"* → **1/1**.
+- **Estado Civil**: *"¿Eres del País Vasco?"* (aunque la pregunta no es directa,
+confirma su estado civil al mencionar que vino con su mujer) → **1/1**.
+- **Lugar de procedencia**: *"¿Eres del País Vasco?"* → **1/1**.
+  - **Puntos totales**: 5/5.
+
+---
+
+### **3. Motivo de la consulta**
+- **Subpunto: Por qué acude a la consulta**
+  - Pregunta directa: *"¿Qué es lo que te trae por aquí?"* → **5/5**.
+
+---
+
+### **4. Historia del proceso actual**
+- **Inicio del cuadro**: Confirma progresividad (*"esto ha sido poco a poco"*) →
+**1/1**.
+- **Lateralidad**: Identifica lado derecho afectado → **1/1**.
+- **Duración**: Estima 3-4 meses (*"llevas así desde diciembre"*) → **1/1**.
+- **Evolución**: Confirma empeoramiento progresivo → **1/1**.
+- **Episodios anteriores**: Pregunta si ocurrió antes → **1/1**.
+  - **Puntos totales**: 5/5.
+
+---
+
+### **5. Síntomas acompañantes**
+- **Otalgia y otorrea**: Pregunta por dolor de oído y secreciones → **1/1**.
+- **Dolor retroauricular**: Pregunta explícita → **1/1**.
+- **Audición (Hipoacusia / Hiperacusia)**: Explora audición y tinnitus →
+**2/2**.
+- **Sensación de plenitud auricular**: Pregunta por oído lleno → **2/2**.
+- **Disminución de la salivación y Sialorrea/Sequedad bucal**: Pregunta por
+cambios en la saliva → **4/4** (cubre ambos subpuntos).
+- **Otros síntomas (gusto, ojo seco, erupción)**: **No abordados** → **0/6**.
+  - **Puntos totales**: 10/16.
+
+---
+
+### **6. Factores desencadenantes**
+- **Exposición al frío**: Pregunta explícita → **2/2**.
+- **Estrés intenso**: Pregunta por estrés → **1/1**.
+- **Cirugía reciente**: Pregunta por operaciones → **1/1**.
+- **Traumatismo craneoencefálico**: Pregunta por golpes en la cabeza → **1/1**.
+
+- **Infección viral reciente**: **No abordada** → **0/2**.
+  - **Puntos totales**: 5/7.
+
+---
+
+### **7. Síntomas generales y neurológicos**
+- **Fiebre y malestar**: Pregunta por síntomas generales → **2/2**.
+- **Síntomas neurológicos**: Explora debilidad y desequilibrio → **1/1**.
+- **Vértigo**: Confirma síntoma de desequilibrio → **1/1**.
+- **Cefalea**: **No abordada** → **0/1**.
+  - **Puntos totales**: 4/5.
+
+---
+
+### **8. Antecedentes personales y salud**
+- **Episodios previos de parálisis facial**: Pregunta explícita → **2/2**.
+- **Enfermedades previas (DM)**: Confirma diabetes → **2/2**.
+- **Alergias**: Pregunta por alergias → **1/1**.
+- **Intervenciones quirúrgicas**: Pregunta por cirugías → **2/2**.
+- **Toma de medicamentos**: Identifica metformina → **2/2**.
+- **Síntomas respiratorios previos**: **No abordados** → **0/2**.
+  - **Puntos totales**: 9/11.
+
+---
+
+### **9. Medio Laboral**
+- **Profesión, exposición a frío/vibraciones/tóxicos**: **No abordados** (el
+paciente es mayor de 76 años, posiblemente retirado, pero no se indaga).
+  - **Puntos totales**: 0/6.
+
+---
+
+### **10. Hábitos y Antecedentes familiares**
+- **Hábitos (tabaco, alcohol, drogas)**: **No abordados**.
+- **Enfermedades hereditarias/familiares**: **No abordadas**.
+  - **Puntos totales**: 0/8.
+
+---
+
+### **Resumen Final**
+| **Categoría**                              | **Puntos Obtenidos** | **Máximo**
+|
+|--------------------------------------------|----------------------|------------|--------------------------------------------|----------------------|------------|
+| Comunicación                               | 5                    | 5
+|
+| Identificación del Paciente                | 5                    | 5
+|
+| Motivo de la consulta                      | 5                    | 5
+|
+| Historia del proceso actual                | 5                    | 5
+|
+| Síntomas acompañantes                      | 10                   | 16
+|
+| Factores desencadenantes                   | 5                    | 7
+|
+| Síntomas generales y neurológicos          | 4                    | 5
+|
+| Antecedentes personales y salud            | 9                    | 11
+|
+| Medio Laboral                              | 0                    | 6
+|
+| Hábitos y Antecedentes familiares          | 0                    | 8
+|
+| **TOTAL**                                  | **48**               | **72**
+|
+
+---
+
+### **Conclusión**
+El médico obtiene **48/72 puntos** (66,7%).
+**Fortalezas**:
+- Cumple con los aspectos básicos (presentación, identificación, motivo de
+consulta, historia actual).
+- Explora minuciosamente síntomas auditivos, salivación y factores
+desencadenantes como estrés y frío.
+
+**Áreas de mejora**:
+- **Síntomas acompañantes**: No aborda alteración del gusto, ojo seco o
+erupciones vesiculares.
+- **Antecedentes familiares y hábitos**: No explora tabaco, alcohol,
+antecedentes hereditarios ni enfermedades respiratorias previas.
+- **Medio laboral**: No indaga en profesión o exposición a riesgos laborales.
+- **Infecciones virales recientes**: Omite preguntar por VHS, VZV o COVID-19.
+
+**Recomendación**: Incluir en la anamnesis todas las categorías críticas,
+especialmente en casos neurológicos (ej.: parálisis facial), donde factores como
+infecciones virales o antecedentes familiares son relevantes.
+
