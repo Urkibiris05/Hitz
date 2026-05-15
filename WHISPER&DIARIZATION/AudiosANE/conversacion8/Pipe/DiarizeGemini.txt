@@ -1,0 +1,96 @@
+CONVERSACIÓN: CONSULTA DE OTORRINOLARINGOLOGÍA (IGNACIO)
+
+Médico: Voy a ser su otorrino, ¿cómo se llama usted?
+Paciente: Buenos días, mi nombre es Ignacio.
+
+Médico: Vale, Ignacio, antes de nada me gustaría preguntarte un par de cosas. ¿Cuántos años tiene?
+Paciente: Tengo 76 años, pero pues puedes tutearme sin problema, así estoy más cómodo.
+
+Médico: Genial, como tú prefieras, otra pregunta. ¿Eres del País Vasco?
+Paciente: Efectivamente, mis padres son de Cantabria, pero yo nací aquí.
+
+Médico: Muy bien, ¿y estás casado?
+Paciente: Sí, he venido con mi mujer, me está esperando en la sala de espera.
+
+Médico: Qué suerte la tuya, cuéntame qué te trae por aquí.
+Paciente: Pues mire, llevo un tiempo sin poder mover la cara, me cuesta sonreír y abrir el ojo.
+
+Médico: Ya veo el problema, antes de comenzar la exploración voy a hacerte unas preguntas para intentar orientar la causa, ¿te parece?
+Paciente: Sí, claro, pregunta lo que quieras.
+
+Médico: Lo primero que querría saber es desde hace cuánto tiempo te ocurre esto, ¿sabrías decirme qué día iniciaste?
+Paciente: Pues no el día exacto, lo único que puedo decirte es que empezó sobre diciembre.
+
+Médico: Vale, pues comenzó hace unos tres meses. Acabas de mencionar que no te acuerdas del día en el que comenzó, entiendo que entonces no fue un inicio brusco.
+Paciente: No, ha ido poco a poco.
+
+Médico: Y en estos meses ¿dirías que la incapacidad de mover la cara ha ido a mejor, a peor o sigue igual?
+Paciente: A peor. Al inicio era casi imperceptible, en cambio ahora se nota bastante.
+
+Médico: Veo que solo tienes el lado derecho afectado, ¿en algún momento te ha pasado lo mismo en el izquierdo?
+Paciente: No, siempre ha sido en el mismo lado.
+
+Médico: Vale, ¿y esta es la primera vez que tienes un episodio similar o alguna vez te ha pasado esto mismo?
+Paciente: Nunca que yo recuerde, esto es una cosa de raíz.
+
+Médico: Genial Ignacio, quiero ahora que intentes recordar estos últimos meses y pienses en otros síntomas que hayas podido tener. Por ejemplo, ¿has tenido dolor en el oído o detrás del oído?
+Paciente: No.
+
+Médico: ¿Y secreciones en el oído?
+Paciente: Tampoco.
+
+Médico: ¿Y sensación de tener el oído lleno o taponado?
+Paciente: Eso tampoco me ha pasado.
+
+Médico: ¿Recuerdas si en estos meses te han salido granitos o manchitas alrededor del oído?
+Paciente: ¿Cómo?
+
+Médico: ¿Y qué tal tienes el ojo? ¿Has notado en estos meses el ojo más seco o con más lágrimas de lo normal?
+Paciente: No, la verdad es que no he notado nada.
+
+Médico: También quería saber si has tenido problemas con la salivación, tanto por demasiada saliva como por sequedad.
+Paciente: No, quizá un poco, pero no es nada violento.
+
+Médico: ¿Y has tenido algún cambio en el gusto?
+Paciente: Sí, eso sí me ha pasado. Últimamente la comida me sabe raro.
+
+Médico: ¿Sabrías decirme si esto te pasa en toda la lengua o hay alguna zona que te llame la atención?
+Paciente: Pues diría que por la zona delantera más que la trasera.
+
+Médico: Vale, Ignacio, esto que me cuentas es muy útil. ¿Qué tal estás oyendo últimamente?
+Paciente: Pues llevo un tiempo oyendo peor, pero esto viene de mucho antes que diciembre.
+
+Médico: Vale, y además de oír peor, ¿sueles escuchar pitidos?
+Paciente: Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy escuchando nada.
+
+Médico: Muy bien, Ignacio, vamos muy bien. Más allá del oído y de la audición, ¿has tenido algún síntoma más general como fiebre, malestar o dolor de cabeza?
+Paciente: Nada de eso.
+
+Médico: ¿Has notado algo raro como debilidad, pérdida de fuerza o cambios en la sensibilidad?
+Paciente: Pues lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+
+Médico: ¿Con desequilibrio a qué te refieres? ¿A andar inseguro?
+Paciente: Sí, a andar con sensación de que me voy a caer.
+
+Médico: Entendido. ¿Recuerdas algún golpe o cirugía reciente en la cabeza?
+Paciente: Tampoco. Me caí una vez, pero solo me golpeé la rodilla.
+
+Médico: ¿Pasaste algún virus, resfriado fuerte, COVID o herpes por esa época?
+Paciente: Bueno, un resfriado. De lo demás nada.
+
+Médico: Hablemos de tus antecedentes. ¿Tienes alguna enfermedad?
+Paciente: Tengo diabetes.
+
+Médico: ¿Y problemas respiratorios como asma?
+Paciente: De pequeño tuve asma, pero nada más.
+
+Médico: ¿Eres alérgico a algo?
+Paciente: A la penicilina.
+
+Médico: ¿Qué operaciones te han hecho y qué fármacos tomas?
+Paciente: Me han quitado las amígdalas y me han operado de apendicitis. De fármacos, tomo uno para la diabetes, metformina.
+
+Médico: ¿Consumes alcohol o tabaco?
+Paciente: Nunca he fumado y solo bebo ocasionalmente en eventos.
+
+Médico: Gracias por todo, Ignacio. Pasa a la camilla y comenzamos la exploración.

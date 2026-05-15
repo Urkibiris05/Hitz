@@ -1,0 +1,90 @@
+MEDICO: Voy a ser su otorrino, ¿cómo se llama usted?
+PACIENTE: Buenos días, mi nombre es Ignacio.
+MEDICO: Vale, Ignacio, antes de nada me gustaría preguntarte un par de cosas. ¿Cuántos años tiene?
+PACIENTE: Tengo 76 años, pero pues tu tenes un problema, así estoy más común.
+MEDICO: Genial, como tú prefieras, otra pregunta. ¿Eres del país Vasco?
+PACIENTE: Efectivamente, mis padres son de Cantabria, pero yo nací aquí.
+MEDICO: Muy bien, ¿y estás casado?
+PACIENTE: Sí, he venido con mi mujer, me está esperando en la sala de espera.
+MEDICO: Qué suerte la tuya, cuéntame qué te trae por aquí.
+PACIENTE: Pues mire, ha llevado un tiempo sin poder moverme la cara, me cuesta sanroir y abrir el ojo.
+MEDICO: Ya veo el problema, antes de comenzar la exploración voy a hacerte unas preguntas para intentar orientar la causa, ¿te parece?
+PACIENTE: Sí, claro, pregúntalo que quieras.
+MEDICO: Lo primero que querrías saber es desde hace cuánto tiempo te ocurre esto, ¿sabías decirme qué día iniciaste?
+PACIENTE: Pues no, al día exacto, lo único que puedo decirte es que empezó sobre diciembre.
+MEDICO: Vale, pues comenzó hace unos tres meses, acabas de mencionar que no te acuerdas del día en el que comenzó, entiendo que entonces no fue un indicio brusco.
+PACIENTE: No, ha ido poco a poco.
+MEDICO: Y en estos meses dirías que la incapacidad de mover la cara ha ido a mejor, a peor o sino igual.
+PACIENTE: A peor, al inicio era casi imperceptible, en cambio ahora se nota bastante.
+MEDICO: Veo que solo tienes el lado derecho afectado, ¿en algún momento te ha pasado lo mismo en el izquierdo?
+PACIENTE: No, siempre ha sido en el mismo lado.
+MEDICO: Vale, ¿y esta es la primera vez que tienes un episodio similar o alguna vez te ha pasado esto mismo?
+PACIENTE: Nunca que ya recuerdo, esto es una cosa raíz.
+MEDICO: Genial Ignacio, quiero ahora que intentes recordar estos últimos meses y pienses en otros síntomas que hayas podido tener.
+MEDICO: Por ejemplo, ¿has tenido dolor en el oído o detrás del oído?
+PACIENTE: No.
+MEDICO: ¿Y secreciones en el oído?
+PACIENTE: Tampoco.
+MEDICO: ¿Y sensación de tener el oído lleno de taponado?
+PACIENTE: Eso tampoco me ha pasado.
+MEDICO: ¿Recuerdas si en estos meses te ha salido granitos o manchitas alrededor del oído?
+PACIENTE: Cómo?
+MEDICO: ¿Y qué tal tienes el ojo? ¿Has notado en estos meses el ojo más seco o con más lágrimas de lo normal?
+PACIENTE: No, la verdad es que no he notado nada.
+MEDICO: También quería saber si has tenido problemas con la salivación, tanto por demasiada saliva como por sequedad.
+PACIENTE: No, quizá un poco, pero no es nada violente.
+MEDICO: ¿Y has tenido algún cambio en el gusto?
+PACIENTE: Sí, eso sí me ha pasado.
+PACIENTE: Últimamente la comida me salverde.
+MEDICO: ¿Sabrías decirme si esto te pasa en toda la lengua o hay alguna zona que te llamemos la atención?
+PACIENTE: Pues diría que por la zona delantera más que la trasera.
+MEDICO: Vale, Ignacio, esto que me cuentas es muy útil. ¿Qué tal estás oyendo últimamente?
+PACIENTE: Pues llevo un tiempo oyendo peor, pero esto viene de mucho antes que diciembre.
+MEDICO: Vale, y además de ir peor sueles escuchar pitidos?
+PACIENTE: Sí, a veces soy un siluido que parece que viene de fuera, incluso cuando no estoy escuchando nada.
+PACIENTE: Por ejemplo, me ha pasado alguna vez estando en la cama de la mesa.
+PACIENTE: Ahí sí que no estoy pitiendo, incluso cuando está todo en silencio.
+MEDICO: Muy bien, Ignacio, vamos muy bien. Más allá del odio de la audición, ¿has tenido algún sistema más general como, por ejemplo, fiebre, malestar o dolor de cabeza?
+PACIENTE: Nada de eso.
+MEDICO: ¿Y has notado algo raro como debilidad, pérdida de fuerza, cambios en la sensibilidad o cualquier cosa fuera del habitual?
+PACIENTE: Pues lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+MEDICO: Interesante. ¿Con desequilibrio a qué te refieres? ¿A andar inseguro?
+PACIENTE: Sí, a desamoracerlo.
+PACIENTE: A andar con sensación de que me voy a caer.
+PACIENTE: ¿Tiene sentido?
+MEDICO: Tiene mucho sentido. Vamos genial, Ignacio.
+MEDICO: Quiero que intentes recordar diciembre y me digas si haces algo al comienzo del segundo más. ¿Algo fuera de lo normal que haya podido desencadenar esto, por ejemplo? ¿Estuviste 
+más estresada de lo normal?
+PACIENTE: No.
+PACIENTE: A veces salió todo del alma de horas, pero nada más.
+MEDICO: Otras cosas que pueden estar relacionadas son los golpes y cirugías en la cabeza. En tu historial no me indica que te haya pasado nada, pero quizás te hayas dado un golpe.
+PACIENTE: Tampoco.
+PACIENTE: Me caí una vez, pero solo me golpeé la rodilla.
+MEDICO: Eso no tiene nada que ver, ¿no?
+PACIENTE: En principio no debería.
+MEDICO: ¿Recuerdas haber pasado un virus por esa época?
+PACIENTE: Bueno, tú eres frío.
+MEDICO: ¿Y alguna otra infección? Por ejemplo, COVID, parífela o herpes?
+PACIENTE: De eso no tuve nada.
+PACIENTE: El último diciembre fue un mes frío.
+MEDICO: ¿Te acuerdas si estuviste expuesto a mucho frío o a corrientes de aire?
+PACIENTE: Yo te diría que no.
+PACIENTE: Solo iré a pasear, pero hoy siempre vi una menor.
+MEDICO: Bueno, Ignacio, ahora vamos a hablar un poco de tus antecedentes personales. Ya me has dicho que nunca antes te había pasado esta parálisis.
+MEDICO: ¿Vas allá de eso? ¿Tienes alguna enfermedad?
+PACIENTE: Tengo diabetes.
+MEDICO: Vale, y aparte de la diabetes, ¿alguna vez probé más respiratorios o enfermedades de pulmón?
+PACIENTE: De pequeño tuve asma.
+PACIENTE: Pero nada más.
+MEDICO: ¿Y dime, Ignacio, eres alérgico a algo?
+PACIENTE: A la penicilina.
+MEDICO: Muy bien. Cuéntame qué operaciones te han hecho y qué fármacos tomas habitualmente.
+PACIENTE: Pues me han hecho dos operaciones.
+PACIENTE: Me han quitado las amíbalas y me han dado la penicilina.
+PACIENTE: Luego de fármacos, solo tomo un fármaco para la diabetes, que ahora mismo no recuerdo el nombre.
+MEDICO: Aquí me sale que tomas metformina. ¿Te suena el nombre?
+PACIENTE: Efectivamente.
+MEDICO: ¿Ya para terminar, querrías saber si consumes alcohol o tabaco?
+PACIENTE: Nunca he fumado.
+PACIENTE: Y solo luego los que me hacen se mueren.
+MEDICO: Bueno, Ignacio, gracias por responder a todo. Por favor, pasa la camilla y que comenzamos la sorpresa.
