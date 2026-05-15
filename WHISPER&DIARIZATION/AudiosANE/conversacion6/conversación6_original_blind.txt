@@ -1,55 +1,53 @@
-CONVERSACIÓN 6 (42/73)
 Médico: Buenos días, yo soy la doctora Gallastegi, y hoy voy a ser su otorrino. ¿cómo se llama
-usted? (+2) (+5)
+usted?
 Paciente: Buenos días, mi nombre es Ignacio.
 Médico: Vale Ignacio, antes de nada me gustaría preguntarle un par de cosas. ¿Cuántos años tiene?
-(+1)
 Paciente: Tengo 76 años, pero puedes tutearme sin problema, así estoy más cómodo.
-Médico: Como tú prefieras Ignacio. Otra pregunta. ¿Eres del País Vasco? (+1)
+Médico: Como tú prefieras Ignacio. Otra pregunta. ¿Eres del País Vasco?
 Paciente: Efectivamente, mis padres son de Cantabria, pero yo nací aquí.
-Médico: Otra pregunta, ¿estás casado? (+1)
+Médico: Otra pregunta, ¿estás casado?
 Paciente: Sí, he venido hoy con mi mujer, me está esperando en la sala de espera.
-Médico: Genial Ignacio, ahora sí, ¿qué es lo que te trae por aquí? (+5)
+Médico: Genial Ignacio, ahora sí, ¿qué es lo que te trae por aquí?
 Paciente: Pues mira Doctora, llevo un tiempo sin poder mover bien la cara. Me cuesta sonreír y abrir
 el ojo.
 Médico: Ya veo el problema. Antes de comenzar la exploración, voy a hacerte unas preguntas para
 intentar orientar la causa. ¿Te parece bien?
 Paciente: Sí claro, pregunta lo que quieras.
-Médico: Vale, comenzamos. ¿Cuánto tiempo llevas sin poder mover la cara? (+1)
+Médico: Vale, comenzamos. ¿Cuánto tiempo llevas sin poder mover la cara?
 Paciente: Pues no sé decirte el día exacto, pero más o menos diría que llevo así desde diciembre
 Médico: Vale, pues unos 3-4 meses aproximadamente. Por lo que veo sólo tienes afectado el lado
 derecho de la cara, ¿en algún momento en estos meses has tenido el otro lado de la cara afectado?
-(+1)
+
 Paciente: No, el lado izquierdo lo tengo perfecto, y en estos meses no he notado nada.
 Médico: Me has comentado antes que no te acuerdas del día en el que empezaste a estar así ¿Eso
-significa que no fue un cambio brusco? (+1)
+significa que no fue un cambio brusco?
 Paciente: Para nada, yo diría que esto ha sido poco a poco. Al inicio era casi imperceptible, en
 cambio ahora es bastante evidente.
-Médico: Por lo tanto, ¿dirías que ha habido un empeoramiento progresivo? (+1)
+Médico: Por lo tanto, ¿dirías que ha habido un empeoramiento progresivo?
 Paciente: Exactamente.
 Médico: ¿Y te acuerdas de si en algún momento hubo una leve mejoría?
 Paciente: No, lo dicho, esto va cuesta abajo.
 Médico: Vale Ignacio, también querría saber si esta incapacidad de mover la cara te ha pasado en
-algún otro momento. ¿O fue en diciembre la primera vez que te ocurría? (+1)
+algún otro momento. ¿O fue en diciembre la primera vez que te ocurría?
 Paciente: No tengo muy buena memoria, pero no me suena haber pasado nunca nada parecido.
 Quizás siendo pequeño me pasó y no lo recuerdo, pero yo diría que no es así.
 Médico: Genial Ignacio, ahora quiero que intentes hacer memoria de estos últimos meses. Entre los
 dos, vamos a intentar recordar otros síntomas que has podido tener.
 Paciente: Uf, no tengo muy buena memoria, no me acordaré de mucho.
 Médico: No te preocupes, yo te voy haciendo preguntas y tú respóndeme lo que recuerdes. ¿Has
-tenido dolor de oído? (+1)
+tenido dolor de oído?
 Paciente: No, la verdad que no.
 Médico: ¿Y secreciones en el oído?
 Paciente: Tampoco, nada de eso.
-Médico: ¿Y has notado en algún momento dolor detrás del oído? (+1)
+Médico: ¿Y has notado en algún momento dolor detrás del oído?
 Paciente: Tampoco.
-Médico: ¿Y sensación de tener el oído lleno o taponado? (+1)
+Médico: ¿Y sensación de tener el oído lleno o taponado?
 Paciente: No, no lo recuerdo.
 Médico: Vale, ¿te acuerdas si has tenido cambios de saliva? Con esto me refiero a tanto disminución
-de saliva como aumento. (+2)
+de saliva como aumento.
 Paciente: No, tampoco he notado nada, sólamente la incapacidad de mover la cara.
 Médico: Bueno, vamos a seguir pensando entre los dos. ¿En la última temporada qué tal oyes?¿has
-notado algún empeoramiento? (+2)
+notado algún empeoramiento?
 Paciente: Aiba, ahora que lo dices llevo una temporada oyendo regularmente. Pero llevo más de un
 año así, eso será por la edad, ¿no?
 Médico: Bueno, eso ahora mismo no lo podemos saber. Tendremos que descubrir qué te pasa para
@@ -59,14 +57,14 @@ Paciente: Sí, a veces oigo un silbido que parece que viene de fuera, incluso cu
 escuchando nada. Por ejemplo, me ha pasado alguna vez estando en la cama a la noche, ahí sí que
 noto un pitido, incluso cuando está todo en silencio.
 Médico: Muy bien Ignacio, vamos muy bien. Más allá del oído y la audición, ¿has tenido algún
-síntoma más general, por ejemplo fiebre o malestar? (+2)
+síntoma más general, por ejemplo fiebre o malestar?
 Paciente: Ya lo siento doctor, le estoy diciendo que no a todo, pero ciertamente no me encuentro
 mal.
 Médico: No te preocupes Ignacio y no me pidas perdón, si me alegro de que no te hayas encontrado
 mal estos meses. ¿Has notado algo raro como debilidad, pérdida de fuerza o cambios en la
-sensibilidad? O bueno, cualquier cosa fuera de lo habitual. (+1)
+sensibilidad? O bueno, cualquier cosa fuera de lo habitual.
 Paciente: Lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio
-Médico: Puede ser que estés experimentando vértigo. (+1)
+Médico: Puede ser que estés experimentando vértigo.
 Paciente: No, nunca he tenido vértigo, las alturas no me dan miedo.
 Médico: Perdón Ignacio, quizás no me haya explicado muy bien. Me refiero más bien a una sensación
 de mareo o de andar inseguro.
@@ -76,25 +74,25 @@ Médico: Tiene mucho sentido, vamos genial Ignacio. Ahora quiero que pienses en 
 cuándo te empezaron los síntomas. Querría saber si crees que hay algo que ha podido desencadenar
 esta parálisis de la cara.
 Paciente: No entiendo muy bien a qué te refieres.
-Médico: No te preocupes, te voy preguntando yo. ¿Estuviste estresado esos meses? (+1)
+Médico: No te preocupes, te voy preguntando yo. ¿Estuviste estresado esos meses?
 Paciente: No más de lo normal, todos estamos un poco estresados al preparar toda la navidad, pero
 nada extraordinario
-Médico:Vale, ¿y te acuerdas de si estuviste expuesto a mucho frío en esa época? (+2)
+Médico:Vale, ¿y te acuerdas de si estuviste expuesto a mucho frío en esa época?
 Hombre, pues frío sí, pero no más de lo habitual. Me gusta salir a la calle incluso cuando hace frío,
 pero suelo ir bien protegido e intento no estar mucho tiempo fuera en el frío.
 Paciente: Hombre, pues frío sí, pero no más de lo habitual. Me gusta salir a la calle incluso cuando
 hace frío, pero suelo ir bien protegido e intento no estar mucho tiempo fuera en el frío.
-Vale, ¿tuviste alguna operación ? ¿O quizás algún golpe en la cabeza? (+2)
-Médico: Vale, ¿tuviste alguna operación ? ¿O quizás algún golpe en la cabeza? (+2)
+Vale, ¿tuviste alguna operación ? ¿O quizás algún golpe en la cabeza?
+Médico: Vale, ¿tuviste alguna operación ? ¿O quizás algún golpe en la cabeza?
 Paciente: No creo que sea importante, pero en noviembre me caí y me di un golpe bastante fuerte
 en la rodilla, ¿puede tener algo que ver?
 Médico: No lo puedo asegurar por ahora, pero no creo que tenga relación. Bueno, ya lo último antes
 de pasar a la exploración vamos a hablar un poco de tus antecedentes. Cuéntame, ¿tienes alguna
-alergia? (+1)
+alergia?
 Paciente: Sí, a la penicilina.
-Médico: ¿Y tienes alguna otra enfermedad ? (+2)
+Médico: ¿Y tienes alguna otra enfermedad ?
 Paciente: Soy diabético.
-Médico: Vale Ignacio, esto lo voy a apuntar. ¿Qué medicamentos sueles tomar? (+2)
+Médico: Vale Ignacio, esto lo voy a apuntar. ¿Qué medicamentos sueles tomar?
 Paciente: Tomo algo que empieza por met-.
 Médico: ¿Metformina quizás?
 Paciente:Sí, eso es. Siempre se me olvida, menudo nombre más raro.

@@ -1,0 +1,5 @@
+"""
+Te voy a mandar una conversación entre medico y paciente, y necesito que me digas quien de los dos es el que
+esta diciendo cada linea de la conversación. Como output, quiero que me devuelvas la propia conversación pero
+acotando al principio de cada linea si es el MEDICO: o el PACIENTE: el que la dice.
+Ahi te va la conversación:

@@ -1,0 +1,119 @@
+MEDICO: Buenos días, yo soy la doctora Gallastegui y hoy voy a ser su otorrino.
+¿Cómo se llama usted?
+PACIENTE: Buenos días, mi nombre es Ignacio.
+MEDICO: Vale, Ignacio. Antes de nada, me gustaría preguntarle un par de cosas.
+¿Cuántos años tiene?
+PACIENTE: Tengo 76 años, pero puedes tutorme sin problema. Así estoy más cómodo.
+MEDICO: Genial, como tú prefieras. Otra pregunta, ¿eres del País Vasco?
+PACIENTE: Efectivamente. Mis padres son de Cantabria, pero yo nací aquí.
+MEDICO: Y otra pregunta, ¿estás casado?
+PACIENTE: Sí, he venido hoy con mi mujer. Me está esperando en la sala de
+espera.
+MEDICO: Vale, genial. Cuéntame qué te trae por aquí.
+PACIENTE: Pues mira, doctora, llevo un tiempo sin poder mover bien la cara. Me
+cuesta sonreír y abrir el ojo.
+MEDICO: Ya veo el problema. Antes de comenzar con la exploración, voy a hacerte
+unas preguntas para intentar orientar un poco la causa. ¿Te parece bien?
+PACIENTE: Sí, claro. Pregunta lo que quieras.
+MEDICO: Lo primero que querría saber es cuánto tiempo llevas con esta dificultad
+de mover la cara.
+PACIENTE: Pues no sabría decirte con exactitud, pero creo que esto empezó en
+diciembre.
+MEDICO: Vale, entonces alrededor de tres meses. Si no te acuerdas del día en el
+que comenzó, entiendo que el inicio no fue muy brusco, ¿verdad?
+PACIENTE: No, no lo fue. Diría que ha sido progresivo.
+MEDICO: En estos tres meses que llevas así, ¿en algún momento ha ido mejor o más
+bien a peor?
+PACIENTE: A peor. Al inicio era casi imperceptible, en cambio ahora se nota
+bastante.
+MEDICO: Vale, y por lo que veo solo tienes afectado el lado derecho de la cara.
+¿En algún momento has notado también estos síntomas en el izquierdo?
+PACIENTE: No, siempre ha sido en el mismo lodo.
+MEDICO: Vale, ¿y es esta la primera vez que tienes un episodio similar o alguna
+vez te ha pasado?
+PACIENTE: Nunca que yo recuerde. Esto es una cosa rarísima.
+MEDICO: Vale, genial, Ignacio. Ahora quiero que intentes hacer memoria de estos
+últimos meses. Entre los dos vamos a intentar recordar otros síntomas que has
+podido tener.
+PACIENTE: Uff, no tengo buena memoria. No me acordará yo de mucho.
+MEDICO: Bueno, no te preocupes que te voy haciendo yo las preguntas. Venga,
+empezamos. ¿Has tenido dolor de oído?
+PACIENTE: No, la verdad que no.
+MEDICO: ¿Y secreciones?
+PACIENTE: Tampoco, nada de eso.
+MEDICO: ¿Y has notado en algún momento dolor detrás del oído?
+PACIENTE: Tampoco.
+MEDICO: ¿Y sensación de tener el oído lleno taponado?
+PACIENTE: No, no lo recuerdo.
+MEDICO: ¿En la última temporada qué tal oyes? ¿Has notado que ergas peor?
+PACIENTE: Bueno, ahora que lo dices llevo una temporada oyendo regularmente,
+pero llevo más de un año así. Eso será por la edad, ¿no?
+MEDICO: Bueno, eso ahora mismo no lo podemos saber. Vamos a seguir con las
+preguntas. Además de oír peor, ¿te suena haber oído alguna vez un pitido?
+PACIENTE: Sí, a veces oigo un silbido que parece que viene de fuera, incluso
+cuando no estoy escuchando nada. Por ejemplo, me ha pasado alguna vez estando en
+la cama a la noche. Ahí sí que noto un pitido, incluso cuando está todo en
+silencio.
+MEDICO: Muy bien, Ignacio. Vamos, muy bien. Más allá del oído y de la audición,
+¿has tenido algún problema?
+MEDICO: Muy bien, Ignacio. Vamos, muy bien. Más allá del oído y de la audición,
+¿has tenido algún síntoma más general como, por ejemplo, fiebre o malestar?
+PACIENTE: Ya lo siento, doctora. Lo estoy diciendo que no a todo, pero
+ciertamente no me encuentro mal.
+MEDICO: No te preocupes, Ignacio. No me pidas perdón, si me alegro que no te
+hayas encontrado mal estos meses. ¿Has notado algo raro como debilidad, perdida
+de fuerza o cambias en la sensibilidad?
+PACIENTE: Club.
+MEDICO: O bueno, cualquier cosa por algo normal.
+PACIENTE: Lo único que se me ocurre es que llevo una temporada con sensación de
+desequilibrio.
+MEDICO: Esto es interesante. ¿Con desequilibrio qué te refieres? ¿Andar
+inseguro?
+PACIENTE: Sí, a eso me refiero. Andar con sensación de que me voy a
+caer. ¿Tiene sentido?
+MEDICO: Tiene mucho sentido. Vamos, genial, Ignacio. Ahora quiero que pienses en
+diciembre, que es cuando te empezaron los síntomas.
+MEDICO: Querría saber si crees que hay algo que ha podido desencadenar esta
+parálisis.
+PACIENTE: Pues no me puedo acordar. ¿Qué cosas pueden desencadenar esto?
+MEDICO: Por ejemplo, una infección, un herpes, una varicea, algún otro virus.
+PACIENTE: Pues creo que tuve un resfriado, pero poco más.
+MEDICO: ¿Y te acuerdas si estuviste expuesto a mucho frío o corrientes de aire?
+PACIENTE: Yo te diría que no. Solo iré a pasear, pero voy siempre bien abrigado.
+MEDICO: Otras cosas que pueden estar relacionadas son los golpes y cirugías.
+MEDICO: En tu historial no me indica que te haya pasado nada, pero quizás te
+hayas podido dar algún golpe.
+PACIENTE: No.
+MEDICO: Bueno, Ignacio, ahora vamos a hablar un poco de tus antecedentes
+personales.
+MEDICO: ¿Tienes alguna enfermedad?
+PACIENTE: Soy diabético.
+MEDICO: Vale, y aparte la diabetes has tenido alguna vez problemas respiratorios
+o enfermedades de pulmón.
+PACIENTE: De pequeño era asmático, pero se me pasó y no he vuelto a tener nada.
+MEDICO: ¿Y tienes alguna alergia?
+PACIENTE: Sí, soy alérgico a la penicilina.
+MEDICO: Vale, cuéntame qué operaciones se han hecho y qué fármacos tomas
+habitualmente.
+PACIENTE: Pues me han hecho dos operaciones. Me han quitado las amígdalas y
+también el apéndice.
+PACIENTE: Luego de fármaco solo tomo un fármaco para la diabetes. Ahora mismo no
+recuerdo el nombre.
+MEDICO: Aquí me sale que tomas metformina. ¿Te suele el nombre?
+PACIENTE: Efectivamente. Ese es el nombre.
+MEDICO: Muy bien. Querría saber un poco sobre tu trabajo. ¿Cuál es tu profesión?
+¿Actualmente trabajas?
+PACIENTE: Soy farmacéutico, pero estoy recién jubilado. Trabajaba en la farmacia
+de mi barrio.
+MEDICO: Genial. Qué interesante. ¿Puede ser que en la farmacia trabajas en algún
+tóxico, por ejemplo, a la hora de hacer las preparaciones?
+PACIENTE: Yo no me encargaba de las fórmulas, así que diría que no.
+MEDICO: ¿Y estábais expuesto a biohiberaciones o frío habitualmente?
+PACIENTE: No, tampoco.
+MEDICO: Vale, genial. Para terminar, querrías saber si consumes alguna sustancia
+como alcohol, tabaco u otras drogas.
+PACIENTE: Nunca he fumado ni me he drogado y solo soy bebedor ocasional. Algunas
+fiendas me tomo unas copitas de vino.
+MEDICO: Bueno Ignacio, gracias por responder. Por favor, pasa la camionilla que
+comenzamos la exploración.
+

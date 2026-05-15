@@ -1,0 +1,110 @@
+CONVERSACIÓN 10 (TOTAL)
+Médico: Buenos días, yo soy la doctora Gallastegi, y hoy voy a ser su otorrino. ¿Cuál es su nombre?
+(+2) (+5)
+Paciente: Buenos días, mi nombre es Ignacio.
+Médico: Encantada, Ignacio. Antes de nada, me gustaría hacerte unas preguntas. ¿Cuántos años
+tienes?(+1)
+Paciente: Tengo 76 años, pero puedes tutearme sin problema, así estoy más cómodo.
+Médico: Genial, como tú estés más cómodo. Otra pregunta. ¿de dónde eres? (+1)
+Paciente: Yo soy del País Vasco, y he vivido aquí toda mi vida
+Médico: Muy bien, ¿estás casado? (+1)
+Paciente: Sí, he venido hoy con mi mujer, me está esperando en la sala de espera.
+Médico: Estupendo. Cuéntame, ¿qué te trae por aquí?(+5)
+Paciente: Pues mira Doctora, llevo un tiempo sin poder mover bien la cara. No puedo sonreír ni
+mover el ojo.
+Médico: Entiendo. Antes de explorarte, voy a hacerte unas preguntas para orientarme mejor, ¿de
+acuerdo?
+Paciente: Sí claro, pregunta lo que quieras.​
+Médico: ¿Recuerdas cuándo empezaste a notar estos síntomas? (+1)
+Paciente: No sabría decirte con exactitud, sobre diciembre empezó
+Médico: Vale, hace unos 3 meses aproximadamente. ¿Dirías que el comienzo fue brusco o
+progresivo? (+1)
+Paciente: Progresivo, ha ido poco a poco a más.
+Médico: Por lo que dices, entiendo que ha ido empeorando progresivamente. (+1)
+Paciente: Eso es. Al inicio era casi imperceptible. En cambio, ahora se nota bastante.
+Médico: ¿Sabrías decirme si en algún momento ha ido a mejor?
+Paciente: Yo diría que no.
+Médico: Veo que solo tienes el lado derecho afectado. ¿En algún momento te ha pasado lo mismo en
+el lado izquierdo? (+1)
+Paciente: No, siempre ha sido en el mismo lado.
+Médico: Vale, ¿alguna vez en tu vida has tenido síntomas similares? ¿O es la primera vez que te
+ocurre? (+1)
+Paciente: Nunca que yo recuerde, esto es una cosa rarísima.
+Médico: Genial Ignacio, quiero ahora que intentes recordar estos últimos meses y pienses en otros
+síntomas que hayas podido tener. Por ejemplo, ¿has tenido dolor en el oído o detrás del oído? (+2)
+Paciente: No.
+Médico: ¿Y secreciones en el oído?
+Paciente: Tampoco.
+Médico: ¿Has tenido la sensación de tener el oído lleno o taponado? (+2)
+Paciente: Eso tampoco me ha pasado.
+Médico: ¿Has notado lesiones, como granitos o manchas en el oído? (+2)
+Paciente: Que va.
+Médico: V¿Y en el ojo? ¿Sequedad o lagrimeo excesivo? (+2)
+Paciente: Nada, no he notado nada.
+Médico: ¿Has notado cambios en la salivación, como tener la boca muy seca o, por el contrario,
+producir demasiada saliva? (+4)
+Paciente: No lo sé, quizás un poco, pero no es nada evidente.
+Médico: ¿Notas que los alimentos saben diferente o has perdido algo de gusto? (+2)
+Paciente: Sí, eso sí me ha pasado. Últimamente la comida me sabe menos.
+Médico: ¿Sabrías decirme si esto te pasa en toda la lengua? ¿O hay alguna zona que te llame más la
+atención?
+Paciente: Pues diría que por la zona delantera más que la trasera.
+Médico: Vale Ignacio, esto que me cuentas es muy útil. ¿Qué tal estás oyendo últimamente? (+2)
+Paciente: Pues llevo un tiempo oyendo peor, pero esto viene de mucho antes que diciembre.
+Médico: Vale, además de notar que oyes peor, ¿sueles escuchar pitidos en el oído?
+Paciente: Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy
+escuchando nada. Por ejemplo, me ha pasado alguna vez estando en la cama a la noche, ahí sí que
+noto un pitido, incluso cuando está todo en silencio.
+Médico: Muy bien, Ignacio, vamos avanzando. Además de los síntomas del oído y la audición, ¿has
+notado algún síntoma general, como fiebre, malestar o dolor de cabeza?(+3)
+Paciente: Nada de eso.
+Médico: ¿Has notado algo raro como debilidad, pérdida de fuerza o cambios en la sensibilidad? O
+bueno, cualquier cosa fuera de lo habitual. (+1)
+Paciente: Lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio
+Médico: Esto es interesante, ¿con desequilibrio a que te refieres? ¿A andar inseguro? (+1)
+Paciente: Sí, a eso me refiero, a andar con sensación de que me voy a caer. ¿Tiene sentido?
+Médico: Tiene mucho sentido, vamos genial Ignacio ¿Recuerdas si en diciembre ocurrió algo que
+pudiera desencadenarlo? ¿Más estrés de lo habitual? (+1)
+Paciente: No, el estrés habitual de las navidades, pero nada más.
+Médico: Otras cosas que pueden afectar son los golpes o cirugías en la cabeza. En tu historial no veo
+que hayas tenido ninguno, pero ¿te has dado algún golpe en la cabeza recientemente?(+2)
+Paciente:Tampoco, me caí una vez, pero solo me golpeé la rodilla. ¿Eso no tiene que ver no?
+Médico: En principio no debería. ¿Tuviste algún resfriado, gripe u otra infección viral por aquel
+tiempo?(+2)
+Paciente: Sí, estuve resfriado.
+Médico: Bien, ¿y tuviste alguna otra infección?, ¿por ejemplo COVID, varicela o herpes?
+Paciente: De eso no tuve nada.
+Médico: El diciembre pasado fue un mes frío. ¿Recuerdas si estuviste mucho tiempo expuesto al frío
+o a corrientes de aire? (+2)
+Paciente: Yo te diría que no, suelo ir a pasear pero voy siempre bien abrigado.
+Médico: Vamos con tus antecedentes. ¿Tienes alguna enfermedad? (+2)
+Paciente: Tengo diabetes.
+Médico: Vale, aparte de la diabetes ¿Has tenido alguna vez problemas respiratorios o enfermedades
+del pulmón? (+2)
+Paciente: De pequeño tuve asma, pero nada más.
+Médico: Dime Ignacio, ¿eres alérgico a algo?
+Paciente: A la penicilina.
+Médico: Bien, cuéntame qué operaciones te han hecho y qué fármacos tomas habitualmente. (+4)
+Paciente: Pues me han hecho dos operaciones: me han quitado las amígdalas y también el apéndice.
+Luego de fármacos sólo tomo 1 fármaco para la diabetes, ahora mismo no recuerdo el nombre.
+Médico: Aquí me sale que tomas metformina, ¿te suena ese nombre?
+Paciente: Efectivamente, ese es el nombre.
+Médico: Genial, ahora vamos a hablar un poco de tu trabajo. ¿De qué trabajas o trabajabas? (+1)
+Paciente: Pues soy farmacéutico, recién jubilado. Trabajaba en la farmacia de mi barrio.
+Médico: Muy bien, ¿trabajabais en la farmacia con alguna sustancia tóxica? (+2)
+Paciente: No, yo no me encargaba de hacer las fórmulas, así que no estaba expuesto.
+Médico: Me imagino que no, pero por si acaso prefiero preguntarlo. ¿En tu trabajo estabas expuesto
+a temperaturas bajas o vibraciones? (+3)
+Paciente: Tampoco, era un trabajo tranquilo.
+Médico: También querría saber si consumes alcohol, tabaco o alguna otra droga. (+3)
+Paciente: Nunca he fumado y sólo bebo los fines de semana.
+Médico: Ya por último ,¿algún familiar tuyo ha padecido enfermedades hereditarias o crónicas? (+2)
+Paciente: Mis dos padres eran diabéticos, al igual que yo.
+Médico: ¿Tienes algún familiar con hipertensión? (+1)
+Paciente: Ah pues sí, mi hermano es hipertenso
+Médico: Vale, ¿ y alguien de tu familia ha tenido alguna enfermedad neurológica o episodios de
+parálisis facial? (+2)
+Paciente: Lo único que sé es que mi abuela tuvo Parkinson, pero nadie de mi familia ha tenido
+parálisis facial nunca
+Médico: Bueno Ignacio, gracias por responder a todo. Pasa por favor a la camilla que vamos a
+empezar con la exploración.
