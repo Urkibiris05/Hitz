@@ -1,0 +1,97 @@
+### 1. Comunicación  (5 / 5)  
+- **Cumplido:** El médico se presenta al inicio diciendo “Voy a ser su otorrino…”.
+
+### 2. Identificación del paciente (Datos de filiación)  (5 / 5)  
+- **Nombre** – preguntado y obtenido.  
+- **Edad** – preguntada y obtenida.  
+- **Estado civil** – preguntado y obtenido.  
+- **Lugar de procedencia** – preguntado (país Vasco / Cantabria) y obtenido.
+
+### 3. Motivo de la consulta  (5 / 5)  
+- **Cumplido:** Pregunta directa “¿Qué le trae por aquí?”.
+
+### 4. Historia del proceso actual  (5 / 5)  
+- **Inicio del cuadro (fecha/mode)** – mes aproximado, progresivo.  
+- **Lateralidad** – solo lado derecho.  
+- **Duración** – meses (≈ 3 meses).  
+- **Evolución** – empeoramiento.  
+- **Episodios anteriores** – niega que haya ocurrido antes.
+
+### 5. Síntomas acompañantes  (14 / 16)  
+| Síntoma | Preguntado | Resultado |
+|---------|------------|-----------|
+| Otalgia / otorrea | Sí | Negativo |
+| Dolor retroauricular | Sí | Negativo |
+| Audición (hipo‑/hiperacusia) | Sí (pérdida auditiva, pitidos) | Positivo |
+| Alteración del gusto | Sí (cambio de sabor) | Positivo |
+| Disminución / exceso de salivación | Sí (sequedad ligera) | Positivo |
+| Ojo seco o lagrimeo excesivo | Sí | Negativo |
+| Erupción vesicular | **No** | — |
+| Sensación de plenitud auricular | Sí (sensación de oído tapado) | Negativo |
+| Alteración de la salivación (sialorrea/sequedad) | Sí | Positivo |
+
+**Puntos obtenidos:** 14 de 16 (faltó preguntar por erupción vesicular).
+
+### 6. Factores desencadenantes  (6 / 7)  
+| Factor | Preguntado | Resultado |
+|--------|------------|----------|
+| Infección viral reciente (COVID, herpes, etc.) | Sí | Negativo |
+| Exposición al frío / corrientes de aire | Sí | Negativo |
+| Estrés intenso | Sí | Negativo |
+| Cirugía reciente | **No** | — |
+| Traumatismo craneoencefálico | Sí (caída de rodilla) | Negativo |
+
+**Puntos obtenidos:** 6 de 7 (no se preguntó cirugía reciente).
+
+### 7. Síntomas generales y neurológicos  (5 / 5)  
+- Se preguntó y obtuvo respuesta (aunque sea negativa) a: fiebre, malestar general, otros síntomas neurológicos, cefalea y vértigo.  
+
+### 8. Antecedentes personales y salud  (11 / 11)  
+| Ítem | Preguntado | Respuesta |
+|------|------------|-----------|
+| Episodios previos de parálisis facial | No | 2 pts |
+| Síntomas respiratorios previos | Asma de la infancia | 2 pts |
+| Enfermedades previas (DM, HTA, etc.) | Diabetes | 2 pts |
+| Alergias | Penicilina | 1 pt |
+| Intervenciones quirúrgicas | Amígdalas | 2 pts |
+| Medicación habitual | Metformina | 2 pts |
+
+### 9. Medio laboral  (0 / 6)  
+- **No se realizó** ninguna pregunta sobre profesión, exposición a frío, vibraciones o tóxicos.
+
+### 10. Hábitos y antecedentes familiares  (3 / 8)  
+| Ítem | Preguntado | Respuesta |
+|------|------------|-----------|
+| Hábitos (tabaco, alcohol, drogas) | Sí (no fuma, consumo ocasional de alcohol) | 3 pts |
+| Enfermedades hereditarias familiares | **No** | 0 pts |
+| Parálisis facial familiar | **No** | 0 pts |
+| Enfermedades neurológicas familiares | **No** | 0 pts |
+| Otras enfermedades hereditarias generales | **No** | 0 pts |
+
+---
+
+## Resultado global
+
+- **Puntos obtenidos:** **59**  
+- **Puntos máximos posibles:** **73**  
+- **Porcentaje:** **≈ 81 %**
+
+---
+
+### Resumen rápido de lo que se cumplió y lo que falta
+
+| Área | Cumplido | Falta / Incompleto |
+|------|-----------|-------------------|
+| Comunicación | ✔︎ | — |
+| Identificación | ✔︎ | — |
+| Motivo de consulta | ✔︎ | — |
+| Historia actual | ✔︎ | — |
+| Síntomas acompañantes | ✔︎ (excepto erupción vesicular) | Erupción vesicular |
+| Factores desencadenantes | ✔︎ (excepto cirugía reciente) | Cirugía reciente |
+| Síntomas generales/neurológicos | ✔︎ | — |
+| Antecedentes personales | ✔︎ | — |
+| Medio laboral | **No** | Todas las preguntas (profesión, exposición a frío, vibraciones, tóxicos) |
+| Hábitos y antecedentes familiares | Parcial | Preguntas sobre enfermedades hereditarias y parálisis facial familiar |
+
+Con esas observaciones, la entrevista cubrió la mayor parte del esquema clínico, pero para alcanzar el 100 % sería necesario añadir las preguntas que faltan en **Medio laboral** y 
+**Antecedentes familiares**, así como la cuestión de **erupción vesicular** y **cirugía reciente**.
