@@ -1,0 +1,127 @@
+### **Resultados de la Evaluación**
+
+#### **Comunicación**  
+- **Se presenta al Paciente**: ✔️  
+  - El médico se identifica como "otorrino" al inicio.  
+  **Puntos obtenidos**: 5/5  
+
+---
+
+#### **Identificación del Paciente (Datos de filiación)**  
+- **Pregunta su nombre**: ✔️ (2/2)  
+- **Edad**: ✔️ (1/1)  
+- **Estado Civil**: ✔️ (1/1)  
+- **Lugar de procedencia**: ✔️ (1/1)  
+  - El paciente aclara que sus padres son de Cantabria, pero él nació en el País Vasco.  
+  **Puntos obtenidos**: 5/5  
+
+---
+
+#### **Motivo de la consulta**  
+- **Por qué acude a la consulta**: ✔️  
+  - El paciente describe dificultad para mover la cara, olfato y abrir el ojo.  
+  **Puntos obtenidos**: 5/5  
+
+---
+
+#### **Historia del proceso actual**  
+- **Inicio del cuadro**: ✔️ (1/1)  
+  - Se establece que comenzó en diciembre (hace 3 meses) de forma progresiva.  
+- **Lateralidad**: ✔️ (1/1)  
+  - Solo afecta el lado derecho.  
+- **Duración de los síntomas**: ✔️ (1/1)  
+  - Duración de 3 meses.  
+- **Evolución**: ✔️ (1/1)  
+  - Empeoramiento progresivo.  
+- **Episodios parecidos anteriormente**: ✔️ (1/1)  
+  - El paciente niega antecedentes similares.  
+  **Puntos obtenidos**: 5/5  
+
+---
+
+#### **Síntomas acompañantes**  
+- **Otalgia y otorrea**: ✔️ (1/1)  
+- **Dolor retroauricular**: ✔️ (1/1)  
+- **Audición (Hipoacusia/Hiperacusia)**: ✔️ (2/2)  
+  - Se explora pérdida auditiva y acúfenos.  
+- **Alteración del gusto**: ✔️ (2/2)  
+  - El paciente refiere sabor salado en la zona anterior de la lengua.  
+- **Disminución de la salivación**: ✔️ (2/2)  
+- **Ojo seco o lagrimeo excesivo**: ✔️ (2/2)  
+- **Erupción vesicular**: ✔️ (2/2)  
+  - Se pregunta por granitos/manchitas alrededor del oído.  
+- **Alteración Salivación (Sialorrea/Secedad)**: ✔️ (2/2)  
+- **Sensación de plenitud auricular**: ✔️ (2/2)  
+  **Puntos obtenidos**: 16/16  
+
+---
+
+#### **Factores desencadenantes**  
+- **Infección viral reciente**: ✔️ (2/2)  
+- **Exposición al frío**: ✔️ (2/2)  
+- **Estrés intenso**: ✔️ (1/1)  
+- **Cirugía reciente**: ✔️ (1/1)  
+- **Traumatismo craneoencefálico**: ✔️ (1/1)  
+  **Puntos obtenidos**: 7/7  
+
+---
+
+#### **Síntomas generales y neurológicos**  
+- **Fiebre**: ✔️ (1/1)  
+- **Malestar general**: ✔️ (1/1)  
+- **Síntomas neurológicos**: ✔️ (1/1)  
+  - El paciente refiere desequilibrio.  
+- **Cefalea**: ✔️ (1/1)  
+- **Vértigo**: ✔️ (1/1)  
+  **Puntos obtenidos**: 5/5  
+
+---
+
+#### **Antecedentes personales y salud**  
+- **Episodios previos de parálisis facial**: ✔️ (2/2)  
+- **Síntomas respiratorios previos**: ✔️ (2/2)  
+  - Antecedente de asma en la infancia.  
+- **Enfermedades Previas**: ✔️ (2/2)  
+  - Diabetes confirmada.  
+- **Alergias**: ✔️ (1/1)  
+  - Alergia a penicilina.  
+- **Intervenciones Quirúrgicas**: ✔️ (2/2)  
+  - Amigdalectomía.  
+- **Toma de Medicamentos**: ✔️ (2/2)  
+  - Metformina para diabetes.  
+  **Puntos obtenidos**: 11/11  
+
+---
+
+#### **Medio Laboral**  
+- **Profesión y Situación Laboral**: ❌ (0/1)  
+- **Exposición a Frío**: ❌ (0/2)  
+- **Exposición a Vibraciones**: ❌ (0/1)  
+- **Exposición a Tóxicos**: ❌ (0/2)  
+  - **No se aborda en la conversación**.  
+  **Puntos obtenidos**: 0/6  
+
+---
+
+#### **Hábitos y Antecedentes familiares**  
+- **Hábitos (Tabaco, Alcohol, Drogas)**: ✔️ (3/3)  
+  - El paciente niega tabaco y menciona consumo moderado de alcohol.  
+- **Enfermedades Hereditarias**: ❌ (0/2)  
+  - No se explora antecedente familiar de diabetes u otras enfermedades.  
+- **Parálisis facial recurrente en familia**: ❌ (0/1)  
+- **Enfermedades neurológicas familiares**: ❌ (0/1)  
+- **Enfermedades hereditarias generales**: ❌ (0/1)  
+  **Puntos obtenidos**: 3/8  
+
+---
+
+### **Puntuación Final**  
+- **Total obtenido**: **62/73**  
+- **Comentarios destacados**:  
+  - **Fortalezas**: Excelente exploración clínica, cubriendo todos los síntomas específicos, antecedentes y factores desencadenantes.  
+  - **Áreas de mejora**:  
+    - No se abordó el **medio laboral** (profesión, exposición a riesgos ocupacionales).  
+    - No se exploraron **antecedentes familiares** (enfermedades hereditarias, parálisis facial recurrente).  
+
+**Observación**: La consulta fue clínica y estructurada, pero faltaron elementos clave en anamnesis social y familiar.
+

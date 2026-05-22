@@ -1,0 +1,71 @@
+Médico: Hoy voy a ser su otorrino. ¿Cómo se llama usted?
+Paciente: Buenos días, mi nombre es Ignacio.
+Médico: Vale Ignacio, antes de nada me gustaría preguntarte un par de cosas. ¿Cuántos años tiene?
+Paciente: Tengo 76 años, pero puedes tutearme sin problema, así estoy más cómodo.
+Médico: Genial, como tú prefieras. Otra pregunta. ¿Eres del País Vasco?
+Paciente: Efectivamente, mis padres son de Cantabria, pero yo nací aquí.
+Médico: Muy bien y ¿estás casado?
+Paciente: Sí, he venido hoy con mi mujer, me está esperando en la sala de espera.
+Médico: Que suerte la tuya, cuéntame que te trae por aquí.
+Paciente: Pues mira Doctora, llevo un tiempo sin poder mover bien la cara. Me cuesta sonreír y abrir el ojo.
+Médico: Ya veo el problema. Antes de comenzar la exploración, voy a hacerte unas preguntas para intentar orientar la causa. ¿Te parece?
+Paciente: Sí claro, pregunta lo que quieras.
+Médico: Lo primero que querría saber es desde hace cuánto tiempo te ocurre esto. ¿Sabrías decirme qué día iniciaste?
+Paciente: Pues no, el día exacto no me acuerdo. Lo único que puedo decirte es que empezó sobre diciembre.
+Médico: Vale pues comenzó hace unos 3 meses. Acabas de mencionar que no te acuerdas del día en el que comenzó, entiendo que entonces no fue un inicio brusco.
+Paciente: No, ha ido poco a poco.
+Médico: Y en estos meses dirías que la incapacidad de mover la cara ha ido: ¿a mejor, a peor o sigue igual?
+Paciente: A peor. Al inicio era casi imperceptible. En cambio, ahora se nota bastante.
+Médico: Veo que solo tienes el lado derecho afectado. ¿En algún momento te ha pasado lo mismo en el izquierdo?
+Paciente: No, siempre ha sido en el mismo lado.
+Médico: Vale, ¿y esta es la primera vez que tienes un episodio similar? ¿O alguna vez te ha pasado esto mismo?
+Paciente: Nunca que yo recuerde, esto es una cosa rarísima.
+Médico: Genial Ignacio, quiero ahora que intentes recordar estos últimos meses y pienses en otros síntomas que hayas podido tener. Por ejemplo, ¿has tenido dolor en el oído o detrás del oído?
+Paciente: No.
+Médico: ¿Y secreciones en el oído?
+Paciente: Tampoco.
+Médico: ¿Y sensación de tener el oído lleno o taponado?
+Paciente: Eso tampoco me ha pasado.
+Médico: ¿Recuerdas si en estos meses te han salido granitos o manchitas alrededor del oído?
+Paciente: Que va.
+Médico: ¿Y qué tal tienes el ojo? ¿Has notado en estos meses el ojo más seco o con más lágrimas de lo normal?
+Paciente: Eh, nada, la verdad es que no he notado nada.
+Médico: También querría saber si has tenido problemas con la salivación, tanto por demasiada saliva como por sequedad.
+Paciente: No lo sé, quizás un poco, pero no es nada evidente.
+Médico: ¿Y has tenido algún cambio en el gusto?
+Paciente: Sí, eso sí me ha pasado. Últimamente la comida me sabe a menos.
+Médico: ¿Sabrías decirme si esto te pasa en toda la lengua? ¿O hay alguna zona que te llame más la atención?
+Paciente: Pues diría que por la zona delantera más que la trasera.
+Médico: Vale Ignacio, esto que me cuentas es muy útil. ¿Qué tal estás oyendo últimamente?
+Paciente: Pues llevo un tiempo oyendo peor, pero esto viene de mucho antes que diciembre.
+Médico: Vale y además de oír peor, ¿sueles escuchar pitidos?
+Paciente: Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy escuchando nada. Por ejemplo, me ha pasado alguna vez estando en la cama a la noche, ahí sí que noto un pitido, incluso cuando está todo en silencio.
+Médico: Muy bien Ignacio, vamos muy bien. Más allá del oído y la audición, ¿has tenido algún síntoma más general, como por ejemplo fiebre, malestar o dolor de cabeza?
+Paciente: Nada de eso.
+Médico: ¿Y has notado algo raro como debilidad, pérdida de fuerza o cambios en la sensibilidad? O bueno, cualquier cosa fuera de lo habitual.
+Paciente: Pues lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+Médico: Interesante, ¿con desequilibrio a qué te refieres? ¿A andar inseguro?
+Paciente: Sí, a eso me refiero, a andar con sensación de que me voy a caer. ¿Tiene sentido?
+Médico: Tiene mucho sentido, vamos genial Ignacio. Quiero que intentes recordar diciembre y me digas si asocias algo al comienzo de síntomas, algo fuera de lo normal que haya podido desencadenar esto. Por ejemplo, ¿estuviste más estresado de lo normal?
+Paciente: No, el estrés habitual de las navidades, pero nada más.
+Médico: Otras cosas que pueden estar relacionadas son los golpes y cirugías en la cabeza. En tu historial no me indica que te haya pasado nada, ¿pero quizás te hayas dado algún golpe?
+Paciente: Tampoco, me caí una vez, pero solo me golpeé la rodilla. ¿Eso no tiene nada que ver no?
+Médico: En principio no debería, ¿recuerdas haber pasado algún virus por esa época?
+Paciente: Bueno, estuve resfriado.
+Médico: Bien, tuviste alguna otra infección, ¿por ejemplo COVID, varicela o herpes?
+Paciente: De eso no tuve nada.
+Médico: El último diciembre fue un mes frío, ¿te acuerdas si estuviste expuesto a mucho frío o a corrientes de aire?
+Paciente: Yo te diría que no, suelo ir a pasear pero voy siempre bien abrigado.
+Médico: Bueno Ignacio, ahora vamos a hablar un poco de tus antecedentes personales. Ya me has dicho que nunca antes te había pasado esta parálisis. Más allá de eso, ¿tienes alguna enfermedad?
+Paciente: Tengo diabetes.
+Médico: Vale, y aparte de la diabetes ¿Has tenido alguna vez problemas respiratorios o enfermedades del pulmón?
+Paciente: De pequeño tuve asma, pero nada más.
+Médico: Y dime Ignacio, ¿eres alérgico a algo?
+Paciente: A la penicilina.
+Médico: Muy bien, cuéntame qué operaciones te han hecho y qué fármacos tomas habitualmente.
+Paciente: Pues me han hecho dos operaciones: me han quitado las amígdalas y también el apéndice. Luego de fármacos sólo tomo 1 fármaco para la diabetes, que ahora mismo no recuerdo el nombre.
+Médico: Aquí me sale que tomas metformina, ¿te suena ese nombre?
+Paciente: Efectivamente, ese es el nombre.
+Médico: Ya para terminar, querría saber si consumes alcohol o tabaco.
+Paciente: Nunca he fumado y sólo bebo los fines de semana.
+Médico: Bueno Ignacio, gracias por responder a todo. Por favor pasa a la camilla que comenzamos la exploración.
