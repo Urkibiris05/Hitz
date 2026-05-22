@@ -1,0 +1,235 @@
+{
+  "Comunicación": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Se presenta al Paciente": {
+        "PuntosPregunta": 5,
+        "Observaciones": "El médico se presenta claramente al inicio: 'buenos días yo soy la doctora gallas tegui y hoy voy a ser su otorrino'."
+      }
+    }
+  },
+  "Identificación del Paciente (Datos de filiación)": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Pregunta su nombre": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Pregunta explícita: 'me podría decir su nombre'."
+      },
+      "Edad": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Pregunta: 'cuántos años tiene'."
+      },
+      "Estado Civil": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Pregunta implícita al referirse a 'mi mujer me está esperando'."
+      },
+      "Lugar de procedencia": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Pregunta: 'de dónde eres'."
+      }
+    }
+  },
+  "Motivo de la consulta": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Por qué acude a la consulta": {
+        "PuntosPregunta": 5,
+        "Observaciones": "El médico invita a explicar: 'cuéntame', y el paciente describe el motivo principal (parálisis facial)."
+      }
+    }
+  },
+  "Historia del proceso actual": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Inicio del cuadro (Fecha, hora y modo brusco/progresivo)": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se identifica inicio en diciembre y progresividad: 'sobre diciembre empezó progresivo'."
+      },
+      "Lateralidad (Unilateral / Bilateral)": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Confirmación unilateral: 'solo tienes el lado derecho afectado'."
+      },
+      "Duración de los síntomas (horas, días)": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Duración desde diciembre (varios meses)."
+      },
+      "Evolución (Estable, empeoramiento o mejoría parcial)": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Evolución progresiva: 'ha ido empeorando progresivamente'."
+      },
+      "Episodios parecidos anteriormente": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Pregunta explícita y respuesta: 'nunca que yo recuerde'."
+      }
+    }
+  },
+  "Síntomas acompañantes": {
+    "Puntos totales": 16,
+    "Subpuntos": {
+      "Otalgia y otorrea": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Pregunta sobre dolor y secreciones en oído."
+      },
+      "Dolor retroauricular": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se explora: 'dolor en el oído o detrás del oído'."
+      },
+      "Audición (Hipoacusia / Hiperacusia)": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se evalúa audición y acúfenos (pitidos)."
+      },
+      "Alteración del gusto (2/3 anteriores de la lengua)": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Paciente refiere alteración gustativa en zona anterior de lengua."
+      },
+      "Disminución de la salivación": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se explora sequedad bucal y producción salival."
+      },
+      "Ojo seco o lagrimeo excesivo": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Pregunta explícita sobre síntomas oculares."
+      },
+      "Erupción vesicular": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se pregunta por lesiones en oído."
+      },
+      "Alteración Salivación (Sialorrea / Sequedad bucal)": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Cubierta al evaluar producción salival y sequedad."
+      },
+      "Sensación de plenitud auricular": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se explora sensación de oído tapado."
+      }
+    }
+  },
+  "Factores desencadenantes": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Infección viral reciente (VHS, VZV, COVID)": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se explora resfriado previo y otras infecciones virales."
+      },
+      "Exposición al frío o corrientes de aire": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Pregunta explícita sobre exposición a frío."
+      },
+      "Estrés intenso": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se evalúa estrés en el periodo inicial."
+      },
+      "Cirugía reciente": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se descartan cirugías en cabeza."
+      },
+      "Traumatismo craneoencefálico": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se descartan traumatismos recientes."
+      }
+    }
+  },
+  "Síntomas generales y neurológicos": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Fiebre": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se descarta explícitamente."
+      },
+      "Malestar general": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Incluido en la exploración de síntomas generales."
+      },
+      "Síntomas neurológicos": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se explora debilidad y cambios sensitivos."
+      },
+      "Cefalea": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Incluida en la pregunta de síntomas generales."
+      },
+      "Vértigo": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se identifica desequilibrio (síntoma de vértigo)."
+      }
+    }
+  },
+  "Antecedentes personales y salud": {
+    "Puntos totales": 11,
+    "Subpuntos": {
+      "Episodios previos de parálisis facial": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se descarta episodios previos."
+      },
+      "Síntomas respiratorios previos": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se identifica asma en la infancia."
+      },
+      "Enfermedades Previas (DM, HTA, Autoinmunes, VIH, Sarcoidosis, Embarazo)": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se confirma diabetes mellitus."
+      },
+      "Alergias": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se identifica alergia a penicilina."
+      },
+      "Intervenciones Quirúrgicas": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se registran amigdalectomía y apendicectomía."
+      },
+      "Toma de Medicamentos": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se confirma uso de metformina para diabetes."
+      }
+    }
+  },
+  "Medio Laboral": {
+    "Puntos totales": 6,
+    "Subpuntos": {
+      "Profesión y Situación Laboral": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se identifica como farmacéutico jubilado."
+      },
+      "Exposición a Frío": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se descarta exposición laboral a frío."
+      },
+      "Exposición a Vibraciones": {
+        "PuntosPregunta": 1,
+        "Observaciones": "Se descarta exposición a vibraciones."
+      },
+      "Exposición a Tóxicos (Metales, Solventes, Plaguicidas)": {
+        "PuntosPregunta": 2,
+        "Observaciones": "Se descarta exposición a sustancias tóxicas."
+      }
+    }
+  },
+  "Hábitos y Antecedentes familiares": {
+    "Puntos totales": 3,
+    "Subpuntos": {
+      "Hábitos (Tabaco, Alcohol, Drogas)": {
+        "PuntosPregunta": 3,
+        "Observaciones": "Se explora consumo de tabaco, alcohol y drogas."
+      },
+      "Enfermedades Hereditarias (Diabetes, HTA)": {
+        "PuntosPregunta": 0,
+        "Observaciones": "No se pregunta antecedentes familiares de enfermedades."
+      },
+      "Parálisis facial recurrente en la familia": {
+        "PuntosPregunta": 0,
+        "Observaciones": "No se explora antecedente familiar de parálisis facial."
+      },
+      "Enfermedades neurológicas familiares": {
+        "PuntosPregunta": 0,
+        "Observaciones": "No se indaga sobre antecedentes neurológicos familiares."
+      },
+      "Enfermedades hereditarias generales": {
+        "PuntosPregunta": 0,
+        "Observaciones": "No se evalúan otras enfermedades hereditarias."
+      }
+    }
+  },
+  "Puntuación Total": 68,
+  "Observaciones Generales": "El médico cubre exhaustivamente 9 de 10 secciones, destacando en la exploración clínica y antecedentes personales. La única sección con deficiencia es 
+'Hábitos y Antecedentes familiares', donde no se exploraron antecedentes familiares (5 puntos no obtenidos)."
+}

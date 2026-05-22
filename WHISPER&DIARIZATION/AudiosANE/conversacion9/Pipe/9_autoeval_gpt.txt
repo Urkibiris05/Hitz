@@ -1,0 +1,50 @@
+**Evaluación de la entrevista médica según los criterios proporcionados**
+
+| Área / Sub‑área | Puntos obtenidos | Puntos máximos | Comentario breve |
+|----------------|------------------|----------------|------------------|
+| **Comunicación**<br>Se presenta al paciente | **5** | 5 | La doctora se presenta, indica su nombre y su especialidad. |
+| **Identificación del Paciente (Datos de filiación)** | **5** | 5 | Preguntó y obtuvo nombre (2 pts), edad (1 pt), estado civil (1 pt) y lugar de procedencia (1 pt). |
+| **Motivo de la consulta** | **0** | 5 | No se formuló explícitamente la pregunta “¿Por qué acude a la consulta?”. El paciente respondió por iniciativa propia, pero el criterio exige 
+que el médico la pregunte. |
+| **Historia del proceso actual** | **3** | 5 | • Lateralidad (1 pt) ✔️  <br>• Evolución (1 pt) ✔️  <br>• Episodios parecidos (1 pt) ✔️  <br>No se preguntó la fecha/​modo de inicio ni 
+la duración exacta de los síntomas. |
+| **Síntomas acompañantes** | **16** | 16 | Se indagó sobre otalgia/otorrea, dolor retroauricular, audición, gusto, salivación, ojo seco/lagrimeo, erupción vesicular, sensación de 
+plenitud auricular, etc. Todas las preguntas se realizaron y fueron contestadas. |
+| **Factores desencadenantes** | **7** | 7 | Infección viral reciente, exposición al frío, estrés, cirugías recientes y traumatismo craneal fueron preguntados y contestados. |
+| **Síntomas generales y neurológicos** | **5** | 5 | Se preguntó fiebre, malestar general, síntomas neurológicos (desequilibrio), cefalea y vértigo. Todas las respuestas fueron 
+obtenidas. |
+| **Antecedentes personales y salud** | **9** | 11 | ✔️ Enfermedades previas (DM, asma) – 2 pts  <br>✔️ Síntomas respiratorios previos – 2 pts  <br>✔️ Alergias – 1 pt  <br>✔️ 
+Intervenciones quirúrgicas – 2 pts  <br>✔️ Medicación habitual – 2 pts  <br>No se preguntó si había episodios previos de parálisis facial (‑2 pts). |
+| **Medio Laboral** | **6** | 6 | Profesión, exposición a frío, vibraciones y a tóxicos fueron investigados. |
+| **Hábitos y antecedentes familiares** | **3** | 8 | ✔️ Hábitos (tabaco, alcohol, drogas) – 3 pts  <br>No se preguntó historia familiar de enfermedades hereditarias, parálisis facial 
+ni patologías neurológicas (‑5 pts). |
+
+**Puntuación total:** **59 / 73**  
+
+**Porcentaje:** **≈ 81 %**
+
+---
+
+## Observaciones y recomendaciones
+
+1. **Motivo de la consulta**  
+   - Es importante formular explícitamente la pregunta “¿Cuál es el motivo de su visita?” para cumplir con el criterio y para orientar la entrevista desde el principio.
+
+2. **Historia del proceso actual**  
+   - Añadir preguntas sobre la **fecha exacta de inicio**, **modo de aparición** (brusco vs progresivo) y **duración** (horas/días) para completar los 5 puntos de esta sección.
+
+3. **Antecedentes de parálisis facial**  
+   - Preguntar si el paciente ha tenido **episodios previos de parálisis facial** o síntomas faciales similares en el pasado.
+
+4. **Antecedentes familiares**  
+   - Incluir preguntas sobre **enfermedades hereditarias** (diabetes, hipertensión, etc.), **parálisis facial** o **trastornos neurológicos** en familiares de primer grado.
+
+5. **Claridad y estructuración**  
+   - Algunas preguntas fueron extensas o repetitivas. Consolidar interrogantes similares (p.ej., “dolor de oído / detrás del oído” y “dolor retroauricular”) en una sola pregunta clara 
+puede evitar confusión, sobre todo en pacientes de edad avanzada.
+
+6. **Cierre de la entrevista**  
+   - Resumir brevemente los datos recabados y explicar al paciente los próximos pasos (examen físico, pruebas complementarias) mejora la comprensión y la satisfacción del paciente.
+
+En general, la entrevista cubrió la mayor parte de los aspectos clínicos requeridos y mostró una actitud profesional y respetuosa. Con pequeñas mejoras en la formulación de preguntas 
+clave y en la recolección de antecedentes familiares, la puntuación podría alcanzar el máximo.
