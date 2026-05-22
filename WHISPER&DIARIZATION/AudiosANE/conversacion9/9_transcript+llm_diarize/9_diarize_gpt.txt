@@ -1,0 +1,82 @@
+MEDICO: conversación 9 buenos días yo soy la doctora gallas tegui y hoy voy a ser su otorrino me podría decir su nombre
+PACIENTE: buenos días mi nombre es ignacio malignación desde nada me gustaría preguntarle un par de cosas cuántos años tiene
+PACIENTE: tengo 76 años pero puede estudiarme sin problema así estoy más cómodo genial como tú estés más cómodo otra pregunta de dónde eres yo soy del país vasco y he
+vivido aquí toda la vida muy bien estás casado si he venido y con mi mujer me está esperando la sala de espera que suerte la tuya cuéntame
+PACIENTE: pues mira doctora llevo un tiempo sin poder mover bien la cara no puedo sonreír ni mover el ojo
+MEDICO: si claro le preguntas lo que quieras
+PACIENTE: pues no sabría decirte con exactitud sobre diciembre empezó progresivo ha ido poco a poco a más
+MEDICO: entiendo que ha ido empeorando progresivamente
+PACIENTE: eso es al inicio era casi imperceptible
+PACIENTE: en cambio ahora se nota bastante
+MEDICO: sabrías decirme si en algún momento ha ido a mejor
+PACIENTE: yo diría que no
+MEDICO: vale y veo que solo tienes el lado derecho afectado
+MEDICO: en algún momento te ha pasado lo mismo en el otro
+PACIENTE: no siempre ha sido en el mismo lado
+MEDICO: vale y alguna vez en tu vida has tenido síntomas similares o es la primera vez que te ocurre
+PACIENTE: nunca que yo recuerde esto es una cosa ruísima
+MEDICO: genial ignacio por ahora quiero que intentes recordar estos últimos meses y pienses en otros síntomas que hayas podido tener a la vez por ejemplo has tenido dolor
+en el oído o detrás del oído
+PACIENTE: no y secreciones
+MEDICO: tampoco y has tenido la sensación de tener el oído lleno o taponado
+PACIENTE: eso tampoco me ha pasado
+MEDICO: y también querrías saber si te has visto en algún momento manchitas o granitas en el oído tanto dentro como fuera que va
+MEDICO: y que tal tienes el ojo has notado estos meses el ojo más seco o con más lágrimas de lo normal
+PACIENTE: nada no he notado nada
+MEDICO: has notado cambios en la saliva acción como tener la boca muy seca o por el contrario no se puede producir demasiada saliva
+PACIENTE: quizás un poco pero no es nada evidente
+MEDICO: y notas que los alimentos saben diferente o has perdido algo de gusto
+PACIENTE: si eso si me ha pasado
+PACIENTE: últimamente la comida me sale menos
+MEDICO: y sabrías decirme si esto te pasa en toda la lengua o hay en alguna zona que te llame más la atención
+PACIENTE: pues diría que por la zona delantera más que la trasera
+MEDICO: vale ignacio esto que me cuentas es muy útil que tal estás oyendo últimamente
+PACIENTE: pues llevo un tiempo oyendo peor pero esto viene de mucho antes que diciembre
+MEDICO: vale y además de notar que hoy es peor sueles escuchar pitidos en el oído
+PACIENTE: si a veces oigo un silbido que parece que viene de fuera incluso cuando no estoy escuchando nada por ejemplo
+PACIENTE: me ha pasado alguna vez estando en la cama a la noche
+PACIENTE: ahí si que noto un pitido incluso cuando está todo en silencio
+MEDICO: muy bien ignacio vamos avanzando además de los síntomas de oído y audición has notado algún síntoma general como por ejemplo fiebre, malestar o dolor de cabeza
+PACIENTE: nada de eso
+MEDICO: y algo raro como debilidad, perdida de fuerza o cambios en la sensibilidad o bueno cualquier cosa fuera la habitual
+PACIENTE: pues lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio
+MEDICO: vale esto es interesante con desequilibrio a que te refieres?
+PACIENTE: andar inseguro?
+PACIENTE: si eso me refiero, andar con sensación de que me voy a caer tiene sentido?
+MEDICO: tiene mucho sentido vamos genial ignacio
+MEDICO: quiero que intentes recordar diciembre y me digas si asocias algo al comienzo de síntomas algo fuera de lo normal que haya podido desencadenar esto por ejemplo,
+estuviste más estresado de lo normal?
+PACIENTE: no, el estrés habitó de las navidades pero nada más
+MEDICO: otras cosas que pueden afectar son los golpes y cirugías en la cabeza
+MEDICO: en tu historial no veo que hayas tenido ninguno
+PACIENTE: no he tenido algún golpe en la cabeza recientemente?
+PACIENTE: tampoco, me caí una vez pero solo me golpeé en la rodilla eso no tiene que ver
+MEDICO: en principio no debería
+MEDICO: tuviste algún resfriado, gripe u otra infección viral por aquel tiempo?
+PACIENTE: si, estuve resfriado
+MEDICO: y tuviste alguna otra infección?
+MEDICO: por ejemplo, covid, varicela o herpes?
+PACIENTE: nada, de eso no tuve nada
+MEDICO: y el diciembre pasado fue un mes frío recuerdas si estuviste mucho tiempo expuesto a frío o corrientes de aire?
+PACIENTE: yo te diría que no, solo iba a pasear pero voy siempre bien abrigado
+MEDICO: bueno Ignacio, vamos a hablar de tus antecedentes además de nunca haber tenido esta parálisis tienes alguna otra enfermedad que debamos conocer?
+PACIENTE: tengo diabetes
+MEDICO: y aparte de la diabetes has tenido problemas respiratorios o enfermedades de pulmón?
+PACIENTE: pues de pequeño tuve asma, pero nada más
+MEDICO: y dime Ignacio, ¿eres alérgico a algo?
+PACIENTE: a la penicilina
+MEDICO: bien, cuéntame que operaciones te han hecho y que fármacos tomas habitualmente
+PACIENTE: pues me han hecho dos operaciones me han quitado las amigrelas y también el apéndice
+PACIENTE: luego de fármaco solo tomo un fármaco para la diabetes ahora mismo no recuerdo el nombre
+MEDICO: Tomas Metformina, ¿te suena el nombre?
+PACIENTE: efectivamente, ese es el nombre
+MEDICO: genial, vamos a hablar un poco de tu trabajo ¿de qué trabajas o trabajabas?
+PACIENTE: pues soy farmacéutico, recién jubilado trabajaba en la farmacia en mi barrio
+MEDICO: muy bien, ¿trabajabais en la farmacia con alguna sustancia tóxica?
+PACIENTE: no, yo no me encargaba de hacer las fórmulas así que no estaba expuesto
+MEDICO: me imagino que no pero por si acaso prefiero preguntarlo ¿de tu trabajo estabas expuesto a temperaturas bajas o vibraciones?
+PACIENTE: tampoco
+PACIENTE: yo trabajaba un trabajo tranquilo
+MEDICO: y ya para terminar, ¿querrías saber si consumes alcohol, tabaco o alguna droga?
+PACIENTE: nunca he fumado solo luego los fines de semana
+MEDICO: bueno pues Ignacio, gracias por responder a todo por favor pasa la camilla que comenzamos la exploración
