@@ -1,0 +1,91 @@
+**Doctor:** Buenos días. Pase por favor, ¿qué le traigo a la consulta?
+
+**Paciente:** Buenos días, doctor. Desde ayer por la mañana noto que la mitad derecha de mi cara no se mueve bien. Me cuesta hablar, sonreír y cerrar el ojo.
+
+**Doctor:** ¿Puede describirme como empecé a todo?
+
+**Paciente:** Sí. Me desperté notando como una sensación rara en la cara, como tirantez. Pensé que se me pasaría, pero a lo largo del día empecé a ver que la boca se me desviaba y no 
+podía levantar la ceja derecha.
+
+**Doctor:** ¿Los síntomas aparecían de manera brusca o progresiva?
+
+**Paciente:** Estaban bastante rápidos. En cuestión de horas ya tenía claramente afectado todo ese lado de la cara.
+
+**Doctor:** ¿Ha mejorado o empeorado desde entonces?
+
+**Paciente:** Diría que esté igual o un poco peor. Sobre todo el ojo, que no puedo cerrarlo bien y se me reseca muchísimo.
+
+**Doctor:** ¿Ha sentido dolor alrededor del oído o detrás de la mandíbula?
+
+**Paciente:** Sí, sobre todo ayer. Un dolor sordo detrás de la oreja derecha.
+
+**Doctor:** ¿Ha notado cambios en el gusto?
+
+**Paciente:** Sí, como si la comida no tuviera sabor en la parte de la lengua.
+
+**Doctor:** ¿Le ha molestado el ruido más de lo habitual?
+
+**Paciente:** A veces algunos sonidos me resultan demasiado fuertes del lado derecho.
+
+**Doctor:** ¿Ha tenido lagrime excesivo o, por el contrario, resequedad del ojo?
+
+**Paciente:** Resequedad. Siento el ojo que se me queda demasiado abierto.
+
+**Doctor:** ¿En qué trabajo usted?
+
+**Paciente:** Trabajo como responsable de atención al cliente en una empresa de logística. Paso muchas horas hablando con clientes, tanto por teléfono como en persona.
+
+**Doctor:** ¿Y cómo le está afectando esta situación en su trabajo?
+
+**Paciente:** Bastante, la verdad. Me cuesta pronunciar bien algunas palabras y noto que se me escapa las saliva si hablo mucho. Además, la expresión facial es importante cuando tienes 
+a clientes cara a cara y ahora la mitad de mi cara no responde. Me siento inseguro y evitar mirar directamente a las personas porque temo que se note demasiado.
+
+**Doctor:** ¿Ha tenido dificultad para comer o beber mientras está en el trabajo?
+
+**Paciente:** Sí, se me cae un poco el líquido al beber si no tengo cuidado. Y para comer necesito hacerlo despacio porque los alimentos se me quedan en la mejilla del lado afectado.
+
+**Doctor:** ¿Padece alguna enfermedad crónica?
+
+**Paciente:** No hipertensión controlada con medicación, nada más importante.
+
+**Doctor:** ¿Ha tenido infecciones recientes, resfriados o fiebre?
+
+**Paciente:** Hace una semana tuve un resfriado leve, con algo de congestión, pero nada más.
+
+**Doctor:** ¿Algún traumatismo, golpe en la cabeza o intervención de tal reciente?
+
+**Paciente:** Ninguno.
+
+**Doctor:** ¿Algún antecedente familiar de problemas neurológicos?
+
+**Paciente:** No que yo sepa.
+
+**Doctor:** ¿Tiene dificultad para mover brazos o piernas?
+
+**Paciente:** No, solo es la cara.
+
+**Doctor:** ¿Ha tenido mareos, visión doble o dolores de cabeza intensos?
+
+**Paciente:** No, nada de eso.
+
+**Doctor:** ¿Se desvía la boca hacia un lado?
+
+**Paciente:** Sí, se va hacia el izquierdo, el derecho no responde.
+
+**Doctor:** ¿Puede cerrar el ojo del lado afectado?
+
+**Paciente:** No, queda un huequito.
+A veces tengo que ayudarme con la mano para parpadear.
+
+**Doctor:** ¿Cómo está llevando esta situación emocionalmente?
+
+**Paciente:** Me tiene preocupado.
+En mi trabajo estoy siempre de cara al público y ahora me da vergüenza.
+Me da miedo que se piense que estoy sufriendo un ictus o que estoy enfermo contagioso.
+Y también me preocupa no poder hacer bien mi trabajo si esto dura mucho.
+
+**Doctor:** Entiendo su preocupación.
+Con lo que me comenté y lo que observo es muy probable que se trate de una parálisis facial periférica, posiblemente del tipo de parálisis de Bell.
+Vamos a comenzar el tratamiento lo antes posible y veremos cómo evoluciona.
+
+**Paciente:** Muchas gracias doctor, aprecio que me explique con todo tan claro.

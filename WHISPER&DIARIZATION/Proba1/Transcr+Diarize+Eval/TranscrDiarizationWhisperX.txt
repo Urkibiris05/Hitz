@@ -1,0 +1,65 @@
+[SPEAKER_00]: Buenos días.
+[SPEAKER_00]: Pase por favor.
+[SPEAKER_00]: ¿Qué le traigo a la consulta?
+[SPEAKER_00]: Buenos días, doctor.
+[SPEAKER_00]: Desde ayer por la mañana noto que la mitad derecha de mi cara no se mueve bien.
+[SPEAKER_00]: Me cuesta hablar, sonreír y cerrar el ojo.
+[SPEAKER_00]: ¿Puede describirme como empecé a todo?
+[SPEAKER_00]: Sí.
+[SPEAKER_00]: Me desperté notando como una sensación rara en la cara, como tirantez.
+[SPEAKER_00]: Pensé que se me pasaría, pero a lo largo del día empecé a ver que la boca se me desviaba y no podía levantar la ceja derecha.
+[SPEAKER_01]: ¿Los síntomas aparecían de manera brusca o progresiva?
+[SPEAKER_00]: Fueron bastante rápidos.
+[SPEAKER_00]: En cuestión de horas ya tenía claramente afectado todo ese lado de la cara.
+[SPEAKER_00]: ¿Ha mejorado o empeorado desde entonces?
+[SPEAKER_00]: Diría que esté igual o un poco peor, sobre todo el ojo, que no puedo cerrarlo bien y se me reseca muchísimo.
+[SPEAKER_00]: ¿Ha sentido dolor alrededor del oído o detrás de la mandíbula?
+[SPEAKER_00]: Sí, sobre todo ayer.
+[SPEAKER_00]: Un dolor sordo detrás de la oreja derecha.
+[SPEAKER_00]: ¿Ha notado cambios en el gusto?
+[SPEAKER_00]: Sí, como si la comida no tuviera sabor en la parte de la lengua.
+[SPEAKER_00]: ¿Le ha molestado el ruido más de lo habitual?
+[SPEAKER_00]: A veces algunos sonidos me resultan demasiado fuertes del lado derecho.
+[SPEAKER_00]: ¿Ha tenido lagrime excesivo o, por el contrario, resequedad del ojo?
+[SPEAKER_00]: Resequedad.
+[SPEAKER_00]: Siento el ojo que se me queda demasiado abierto.
+[SPEAKER_00]: ¿En qué trabajo usted?
+[SPEAKER_00]: Trabajo como responsable de atención al cliente en una empresa de logística.
+[SPEAKER_00]: Paso muchas horas hablando con clientes tanto por teléfono como en persona.
+[SPEAKER_00]: ¿Y cómo le está afectando esta situación en su trabajo?
+[SPEAKER_00]: Bastante, la verdad.
+[SPEAKER_00]: Me cuesta pronunciar bien algunas palabras y noto que se me escapa la saliva si hablo mucho.
+[SPEAKER_00]: Además, la expresión facial es importante cuando tienes a clientes cara a cara y ahora la mitad de mi cara no responde.
+[SPEAKER_00]: Me siento inseguro y evitar mirar directamente a las personas porque
+[SPEAKER_00]: Temo que se note demasiado.
+[SPEAKER_01]: ¿Ha tenido dificultad para comer o beber mientras está en el trabajo?
+[SPEAKER_00]: Sí, se me cae un poco el líquido al beber si no tengo cuidado.
+[SPEAKER_00]: Y para comer necesito hacerlo despacio porque los alimentos se me quedan en la mejilla del lado afectado.
+[SPEAKER_00]: ¿Padece alguna enfermedad crónica?
+[SPEAKER_00]: Tengo hipertensión controlada con medicación, nada más importante.
+[SPEAKER_01]: ¿Ha tenido infecciones recientes, resfriados o fiebre?
+[SPEAKER_00]: Hace una semana tuve un resfriado leve, con algo de congestión, pero nada más.
+[SPEAKER_01]: ¿Algún traumatismo, golpe en la cabeza o intervención de tal reciente?
+[SPEAKER_01]: Ninguno.
+[SPEAKER_01]: ¿Algún antecedente familiar de problemas neurológicos?
+[SPEAKER_01]: No que yo sepa.
+[SPEAKER_01]: ¿Tiene dificultad para mover brazos o piernas?
+[SPEAKER_00]: No, solo es la cara.
+[SPEAKER_01]: ¿Ha tenido mareos, visión doble o dolores de cabeza intensos?
+[SPEAKER_01]: No, nada de eso.
+[SPEAKER_01]: ¿Cuando intenta sonreír, se desvía la boca hacia un lado?
+[SPEAKER_00]: Sí, se va claramente hacia el izquierdo.
+[SPEAKER_00]: El derecho no responde.
+[SPEAKER_01]: ¿Puede cerrar el ojo del lado afectado completamente?
+[SPEAKER_00]: No, queda un huequito.
+[SPEAKER_00]: A veces tengo que ayudarme con la mano para parpadear.
+[SPEAKER_01]: ¿Cómo está llevando esta situación emocionalmente?
+[SPEAKER_01]: Me tiene preocupado.
+[SPEAKER_00]: En mi trabajo estoy siempre de cara al público y ahora me da vergüenza.
+[SPEAKER_00]: Me da miedo que se piense que estoy sufriendo un ictus o que estoy enfermo contagioso.
+[SPEAKER_00]: Y también me preocupa no poder hacer bien mi trabajo si esto dura mucho.
+[SPEAKER_00]: Entiendo su preocupación.
+[SPEAKER_01]: Con lo que me comenté y lo que observo es mi probable que se trata de una parálisis facial periférica.
+[SPEAKER_01]: posiblemente del tipo de parálisis de Bell.
+[SPEAKER_01]: Vamos a comenzar el tratamiento lo antes posible y veremos cómo evoluciona.
+[SPEAKER_01]: Muchas gracias doctor, aprecio que me explique con todo tan claro.
