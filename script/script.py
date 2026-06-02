@@ -246,7 +246,7 @@ Ahi te va la conversación:
     """
     
     respuesta = ollama.chat(model=modelo_llm, messages=[
-        {'role': 'user', 'content': prompt_evaluacion}
+        {'role': 'user', 'content': prompt}
     ])
     
     return respuesta['message']['content']
@@ -257,14 +257,14 @@ Ahi te va la conversación:
 # ==========================================
 if __name__ == "__main__":
     # 1. Definir directorios
-    directorio_audios = "./audios_ecoe"
+    directorio_audios = "./audios"
     directorio_referencias = "./textos_referencia"
     
-    modelo_diarizacion = "llama3"
-    modelo_evaluador = "qwen2"
+    modelo_diarizacion = "gpt-oss:120b-cloud"
+    modelo_evaluador = "qwen3-vl:235b-cloud"
     
     # 2. Obtener lista de todos los archivos .wav en la carpeta
-    archivos_audio = glob.glob(os.path.join(directorio_audios, "*.wav"))
+    archivos_audio = glob.glob(os.path.join(directorio_audios, "*.mp3"))
     
     if not archivos_audio:
         print("No se encontraron archivos de audio en el directorio especificado.")
