@@ -1,0 +1,116 @@
+--- RESULTADOS 6_conv ---
+WER: 8%%
+
+--- EVALUACIÓN CLÍNICA ---
+**Evaluación del cumplimiento del protocolo – Médico Otorrino**  
+
+| Área del protocolo | Puntuación obtenida | Puntuación máxima | Comentario |
+|--------------------|--------------------|-------------------|------------|
+| **Comunicación** (presentación) | 5 | 5 | Se presenta con nombre y especialidad. |
+| **Identificación del paciente** (datos de filiación) | 5 | 5 | Pregunta nombre, edad, estado civil y origen (País Vasco). |
+| **Motivo de la consulta** | 5 | 5 | Pregunta “¿Qué es lo que le trae por aquí?”. |
+| **Historia del proceso actual** | 5 | 5 | Cubre inicio, lateralidad, duración, evolución y episodios previos. |
+| **Síntomas acompañantes** | 8 | 16 | – Otalgia/otorrea (1) ✔  <br>– Dolor retro‑auricular (1) ✔  <br>– Audición (hipo‑/hiperacusia) (2) ✔  <br>– Cambios de salivación (disminución + sialorrea/sequedad) (4) ✔  <br>– No se indagan: alteración del gusto, ojo seco/lagrimeo, erupción vesicular, sensación de plenitud auricular. |
+| **Factores desencadenantes** | 5 | 7 | – Exposición al frío (2) ✔  <br>– Estrés intenso (1) ✔  <br>– Cirugía reciente (1) ✔  <br>– Traumatismo craneoencefálico (1) ✔  <br>– No se pregunta infección viral reciente. |
+| **Síntomas generales y neurológicos** | 4 | 5 | – Fiebre (1) ✔  <br>– Malestar general (1) ✔  <br>– Síntomas neurológicos (debilidad, sensibilidad) (1) ✔  <br>– Vértigo (1) ✔  <br>– No se pregunta cefalea. |
+| **Antecedentes personales y salud** | 9 | 11 | – Episodios previos de parálisis facial (2) ✔  <br>– Enfermedades previas (DM) (2) ✔  <br>– Alergias (1) ✔  <br>– Intervenciones quirúrgicas (2) ✔  <br>– Medicación (2) ✔  <br>– No se indagan síntomas respiratorios previos. |
+| **Medio laboral** | 2 | 6 | – Exposición a frío (2) ✔  <br>– No se pregunta profesión, exposición a vibraciones ni a tóxicos. |
+| **Hábitos y antecedentes familiares** | 0 | 8 | No se preguntan hábitos (tabaco, alcohol, drogas) ni antecedentes familiares (hereditarios, parálisis facial, enfermedades neurológicas, etc.). |
+
+**Total puntuado:** **48 / 73**  
+
+**Porcentaje de cumplimiento:** **≈ 66 %**
+
+---
+
+### Análisis de los puntos fuertes
+- **Presentación y datos de identificación**: el médico cubrió todos los ítems requeridos.
+- **Motivo y cronología de la enfermedad**: obtuvo la información esencial sobre el inicio, evolución y lateralidad del cuadro.
+- **Exploración de factores desencadenantes y antecedentes médicos relevantes**: indagó estrés, frío, cirugías, traumatismo y tomó nota de diabetes y alergia a la penicilina.
+
+### Áreas de mejora
+1. **Síntomas acompañantes** – Falta preguntar sobre alteración del gusto, sequedad/lagrimeo ocular, erupción vesicular y sensación de plenitud auricular (8 puntos perdidos).
+2. **Factores infecciosos** – No se indagó sobre una infección viral reciente (2 puntos).
+3. **Síntomas generales** – No se preguntó cefalea (1 punto).
+4. **Antecedentes respiratorios** – Ausencia de preguntas sobre tos, disnea, etc. (2 puntos).
+5. **Medio laboral** – No se investigó la profesión ni exposición a vibraciones o tóxicos (4 puntos).
+6. **Hábitos y antecedentes familiares** – Ninguna pregunta sobre tabaco, alcohol, drogas ni historia familiar (8 puntos).
+
+### Recomendación práctica
+Para acercarse al 100 % del protocolo, el médico debería añadir al interrogatorio un bloque estructurado con las preguntas que faltan, por ejemplo:
+
+- **Síntomas acompañantes**: “¿Ha notado alguna alteración del gusto? ¿Le pica o le irrita el ojo, lagrimea en exceso? ¿Ha aparecido alguna erupción vesicular en la zona de la oreja? ¿Siente que el oído está “lleno” o con presión?”.  
+- **Factores infecciosos**: “¿Ha tenido alguna infección viral reciente (gripe, varicela, COVID‑19) en los últimos 30 días?”.  
+- **Cefalea**: “¿Ha tenido dolor de cabeza reciente?”.  
+- **Antecedentes respiratorios**: “¿Ha presentado tos, secreción nasal, dificultad para respirar?”.  
+- **Medio laboral**: “¿Cuál es su profesión? ¿Está expuesto habitualmente a vibraciones, sustancias químicas o a temperaturas muy bajas en su trabajo?”.  
+- **Hábitos**: “¿Fuma, consume alcohol o alguna droga?»; y “¿Hay antecedentes de diabetes, hipertensión u otras enfermedades relevantes en su familia?”.
+
+Con la inclusión de estos ítems, el médico podría elevar su puntuación a **≈ 90 %** y garantizar una anamnesis completa y estructurada.
+
+--- DIARIZACIÓN ---
+Aquí tienes la conversación con la identificación de quién habla en cada línea:
+
+**MEDICO:** Buenos días, yo soy la doctora Gaias Tegui y hoy voy a ser su otorrino. ¿Cómo se llama usted?
+**PACIENTE:** Buenos días, mi nombre es Ignacio.
+**MEDICO:** Vale, Ignacio. Antes de nada me gustaría preguntarle un par de cosas. ¿Cuántos años tiene?
+**PACIENTE:** Tengo 76 años, pero puedes tutearme sin problema. Así estoy más cómodo.
+**MEDICO:** Como tú prefieras. Otra pregunta, ¿eres del País Vasco?
+**PACIENTE:** Efectivamente. Mis padres son de Cantauria, pero yo nací aquí.
+**MEDICO:** Vale, ¿y estás casado?
+**PACIENTE:** Sí, he venido hoy con mi mujer. Me está esperando en la sala de espera.
+**MEDICO:** Genial, ahora sí. ¿Qué es lo que te trae por aquí?
+**PACIENTE:** Pues mira, doctora, llevo un tiempo sin poder mover bien la cara. Me cuesta sonreír y abrir el ojo.
+**MEDICO:** Vale, ya veo el problema. Antes de comenzar la exploración voy a hacerte unas preguntas para intentar orientar la causa. ¿Te parece?
+**PACIENTE:** Sí, claro. Pregunta lo que quieras.
+**MEDICO:** Vale, comencemos. ¿Cuánto tiempo llevas sin poder mover la cara?
+**PACIENTE:** Pues no sé decirte el día exacto, pero más o menos diría que llevo así desde diciembre.
+**MEDICO:** Vale, pues unos tres o cuatro meses aproximadamente. Por lo que veo solo tienes afectado el lado derecho de la cara, pero en algún momento has tenido también el otro lado afectado.
+**PACIENTE:** No, el lado izquierdo lo tengo perfecto y en estos meses no he notado nada.
+**MEDICO:** Me has comentado antes que no te acuerdas del día en el que empezaste a estar así. ¿Eso significa que no fue un cambio brusco?
+**PACIENTE:** Para nada. Yo diría que esto ha sido poco a poco. Al inicio era casi imperceptible, en cambio ahora es bastante evidente.
+**MEDICO:** Vale, y dirías que ha habido un empeoramiento progresivo.
+**PACIENTE:** Exactamente.
+**MEDICO:** ¿Y te acuerdas de si en algún momento hubo una leve mejoría?
+**PACIENTE:** No, lo he dicho. Esto va a costa abajo.
+**MEDICO:** Vale, Ignacio. También querría saber si esta incapacidad de mover la cara te ha pasado en algún otro momento. O fue en diciembre la primera vez.
+**PACIENTE:** Genial, Ignacio. Ahora quiero que intentes hacer memoria de estos últimos meses. Entre los dos vamos a intentar recordar otros síntomas que has podido tener.
+**MEDICO:** Uf, no tengo muy buena memoria. No me acordaré de mucho.
+**PACIENTE:** No te preocupes, que yo te voy haciendo preguntas y tú me respondes.
+**MEDICO:** ¿Has tenido dolor de oído?
+**PACIENTE:** No, la verdad que no.
+**MEDICO:** ¿Y secreciones?
+**PACIENTE:** Tampoco, nada de eso.
+**MEDICO:** ¿Ya has notado en algún momento dolor detrás del oído?
+**PACIENTE:** Tampoco.
+**MEDICO:** ¿Y sensación de tener el oído lleno o taponado?
+**PACIENTE:** No, no lo recuerdo.
+**MEDICO:** Vale, ¿y te acuerdas si has tenido cambios de saliva? Tanto disminución como aumento de saliva.
+**PACIENTE:** No, tampoco notaba nada. Solamente la incapacidad de mover la cara.
+**MEDICO:** ¿Y en la última temporada qué tal oíes? ¿Has notado algún empeoramiento?
+**PACIENTE:** Ahí va, pues ahora que lo dices llevo una temporada oyendo regular. Pero llevo más de un año así. Eso será por la edad, ¿no?
+**MEDICO:** Bueno, ahora mismo eso no lo podemos saber. Y además de oír peor, ¿te suena haber oído alguna vez un pitido?
+**PACIENTE:** Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy escuchando nada. Por ejemplo, me ha pasado alguna vez estando en la cama a la noche. Ahí sí que noto el pitido, incluso cuando está todo en silencio.
+**MEDICO:** Vale, vamos muy bien. Más allá de lo oído y la audición, ¿has tenido algún síntoma más general? ¿Fiebre o malestar, por ejemplo?
+**PACIENTE:** Ya lo siento, doctora. Le estoy diciendo que no a todo, pero ciertamente no me encuentro mal.
+**MEDICO:** No te preocupes. Me alegro de que no te hayas encontrado mal estos meses. ¿Has notado algo raro como debilidad, perdida de fuerza o cambios en la sensibilidad? O bueno, cualquier cosa que tú veas fuera el habitual.
+**PACIENTE:** Lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+**MEDICO:** Puede ser que estás experimentando vértigo.
+**PACIENTE:** No, nunca he tenido vértigo. Las alturas no me dan miedo.
+**MEDICO:** Bueno, sí, pero me refiero más bien a una sensación de mareo o a andar inseguro.
+**PACIENTE:** Sí, a eso me refiero cuando es equilibrio. Andar con esa sensación de que me voy a caer.
+**MEDICO:** Sí, tiene mucho sentido. Vamos genial, Ignacio. Ahora quiero que pienses en diciembre, que es cuando te empezaron los síntomas. Y querría saber si crees que hay algo que ha podido desencadenar esta parálisis.
+**PACIENTE:** No entiendo muy bien a qué te refieres.
+**MEDICO:** No te preocupes, que te voy preguntando yo. ¿Estuviste, por ejemplo, estresado estos meses?
+**PACIENTE:** Nada más de lo normal. Todos estamos un poco estresados al preparar toda la Navidad, pero nada extraordinario.
+**MEDICO:** ¿Y te acuerdas de si estuviste expuesto a mucho frío en esa época?
+**PACIENTE:** Hombre, pues frío sí, pero no más de lo habitual. Me gusta salir a la calle incluso cuando hace frío, pero solo es bien protegido e intento no estar mucho tiempo fuera en el frío.
+**MEDICO:** Vale, ¿y tuviste alguna operación o quizás algún golpe en la cabeza?
+**PACIENTE:** Eh... No creo que sea importante, pero en noviembre me caí y me dio un golpe bastante fuerte en la rodilla. ¿Puede tener algo que ver?
+**MEDICO:** No lo puedo asegurar por ahora, pero no creo que tenga relación. Bueno, ya lo último antes de pasar la exploración. Vamos a hablar un poco de tus antecedentes. Cuéntame, ¿tienes alguna alergia?
+**PACIENTE:** Sí, a la penicilina.
+**MEDICO:** ¿Y tienes alguna otra enfermedad?
+**PACIENTE:** Soy diabético.
+**MEDICO:** Vale, esto lo voy a apuntar. ¿Qué medicamentos sueles tomar?
+**PACIENTE:** Tomo algo que empieza por MET. ¿Metformina quizás?
+**MEDICO:** Sí, eso es. Siempre se me olvida. Menudo nombre más raro. Bueno Ignacio, gracias por responder a todo. Por favor pasa la camilla que comenzamos la exploración.
