@@ -1,62 +1,62 @@
 import os
 import sys
 from pathlib import Path
-import whisper
 import ollama
+import whisper
 
-def transcribir_audio(ruta_audio, modelo_whisper="medium"):
-   print(f"Cargando modelo Whisper ({modelo_whisper})...")
-   modelo = whisper.load_model(modelo_whisper)
+def transcribe_audio(audio_path, whisper_model):
+   print(f"Whisper eredua kargatzen ({whisper_model})...")
+   model = whisper.load_model(whisper_model)
 
-   print("Transcribiendo audio...")
-   resultado = modelo.transcribe(str(ruta_audio), language="es", fp16=False)
-   return resultado['text']
+   print("Audioa transkribatzen...")
+   result = model.transcribe(str(audio_path), language="es", fp16=False)
+   return result['text']
 
-def diarizar_texto(texto_plano, modelo_llm="gpt-oss:20b-cloud"):
-   print(f"Iniciando diarización con Ollama (Modelo: {modelo_llm})...")
+def diarize_text(plain_text, llm_model):
+   print(f"Diarizazioa abiarazten Ollama-rekin (eredua: {llm_model})...")
 
-   prompt_diarizacion = f"""
+   prompt_diarization = f"""
    Te voy a mandar una conversación entre medico y paciente, y necesito que me digas quien de los dos es el que
    esta diciendo cada linea de la conversación. Como output, quiero que me devuelvas la propia conversación pero
    acotando al principio de cada linea si es el MEDICO: o el PACIENTE: el que la dice.
    Ahi te va la conversación:
 
-    {texto_plano}
+    {plain_text}
     """
     
-   respuesta = ollama.chat(model=modelo_llm, messages=[
-        {'role': 'user', 'content': prompt_diarizacion}
+   response = ollama.chat(model=llm_model, messages=[
+        {'role': 'user', 'content': prompt_diarization}
     ])
     
-   return respuesta['message']['content']
+   return response['message']['content']
 
-def calcular_wer_llm(texto_referencia, transcripcion, modelo_llm):
-   print("Calculando Tasa de Error de Palabras (WER) con un LLM...")
+def calculate_wer_with_llm(reference_text, transcription, llm_model):
+   print("WER kalkulatzen LLM batekin...")
 
    prompt = f"""
    Necesito que calcules el Word Error Rate de la siguiente transcripcion:
    ###
-   {transcripcion}
+   {transcription}
    ###
    Teniendo en cuenta que el texto referencia es el siguiente:
 
    ###
-   {texto_referencia}
+   {reference_text}
    ###
 
-   Como respuesta devuelveme solo el porcentaje, no quiero ningun calculo:
+   Como respuesta, devuelveme el porcentaje de WER, y debajo, el desglose de los errores que se han cometido (palabras correctas, palabras mal transcritas, palabras añadidas y palabras omitidas).
    """
 
-   respuesta = ollama.chat(
-      model = modelo_llm, messages=[
+   response = ollama.chat(
+      model = llm_model, messages=[
          {'role':'user', 'content': prompt}
       ]
    )
 
-   return respuesta['message']['content']
+   return response['message']['content']
 
-def evaluar_conversacion(texto_estructurado, modelo_llm='gemma3:12b-cloud'):
-   print(f"Iniciando evaluación clínica con Ollama (Modelo: {modelo_llm})...")
+def evaluate(texto_estructurado, llm_model):
+   print(f"Ebaluazio klinikoa hasten Ollama-rekin (eredua: {llm_model})...")
 
    prompt = f"""Te voy a mandar unos criterios que sirven para evaluar como de correctamente sigue un medico su protocolo a la hora de consultar a un paciente. Junto con los criterios, te voy a mandar una conversacion entre un medico y un paciente.
    Basandote en los criterios, quiero que me evalues la puntuación que consigue el medico en esta conversación.
@@ -252,58 +252,58 @@ def evaluar_conversacion(texto_estructurado, modelo_llm='gemma3:12b-cloud'):
    {texto_estructurado}
    """
 
-   respuesta = ollama.chat(model=modelo_llm, messages=[
-        {'role': 'user', 'content': prompt}
-    ])
+   response = ollama.chat(model=llm_model, messages=[
+      {'role': 'user', 'content': prompt}
+   ])
    
-   return respuesta['message']['content']
+   return response['message']['content']
 
 if __name__ == "__main__":
    if len(sys.argv) < 3:
-        print("Uso: python script.py <directorio_audios> <directorio_referencias>")
+        print("Erabilera: python script.py <audio_karpeta> <erreferentzia_karpeta>")
         sys.exit(1)
 
-   directorio_audios = sys.argv[1]
-   directorio_referencias = sys.argv[2]
+   audio_directory = sys.argv[1]
+   reference_directory = sys.argv[2]
 
-   modelo_diarizacion = 'gemma3:12b-cloud'
-   modelo_evaluador = 'gpt-oss:120b-cloud'
+   diarization_model = 'gemma3:12b-cloud'
+   evaluation_model = 'gpt-oss:120b-cloud'
 
-   audios = Path(directorio_audios)
+   audios = Path(audio_directory)
 
-   for audio in audios.iterdir():
-      nombre_base = audio.stem
+   for audio_file in audios.iterdir():
+      base_name = audio_file.stem
 
-      ruta_referencia = os.path.join(directorio_referencias, f"{nombre_base}.txt")
+      reference_path = os.path.join(reference_directory, f"{base_name}.txt")
 
       print(f"\n{'='*50}")
-      print(f" PROCESANDO EXAMEN: {nombre_base} ")
+      print(f" PROZESATZEN: {base_name} ")
       print(f"{'='*50}")
 
       try:
-         with open(ruta_referencia, 'r', encoding='utf-8') as f:
-            transcripcion_gorund_truth = f.read()
+         with open(reference_path, 'r', encoding='utf-8') as f:
+            reference_transcription = f.read()
 
-         texto_generado = transcribir_audio(audio)
+         generated_text = transcribe_audio(audio_file, 'medium')
 
-         porcentaje_wer = calcular_wer_llm(transcripcion_gorund_truth, texto_generado, 'qwen3-vl:235b-cloud')
-         print(f"Tasa WER para {nombre_base}: {porcentaje_wer}")
+         wer_percentage = calculate_wer_with_llm(reference_transcription, generated_text, 'gpt-oss:120b-cloud') #qwen3-vl:235b-cloud
+         print(f"WER ehunekoa {base_name} transkribaketarako: {wer_percentage}")
          
-         texto_diarizado = diarizar_texto(texto_generado, modelo_diarizacion)
-         evaluacion_final = evaluar_conversacion(texto_diarizado, modelo_evaluador)
+         diarized_text = diarize_text(generated_text, diarization_model)
+         final_evaluation = evaluate(diarized_text, evaluation_model)
 
-         ruta_resultado = f"./resultados2/resultado_{nombre_base}.txt"
-         os.makedirs(os.path.dirname(ruta_resultado), exist_ok=True)
+         result_path = f"./resultados_castellano2/resultado_{base_name}.txt"
+         os.makedirs(os.path.dirname(result_path), exist_ok=True)
          
-         with open(ruta_resultado, 'w', encoding='utf-8') as out_file:
-            out_file.write(f"--- RESULTADOS {nombre_base} ---\n")
-            out_file.write(f"WER: {porcentaje_wer}\n\n")
-            out_file.write(f"--- EVALUACIÓN CLÍNICA ---\n{evaluacion_final}\n\n")
-            out_file.write(f"--- DIARIZACIÓN ---\n{texto_diarizado}\n")
+         with open(result_path, 'w', encoding='utf-8') as out_file:
+            out_file.write(f"--- EMAITZAK {base_name} ---\n")
+            out_file.write(f"WER: {wer_percentage}\n\n")
+            out_file.write(f"--- EBALUAZIO KLINIKOA ---\n{final_evaluation}\n\n")
+            out_file.write(f"--- DIARIZAZIOA ---\n{diarized_text}\n")
 
-         print(f"Procesamiento de {nombre_base} completado y guardado.")
+         print(f"{base_name} elkarrizketaren prozesamendua amaitu eta gorde da.")
          
       except FileNotFoundError:
-         print(f"Error: No se encontró el archivo de referencia {ruta_referencia}")
+         print(f"Errorea: ez da aurkitu erreferentzia-fitxategia {reference_path}")
       except Exception as e:
-         print(f"Error procesando {nombre_base}: {e}")
+         print(f"Errorea {base_name} prozesatzean: {e}")

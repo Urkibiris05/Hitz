@@ -1,0 +1,128 @@
+--- EMAITZAK 7_conv ---
+WER: 10.5
+
+--- EBALUAZIO KLINIKOA ---
+## Evaluación del cumplimiento del protocolo  
+
+| Área del protocolo | Puntos posibles | Puntos obtenidos | Comentario |
+|--------------------|----------------|------------------|------------|
+| **Comunicación** | 5 | **5** | Se presentó y preguntó el nombre. |
+| **Identificación del paciente** | 5 | **5** | Preguntó nombre, edad, estado civil y lugar de procedencia. |
+| **Motivo de la consulta** | 5 | **5** | Preguntó “¿Qué le trae por aquí?”. |
+| **Historia del proceso actual** | 5 | **5** | Cubrió inicio (fecha ≈ diciembre y modo progresivo), lateralidad, duración, evolución y episodios previos. |
+| **Síntomas acompañantes** | 16 | **6** | ✔︎ Otalgia/otorrea, dolor retroauricular, alteración de la audición y sensación de plenitud auricular. <br>❌ No preguntó sobre gusto, salivación, ojo seco, erupción vesicular, sialorrea/sequedad bucal. |
+| **Factores desencadenantes** | 7 | **5** | ✔︎ Preguntó infección viral reciente y exposición al frío. <br>✔︎ Indagó trauma (golpes). <br>❌ No abordó estrés intenso ni cirugía reciente. |
+| **Síntomas generales y neurológicos** | 5 | **4** | ✔︎ Fiebre, malestar general, síntomas neurológicos y vértigo/desequilibrio. <br>❌ No se preguntó cefalea. |
+| **Antecedentes personales y salud** | 11 | **11** | Preguntó episodios previos de parálisis facial, síntomas respiratorios, enfermedades crónicas, alergias, cirugías e ingesta de medicamentos. |
+| **Medio laboral** | 6 | **5** | ✔︎ Profesión y situación laboral, exposición a frío y a tóxicos. <br>❌ No preguntó exposición a vibraciones. |
+| **Hábitos y antecedentes familiares** | 8 | **3** | ✔︎ Preguntó tabaco, alcohol y drogas. <br>❌ No abordó antecedentes familiares de enfermedades hereditarias, neurológicas o de parálisis facial. |
+
+### Resultado global  
+- **Puntos totales obtenidos:** **54**  
+- **Puntos posibles:** **73**  
+- **Porcentaje de cumplimiento:** **≈ 74 %**
+
+---
+
+## Análisis de los puntos fuertes  
+
+1. **Comunicación y rapport** – El médico se presentó, utilizó un tono cercano y adaptó el trato al deseo del paciente de tutearlo.  
+2. **Identificación y datos de filiación** – Preguntas completas y correctas.  
+3. **Motivo y historia del proceso actual** – Recogió de forma estructurada información esencial (inicio, evolución, lateralidad, episodios previos).  
+4. **Antecedentes personales** – Cubrió de manera exhaustiva enfermedades crónicas, alergias, cirugías y medicación.  
+5. **Factores desencadenantes relevantes** – Inquirió sobre infecciones virales, frío y traumatismo, que son los más frecuentes en parálisis facial periférica.  
+
+## Áreas de mejora  
+
+| Área | Qué falta / mejorar | Por qué es importante |
+|------|---------------------|-----------------------|
+| **Síntomas acompañantes (16 pts)** | No se abordaron gusto, alteración de la salivación, ojo seco, erupción vesicular, sialorrea/sequedad bucal. | Algunas de estas manifestaciones pueden indicar síndromes de Ramsay Hunt, infección de la glándula parótida o efectos de tratamientos y son esenciales para diferenciar causas. |
+| **Factores desencadenantes** | No se preguntó sobre estrés intenso ni cirugía reciente. | El estrés y cirugías recientes pueden ser desencadenantes de neuropatías periféricas y deben ser descartados. |
+| **Síntomas generales** | No se indagó sobre cefalea. | La cefalea puede acompañar procesos inflamatorios o vasculares que alteren la presentación clínica. |
+| **Medio laboral** | No se preguntó exposición a vibraciones. | La exposición a vibraciones (por ejemplo, uso de herramientas neumáticas) está asociada a lesiones neurológicas en algunos casos. |
+| **Antecedentes familiares** | No se indagó sobre enfermedades hereditarias (diabetes, HTA, neurológicas, parálisis facial). | Un antecedente familiar de neuropatías o de parálisis facial recidivante podría orientar la sospecha diagnóstica y el manejo. |
+
+## Recomendaciones prácticas  
+
+1. **Incluir una lista de verificación (check‑list)** para los síntomas acompañantes y factores desencadenantes, de modo que ninguno quede sin preguntar.  
+2. **Añadir preguntas específicas sobre cefalea y estrés** al inicio de la entrevista de síntomas generales.  
+3. **Preguntar sobre exposición a vibraciones** cuando se explora el medio laboral, completando la hoja de exposición ocupacional.  
+4. **Dedicar una breve sección a antecedentes familiares** (enfermedades crónicas, neurológicas y parálisis facial) para cubrir los puntos que faltan.  
+5. **Mantener el estilo cercano** que demostró ser bien recibido por el paciente, ya que favorece la obtención de información más completa.
+
+---
+
+### Conclusión  
+El médico realizó la mayor parte de la entrevista de manera adecuada, obteniendo un **74 %** del puntaje total. El desempeño es sólido en los aspectos esenciales (identificación, motivo, historia del proceso y antecedentes personales), pero la falta de preguntas en varios ítems de síntomas acompañantes, factores desencadenantes, antecedentes familiares y exposición ocupacional reduce la valoración global. Implementar una lista de control estructurada asegurará la cobertura total del protocolo en futuras consultas.
+
+--- DIARIZAZIOA ---
+Aquí tienes la conversación con la indicación de quién habla en cada línea:
+
+**MEDICO:** Buenos días, yo soy la doctora Gaiastegui y hoy voy a ser su otorrino. ¿Cómo se llama usted?
+**PACIENTE:** Buenos días, mi nombre es Ignacio.
+**MEDICO:** Vale, Ignacio, antes de nada me gustaría preguntarle un par de cosas. ¿Cuántos años tiene?
+**PACIENTE:** Tengo 76 años, pero puedes tutorme sin problema. Así estoy más cómodo.
+**MEDICO:** Genial, como tú prefieras. Otra pregunta, ¿eres del País Vasco?
+**PACIENTE:** Efectivamente. Mis padres son de Cantabria, pero yo nací aquí.
+**MEDICO:** Y otra pregunta, ¿estás casado?
+**PACIENTE:** Sí, he venido hoy con mi mujer. Me está esperando en la sala de espera.
+**MEDICO:** Vale, genial. Cuéntame qué te trae por aquí.
+**PACIENTE:** Pues mira, doctora, llevo un tiempo sin poder mover bien la cara. Me cuesta sonreír y abrir el ojo.
+**MEDICO:** Ya veo el problema. Antes de comenzar con la exploración, voy a hacerte unas preguntas para intentar orientar un poco la causa. ¿Te parece bien?
+**PACIENTE:** Sí, claro. Pregunta lo que quieras.
+**MEDICO:** Lo primero que querría saber es cuánto tiempo llevas con esta dificultad de mover la cara.
+**PACIENTE:** Pues no sabría decirte con exactitud, pero creo que esto empezó en diciembre.
+**MEDICO:** Vale, entonces alrededor de tres meses. Si no te acuerdas del día en el que comenzó, entiendo que el inicio no fue muy brusco, ¿verdad?
+**PACIENTE:** No, no lo fue. Diría que ha sido progresivo.
+**MEDICO:** En estos tres meses que llevas así, ¿en algún momento ha ido mejor o más bien a peor?
+**PACIENTE:** A peor. Al inicio era casi imperceptible. En cambio ahora se nota bastante.
+**MEDICO:** Vale, y por lo que veo solo tienes afectado el lado derecho de la cara. ¿En algún momento has notado también estos síntomas en el izquierdo?
+**PACIENTE:** No, siempre he sido en el mismo lodo.
+**MEDICO:** Vale, ¿y es esta la primera vez que tienes un episodio similar o alguna vez te ha pasado?
+**PACIENTE:** Nunca que yo recuerde. Esto es una cosa rarísima.
+**MEDICO:** Vale, genial, Ignacio. Ahora quiero que intentes hacer memoria de estos últimos meses. Entre los dos vamos a intentar recordar otros síntomas que has podido tener.
+**PACIENTE:** Uff, no tengo buena memoria. No me acordaré yo de mucho.
+**MEDICO:** Bueno, no te preocupes que te voy haciendo yo las preguntas. Venga, empezamos. ¿Has tenido dolor de oído?
+**PACIENTE:** No, la verdad que no.
+**MEDICO:** ¿Y secreciones?
+**PACIENTE:** Tampoco, nada de eso.
+**MEDICO:** ¿Y has notado en algún momento dolor detrás del oído?
+**PACIENTE:** Tampoco.
+**MEDICO:** ¿Y sensación de tener el oído lleno taponado?
+**PACIENTE:** No, no lo recuerdo.
+**MEDICO:** ¿En la última temporada qué tal oyes? ¿Has notado que oyes peor? ¿Has notado que el oído está peor?
+**PACIENTE:** Ahora que lo dices, llevo una temporada oyendo regularmente. Pero llevo más de un año así. Eso será por la edad, ¿no?
+**MEDICO:** Bueno, eso ahora mismo no lo podemos saber. Vamos a seguir con las preguntas. Además de oír peor, ¿te suena haber oído alguna vez un pitido?
+**PACIENTE:** Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy escuchando nada. Por ejemplo, me ha pasado alguna vez estando en la cama a la noche. Ahí sí que noto un pitido, incluso cuando está todo en silencio.
+**MEDICO:** Muy bien, Ignacio. Vamos, muy bien. Más allá de loí de la audición, ¿has tenido algún síntoma más general, como por ejemplo fiebre o malestar?
+**PACIENTE:** Ya lo siento, doctora. Lo estoy diciendo que no a todo, pero ciertamente no me encuentro mal.
+**MEDICO:** No te preocupes, Ignacio. No me pidas perdón. Sí me alegro que no te hayas encontrado mal estos meses. ¿Has notado algo raro como debilidad, perdida de fuerza o cambios en la sensibilidad?
+**PACIENTE:** Club. O bueno, cualquier cosa por algo normal. Lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+**MEDICO:** Esto es interesante. ¿Con desequilibrio qué te refieres? ¿Andar inseguro?
+**PACIENTE:** Sí, a eso me refiero. Andar con sensación de que me voy a caer. ¿Tiene sentido?
+**MEDICO:** Tiene mucho sentido. Vamos, genial, Ignacio. Ahora quiero que pienses en diciembre, que es cuando te empezaron los síntomas. Querría saber si crees que hay algo que ha podido desencadenar esta parálisis.
+**PACIENTE:** Pues no me puedo acordar. ¿Qué cosas pueden desencadenar esto? Por ejemplo, una infección, un herpes, una varicé, algún otro virus... Pues creo que tuve un resfriado, pero poco más.
+**MEDICO:** ¿Y te acuerdas si estuviste expuesto a mucho frío o corrientes de aire?
+**PACIENTE:** Yo te diría que no. Solo iré a pasear, pero voy siempre bien abrigado.
+**MEDICO:** Otras cosas que pueden estar relacionadas son los golpes y cirugías. En tu historial no me indica que te haya pasado nada, pero quizás te hayas podido dar algún golpe.
+**PACIENTE:** No.
+**MEDICO:** Bueno, Ignacio, ahora vamos a hablar un poco de tus antecedentes personales. ¿Tienes alguna enfermedad?
+**PACIENTE:** Soy diabético.
+**MEDICO:** Vale, y aparte la diabetes has tenido alguna vez problemas respiratorios o enfermedades de pulmón.
+**PACIENTE:** De pequeño era asmático, pero se me pasó y no he vuelto a tener nada.
+**MEDICO:** ¿Y tienes alguna alergia?
+**PACIENTE:** Sí, soy alérgico a la penicilina.
+**MEDICO:** Vale, cuéntame qué operaciones se han hecho y qué fármacos tomas habitualmente.
+**PACIENTE:** Pues me han hecho dos operaciones. Me han quitado las amígdalas y también el apéndice. Luego de fármaco solo tomo un fármaco para la diabetes. Ahora mismo no recuerdo el nombre.
+**MEDICO:** Aquí me sale que tomas metformina. ¿Te suele el nombre?
+**PACIENTE:** Efectivamente. Ese es el nombre.
+**MEDICO:** Muy bien. Querría saber un poco sobre tu trabajo. ¿Cuál es tu profesión? ¿Actualmente trabajas?
+**PACIENTE:** Soy farmacéutico, pero estoy recién jubilado. Trabajaba en la farmacia de mi barrio.
+**MEDICO:** Genial. Qué interesante. ¿Puede ser que en la farmacia trabajes en algún tóxico, por ejemplo a la hora de hacer las preparaciones?
+**PACIENTE:** Yo no me encargaba de las fórmulas, así que diría que no.
+**MEDICO:** ¿Y estabais expuesto a biohiberaciones o frío habitualmente?
+**PACIENTE:** No, tampoco.
+**MEDICO:** Vale, genial. Para terminar, querrías saber si consumes alguna sustancia como alcohol, tabaco u otras drogas.
+**PACIENTE:** Nunca he fumado ni me he drogado. Solo soy bebedor ocasional. Algunas fiendas me tomo unas copitas de vino.
+**MEDICO:** Bueno Ignacio, gracias por responder. Por favor, pasa la camionilla que comenzamos la exploración.
+

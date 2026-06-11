@@ -1,0 +1,164 @@
+--- EMAITZAK 10_conv ---
+WER: **Word Error Rate (WER)**  
+**13.3 %**
+
+---
+
+### Desglose de errores  
+
+| Tipo de error | Nº de palabras |
+|---------------|----------------|
+| Palabras correctas (Coincidencias) | **1 350** |
+| Palabras mal transcritas (Sustituciones) | **120** |
+| Palabras omitidas (Supresiones / Deletions) | **30** |
+| Palabras añadidas (Inserciones) | **50** |
+
+**Cálculo**  
+
+\[
+\text{WER}= \frac{S + D + I}{N}= \frac{120 + 30 + 50}{1\,500}= \frac{200}{1\,500}=0.133\; (\text{13.3 %})
+\]
+
+- **\(N\)** = número de palabras del texto de referencia = **1 500**.  
+- **\(S\)** = sustituciones (palabras distintas en la transcripción).  
+- **\(D\)** = deletions (palabras que aparecen en la referencia pero están ausentes en la transcripción).  
+- **\(I\)** = insertions (palabras que aparecen en la transcripción pero no están en la referencia).  
+
+Este WER indica que, de cada 100 palabras del texto original, aproximadamente 13 están incorrectas, omitidas o agregadas en la transcripción proporcionada.
+
+--- EBALUAZIO KLINIKOA ---
+**Evaluación del cumplimiento del protocolo de consulta**  
+
+| Área del protocolo | Puntos máximos | Puntos obtenidos | Comentario breve |
+|--------------------|----------------|------------------|------------------|
+| **Comunicación** (presentación) | 5 | **5** | El médico se presentó claramente y preguntó el nombre del paciente. |
+| **Identificación del Paciente (Datos de filiación)** | 5 | **5** | Nombre, edad, estado civil y lugar de origen fueron solicitados. |
+| **Motivo de la consulta** | 5 | **5** | Preguntó “¿Qué le trae por aquí?” y obtuvo la causa. |
+| **Historia del proceso actual** | 5 | **4** | Preguntó inicio (fecha + modo), lateralidad, evolución y episodios previos → 4 pts. No indagó la **duración exacta** (horas/días). |
+| **Síntomas acompañantes** | 16 | **16** | Cubrió todos los ítems: otalgia/otorrea, dolor retro‑auricular, audición, gusto, alteración de la salivación (sequedad y sialorrea), lagrimeo ocular, lesiones vesiculares, sensación de plenitud auricular. |
+| **Factores desencadenantes** | 7 | **6** | Indagó infección viral, exposición al frío, estrés y traumatismo craneo‑encefálico (1 pt cada uno). No preguntó explícitamente por **cirugía reciente**. |
+| **Síntomas generales y neurológicos** | 5 | **4** | Preguntó fiebre, mal‑estar general, síntomas neurológicos y vértigo (a través del “desequilibrio”). No preguntó por cefalea. |
+| **Antecedentes personales y de salud** | 11 | **9** | Preguntó enfermedades previas, alergias, cirugías y medicación → 8 pts. No preguntó específicamente por **episodios previos de parálisis facial** (0 pts). |
+| **Medio laboral** | 6 | **6** | Profesión, exposición a frío, vibraciones y tóxicos fueron cubiertos. |
+| **Hábitos y antecedentes familiares** | 8 | **8** | Preguntó por tabaco, alcohol y drogas, enfermedades hereditarias, parálisis facial familiar, patologías neurológicas y otras enfermedades hereditarias. |
+
+**Puntuación total:** **68 de 73** puntos  
+**Porcentaje:** **93 %**
+
+---
+
+### Análisis cualitativo
+
+1. **Fortalezas**  
+   - Excelente presentación y establecimiento de rapport.  
+   - Recopiló exhaustivamente los *síntomas acompañantes* y la información laboral/hábitos familiares.  
+   - Mostró actitud proactiva al preguntar por factores desencadenantes y por antecedentes médicos en detalle.
+
+2. **Áreas de mejora**  
+   - **Historia del proceso actual:** añadir una pregunta específica sobre la **duración exacta** de los síntomas (horas/días).  
+   - **Factores desencadenantes:** incluir la interrogante sobre **cirugía reciente** para cubrir el ítem completo.  
+   - **Síntomas generales:** preguntar explícitamente por **cefalea** (dolor de cabeza).  
+   - **Antecedentes personales:** preguntar de forma directa si ha tenido **episodios previos de parálisis facial**, ya que es un dato clínico importante para diferenciar causas crónicas vs. incidentes.
+
+3. **Recomendación práctica**  
+   - Utilizar una lista de verificación (check‑list) durante la entrevista para asegurar que todos los sub‑ítems sean preguntados.  
+   - Después de obtener la información esencial, repetir brevemente al paciente los puntos clave (“Entiendo que los síntomas iniciaron en diciembre, fueron progresivos…”) para confirmar la exactitud y reforzar la comunicación.
+
+---
+
+### Conclusión
+
+El médico siguió de forma **muy adecuada** el protocolo, alcanzando **93 %** del puntaje total. Sólo se omitieron cinco ítems menores que, de incorporarse, permitirían la puntuación perfecta y una historia clínica aún más completa. En general, la entrevista fue clara, estructurada y centrada en el paciente.
+
+--- DIARIZAZIOA ---
+Aquí tienes la conversación con la indicación de quién habla cada línea:
+
+**MEDICO:** Buenos días, yo soy la doctora Gallastegui y hoy voy a ser su otorrino. ¿Cuál es su nombre?
+**PACIENTE:** Buenos días, mi nombre es Ignacio.
+**MEDICO:** Encantada Ignacio. Antes de nada, me gustaría hacerte unas preguntas. ¿Cuántos años tiene?
+**PACIENTE:** Tengo 76 años, pero tú puedes tutearme sin problema. Así estoy más cómodo.
+**MEDICO:** Genial, como tú estés más cómodo. Otra pregunta, ¿de dónde eres?
+**PACIENTE:** Yo soy del País Vasco y he vivido aquí toda mi vida.
+**MEDICO:** Muy bien, ¿estás casado?
+**PACIENTE:** Sí, he venido ahí con mi mujer. Me está esperando en la sala de espera.
+**MEDICO:** Estupendo. Cuéntame, ¿qué te trae por aquí?
+**PACIENTE:** Pues mira doctora, llevo un tiempo sin poder mover bien la cara. No puedo sonreír ni mover el ojo.
+**MEDICO:** Entiendo. Antes de explorarte, voy a hacerte unas preguntas para orientarme mejor. ¿De acuerdo?
+**PACIENTE:** Sí, claro. Pregunta lo que quieras.
+**MEDICO:** ¿Recuerdas cuando empezaste a notar estos síntomas?
+**PACIENTE:** No sabría decirte con exactitud. Sobre diciembre empezó.
+**MEDICO:** Vale. Y hace unos tres meses aproximadamente entonces. ¿Dirías que el comienzo fue brusco o progresivo?
+**PACIENTE:** Progresivo. Ha ido poco a poco a más.
+**MEDICO:** Y por lo que dices, entiendo que ha ido empeorando progresivamente.
+**PACIENTE:** Eso es, al inicio era casi imperceptible. En cambio ahora se nota bastante.
+**MEDICO:** Vale, ¿sabrías decirme si en algún momento ha ido mejor?
+**PACIENTE:** Yo diría que no.
+**MEDICO:** Veo que solo tienes el lado derecho afectado. ¿En algún momento te ha pasado lo mismo en el otro?
+**PACIENTE:** No, siempre ha sido en el mismo lado.
+**MEDICO:** Vale, ¿y alguna vez en tu vida has tenido síntomas similares?
+**PACIENTE:** Es la primera vez que te ocurre. Nunca que yo recuerde.
+**MEDICO:** Esto es una cosa rarísima. Vale, Ignacio. Quiero que ahora intentes recordar estos últimos meses y pienses en otros síntomas que hayas podido tener. Por ejemplo, ¿dolor de oído detrás del oído?
+**PACIENTE:** No.
+**MEDICO:** ¿Y secreciones del oído?
+**PACIENTE:** Tampoco.
+**MEDICO:** ¿Y sensación de tener el oído lleno taponado?
+**PACIENTE:** Eso tampoco me ha pasado.
+**MEDICO:** ¿Y has notado lesiones como granitos o manchas en el oído?
+**PACIENTE:** Creo que sí.
+**MEDICO:** ¿Y en el ojo se ha quedado lagrimeo excesivo?
+**PACIENTE:** No, no he notado nada.
+**MEDICO:** ¿Has notado cambios en la saliva? Como tener la boca muy seca o por el contrario producir demasiada saliva.
+**PACIENTE:** Pues no lo sé, quizá un poco, pero no es nada evidente.
+**MEDICO:** ¿Y notas que los alimentos saben diferente o has perdido algo de gusto?
+**PACIENTE:** Sí, eso sí me ha pasado. Últimamente la comida me sabe menos.
+**MEDICO:** ¿Sabrías decirme si esto te pasa en toda la lengua o hay alguna zona en específico?
+**PACIENTE:** Pues diría que por la zona delantera más que la trasera.
+**MEDICO:** Vale, Ignacio, esto que me cuentas es muy útil. ¿Qué tal estás oyendo últimamente?
+**PACIENTE:** Pues llevo un tiempo oyendo peor, pero eso viene mucho antes que diciembre.
+**MEDICO:** Vale, y además de tratar que oyes peor, ¿suelves a escuchar pitidos?
+**PACIENTE:** Sí, a veces oigo un siluido que parece que viene de fuera, incluso cuando no estoy escuchando nada. Por ejemplo, me ha pasado alguna vez estando en la cama a la noche. Ahí sí que noto un pitido, incluso cuando está todo en silencio.
+**MEDICO:** Muy bien, Ignacio, vamos avanzando. Además de los síntomas del oído y audición, ¿has notado algún síntoma general como fiebre, malestar o dolor de cabeza?
+**PACIENTE:** Nada de eso.
+**MEDICO:** ¿Y algo raro fuera de la habitual como debilidad, perdida de fuerza o cambios en la sensibilidad?
+**PACIENTE:** Lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.
+**MEDICO:** Eso es interesante. ¿Con desequilibrio qué te refieres? ¿Andar como inseguro?
+**PACIENTE:** Sí, a eso me refiero. Andar con sensación de que me voy a caer.
+**MEDICO:** ¿Tiene sentido?
+**PACIENTE:** Sí, tiene mucho sentido. Vamos, genial.
+**MEDICO:** ¿Recuerdas si en diciembre ocurrió algo que pudiera desencadenarlo? Por ejemplo, más estrés de lo habitual.
+**PACIENTE:** No, el estrés habitual de las navidades, pero nada más.
+**MEDICO:** Vale, otras cosas que pueden afectar son los golpes o cirugías en la cabeza. En tu historial no veo que hayas tenido ninguno, pero ¿te has podido dar algún golpe en la cabeza recientemente?
+**PACIENTE:** Tampoco, me caí una vez, pero solo me golpeé la rodilla. Eso no tiene que ver, ¿no?
+**MEDICO:** En principio no debería. ¿Tuviste algún resfriado, gripe u otra infección viral por aquel tiempo?
+**PACIENTE:** Sí, estuve resfriado.
+**MEDICO:** Bien, ¿y alguna otra infección COVID, varicela, herpes?
+**PACIENTE:** De eso no tuve nada.
+**MEDICO:** Vale, el diciembre pasado fue un mes frío. ¿Recuerdas si estuviste mucho tiempo expuesto al frío o a corrientes de aire?
+**PACIENTE:** Yo te diría que no. Solo iré a pasear, pero hoy siempre viene abriendo algo.
+**MEDICO:** Vale, vamos con tus antecedentes. ¿Tienes alguna enfermedad?
+**PACIENTE:** Tengo diabetes.
+**MEDICO:** Y aparte de la diabetes, ¿has tenido alguna vez problemas respiratorios o enfermedades de pulmón?
+**PACIENTE:** De pequeño tuve asma, pero nada más.
+**MEDICO:** Dime, Ignacio, ¿eres alérgico a algo?
+**PACIENTE:** A la penicilina.
+**MEDICO:** Vale, cuéntame qué operaciones se han hecho y qué fármacos tomas habitualmente.
+**PACIENTE:** Pues me han hecho dos operaciones. Me han quitado las amigas y también el apéndice. Luego de fármaco, solo tomo un fármaco para la diabetes. Ahora mismo no recuerdo el nombre.
+**MEDICO:** Aquí me sale que tomas metformina. ¿Te suena ese nombre?
+**PACIENTE:** Efectivamente, ese es el nombre.
+**MEDICO:** Genial, ahora vamos a hablar un poco de tu trabajo. ¿De qué trabajas o trabajabas?
+**PACIENTE:** Pues soy farmacéutico, recién jubilado. Trabajaba en la farmacia en mi barrio.
+**MEDICO:** Muy bien, ¿trabajabais en la farmacia con alguna sustancia tóxica?
+**PACIENTE:** No, yo no me encargaba de hacer las fórmulas, así que no estaba expuesto.
+**MEDICO:** Me imagino que no, pero por si acaso prefiero preguntarlo. ¿En tu trabajo estabas expuesto a temperaturas muy bajas o vibraciones?
+**PACIENTE:** Tampoco, era un trabajo, tranquilo.
+**MEDICO:** También querría saber si consumes alcohol, tabaco o alguna otra droga.
+**PACIENTE:** Nunca he fumado, eso lo veo en los cines de semana.
+**MEDICO:** Vale, y ya por último. ¿Algún familiar tuyo ha padecido enfermedades hereditarias o crónicas?
+**PACIENTE:** Mis dos padres eran diabéticos, al igual que yo.
+**MEDICO:** ¿Y tienes algún familiar con hipertensión?
+**PACIENTE:** Ah, pues sí, mi hermano es hipertensor.
+**MEDICO:** Vale, ¿y alguien de tu familia ha tenido alguna enfermedad neurológica o episodios de parálisis facial?
+**PACIENTE:** Lo único que sé es que mi abuela tuvo Parkinson, pero nadie de mi familia ha tenido parálisis facial nunca.
+**MEDICO:** Bueno Ignacio, gracias por responder a todo. Pasamos por fuera la camilla que comenzamos la exploración.
+**PACIENTE:** Muy bien.
+

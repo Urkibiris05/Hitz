@@ -1,103 +1,113 @@
---- RESULTADOS 6_conv.mp3 ---
+--- RESULTADOS 6_conv ---
 WER: 14.95%
 
 --- EVALUACIÓN CLÍNICA ---
-**Evaluación del Médico según los Criterios Proporcionados**  
+**Evaluación de la Consulta Médica según los Criterios Proporcionados**
 
-**Puntuación Total: 50/67**  
-**Porcentaje: 74.6%**  
+**Puntuación Total:** 50/73  
+**Porcentaje de Cumplimiento:** 68.5%
 
 ---
 
-### **Desglose por Categoría**  
+### **Desglose por Categoría**
+
 #### **1. Comunicación (5/5)**  
-- **Se presenta al Paciente**: ✔️ (5 puntos)  
-  - *"Buenos días, yo soy la doctora Gaias Tegui y hoy voy a ser su otorrino."*  
+- **Se presenta al Paciente**: ✔️ (5/5)  
+  *El médico se presenta claramente: "Buenos días, yo soy la doctora Gaias Tegui y hoy voy a ser su otorrino".*
 
 #### **2. Identificación del Paciente (5/5)**  
-- **Nombre**: ✔️ (2 puntos)  
-- **Edad**: ✔️ (1 punto)  
-- **Estado Civil**: ✔️ (1 punto)  
-- **Lugar de Procedencia**: ✔️ (1 punto)  
-  - El médico recopiló todos los datos solicitados.  
+- **Nombre**: ✔️ (2/2)  
+- **Edad**: ✔️ (1/1)  
+- **Estado Civil**: ✔️ (1/1)  
+- **Lugar de procedencia**: ✔️ (1/1)  
+  *Preguntas cubiertas: nombre, edad, estado civil y origen geográfico.*
 
 #### **3. Motivo de la Consulta (5/5)**  
-- **Por qué acude a la consulta**: ✔️ (5 puntos)  
-  - *"¿Qué es lo que te trae por aquí?"* y el paciente describió su síntoma.  
+- **Por qué acude a la consulta**: ✔️ (5/5)  
+  *El médico pregunta directamente: "¿Qué es lo que te trae por aquí?" y recibe una respuesta clara.*
 
 #### **4. Historia del Proceso Actual (5/5)**  
-- **Inicio del cuadro**: ✔️ (1 punto)  
-  - Preguntó sobre la fecha ("desde diciembre") y modo progresivo.  
-- **Lateralidad**: ✔️ (1 punto)  
-  - Confirmó que es unilateral (lado derecho).  
-- **Duración**: ✔️ (1 punto)  
-  - Aproximó "3-4 meses".  
-- **Evolución**: ✔️ (1 punto)  
-  - Confirmó empeoramiento progresivo.  
-- **Episodios previos**: ✔️ (1 punto)  
-  - El paciente indicó que es la primera vez.  
+- **Inicio del cuadro**: ✔️ (1/1)  
+- **Lateralidad**: ✔️ (1/1)  
+- **Duración**: ✔️ (1/1)  
+- **Evolución**: ✔️ (1/1)  
+- **Episodios previos**: ✔️ (1/1)  
+  *Se cubren todos los aspectos: tiempo de evolución, lateralidad, progresión y episodios anteriores.*
 
 #### **5. Síntomas Acompañantes (10/16)**  
-- **Otalgia y otorrea**: ✔️ (1 punto)  
-- **Dolor retroauricular**: ✔️ (1 punto)  
-- **Audición**: ✔️ (2 puntos)  
-  - Preguntó sobre hipoacusia y tinnitus.  
-- **Disminución de la salivación**: ✔️ (2 puntos)  
-- **Alteración Salivación**: ✔️ (2 puntos)  
-  - Cubrió ambas subcategorías con una sola pregunta.  
-- **Sensación de plenitud auricular**: ✔️ (2 puntos)  
-- **Faltantes**:  
-  - Alteración del gusto (0/2), Ojo seco (0/2), Erupción vesicular (0/2).  
+- **Otalgia y otorrea**: ✔️ (1/1)  
+- **Dolor retroauricular**: ✔️ (1/1)  
+- **Audición (Hipoacusia/Hiperacusia)**: ✔️ (2/2)  
+- **Sensación de plenitud auricular**: ✔️ (2/2)  
+- **Disminución de salivación**: ✔️ (2/2)  
+- **Alteración Salivación (Sialorrea/Sequedad bucal)**: ✔️ (2/2)  
+- **No cubiertos**:  
+  - Alteración del gusto (0/2)  
+  - Ojo seco o lagrimeo excesivo (0/2)  
+  - Erupción vesicular (0/2)  
+  *El médico aborda síntomas clave, pero omite preguntar sobre gusto, ojos y erupciones.*
 
 #### **6. Factores Desencadenantes (5/7)**  
-- **Exposición al frío**: ✔️ (2 puntos)  
-- **Estrés intenso**: ✔️ (1 punto)  
-- **Cirugía reciente**: ✔️ (1 punto)  
-- **Traumatismo craneoencefálico**: ✔️ (1 punto)  
-- **Faltante**:  
-  - Infección viral reciente (0/2).  
+- **Exposición al frío**: ✔️ (2/2)  
+- **Estrés intenso**: ✔️ (1/1)  
+- **Cirugía reciente**: ✔️ (1/1)  
+- **Traumatismo craneoencefálico**: ✔️ (1/1)  
+- **No cubierto**:  
+  - Infección viral reciente (0/2)  
+  *No se mencionan infecciones virales (VHS, VZV, COVID), aunque se exploran otros factores.*
 
 #### **7. Síntomas Generales y Neurológicos (4/5)**  
-- **Fiebre**: ✔️ (1 punto)  
-- **Malestar general**: ✔️ (1 punto)  
-- **Síntomas neurológicos**: ✔️ (1 punto)  
-  - Preguntó sobre debilidad y sensibilidad.  
-- **Vértigo**: ✔️ (1 punto)  
-  - Aclaró la "sensación de desequilibrio".  
-- **Faltante**:  
-  - Cefalea (0/1).  
+- **Fiebre**: ✔️ (1/1)  
+- **Malestar general**: ✔️ (1/1)  
+- **Síntomas neurológicos**: ✔️ (1/1)  
+- **Vértigo**: ✔️ (1/1)  
+- **No cubierto**:  
+  - Cefalea (0/1)  
+  *Se omitió preguntar por dolores de cabeza.*
 
 #### **8. Antecedentes Personales y Salud (9/11)**  
-- **Episodios previos de parálisis facial**: ✔️ (2 puntos)  
-- **Enfermedades previas (DM)**: ✔️ (2 puntos)  
-- **Alergias**: ✔️ (1 punto)  
-- **Intervenciones quirúrgicas**: ✔️ (2 puntos)  
-- **Toma de medicamentos**: ✔️ (2 puntos)  
-- **Faltantes**:  
-  - Síntomas respiratorios previos (0/2).  
+- **Episodios previos de parálisis facial**: ✔️ (2/2)  
+- **Enfermedades previas**: ✔️ (2/2)  
+- **Alergias**: ✔️ (1/1)  
+- **Intervenciones quirúrgicas**: ✔️ (2/2)  
+- **Toma de medicamentos**: ✔️ (2/2)  
+- **No cubierto**:  
+  - Síntomas respiratorios previos (0/2)  
+  *No se exploró antecedente de infecciones respiratorias.*
 
 #### **9. Medio Laboral (2/6)**  
-- **Exposición a frío**: ✔️ (2 puntos)  
-- **Faltantes**:  
-  - Profesión (0/1), Vibraciones (0/1), Tóxicos (0/2).  
+- **Exposición a frío**: ✔️ (2/2)  
+- **No cubiertos**:  
+  - Profesión y situación laboral (0/1)  
+  - Exposición a vibraciones (0/1)  
+  - Exposición a tóxicos (0/2)  
+  *Solo se abordó la exposición a frío; el resto no se mencionó.*
 
 #### **10. Hábitos y Antecedentes Familiares (0/8)**  
-- **No se abordó ninguna subcategoría**:  
-  - Hábitos (tabaco, alcohol), enfermedades hereditarias, etc.  
+- **No cubiertos**:  
+  - Hábitos (tabaco, alcohol, drogas) (0/3)  
+  - Enfermedades hereditarias (0/2)  
+  - Parálisis facial recurrente en familia (0/1)  
+  - Enfermedades neurológicas familiares (0/1)  
+  - Otras enfermedades hereditarias (0/1)  
+  *No se preguntó por hábitos, antecedentes familiares o factores genéticos.*
 
 ---
 
 ### **Observaciones Clave**  
 - **Fortalezas**:  
-  - Excelente en identificación del paciente, historia del proceso y motivo de consulta.  
-  - Cubrió la mayoría de síntomas acompañantes y factores desencadenantes relevantes.  
-- **Áreas de Mejora**:  
-  - **Hábitos y antecedentes familiares**: No se exploraron (0 puntos).  
-  - **Síntomas acompañantes faltantes**: Alteración del gusto, ojo seco y erupción vesicular.  
-  - **Medio laboral incompleto**: No se preguntó por profesión, vibraciones o tóxicos.  
-  - **Infección viral reciente**: No se mencionó en factores desencadenantes.  
+  - Excelente en identificación del paciente, motivo de consulta y historia clínica actual.  
+  - Exploración detallada de síntomas específicos (auditivos, salivación, vértigo).  
+  - Manejo adecuado de factores desencadenantes como estrés y frío.  
 
-**Recomendación**: El médico debe profundizar en antecedentes familiares, hábitos tóxicos y síntomas neurológicos específicos (ej.: cefalea) para cubrir el 100% del protocolo.
+- **Áreas de Mejora**:  
+  - **Síntomas acompañantes**: Falta explorar alteraciones del gusto, ojos y erupciones.  
+  - **Antecedentes**: No se indagó en síntomas respiratorios previos.  
+  - **Medio laboral**: Se omitió información crítica sobre profesión y exposición a tóxicos.  
+  - **Hábitos y familiares**: Ausencia total de exploración en esta área, lo que reduce la capacidad de diagnóstico diferencial.  
+
+**Recomendación**:  
+El médico cumple con los requisitos básicos para una evaluación clínica, pero debe profundizar en antecedentes familiares, hábitos y síntomas secundarios para un enfoque más integral. La omisión de preguntas sobre infecciones virales y antecedentes genéticos podría limitar la precisión diagnóstica.
 
 --- DIARIZACIÓN ---
 MEDICO: Buenos días, yo soy la doctora Gaias Tegui y hoy voy a ser su otorrino. ¿Cómo se llama usted?  
@@ -114,8 +124,7 @@ MEDICO: Vale, ya veo el problema. Antes de comenzar la exploración voy a hacert
 PACIENTE: Sí, claro. Pregunta lo que quieras.  
 MEDICO: Vale, comencemos. ¿Cuánto tiempo llevas sin poder mover la cara?  
 PACIENTE: Pues no sé decirte el día exacto, pero más o menos diría que llevo así desde diciembre.  
-MEDICO: Vale, pues unos tres o cuatro meses aproximadamente.  
-MEDICO: Por lo que veo solo tienes afectado el lado derecho de la cara, pero en algún momento has tenido también el otro lado afectado.  
+MEDICO: Vale, pues unos tres o cuatro meses aproximadamente. Por lo que veo solo tienes afectado el lado derecho de la cara, pero en algún momento has tenido también el otro lado afectado.  
 PACIENTE: No, el lado izquierdo lo tengo perfecto y en estos meses no he notado nada.  
 MEDICO: Me has comentado antes que no te acuerdas del día en el que empezaste a estar así. ¿Eso significa que no fue un cambio brusco?  
 PACIENTE: Para nada. Yo diría que esto ha sido poco a poco. Al inicio era casi imperceptible, en cambio ahora es bastante evidente.  
@@ -123,7 +132,7 @@ MEDICO: Vale, y dirías que ha habido un empeoramiento progresivo.
 PACIENTE: Exactamente.  
 MEDICO: ¿Y te acuerdas de si en algún momento hubo una leve mejoría?  
 PACIENTE: No, lo he dicho. Esto va a costa abajo.  
-MEDICO: Vale, Ignacio. También querría saber si esta incapacidad de mover la cara te ha pasado en algún otro momento.  
+MEDICO: Vale, Ignacio. También querría saber si esta incapacidad de mover la cara te ha pasado en algún otro momento. ¿O fue en diciembre la primera vez?  
 PACIENTE: O fue en diciembre la primera vez.  
 MEDICO: Genial, Ignacio. Ahora quiero que intentes hacer memoria de estos últimos meses. Entre los dos vamos a intentar recordar otros síntomas que has podido tener.  
 PACIENTE: Uf, no tengo muy buena memoria. No me acordaré de mucho.  
@@ -143,29 +152,30 @@ MEDICO: Bueno, ahora mismo eso no lo podemos saber. Y además de oír peor, ¿te
 PACIENTE: Sí, a veces oigo un silbido que parece que viene de fuera, incluso cuando no estoy escuchando nada. Por ejemplo, me ha pasado alguna vez estando en la cama a la noche. Ahí sí que noto el pitido, incluso cuando está todo en silencio.  
 MEDICO: Vale, vamos muy bien. Más allá de lo oído y la audición, ¿has tenido algún síntoma más general? ¿Fiebre o malestar, por ejemplo?  
 PACIENTE: Ya lo siento, doctora. Le estoy diciendo que no a todo, pero ciertamente no me encuentro mal.  
-MEDICO: No te preocupes. Me alegro de que no te hayas encontrado mal estos meses.  
-MEDICO: ¿Has notado algo raro como debilidad, pérdida de fuerza o cambios en la sensibilidad? O bueno, cualquier cosa que tú veas fuera lo habitual.  
+MEDICO: No te preocupes. Me alegro de que no te hayas encontrado mal estos meses. ¿Has notado algo raro como debilidad, pérdida de fuerza o cambios en la sensibilidad? O bueno, cualquier cosa que tú veas fuera el habitual.  
 PACIENTE: Lo único que se me ocurre es que llevo una temporada con sensación de desequilibrio.  
-MEDICO: Puede ser que estés experimentando vértigo.  
+MEDICO: Puede ser que estás experimentando vértigo.  
 PACIENTE: No, nunca he tenido vértigo. Las alturas no me dan miedo.  
-PACIENTE: Bueno, sí, pero me refiero más bien a una sensación de mareo o a andar inseguro.  
-MEDICO: Sí, a eso me refiero cuando es equilibrio. Andar con esa sensación de que me voy a caer. ¿Tiene sentido?  
+MEDICO: Bueno, sí, pero me refiero más bien a una sensación de mareo o a andar inseguro.  
+PACIENTE: Sí, a eso me refiero cuando es equilibrio. Andar con esa sensación de que me voy a caer.  
+MEDICO: ¿Tiene sentido?  
 PACIENTE: Sí, tiene mucho sentido.  
 MEDICO: Vamos genial, Ignacio. Ahora quiero que pienses en diciembre, que es cuando te empezaron los síntomas. Y querría saber si crees que hay algo que ha podido desencadenar esta parálisis.  
 PACIENTE: No entiendo muy bien a qué te refieres.  
-MEDICO: No te preocupes, que te voy preguntando yo.  
-MEDICO: ¿Estuviste, por ejemplo, estresado estos meses?  
+MEDICO: No te preocupes, que te voy preguntando yo. ¿Estuviste, por ejemplo, estresado estos meses?  
 PACIENTE: Nada más de lo normal. Todos estamos un poco estresados al preparar toda la Navidad, pero nada extraordinario.  
 MEDICO: ¿Y te acuerdas de si estuviste expuesto a mucho frío en esa época?  
 PACIENTE: Hombre, pues frío sí, pero no más de lo habitual. Me gusta salir a la calle incluso cuando hace frío, pero solo es bien protegido e intento no estar mucho tiempo fuera en el frío.  
 MEDICO: Vale, ¿y tuviste alguna operación o quizás algún golpe en la cabeza?  
-PACIENTE: Eh... No creo que sea importante, pero en noviembre me caí y me dio un golpe bastante fuerte en la rodilla. ¿Puede tener algo que ver?  
-MEDICO: No lo puedo asegurar por ahora, pero no creo que tenga relación.  
+PACIENTE: Eh... No creo que sea importante, pero en noviembre me caí y me dio un golpe bastante fuerte en la rodilla.  
+MEDICO: ¿Puede tener algo que ver?  
+PACIENTE: No lo puedo asegurar por ahora, pero no creo que tenga relación.  
 MEDICO: Bueno, ya lo último antes de pasar la exploración. Vamos a hablar un poco de tus antecedentes. Cuéntame, ¿tienes alguna alergia?  
 PACIENTE: Sí, a la penicilina.  
 MEDICO: ¿Y tienes alguna otra enfermedad?  
 PACIENTE: Soy diabético.  
 MEDICO: Vale, esto lo voy a apuntar. ¿Qué medicamentos sueles tomar?  
-PACIENTE: Tomo algo que empieza por MET. ¿Metformina quizás?  
-MEDICO: Sí, eso es. Siempre se me olvida. Menudo nombre más raro.  
+PACIENTE: Tomo algo que empieza por MET.  
+MEDICO: ¿Metformina quizás?  
+PACIENTE: Sí, eso es. Siempre se me olvida. Menudo nombre más raro.  
 MEDICO: Bueno Ignacio, gracias por responder a todo. Por favor pasa la camilla que comenzamos la exploración.
