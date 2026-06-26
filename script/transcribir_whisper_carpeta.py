@@ -4,12 +4,13 @@ from pathlib import Path
 import whisper
 
 
-def transcribir_audio(ruta_audio, modelo_whisper):
+def transcribir_audio(ruta_audio, modelo_whisper, output_dir):
     resultado = modelo_whisper.transcribe(
         str(ruta_audio),
         language="es",
-        fp16=False,
         verbose=True,
+        output_dir=str(output_dir),
+        output_format="txt"
     )
     return resultado["text"].strip()
 
@@ -37,7 +38,7 @@ def procesar_carpeta(audio_dir, output_dir, nombre_modelo):
 
     for indice, audio_file in enumerate(audios, start=1):
         print(f"[{indice}/{total}] Transcribiendo {audio_file.name}...")
-        texto = transcribir_audio(audio_file, modelo)
+        texto = transcribir_audio(audio_file, modelo, output_dir)
 
         salida = carpeta_salida / f"{audio_file.stem}.txt"
         salida.write_text(texto + "\n", encoding="utf-8")
