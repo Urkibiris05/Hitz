@@ -1,0 +1,45 @@
+start	end	text
+0	7000	Buenos días, soy el doctor Marin. Pase, le voy a hacer unas preguntas para evaluar su caso y ver que tratamiento necesita.
+7000	8000	Gracias doctor.
+8000	13000	Para la ficha, confírmeme su nombre, edad, estado civil y donde vive.
+13000	16000	Carlos Ruiz, 42 años, casado, vivo en Madrid.
+16000	18000	¿En qué trabajo usted, Carlos?
+18000	19000	Soy taxista.
+19000	22000	Cuénteme, ¿qué le pasa ya que cree que se debe?
+22000	26000	Pues tengo la boca torcida, creo que es del aire acondicionado del taxi.
+26000	29000	¿Cuándo empezó exactamente y cómo fue, brusco o lento?
+29000	32000	Esta mañana a las 8, fue de golpe al mirarme al espejo.
+32000	35000	¿Ha notado mejoría? ¿Ha ido a peor o está igual?
+35000	37000	Sigue igual, no ha cambiado.
+37000	39000	¿Le había aplazado esto alguna vez antes?
+39000	41000	No, nunca.
+41000	45000	Vamos a revisar síntomas. ¿Le cuesta cerrar el ojo o nota que se le cae la baba?
+45000	49000	El ojo no me cierra bien y sí, se me escapa un poco la saliva.
+49000	51000	¿Nota cambios en el gusto o el ojo seco?
+51000	54000	La comida me sabe rara y el ojo me pica de seco.
+54000	57000	Dígame si tiene dolor detrás de la oreja o dolor de cabeza.
+57000	59000	Sí, dolor detrás de la oreja tengo.
+59000	63000	Sobre el oído. ¿Oye menos, tiña zumbidos o se marea?
+63000	66000	Oigo un pitido y estoy un poco mareado, pero oigo bien.
+66000	68000	¿Le molestan los ruidos fuertes?
+68000	70000	Sí, bastante.
+70000	72000	Importante para descartar la gravedad.
+72000	75000	¿Tiene fuerza en brazos y piernas? Levántelos.
+75000	77000	Sí, tengo fuerza.
+77000	79000	¿Le cuesta tragar comida o le cuesta hablar?
+79000	82000	Tragar no, pero hablar sí, vocalizo mal.
+82000	84000	¿Camina bien, ve doble?
+84000	86000	Camino bien y veo bien.
+86000	90000	Sobre las causas, ¿ha tenido fiebre o malestar general tipo gripe estos días?
+90000	92000	No, nada de fiebre.
+92000	96000	Aparte del aire, ¿ha tenido mucho estrés, algún golpe o oído al dentista hace poco?
+96000	99000	Estrés sí, mucho tráfico. Golpes y dentista no.
+99000	102000	¿Cómo le afecta esto para trabajar con el taxi?
+102000	105000	Pues imagínense, no puedo trabajar así de cara al público.
+105000	108000	Para terminar, ¿algún familiar ha tenido paralisis facial?
+108000	110000	No que yo sepa.
+110000	113000	¿Tiene enfermedades, alergias o toma medicación?
+113000	115000	Estoy sano, no tomo nada.
+115000	116000	¿No bebe alcohol?
+116000	119000	No fumo, bebo cerveza los fines de semana.
+119000	123000	Muy bien, es una parálisis periférica por el fiero y el estrés, le daré tratamiento.

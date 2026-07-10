@@ -1,0 +1,49 @@
+===========================================================
+ANÁLISIS DE WORD ERROR RATE (WER) - ERRORES CRÍTICOS
+===========================================================
+
+Proyecto: Transcripción de Consulta Otorrinolaringología
+Criterio: Filtrado de errores no críticos (tildes, formato, preposiciones)
+-----------------------------------------------------------
+
+1. DESGLOSE DE ERRORES CRÍTICOS:
+
+- "en moto" -> [Omitido] (Error: Eliminación)
+  Impacto: Pérdida de contexto sobre exposición al frío/aire.
+
+- "Golpes no" -> [Omitido] (Error: Eliminación)
+  Impacto: Omisión de antecedente clínico negativo relevante.
+
+- "labio" -> "audio" (Error: Sustitución)
+  Impacto: Confusión de zona anatómica afectada.
+
+- "Nota" -> "rota" (Error: Sustitución)
+  Impacto: Pérdida de sentido clínico en la pregunta.
+
+- "Muy seco" -> "No" (Error: Sustitución/Eliminación)
+  Impacto: CRÍTICO. Cambia síntoma positivo a negativo.
+
+- "medicación" -> "dedicación" (Error: Sustitución)
+  Impacto: Error terminológico en contexto médico.
+
+- "Enalapril" -> "en alapril" (Error: Sustitución/Inserción)
+  Impacto: Fragmentación de nombre de fármaco.
+
+- "le recetaré" -> "la recetare" (Error: Sustitución)
+  Impacto: Error gramatical y de tildado.
+
+-----------------------------------------------------------
+2. CÁLCULO ESTADÍSTICO:
+
+- Total de palabras (N): 345
+- Sustituciones críticas (S): 6
+- Eliminaciones críticas (D): 3
+- Inserciones críticas (I): 1
+
+Fórmula: (S + D + I) / N
+Cálculo: (6 + 3 + 1) / 345 = 10 / 345
+
+-----------------------------------------------------------
+RESULTADO FINAL: 2.90% WER (Crítico)
+PRECISIÓN ÚTIL: 97.10%
+-----------------------------------------------------------

@@ -1,0 +1,44 @@
+Buenos días, soy el doctor Marin. Pase, le voy a hacer unas preguntas para evaluar su caso y ver que tratamiento necesita.
+Gracias doctor.
+Para la ficha, confírmeme su nombre, edad, estado civil y donde vive.
+Carlos Ruiz, 42 años, casado, vivo en Madrid.
+¿En qué trabajo usted, Carlos?
+Soy taxista.
+Cuénteme, ¿qué le pasa ya que cree que se debe?
+Pues tengo la boca torcida, creo que es del aire acondicionado del taxi.
+¿Cuándo empezó exactamente y cómo fue, brusco o lento?
+Esta mañana a las 8, fue de golpe al mirarme al espejo.
+¿Ha notado mejoría? ¿Ha ido a peor o está igual?
+Sigue igual, no ha cambiado.
+¿Le había aplazado esto alguna vez antes?
+No, nunca.
+Vamos a revisar síntomas. ¿Le cuesta cerrar el ojo o nota que se le cae la baba?
+El ojo no me cierra bien y sí, se me escapa un poco la saliva.
+¿Nota cambios en el gusto o el ojo seco?
+La comida me sabe rara y el ojo me pica de seco.
+Dígame si tiene dolor detrás de la oreja o dolor de cabeza.
+Sí, dolor detrás de la oreja tengo.
+Sobre el oído. ¿Oye menos, tiña zumbidos o se marea?
+Oigo un pitido y estoy un poco mareado, pero oigo bien.
+¿Le molestan los ruidos fuertes?
+Sí, bastante.
+Importante para descartar la gravedad.
+¿Tiene fuerza en brazos y piernas? Levántelos.
+Sí, tengo fuerza.
+¿Le cuesta tragar comida o le cuesta hablar?
+Tragar no, pero hablar sí, vocalizo mal.
+¿Camina bien, ve doble?
+Camino bien y veo bien.
+Sobre las causas, ¿ha tenido fiebre o malestar general tipo gripe estos días?
+No, nada de fiebre.
+Aparte del aire, ¿ha tenido mucho estrés, algún golpe o oído al dentista hace poco?
+Estrés sí, mucho tráfico. Golpes y dentista no.
+¿Cómo le afecta esto para trabajar con el taxi?
+Pues imagínense, no puedo trabajar así de cara al público.
+Para terminar, ¿algún familiar ha tenido paralisis facial?
+No que yo sepa.
+¿Tiene enfermedades, alergias o toma medicación?
+Estoy sano, no tomo nada.
+¿No bebe alcohol?
+No fumo, bebo cerveza los fines de semana.
+Muy bien, es una parálisis periférica por el fiero y el estrés, le daré tratamiento.

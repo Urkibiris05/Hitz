@@ -1,0 +1,334 @@
+**Dra. Ruiz:** Buenos días, soy la doctora Elena Ruiz, otorrinolaringóloga, y seré quien lo atienda hoy. Le explicaré que esta entrevista es parte de su evaluación médica para entender 
+mejor lo que le ocurre y planificar su tratamiento. ¿Listo para comenzar?  
+
+**Javier:** Sí, gracias.  
+
+**Dra. Ruiz:** Perfecto. Para confirmar su identidad: ¿me podría decir su nombre completo, por favor?  
+
+**Javier:** Javier Martínez López.  
+
+**Dra. Ruiz:** Gracias, Javier. ¿Cuántos años tiene?  
+
+**Javier:** 52 años, cumplidos en marzo.  
+
+**Dra. Ruiz:** ¿Está casado o vive solo?  
+
+**Javier:** Estoy casado y vivo con mi esposa e hijos.  
+
+**Dra. Ruiz:** ¿Dónde reside actualmente?  
+
+**Javier:** En el barrio El Pilar, en la ciudad de Málaga.  
+
+**Dra. Ruiz:** ¿Trabaja actualmente o está jubilado?  
+
+**Javier:** Sí, soy mecánico en un taller automotriz.  
+
+**Dra. Ruiz:** ¿Qué lo trae a consultar hoy?  
+
+**Javier:** Desde hace cinco días tengo la cara paralizada del lado izquierdo, no puedo cerrar el ojo bien y se me cae la saliva al hablar.  
+
+**Dra. Ruiz:** ¿A qué cree que se debe este problema?  
+
+**Javier:** La verdad, no sé. Hace dos semanas tuve un resfriado fuerte, pero pensé que era casualidad.  
+
+**Dra. Ruiz:** ¿Recuerda el día y la hora exacta cuando comenzó?  
+
+**Javier:** Sí, fue el lunes pasado por la mañana, al levantarme.  
+
+**Dra. Ruiz:** ¿Fue algo brusco o se desarrolló poco a poco?  
+
+**Javier:** De repente, como si alguien hubiera apagado un interruptor.  
+
+**Dra. Ruiz:** ¿Ha mejorado, empeorado o se ha mantenido igual?  
+
+**Javier:** Empeoró los primeros días, pero ahora está igual.  
+
+**Dra. Ruiz:** ¿Le ha ocurrido algo similar antes?  
+
+**Javier:** No, es la primera vez.  
+
+**Dra. Ruiz:** ¿Afecta solo un lado o ambos?  
+
+**Javier:** Solo el izquierdo, doctora.  
+
+**Dra. Ruiz:** ¿Puede cerrar bien el ojo?  
+
+**Javier:** No, se me queda entreabierto y me arde.  
+
+**Dra. Ruiz:** ¿Le cuesta sonreír o la boca se le tuerce?  
+
+**Javier:** Sí, al sonreír se me desvía hacia la derecha.  
+
+**Dra. Ruiz:** ¿Se le cae saliva o le cuesta retener líquidos?  
+
+**Javier:** Sí, sobre todo cuando bebo agua.  
+
+**Dra. Ruiz:** ¿Alguna dificultad para hablar?  
+
+**Javier:** Un poco, sueno "pastoso", según mi esposa.  
+
+**Dra. Ruiz:** ¿Ha tenido dolor detrás de la oreja?  
+
+**Javier:** Sí, como un pinchazo al principio.  
+
+**Dra. Ruiz:** ¿Tiene dolor de cabeza?  
+
+**Javier:** Solo un leve malestar en la sien izquierda.  
+
+**Dra. Ruiz:** ¿Siente hormigueo o adormecimiento en la cara?  
+
+**Javier:** Sí, como si estuviera dormida.  
+
+**Dra. Ruiz:** ¿Dolor o secreción en el oído?  
+
+**Javier:** Nada de eso, pero sí noto los sonidos más fuertes.  
+
+**Dra. Ruiz:** ¿Le cuesta escuchar?  
+
+**Javier:** No, pero el ruido me molesta más que antes.  
+
+**Dra. Ruiz:** ¿Ha notado zumbidos?  
+
+**Javier:** Sí, un zumbido bajo en el oído izquierdo.  
+
+**Dra. Ruiz:** ¿Mareos o inestabilidad al caminar?  
+
+**Javier:** No, la cabeza está bien.  
+
+**Dra. Ruiz:** ¿Ha tenido una infección reciente en el oído?  
+
+**Javier:** No, pero sí el resfriado que le mencioné.  
+
+**Dra. Ruiz:** ¿Ha cambiado el gusto?  
+
+**Javier:** Sí, el café sabe raro.  
+
+**Dra. Ruiz:** ¿Ojos secos o con menos lagrimeo?  
+
+**Javier:** El ojo izquierdo está más seco.  
+
+**Dra. Ruiz:** ¿Boca seca o exceso de saliva?  
+
+**Javier:** Más seca que de costumbre.  
+
+**Dra. Ruiz:** ¿Algo raro en la lengua, como vesículas?  
+
+**Javier:** No, pero me pica un poco.  
+
+**Dra. Ruiz:** ¿Debilidad en brazos o piernas?  
+
+**Javier:** No, todo lo demás funciona bien.  
+
+**Dra. Ruiz:** ¿Problemas para hablar o entender?  
+
+**Javier:** Solo cuando quiero decir algo rápido.  
+
+**Dra. Ruiz:** ¿Visión borrosa o doble?  
+
+**Javier:** No, gracias a Dios.  
+
+**Dra. Ruiz:** ¿Dificultad para caminar?  
+
+**Javier:** Nada de eso.  
+
+**Dra. Ruiz:** ¿Tos al tragar?  
+
+**Javier:** A veces, pero no mucho.  
+
+**Dra. Ruiz:** ¿Pérdida de conciencia?  
+
+**Javier:** No, jamás.  
+
+**Dra. Ruiz:** ¿Le cuesta comunicarse con los demás?  
+
+**Javier:** Sí, en el trabajo me cuesta explicarme.  
+
+**Dra. Ruiz:** ¿La vista le molesta en actividades diarias?  
+
+**Javier:** Solo cuando leo con el ojo izquierdo.  
+
+**Dra. Ruiz:** ¿Afecta su trabajo o vida social?  
+
+**Javier:** Sí, no quiero salir a reuniones por vergüenza.  
+
+**Dra. Ruiz:** ¿Tuvo resfriado o gripe reciente?  
+
+**Javier:** Sí, hace dos semanas.  
+
+**Dra. Ruiz:** ¿Exposición al frío o corrientes de aire?  
+
+**Javier:** Trabajo con el taller abierto, pero no sé si es eso.  
+
+**Dra. Ruiz:** ¿Estrés intenso últimamente?  
+
+**Javier:** Mi padre estuvo hospitalizado, sí.  
+
+**Dra. Ruiz:** ¿Golpes en la cabeza?  
+
+**Javier:** No, nada.  
+
+**Dra. Ruiz:** ¿Tratamientos dentales recientes?  
+
+**Javier:** No, hace años que no voy al dentista.  
+
+**Dra. Ruiz:** ¿Fiebre o escalofríos?  
+
+**Javier:** No, solo malestar general.  
+
+**Dra. Ruiz:** ¿Cansancio o malestar general?  
+
+**Javier:** Sí, como si no hubiera dormido bien.  
+
+**Dra. Ruiz:** ¿Ha tenido parálisis facial antes?  
+
+**Javier:** No, jamás.  
+
+**Dra. Ruiz:** ¿Otras enfermedades o ingresos?  
+
+**Javier:** Tengo hipertensión, pero bien controlada.  
+
+**Dra. Ruiz:** ¿Ha tenido cirugías previas?  
+
+**Javier:** Una apendicectomía hace 20 años.  
+
+**Dra. Ruiz:** ¿Está tomando corticoides o antivirales actualmente?  
+
+**Javier:** No, solo mis pastillas para la presión.  
+
+**Dra. Ruiz:** ¿Medicamentos habituales?  
+
+**Javier:** Losartán y aspirina.  
+
+**Dra. Ruiz:** ¿Qué trabajo realiza?  
+
+**Javier:** Mecánico, como le dije.  
+
+**Dra. Ruiz:** ¿Fuma?  
+
+**Javier:** Fumaba, pero dejé hace cinco años.  
+
+**Dra. Ruiz:** ¿Consume alcohol?  
+
+**Javier:** Solo en fiestas, un par de cervezas.  
+
+**Dra. Ruiz:** ¿Otras sustancias?  
+
+**Javier:** Jamás.  
+
+**Dra. Ruiz:** ¿Vacunación reciente?  
+
+**Javier:** La de la gripe el año pasado.  
+
+**Dra. Ruiz:** ¿Familiares con parálisis facial?  
+
+**Javier:** No que yo sepa, pero mi abuelo tuvo derrame.  
+
+**Dra. Ruiz:** Gracias, Javier. Con esta información y el examen físico, podremos definir su diagnóstico. ¿Tiene alguna pregunta antes de continuar?  
+
+**Javier:** ¿Es grave?  
+
+**Dra. Ruiz:** Es una parálisis facial periférica, probablemente por el virus del resfriado. Con tratamiento, la mayoría mejora en semanas. Le explicaré los pasos a seguir. 
+
+PUNTUAZIOA:
+
+gpt-oss:120b-cloud --> 96 puntu
+
+| Nº | Criterio (puntos máximos) | Puntos obtenidos | Comentario breve |
+|----|---------------------------|-------------------|-------------------|
+| 1 | **Se presenta e indica el motivo de la entrevista** (5) | **5** | La doctora se 
+presenta con nombre, especialidad y explica el objetivo de la entrevista. |
+| 2 | **Identifica al paciente y obtiene datos de filiación** (5) | **5** | Pregunta 
+nombre, edad, estado civil, residencia y ocupación. |
+| 3 | **Pregunta por motivo de consulta y a qué lo atribuye** (6) | **6** | “¿Qué lo 
+trae a consultar?” y “¿A qué cree que se debe este problema?”. |
+| 4 | **Inicio y evolución temporal del cuadro y episodios similares** (10) | **10** | 
+Fecha‑hora exacta, forma de inicio (brusco), evolución (empeoró‑está igual) y ausencia 
+de episodios previos. |
+| 5 | **Pregunta por signos y síntomas (motor facial)** (8) | **8** | Lateralidad, 
+cierre ocular, simetría de la sonrisa, pérdida de saliva, alteración del habla. |
+| 6 | **Pregunta por signos y síntomas sensitivos faciales** (7) | **7** | Dolor 
+retroauricular, cefalea leve, hormigueo/adormecimiento. |
+| 7 | **Síntomas otológicos y ORL** (10) | **9** | Otalgia (sí), hipoacusia (sí), 
+acúfenos (sí), vértigo/inestabilidad (sí), otitis reciente (sí). **Falta** la pregunta 
+explícita sobre hiperacusia (sensibilidad a ruidos fuertes). |
+| 8 | **Otros síntomas por afectación del nervio facial** (7) | **7** | Alteración del 
+gusto, ojo seco, alteración de la salivación, vesículas en la lengua. |
+| 9 | **Síntomas neurológicos (red‑flags)** (10) | **7** | Trastorno del lenguaje, 
+alteraciones visuales, marcha, disfagia y pérdida de conciencia son preguntados. **No** 
+se indaga déficit motor en extremidades (3 puntos perdidos). |
+|10| **Repercusión funcional, social y calidad de vida** (3) | **3** | Impacto en el 
+habla, molestias oculares y afectación laboral/social. |
+|11| **Factores desencadenantes y precipitantes** (6) | **6** | Infección viral 
+reciente, exposición al frío, estrés, traumatismo craneoencefálico, procedimientos 
+dentales. |
+|12| **Síntomas generales** (4) | **4** | Fiebre (negativa) y malestar general 
+consultados. |
+|13| **Antecedentes personales** (7) | **7** | No hay episodios previos de parálisis, 
+menciona hipertensión y apendicectomía. |
+|14| **Tratamientos, cirugías y medicación** (5) | **5** | Pregunta cirugías previas, 
+tratamientos actuales y medicación crónica. |
+|15| **Contexto social, laboral, hábitos y antecedentes familiares** (7) | **7** | 
+Ocupación, tabaquismo (negativo), alcohol (positivo ocasional), drogas (negativo), 
+vacunación, antecedentes familiares neurológicos. |
+
+
+qwen3-vl:235b-cloud --> 100 puntu
+
+### **Análisis detallado por criterios:**  
+1. **Se presenta e indica el motivo de la entrevista** (5/5):  
+   - **Se presenta al paciente** (3/3): La Dra. Ruiz dice su nombre, especialidad 
+("otorrinolaringóloga"), y se identifica como la profesional que atenderá al paciente.  
+   - **Explica el motivo de la entrevista** (2/2): Clarifica que es parte de la 
+evaluación médica para entender el problema y planificar el tratamiento.  
+
+2. **Identifica al paciente y obtiene datos de filiación** (5/5):  
+   - Pregunta nombre completo, edad, estado civil, residencia y ocupación (5 subpuntos 
+cumplidos).  
+
+3. **Pregunta por Motivo de consulta y a qué lo atribuye** (6/6):  
+   - **Motivo abierto** (3/3): "¿Qué lo trae a consultar hoy?".  
+   - **Atribución del paciente** (3/3): "¿A qué cree que se debe este problema?".  
+
+4. **Pregunta por Inicio y evolución temporal** (10/10):  
+   - Fecha/hora exacta (3/3), forma de inicio (2/2), evolución (2/2), episodios previos 
+(3/3).  
+
+5. **Pregunta por signos y síntomas** (8/8):  
+   - Lateralidad (1/1), cierre palpebral (2/2), simetría de sonrisa (2/2), baboseo 
+(2/2), alteración del habla (1/1).  
+
+6. **Pregunta por síntomas sensitivos faciales** (7/7):  
+   - Dolor retroauricular (3/3), cefalea (2/2), alteraciones de sensibilidad (2/2).  
+
+7. **Síntomas otológicos y ORL** (10/10):  
+   - Otalgia/otorrea (2/2), hipoacusia (3/3), hiperacusia (1/1), acúfenos (1/1), vértigo 
+(2/2), otitis reciente (1/1).  
+
+8. **Otros síntomas por nervio facial** (7/7):  
+   - Alteración del gusto (2/2), sequedad ocular (2/2), salivación (2/2), lengua (1/1).  
+
+
+9. **Síntomas neurológicos asociados (red flags)** (10/10):  
+   - Déficit motor (3/3), trastornos del lenguaje (2/2), visuales (1/1), marcha (1/1), 
+disfagia (2/2), conciencia (1/1).  
+
+10. **Repercusión funcional social** (3/3):  
+    - Impacto en habla (1/1), visión (1/1), actividad laboral/social (1/1).  
+
+11. **Factores desencadenantes** (6/6):  
+    - Infección viral (2/2), frío (1/1), estrés (1/1), traumatismo (1/1), procedimientos 
+dentales (1/1).  
+
+12. **Síntomas generales** (4/4):  
+    - Fiebre (2/2), malestar general (2/2).  
+
+13. **Antecedentes personales** (7/7):  
+    - Episodios previos (3/3), enfermedades (4/4).  
+
+14. **Tratamientos y medicación** (5/5):  
+    - Cirugías (2/2), tratamientos actuales (2/2), medicación crónica (1/1).  
+
+15. **Contexto social y hábitos** (7/7):  
+    - Profesión (1/1), tabaco (1/1), alcohol (1/1), drogas (1/1), vacunas (1/1), 
+antecedentes familiares (2/2).  
+

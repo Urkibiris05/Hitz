@@ -1,0 +1,214 @@
+Doctora: Hola, buenos días, soy la Dra. Martínez. Pase y tome asiento.
+Paciente: Buenos días, doctora.
+Doctora: Para actualizar su ficha un momento... ¿cuál es su ocupación actual?
+Paciente: Soy camionero, hago rutas internacionales.
+Doctora: Estupendo. Cuénteme, ¿por qué ha venido a verme hoy?
+Paciente: Pues tengo una sensación muy rara. Tengo la cara como acartonada, no puedo mover bien la boca y estoy preocupado.
+Doctora: Entiendo la preocupación. ¿A qué fecha y hora exacta empezó a notar estos síntomas?
+Paciente: Hoy mismo. Me levanté a las seis de la mañana y estaba bien, pero sobre las siete y cuarto, justo al intentar tomarme el café en un área de servicio, empecé a notarlo.
+Doctora: ¿Y usted a qué atribuye que le haya pasado esto? ¿Alguna idea?
+Paciente: Pues no sé, la verdad. Tal vez dormí en una mala postura en la cabina o me dio el aire acondicionado muy frío directamente en la cara.
+Doctora: Al tomarse ese café, ¿notó alguna alteración en el sentido del gusto? ¿Le sabía distinto o perdió el sabor?
+Paciente: Ahora que lo dice... sí, el café me sabía rarísimo, como a metal.
+Doctora: De acuerdo. Es importante descartar otras cosas. ¿Ha notado que haya perdido fuerza o sensibilidad en los brazos o en las piernas?
+Paciente: No, no, de cuello para abajo estoy perfectamente, conduje el camión hasta aquí sin problema.
+Doctora: ¿Ha tenido fiebre en estos últimos días?
+Paciente: No, me he tomado la temperatura y no pasaba de 36.5.
+Doctora: Por último, con respecto a sus hábitos, ¿usted fuma o bebe alcohol?
+Paciente: Fumo un paquete al día. De alcohol, solo bebo alguna cerveza o vino los fines de semana cuando no trabajo.
+Doctora: Muy bien. Parece un problema del nervio de la cara. Le daré unos papeles con información sobre ejercicios para recuperar la movilidad. Que se mejore.
+
+PUNTUAZIOAK:
+
+Gemini 3.1 Pro (sortzailea) --> 19 puntu
+
+Esta conversación suma aproximadamente 19 puntos (19%). La doctora es más amable y se presenta, pero no evalúa adecuadamente los signos faciales físicos, ni indaga en antecedentes médicos importantes o fármacos.
+
+Criterios cumplidos en este diálogo: Se presenta al paciente (3), Ocupación (1), Fecha y hora exacta (3), A qué lo atribuye (3), Alteración del gusto (2), Déficit motor en extremidades (3), Fiebre (2), Tabaco (1), Alcohol (1).
+
+gpt-oss:120b-cloud --> 23 puntu
+
+## Puntuación del médico (23 / 100)
+
+| Área evaluada | Puntos obtenidos | Puntos máximos | Comentario breve |
+|---------------|------------------|----------------|------------------|
+| **1. Se presenta e indica el motivo de la entrevista** | 3 / 5 | 5 | Se
+presenta (nombre y rol) → 3 pts. No explica explícitamente el objetivo de la
+entrevista → 0 pts. |
+| **2. Identifica al paciente y obtiene datos de filiación** | 1 / 5 | 5 | Sólo
+pregunta la ocupación (1 pt). No se solicita nombre, edad, estado civil ni
+residencia. |
+| **3. Pregunta por motivo de consulta y a qué lo atribuye** | 6 / 6 | 6 |
+Pregunta abierta del motivo y también “¿A qué atribuye…?” (ambas cumplen). |
+| **4. Inicio y evolución temporal / episodios previos** | 3 / 10 | 10 | Obtiene
+fecha y hora exacta (3 pts). No indaga forma de inicio, evolución ni episodios
+anteriores. |
+| **5. Signos y síntomas faciales** | 0 / 8 | 8 | No se pregunta lateralidad,
+cierre palpebral, simetría de la sonrisa, baboseo ni alteración del habla. |
+| **6. Signos y síntomas sensitivos faciales** | 0 / 7 | 7 | No se pregunta
+dolor retro‑auricular, cefalea ni sensibilidad facial. |
+| **7. Síntomas otológicos y ORL** | 0 / 10 | 10 | No se aborda otalgia,
+hipoacusia, vértigo, etc. |
+| **8. Otros síntomas del nervio facial** | 2 / 7 | 7 | Pregunta alteración del
+gusto (2 pts). No indaga sequedad ocular, salivación ni vesículas en la lengua.
+|
+| **9. Red‑flags neurológicas** | 3 / 10 | 10 | Pregunta déficit motor distal
+(3 pts). No se indagan trastornos del lenguaje, visión, marcha, disfagia ni
+nivel de conciencia. |
+| **10. Repercusión funcional / calidad de vida** | 0 / 3 | 3 | No se pregunta
+impacto en el habla, visión ni en la vida laboral/social. |
+| **11. Factores desencadenantes / precipitantes** | 0 / 6 | 6 | No se exploran
+infecciones virales recientes, exposición al frío, estrés, traumatismo ni
+procedimientos dentales/quirúrgicos. |
+| **12. Síntomas generales** | 2 / 4 | 4 | Pregunta fiebre (2 pts). No pregunta
+malestar general. |
+| **13. Antecedentes personales** | 0 / 7 | 7 | No se indagan episodios previos
+de parálisis facial ni otras enfermedades crónicas. |
+| **14. Tratamientos, cirugías y medicación** | 0 / 5 | 5 | No se pregunta
+cirugías previas, tratamientos actuales ni medicación. |
+| **15. Contexto social, laboral, hábitos y antecedentes familiares** | 3 / 7 |
+7 | Pregunta ocupación (1 pt), tabaquismo (1 pt) y consumo de alcohol (1 pt). No
+se indagan drogas, vacunas ni antecedentes familiares neurológicos. |
+
+**Total:** **23 puntos de 100**
+
+qwen3-vl:235b-cloud --> 24 puntu
+
+**Evaluación de la Consulta Médica según los Criterios Proporcionados**
+**Puntuación Total: 24/100**
+
+---
+
+### **1. Se presenta e indica el motivo de la entrevista**
+- **Se presenta al paciente**: **3/3**
+  *La doctora dice: "Soy la Dra. Martínez" (nombre y rol profesional).*
+- **Explica el motivo de la entrevista**: **0/2**
+  *No justifica que la entrevista busca entender el problema o es parte de la
+evaluación médica.*
+  **Total: 3/5**
+
+---
+
+### **2. Identifica al paciente y obtiene datos de filiación**
+- **Nombre**: **0/1** (No pregunta nombre del paciente).
+- **Edad**: **0/1** (No indaga edad).
+- **Estado civil**: **0/1** (No explora).
+- **Procedencia/residencia**: **0/1** (No pregunta lugar de residencia).
+- **Ocupación**: **1/1** (Pregunta: "¿cuál es su ocupación actual?").
+  **Total: 1/5**
+
+---
+
+### **3. Pregunta por Motivo de consulta y a qué lo atribuye**
+- **Motivo de consulta (pregunta abierta)**: **3/3** (Pregunta: "Cuénteme, ¿por
+qué ha venido a verme hoy?").
+- **Atribución del problema por el paciente**: **3/3** (Pregunta: "¿A qué
+atribuye que le haya pasado esto?").
+  **Total: 6/6**
+
+---
+
+### **4. Inicio y evolución temporal del cuadro**
+- **Fecha y hora exacta de inicio**: **3/3** (Pregunta: "¿A qué fecha y hora
+exacta empezó a notar estos síntomas?").
+- **Forma de inicio (brusco/progresivo)**: **0/2** (No explora si fue súbito o
+gradual).
+- **Evolución (mejoría/empeoramiento)**: **0/2** (No pregunta tendencia
+clínica).
+- **Episodios previos similares**: **0/3** (No indaga antecedentes).
+  **Total: 3/10**
+
+---
+
+### **5. Pregunta por signos y síntomas**
+- **Lateralidad**: **0/1** (No determina qué lado está afectado).
+- **Cierre palpebral**: **0/2** (No evalúa cierre ocular).
+- **Simetría de la sonrisa**: **0/2** (No pide sonrisa para evaluar asimetría).
+
+- **Baboseo/escape de líquidos**: **0/2** (No pregunta por dificultad para
+retener saliva).
+- **Alteración del habla**: **0/1** (No explora cambios en pronunciación).
+  **Total: 0/8**
+
+---
+
+### **6. Pregunta por signos y síntomas sensitivos faciales**
+- **Dolor retroauricular/cefalea/sensibilidad**: **0/7** (No indaga estos
+síntomas).
+  **Total: 0/7**
+
+---
+
+### **7. Pregunta por Síntomas otológicos y ORL**
+- **Otalgia/otorrea/hipoacusia, etc.**: **0/10** (No explora síntomas
+auriculares o auditivos).
+  **Total: 0/10**
+
+---
+
+### **8. Pregunta por otros Síntomas por afectación del nervio facial**
+- **Alteración del gusto**: **2/2** (Pregunta: "¿notó alteración en el sentido
+del gusto?").
+- **Secreción ocular/salivación**: **0/5** (No aborda otros síntomas).
+  **Total: 2/7**
+
+---
+
+### **9. Pregunta por Síntomas neurológicos asociados (Red Flags)**
+- **Déficit motor en extremidades**: **3/3** (Pregunta: "¿perdió fuerza en
+brazos o piernas?").
+- **Otros red flags**: **0/7** (No indaga disfagia, alteraciones visuales,
+etc.).
+  **Total: 3/10**
+
+---
+
+### **10. Repercusión funcional social y calidad de vida**
+- **Impacto en habla/visión/actividad laboral**: **0/3** (No explora
+limitaciones sociales o laborales).
+  **Total: 0/3**
+
+---
+
+### **11. Pregunta por posibles Factores desencadenantes**
+- **Exposición a frío**: **1/1** (El paciente menciona "aire acondicionado
+frío", derivado de la pregunta sobre la causa).
+- **Otros factores**: **0/5** (No aborda infecciones virales, estrés,
+traumatismos, etc.).
+  **Total: 1/6**
+
+---
+
+### **12. Pregunta por Síntomas generales**
+- **Fiebre**: **2/2** (Pregunta: "¿ha tenido fiebre?").
+- **Malestar general**: **0/2** (No indaga cansancio o decaimiento).
+  **Total: 2/4**
+
+---
+
+### **13. Pregunta por Antecedentes personales**
+- **Episodios previos de parálisis facial**: **0/3** (No pregunta antecedentes
+similares).
+- **Enfermedades previas**: **0/4** (No explora patologías como diabetes o
+hipertensión).
+  **Total: 0/7**
+
+---
+
+### **14. Pregunta por Tratamientos, cirugías y medicación**
+- **Cirugías/medicación**: **0/5** (No indaga tratamientos actuales ni
+antecedentes quirúrgicos).
+  **Total: 0/5**
+
+---
+
+### **15. Indaga sobre Contexto social, laboral y hábitos**
+- **Profesión y exposiciones laborales**: **1/1** (Pregunta ocupación y contexto
+laboral).
+- **Tabaco**: **1/1** (Pregunta: "¿fuma?").
+- **Alcohol**: **1/1** (Pregunta: "¿bebe alcohol?").
+- **Drogas/vacunas/antecedentes familiares**: **0/4** (No aborda otros hábitos
+ni antecedentes familiares).
+  **Total: 3/7**
+
+---

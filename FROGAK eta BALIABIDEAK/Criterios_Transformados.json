@@ -1,0 +1,639 @@
+{
+  "Punto1": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No dice su nombre ni su rol profesional.",
+          "No se identifica como otorrinolaringólogo.",
+          "Omite saludar e indicar quién es.",
+          "No expresa ser la persona que lo va a atender.",
+          "No se presenta antes de iniciar la anamnesis."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No explica que hará preguntas para conocer el problema.",
+          "Omite indicar que la entrevista es parte de la evaluación médica.",
+          "No justifica el interrogatorio clínico.",
+          "No señala que busca entender lo que le ocurre.",
+          "No comunica el objetivo de la conversación."
+        ]
+      }
+    }
+  },
+  "Punto2": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta el nombre completo.",
+          "No pregunta cómo prefiere ser llamado.",
+          "Omite confirmar la identidad de forma verbal.",
+          "No solicita el nombre antes de continuar.",
+          "No verifica la identidad del paciente."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta cuántos años tiene.",
+          "No pregunta la edad actual.",
+          "Omite solicitar la fecha de nacimiento.",
+          "No confirma los años cumplidos."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta el estado civil.",
+          "No indaga si vive solo o acompañado.",
+          "Omite explorar la situación conyugal.",
+          "No pregunta por pareja estable.",
+          "No indaga sobre el contexto familiar."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta dónde vive.",
+          "No indaga la ciudad o localidad.",
+          "Omite explorar el lugar de residencia actual.",
+          "No pregunta la procedencia.",
+          "No indaga sobre el origen geográfico."
+        ]
+      },
+      "Subpunto5": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta si trabaja.",
+          "No indaga si está jubilado.",
+          "No pregunta si está de baja."
+        ]
+      }
+    }
+  },
+  "Punto3": {
+    "Puntos totales": 6,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta qué lo trae a consultar.",
+          "No solicita que le cuente qué le pasa.",
+          "Omite preguntar por qué viene a la consulta.",
+          "No indaga por qué le ha enviado su médico."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta cuál piensa que es la causa.",
+          "No pregunta qué cree que le ocurrió.",
+          "Omite preguntar qué explicación le da a lo que le pasa.",
+          "No pregunta si lo asocia a algo.",
+          "No pregunta con qué puede estar relacionado."
+        ]
+      }
+    }
+  },
+  "Punto4": {
+    "Puntos totales": 10,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta cuándo comenzó.",
+          "No pregunta desde cuándo le pasa.",
+          "Omite explorar el momento exacto.",
+          "No pregunta si recuerda el día y la hora de inicio.",
+          "No pregunta cuánto tiempo lleva así."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta si comenzó repentina o progresivamente.",
+          "Omite indagar si el inicio fue súbito.",
+          "No explora si hubo una progresión gradual."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta si ha mejorado o empeorado.",
+          "No indaga sobre la mejoría o el empeoramiento.",
+          "Omite explorar la estabilidad del cuadro.",
+          "No determina la tendencia clínica a mejora o empeoramiento."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta si le pasó antes.",
+          "No indaga antecedentes similares.",
+          "Omite explorar recurrencias.",
+          "No pregunta por parálisis previas.",
+          "No indaga sobre episodios repetidos."
+        ]
+      }
+    }
+  },
+  "Punto5": {
+    "Puntos totales": 8,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta qué lado está afectado.",
+          "No indaga si es un solo lado.",
+          "Omite explorar el compromiso bilateral.",
+          "No pregunta si es derecha o izquierda.",
+          "No determina la distribución facial."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por el cierre palpebral.",
+          "No indaga dificultad para parpadear.",
+          "Omite preguntar por el cierre incompleto."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta si la boca está desviada.",
+          "No indaga dificultad para sonreír.",
+          "No pregunta si la boca se tuerce.",
+          "Omite indagar sobre la alteración al reír."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta si se le cae la saliva.",
+          "No indaga sobre el escape al beber.",
+          "No pregunta si puede cerrar la boca.",
+          "Omite preguntar por la pérdida de líquidos.",
+          "No indaga dificultad para retener saliva."
+        ]
+      },
+      "Subpunto5": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta si habla distinto.",
+          "No indaga dificultad para articular.",
+          "Omite explorar cambios en la pronunciación.",
+          "No indaga alteración del habla."
+        ]
+      }
+    }
+  },
+  "Punto6": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta por dolores en cabeza o cuello.",
+          "No pregunta por dolor detrás de la oreja.",
+          "Omite indagar molestias en la región mastoidea.",
+          "No indaga dolor cerca del oído."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por dolor de cabeza.",
+          "No indaga sobre cefalea concomitante.",
+          "Omite explorar cefalea reciente.",
+          "No pregunta por presión craneana.",
+          "No pregunta por jaqueca.",
+          "No indaga dolor cefálico."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por adormecimiento facial.",
+          "No indaga sobre hormigueo.",
+          "Omite explorar la pérdida de sensibilidad.",
+          "No pregunta por sensación rara en la cara.",
+          "No pregunta por sensación de acorchamiento en la cara."
+        ]
+      }
+    }
+  },
+  "Punto7": {
+    "Puntos totales": 10,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por dolor de oído.",
+          "No indaga secreción por el oído.",
+          "Omite preguntar por molestias otológicas o picor.",
+          "No pregunta por supuración auricular.",
+          "No indaga infección del oído."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta si escucha menos.",
+          "No indaga si ha notado cambios en la audición.",
+          "Omite preguntar si ha notado pérdida auditiva.",
+          "No pregunta por hipoacusia.",
+          "No pregunta si ha notado sordera.",
+          "No indaga si le cuesta entender lo que escucha."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No indaga aumento de sensibilidad a ruidos.",
+          "No pregunta si le molestan los sonidos fuertes.",
+          "No pregunta si le molestan los ruidos intensos."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por zumbidos.",
+          "No indaga por pitidos.",
+          "Omite explorar ruidos en el oído.",
+          "No pregunta por sonidos persistentes.",
+          "No indaga sobre tinnitus."
+        ]
+      },
+      "Subpunto5": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por mareos.",
+          "No indaga sensación de giro.",
+          "Omite explorar inestabilidad al caminar.",
+          "No pregunta por pérdida de equilibrio.",
+          "No indaga por vértigo.",
+          "No indaga por inestabilidad."
+        ]
+      },
+      "Subpunto6": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por infección de oído reciente.",
+          "No indaga tratamiento por otitis.",
+          "Omite explorar antecedentes otológicos recientes.",
+          "No pregunta por dolor o infección previa.",
+          "No indaga cuadro infeccioso auricular."
+        ]
+      }
+    }
+  },
+  "Punto8": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por cambios en el gusto.",
+          "No indaga disminución de sabores.",
+          "Omite explorar la pérdida del gusto.",
+          "No pregunta por sabor metálico."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por ojo seco.",
+          "No indaga variación en el lagrimeo.",
+          "Omite explorar irritación ocular.",
+          "No indaga molestias oculares.",
+          "No indaga escozor ocular.",
+          "No indaga picor ocular."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por boca seca.",
+          "No indaga exceso de saliva.",
+          "Omite explorar cambios salivales.",
+          "No pregunta por dificultad con la saliva.",
+          "No indaga hiposalivación o hipersalivación."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta si ha cambiado el aspecto de la lengua.",
+          "No pregunta si le pica la lengua.",
+          "Omite indagar si le han salido ampollas en la lengua.",
+          "No pregunta si tiene granos en la lengua."
+        ]
+      }
+    }
+  },
+  "Punto9": {
+    "Puntos totales": 10,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta por debilidad en brazos o piernas.",
+          "No indaga pérdida de fuerza.",
+          "Omite preguntar por dificultad para mover extremidades.",
+          "No indaga dificultad motora periférica o central."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por dificultad para hablar.",
+          "No indaga problemas de expresión.",
+          "Omite explorar lenguaje incoherente.",
+          "No pregunta por dificultad para comunicarse."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por visión doble.",
+          "No indaga pérdida visual.",
+          "Omite explorar visión borrosa.",
+          "No pregunta por alteraciones visuales súbitas.",
+          "No indaga compromiso visual neurológico."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por dificultad para caminar.",
+          "No indaga inestabilidad.",
+          "Omite explorar torpeza motora.",
+          "No pregunta por caídas recientes.",
+          "No indaga coordinación alterada."
+        ]
+      },
+      "Subpunto5": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por dificultad para tragar.",
+          "No indaga atragantamiento.",
+          "Omite preguntar si tiene tos al comer.",
+          "No indaga deglución alterada.",
+          "No pregunta por dificultad para comer.",
+          "No indaga problemas al masticar."
+        ]
+      },
+      "Subpunto6": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por pérdida de conciencia.",
+          "No indaga sobre convulsiones.",
+          "Omite explorar desorientación.",
+          "No pregunta por episodios de desconexión.",
+          "No indaga compromiso neurológico agudo."
+        ]
+      }
+    }
+  },
+  "Punto10": {
+    "Puntos totales": 3,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No indaga problemas comunicativos.",
+          "Omite explorar el impacto funcional del habla.",
+          "No pregunta si otros lo entienden.",
+          "No indaga limitación verbal."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No explora dificultad visual diaria.",
+          "No pregunta por visión borrosa por el ojo.",
+          "Omite indagar el impacto ocular."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta si afecta su trabajo.",
+          "No indaga limitaciones sociales.",
+          "Omite explorar el ausentismo laboral.",
+          "No pregunta por el impacto en la rutina.",
+          "No indaga sobre la calidad de vida."
+        ]
+      }
+    }
+  },
+  "Punto11": {
+    "Puntos totales": 6,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por resfrío reciente.",
+          "No indaga cuadro gripal.",
+          "Omite explorar infección viral previa.",
+          "No pregunta por fiebre reciente.",
+          "No indaga herpes u otros virus.",
+          "No pregunta por Covid."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por exposición al frío.",
+          "No indaga sobre corrientes de aire.",
+          "Omite explorar aire acondicionado.",
+          "No pregunta por cambios térmicos.",
+          "No indaga frío intenso reciente."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por estrés reciente.",
+          "No indaga situación emocional intensa.",
+          "Omite explorar carga psicológica.",
+          "No pregunta por evento estresante.",
+          "No indaga estrés agudo."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por golpes recientes.",
+          "No indaga sobre caídas.",
+          "Omite explorar accidentes.",
+          "No pregunta por traumatismos.",
+          "No indaga Traumatismo Craneoencefálico."
+        ]
+      },
+      "Subpunto5": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por tratamientos dentales.",
+          "No indaga cirugías recientes.",
+          "Omite explorar procedimientos faciales.",
+          "No pregunta por intervenciones médicas.",
+          "No indaga manipulaciones recientes."
+        ]
+      }
+    }
+  },
+  "Punto12": {
+    "Puntos totales": 4,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por temperatura elevada.",
+          "No indaga fiebre reciente.",
+          "Omite explorar febrícula.",
+          "No pregunta por escalofríos.",
+          "No indaga cuadro febril."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por decaimiento.",
+          "No indaga cansancio.",
+          "Omite explorar astenia.",
+          "No pregunta por sensación de enfermedad.",
+          "No indaga malestar sistémico."
+        ]
+      }
+    }
+  },
+  "Punto13": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 3,
+        "EquivalenciasValidas": [
+          "No pregunta por parálisis anteriores.",
+          "No indaga episodios previos.",
+          "Omite explorar recurrencias.",
+          "No pregunta por antecedentes similares.",
+          "No indaga historia previa."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 4,
+        "EquivalenciasValidas": [
+          "No pregunta por enfermedades.",
+          "No indaga si ha estado malo anteriormente.",
+          "No pregunta si ha sido ingresado.",
+          "Omite preguntar los motivos por los que ha acudido al médico.",
+          "No explora enfermedad metabólica."
+        ]
+      }
+    }
+  },
+  "Punto14": {
+    "Puntos totales": 5,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por cirugías previas.",
+          "No indaga operaciones importantes.",
+          "Omite explorar antecedentes quirúrgicos.",
+          "No pregunta por intervenciones previas.",
+          "No indaga cirugías relevantes."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por tratamientos recibidos (corticoides, antivirales, fisioterapia).",
+          "No indaga sobre tratamientos en curso.",
+          "Omite explorar terapias actuales.",
+          "No pregunta por el manejo médico actual.",
+          "No pregunta por controles médicos.",
+          "No indaga sobre el seguimiento clínico."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por medicamentos habituales.",
+          "No indaga fármacos recientes.",
+          "Omite explorar automedicación.",
+          "No pregunta por tratamientos crónicos.",
+          "No indaga consumo farmacológico."
+        ]
+      }
+    }
+  },
+  "Punto15": {
+    "Puntos totales": 7,
+    "Subpuntos": {
+      "Subpunto1": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta la ocupación.",
+          "No indaga riesgos laborales.",
+          "Omite explorar exposición a frío, vibraciones ruidos intensos o tóxicos.",
+          "No pregunta condiciones de trabajo.",
+          "No indaga ambiente laboral."
+        ]
+      },
+      "Subpunto2": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta si fuma.",
+          "No indaga consumo tabáquico.",
+          "Omite explorar el hábito de fumar.",
+          "No pregunta la cantidad diaria.",
+          "No indaga antecedente de tabaco."
+        ]
+      },
+      "Subpunto3": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por consumo de alcohol.",
+          "No indaga frecuencia alcohólica.",
+          "Omite explorar la ingesta habitual.",
+          "No pregunta por consumo social.",
+          "No indaga abuso alcohólico."
+        ]
+      },
+      "Subpunto4": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por consumo de drogas.",
+          "No indaga sustancias ilícitas.",
+          "Omite explorar el uso recreativo.",
+          "No pregunta por drogas actuales.",
+          "No indaga antecedente de consumo."
+        ]
+      },
+      "Subpunto5": {
+        "PuntosPregunta": 1,
+        "EquivalenciasValidas": [
+          "No pregunta por vacunación reciente."
+        ]
+      },
+      "Subpunto6": {
+        "PuntosPregunta": 2,
+        "EquivalenciasValidas": [
+          "No pregunta por parálisis facial en la familia.",
+          "No indaga antecedentes neurológicos familiares.",
+          "Omite explorar la historia familiar.",
+          "No pregunta por enfermedades hereditarias.",
+          "No indaga antecedentes familiares relevantes."
+        ]
+      }
+    }
+  }
+}

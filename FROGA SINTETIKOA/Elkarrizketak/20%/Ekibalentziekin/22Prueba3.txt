@@ -1,0 +1,31 @@
+Doctor: Buenos días. Soy el Dr. Martín, el otorrinolaringólogo de guardia. Le voy a realizar una serie de preguntas para conocer a fondo su problema y entender qué le está ocurriendo antes de pasar a la revisión.
+
+Paciente: Hola, doctor. Está bien.
+
+Doctor: Primero, ¿podría decirme su nombre completo?
+
+Paciente: Me llamo Roberto Soler.
+
+Doctor: Gracias, Roberto. ¿Qué edad tiene y cuál es su ocupación actual?
+
+Paciente: Tengo 38 años y soy conductor de camiones.
+
+Doctor: Entendido. Cuénteme, ¿qué es lo que le trae hoy a consultar conmigo?
+
+Paciente: Pues es que me he levantado y he notado que no puedo mover bien la cara. Me veo la boca rara y me he asustado.
+
+Doctor: Comprendo. ¿A qué atribuye usted este problema o con qué cree que puede estar relacionado?
+
+Paciente: No lo sé seguro... ayer estuve mucho tiempo conduciendo con la ventanilla abierta y me daba todo el aire frío, quizá sea por eso.
+
+Doctor: Tomo nota. ¿Recuerda el momento exacto, el día y la hora en la que empezaron los síntomas?
+
+Paciente: Fue hoy mismo, al despertarme a las siete de la mañana. Ayer al acostarme estaba bien.
+
+Doctor: ¿Y el problema lo nota en un solo lado de la cara o en ambos? ¿Es el lado derecho o el izquierdo?
+
+Paciente: Solo en el lado izquierdo, doctor. El derecho lo muevo normal.
+
+Doctor: Bien. En ese lado izquierdo que le falla, ¿tiene dificultad para parpadear o siente que no puede cerrar el ojo del todo?
+
+Paciente: Sí, justo eso. Por más que lo intento, el ojo izquierdo no se cierra y se me queda un poco abierto.
