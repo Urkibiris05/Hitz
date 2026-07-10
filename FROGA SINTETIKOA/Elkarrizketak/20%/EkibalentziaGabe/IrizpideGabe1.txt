@@ -1,0 +1,129 @@
+**Dra. Fernández (médica, 38 años):**  
+Buenos días, soy la doctora Fernández. Hoy le atenderé yo. La razón de esta entrevista 
+es evaluar los síntomas que mencionó en su ficha de ingreso. ¿Cómo se llama usted?  
+
+**Paciente (Sergio, 52 años):**  
+Me llamo Sergio, buenos días.  
+
+**Dra. Fernández:**  
+¿Cuántos años tiene, Sergio?  
+
+**Paciente:**  
+Cumplo 52 el próximo mes.  
+
+**Dra. Fernández:**  
+¿Y cuál es su ocupación?  
+
+**Paciente:**  
+Soy electricista. Trabajo en una empresa de mantenimiento.  
+
+**Dra. Fernández:**  
+Entiendo. ¿Qué síntomas ha notado que le preocupan?  
+
+**Paciente:**  
+Desde anteayer no puedo cerrar bien el ojo derecho y al sonreír se me tuerce la boca.  
+
+**Dra. Fernández:**  
+¿A qué cree que se debe esto?  
+
+**Paciente:**  
+Creo que fue por el aire acondicionado que dejé muy fuerte en el coche ayer.  
+
+**Dra. Fernández:**  
+¿Cuándo empezó exactamente?  
+
+**Paciente:**  
+A las 10 de la mañana, mientras reparaba un interruptor en una casa.  
+
+**Dra. Fernández:**  
+¿Fue de forma brusca o progresiva?  
+
+**Paciente:**  
+De repente, como si algo se rompiera.  
+
+**Dra. Fernández:**  
+¿Solo afecta un lado o ambos?  
+
+**Paciente:**  
+Solo el lado derecho.  
+
+**Dra. Fernández:**  
+Gracias, Sergio. Ahora procederé a revisar su movimiento facial.  
+
+
+PUNTUAZIOA:
+
+qwen3-vl:235b-cloud (sortzailea) --> 20 puntu
+
+---  
+**Criterios cumplidos (20 puntos):**  
+- Se presenta al paciente (3 pts)  
+- Explica motivo de la entrevista (2 pts)  
+- Pregunta nombre (1 pt)  
+- Pregunta edad (1 pt)  
+- Pregunta ocupación (1 pt)  
+- Pregunta abierta por motivo (3 pts)  
+- Atribución del problema (3 pts)  
+- Fecha y hora exacta (3 pts)  
+- Forma de inicio brusca (2 pts)  
+- Lateralidad unilateral (1 pt)  
+
+**Total:** 20/100 pts (20%).  
+*Nota: El diálogo no incluye otros criterios (ej.: estado civil, antecedentes, síntomas 
+otológicos), cumpliendo con la aleatoriedad solicitada.*
+
+gpt-oss:120b-cloud --> 21 puntu
+
+**Puntuación de la conversación (máximo = 100 puntos)**  
+
+| Categoría | Puntos obtenidos | Puntos posibles | Comentario |
+|----------|------------------|-----------------|------------|
+| 1. Se presenta e indica el motivo de la entrevista | **5** | 5 | Se presenta (3 pts) y 
+explica el motivo (2 pts). |
+| 2. Identifica al paciente y obtiene datos de filiación | **3** | 5 | Pregunta nombre 
+(1 pt), edad (1 pt) y ocupación (1 pt). No se indagan estado civil, residencia. |
+| 3. Pregunta por motivo de consulta y a qué lo atribuye | **6** | 6 | Pregunta abierta 
+del motivo (3 pts) y pregunta la causa que el paciente atribuye (3 pts). |
+| 4. Pregunta por inicio y evolución temporal del cuadro y episodios similares | **5** | 
+10 | Fecha y hora exacta (3 pts) y forma de inicio (2 pts). No se pregunta evolución ni 
+episodios previos. |
+| 5. Pregunta por signos y síntomas | **1** | 8 | Solo se indaga lateralidad (1 pt). No 
+se preguntan cierre ocular, simetría de la sonrisa, baboseo o alteración del habla. |
+| 6. Signos y síntomas sensitivos faciales | **0** | 7 | No se pregunta dolor 
+retroauricular, cefalea ni alteraciones sensoriales. |
+| 7. Síntomas otológicos y ORL | **0** | 10 | No se abordan otalgia, hipoacusia, 
+hipersensibilidad, acúfenos, vértigo ni otitis reciente. |
+| 8. Otros síntomas por afectación del nervio facial | **0** | 7 | No se indagan 
+alteración del gusto, sequedad ocular, salivación ni vesículas en la lengua. |
+| 9. Síntomas neurológicos asociados (red‑flags) | **0** | 10 | No se preguntan déficit 
+motor, trastornos del lenguaje, visión, marcha, disfagia ni alteración de la 
+consciencia. |
+| 10. Repercusión funcional, social y calidad de vida | **0** | 3 | No se exploran 
+impacto en el habla, visión u actividad laboral/social. |
+| 11. Factores desencadenantes y precipitantes | **0** | 6 | No se preguntan infección 
+viral, exposición a frío, estrés, traumatismo ni procedimientos dentales/quirúrgicos. |
+| 12. Síntomas generales | **0** | 4 | No se preguntan fiebre ni malestar general. |
+| 13. Antecedentes personales | **0** | 7 | No se indagan episodios previos de parálisis 
+facial ni enfermedades previas. |
+| 14. Tratamientos, cirugías y medicación | **0** | 5 | No se pregunta sobre cirugías, 
+tratamientos actuales ni medicación. |
+| 15. Contexto social, laboral y hábitos + antecedentes familiares | **1** | 7 | Se 
+preguntó la **ocupación** (1 pt). No se indagó consumo de tabaco, alcohol, drogas, 
+vacunas ni antecedentes familiares. |
+
+| **Total obtenido** | **21** |
+|--------------------|--------|
+| **Porcentaje** | **21 %** |
+
+### Resumen
+La entrevista cubrió adecuadamente la presentación del médico, el motivo de la 
+entrevista y algunos datos básicos del paciente (nombre, edad, ocupación). También se 
+obtuvo el motivo de la consulta y la causa que el paciente atribuye al problema, y se 
+indagó sobre el inicio temporal. Sin embargo, faltaron la mayoría de las preguntas 
+esenciales para una valoración completa de una posible parálisis facial (signos motores 
+específicos, síntomas sensitivos, otológicos, neurológicos, red‑flags, impacto 
+funcional, factores desencadenantes, antecedentes, tratamientos y contexto social). Por 
+ello la puntuación global es **21 / 100**.
+
+
+

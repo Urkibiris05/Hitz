@@ -1,0 +1,143 @@
+**Doctor (Dr. Martínez, otorrinolaringólogo):** Buenos días, soy el doctor Martínez, otorrinolaringólogo, y soy quien lo va a atender hoy. Vamos a hacerle algunas preguntas para 
+entender lo que le ocurre y poder ayudarle mejor.  
+
+**Paciente (Juan Pérez):** Buen día, doctor.  
+
+**Dr. Martínez:** ¿Me puede decir su nombre completo, por favor?  
+**Juan:** Juan Carlos Pérez Gómez.  
+
+**Dr. Martínez:** ¿Cuántos años tiene?  
+**Juan:** Tengo 48 años.  
+
+**Dr. Martínez:** ¿Cuál es su estado civil?  
+**Juan:** Estoy casado y vivo con mi esposa.  
+
+**Dr. Martínez:** ¿Dónde vive actualmente?  
+**Juan:** En la ciudad de Córdoba, barrio Norte.  
+
+**Dr. Martínez:** ¿A qué se dedica?  
+**Juan:** Trabajo como electricista en una empresa de mantenimiento.  
+
+**Dr. Martínez:** ¿Qué lo trae a consultar?  
+**Juan:** Hace dos días noté que mi cara del lado derecho se siente “pesada” y no puedo cerrar bien el ojo.  
+
+**Dr. Martínez:** ¿Qué cree que ha provocado esto?  
+**Juan:** Creo que fue por el resfriado que tuve la semana pasada, o tal vez por el aire acondicionado frío en el taller.  
+
+**Dr. Martínez:** ¿Cuándo comenzó exactamente?  
+**Juan:** Fue ayer, alrededor de las 9 p.m., cuando llegué a casa.  
+
+**Dr. Martínez:** ¿El inicio fue repentino o progresivo?  
+**Juan:** Fue muy brusco, de un momento a otro sentí la debilidad.  
+
+**Dr. Martínez:** Desde entonces, ¿ha mejorado, empeorado o se ha mantenido estable?  
+**Juan:** Ha empeorado ligeramente; al principio solo era el ojo, ahora también la boca se ve desviada.  
+
+**Dr. Martínez:** ¿Le había pasado algo similar antes?  
+**Juan:** No, nunca había tenido nada parecido.  
+
+**Dr. Martínez:** ¿Qué lado está afectado?  
+**Juan:** El lado derecho.  
+
+**Dr. Martínez:** ¿Puede cerrar el ojo derecho con fuerza?  
+**Juan:** No, se queda parcialmente abierto.  
+
+**Dr. Martínez:** Cuando sonríe, ¿nota alguna desviación de la boca?  
+**Juan:** Sí, la comisura se dirige un poco hacia la izquierda.  
+
+**Dr. Martínez:** ¿Ha sentido alguna cefalea asociada?  
+**Juan:** Una ligera presión en la frente desde que empezó.  
+
+**Dr. Martínez:** ¿Algún hormigueo o entumecimiento en la cara?  
+**Juan:** Un leve hormigueo en la mejilla derecha.  
+
+**Dr. Martínez:** ¿Le duele el oído o ha notado secreción?  
+**Juan:** No hay dolor ni secreción.  
+
+**Dr. Martínez:** ¿Ha notado que escucha menos o le cuesta entender palabras en lugares ruidosos?  
+**Juan:** Sí, me cuesta seguir conversaciones en ambientes ruidosos.  
+
+**Dr. Martínez:** ¿Ha percibido algún zumbido en los oídos?  
+**Juan:** Un pequeño pitido que aparece cuando estoy en silencio.  
+
+**Dr. Martínez:** ¿Ha sentido mareos o inestabilidad al caminar?  
+**Juan:** Un leve vértigo cuando giro la cabeza rápidamente.  
+
+**Dr. Martínez:** ¿Ha notado algún cambio en el gusto?  
+**Juan:** Los sabores están menos intensos del lado derecho.  
+
+**Dr. Martínez:** ¿Ha tenido debilidad en brazos o piernas?  
+**Juan:** No, solo la cara.  
+
+**Dr. Martínez:** ¿Le cuesta hablar con claridad o su discurso se vuelve confuso?  
+**Juan:** Mi habla está un poco arrastrada, pero entiendo perfectamente.  
+
+**Dr. Martínez:** ¿Tiene dificultad para tragar alimentos o líquidos?  
+**Juan:** Sí, a veces siento que el alimento se queda atorado.  
+
+**Dr. Martínez:** ¿Ha experimentado pérdida de conciencia o convulsiones?  
+**Juan:** No, nunca.  
+
+**Dr. Martínez:** ¿Cómo afecta esto a su capacidad de comunicarse con los demás?  
+**Juan:** Mis familiares a veces no me entienden bien y me frustra.  
+
+**Dr. Martínez:** ¿Este problema le está impactando en su trabajo o actividades sociales?  
+**Juan:** Sí, mi rendimiento como electricista ha bajado porque me cuesta concentrarme y a veces necesito ayuda.  
+
+**Dr. Martínez:** ¿Tuvo algún resfriado o infección viral reciente?  
+**Juan:** Sí, estuve con gripe la semana pasada, con fiebre y tos.  
+
+**Dr. Martínez:** ¿Estuvo expuesto a corrientes de aire frío hace poco?  
+**Juan:** En el taller trabajamos con aire acondicionado muy fuerte.  
+
+**Dr. Martínez:** ¿Ha vivido algún estrés intenso últimamente?  
+**Juan:** Sí, hubo mucha presión en el trabajo por una obra retrasada.  
+
+**Dr. Martínez:** ¿Sufrió algún golpe en la cabeza o traumatismo craneoencefálico?  
+**Juan:** No, nada de eso.  
+
+**Dr. Martínez:** ¿Se ha sometido a algún procedimiento dental o cirugía reciente?  
+**Juan:** Hace un mes me sacaron una muela del juicio.  
+
+**Dr. Martínez:** ¿Ha tenido fiebre en los últimos días?  
+**Juan:** No, la fiebre pasó con el resfriado.  
+
+**Dr. Martínez:** ¿Se siente con malestar general o cansado?  
+**Juan:** Sí, me siento bastante decaído y sin energía.  
+
+**Dr. Martínez:** ¿Ha tenido alguna parálisis facial antes?  
+**Juan:** No, es la primera vez.  
+
+**Dr. Martínez:** ¿Qué enfermedades ha padecido en el pasado?  
+**Juan:** Tengo hipertensión desde hace cinco años y una gastritis crónica.  
+
+**Dr. Martínez:** ¿Ha tenido alguna cirugía importante?  
+**Juan:** Sólo la extracción de la muela del juicio que mencioné.  
+
+**Dr. Martínez:** ¿Qué tratamientos está recibiendo actualmente?  
+**Juan:** Tomo enalapril para la presión y un inhibidor de bomba de protones para la gastritis.  
+
+**Dr. Martínez:** ¿Toma algún otro medicamento de forma regular?  
+**Juan:** No, esos son los únicos.  
+
+**Dr. Martínez:** ¿Cuál es su ocupación y está expuesto a ruidos fuertes o vibraciones en el trabajo?  
+**Juan:** Soy electricista, paso mucho tiempo con herramientas ruidosas y que vibran.  
+
+**Dr. Martínez:** ¿Fuma usted?  
+**Juan:** No, nunca he fumado.  
+
+**Dr. Martínez:** ¿Consume alcohol?  
+**Juan:** Tomo una cerveza los fines de semana, nada excesivo.  
+
+**Dr. Martínez:** ¿Consume alguna droga?  
+**Juan:** No, nunca.  
+
+**Dr. Martínez:** ¿Hay antecedentes familiares de enfermedades neurológicas o parálisis facial?  
+**Juan:** Mi madre tuvo un accidente cerebrovascular, pero no hay casos de parálisis facial en la familia.  
+
+**Dr. Martínez:** Gracias, Juan. Con toda esta información sospechamos una parálisis facial periférica (probable de Bell) y vamos a iniciar tratamiento con corticoides y fisioterapia 
+facial. ¿Tiene alguna pregunta?  
+
+**Juan:** No, doctor. Muchas gracias.  
+
+**Dr. Martínez:** De nada, estoy a su disposición. ¡Que se mejore pronto!

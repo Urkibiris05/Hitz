@@ -1,0 +1,36 @@
+Desglose del cálculo del Word Error Rate (WER)
+Archivo de transcripción: WhatsApp Audio 2026-03-30 at 11.10.16.txt
+Archivo original: 80Prueba5.txt
+
+---
+
+Sustituciones (10 errores)
+* "dr" transcrito como "doctor"     JARAMONIK EZ
+* "valorar" transcrito como "evaluar"
+* "trabaja" transcrito como "trabajo"
+* "y" transcrito como "ya" (en la frase original "y a qué cree")
+* "pasado" transcrito como "aplazado"
+* "tiene" transcrito como "tiña" (en "tiene zumbidos")
+* "ha" transcrito como "oído" (en "ha ido")
+* "imagínese" transcrito como "imagínense"
+* "fuma" transcrito como "no" (en "fuma o bebe")
+* "frío" transcrito como "fiero"
+
+Eliminaciones (4 errores)
+Palabras que están en el audio original pero omitidas o fusionadas incorrectamente:
+* "a" (fusionada con la "y" para formar "ya")
+* "vértigo" (completamente omitido)
+* "ido" (omitido al confundir "ha ido" por "oído")
+* "o" (omitida en la pregunta original "¿fuma o bebe alcohol?")
+
+Inserciones (1 error)
+Palabras añadidas que no estaban en el original:
+* "la" (en la frase "importante para descartar la gravedad")
+
+---
+
+Cálculo Final del WER
+* Palabras totales en el original (N): 369
+* Total de errores (S + D + I): 14 (9 + 4 + 1)
+* Fórmula: (14 / 369) * 100
+* Word Error Rate (WER): 3.794%

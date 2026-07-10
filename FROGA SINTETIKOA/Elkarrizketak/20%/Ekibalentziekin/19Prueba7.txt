@@ -1,0 +1,84 @@
+Médico: Siéntese. Veo en el volante que viene por parálisis facial. Dígame, ¿cuándo empezó exactamente? Día y hora.
+Paciente: Ayer por la noche, sobre las 22:00.
+Médico: ¿Fue de golpe o poco a poco?
+Paciente: Fue de golpe, cenando noté que se me caía la comida.
+Médico: Bien. Vamos a ver el oído. Dígame, ¿nota que oye menos por ese lado?
+Paciente: Un poco, lo noto como taponado.
+Médico: ¿Tiene zumbidos o pitidos?
+Paciente: Sí, un pitido fino constante.
+Médico: ¿Se ha mareado? ¿Ha sentido vértigo, como que las cosas giran?
+Paciente: No, mareo no tengo.
+Médico: ¿Le duele detrás de la oreja? Tóquese ahí.
+Paciente: Sí, me duele bastante justo en el hueso.
+Médico: ¿Ha notado cambios en el sabor de la comida?
+Paciente: Ahora que lo dice, el café de esta mañana me sabía a metal.
+Médico: ¿Siente el ojo seco o le llora?
+Paciente: Me llora todo el rato.
+Médico: Abra la boca. ¿Tiene vesículas o granitos en la lengua o en el oído?
+Paciente: No me he visto nada.
+Médico: Vale. Es un Ramsay-Hunt seguramente. Tratamiento estándar. Siguiente.
+
+
+PUNTUAZIOAK:
+
+gemini (sortzailea) --> 19
+
+4.1 Fecha/hora inicio: 3 pts.
+4.2 Forma inicio: 2 pts.
+7.2 Hipoacusia: 3 pts.
+7.4 Acúfenos: 1 pt.
+7.5 Vértigo: 2 pts.
+6.1 Dolor retroauricular: 3 pts.
+8.1 Alteración del gusto: 2 pts.
+8.2 Ojo seco/lagrimeo: 2 pts.
+8.4 Vesículas/lengua: 1 pt.
+
+gpt-oss:120b-cloud --> 22
+
+| Se presenta e indica motivo | 2/5 |
+| Identifica al paciente | 0/5 |
+| Motivo de consulta | 0/6 |
+| Inicio y evolución temporal | 5/10 |
+| Signos y síntomas | 1/8 |
+| Síntomas sensitivos faciales | 3/7 |
+| Síntomas otológicos | 6/10 |
+| Otros síntomas nervio facial | 5/7 |
+| Síntomas neurológicos | 0/10 |
+| Repercusión funcional | 0/3 |
+| Factores desencadenantes | 0/6 |
+| Síntomas generales | 0/4 |
+| Antecedentes personales | 0/7 |
+| Tratamientos | 0/5 |
+| Contexto social | 0/7 |
+| **TOTAL** | **22/100** |
+
+qwen3-vl:235b-cloud --> 21
+
+### **4. Pregunta por Inicio y evolución temporal del cuadro y episodios
+similares**
+- **Fecha y hora exacta de inicio**: **3/3**
+  (Preguntó: "¿Cuándo empezó exactamente? Día y hora")
+- **Forma de inicio**: **2/2**
+  (Preguntó: "¿Fue de golpe o poco a poco?")
+
+### **6. Pregunta por signos y síntomas sensitivos faciales**
+- **Dolor retroauricular**: **3/3**
+  (Preguntó: "¿Le duele detrás de la oreja? Tóquese ahí.")
+
+### **7. Pregunta por Síntomas otológicos y ORL**
+- **Hipoacusia**: **3/3**
+  (Preguntó: "¿Nota que oye menos por ese lado?")
+- **Acúfenos**: **1/1**
+  (Preguntó: "¿Tiene zumbidos o pitidos?")
+- **Vértigo o inestabilidad**: **2/2**
+  (Preguntó: "¿Se ha mareado? ¿Ha sentido vértigo, como que las cosas giran?")
+
+### **8. Pregunta por otros Síntomas por afectación del nervio facial**
+- **Alteración del gusto**: **2/2**
+  (Preguntó: "¿Ha notado cambios en el sabor de la comida?")
+- **Sequedad ocular menos lagrimeo**: **2/2**
+  (Preguntó: "¿Siente el ojo seco o le llora?")
+- **Ha notado algo en la lengua**: **1/1**
+  (Preguntó: "¿Tiene vesículas o granitos en la lengua o en el oído?")
+
+

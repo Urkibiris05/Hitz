@@ -1,0 +1,63 @@
+Buenos días, soy el doctor Méndez, otorreonolaringólogo, siéntese, voy a realizarle una serie de preguntas para evaluar su caso.
+Gracias doctor.
+Para el registro, dígame su nombre completo, edad, estado civil y dónde vive.
+Juan Pérez, 45 años, casado, vivo en Madrid.
+¿En qué trabaja usted?
+Soy comercial.
+Bien, ¿qué le ocurre exactamente?
+Tengo la cara paralizada.
+¿A qué cree que se debe?
+No lo sé, la verdad.
+Dígame fecha y hora exacta al inicio.
+Ayer lunes a las ocho de la mañana.
+¿Empezó de golpe o fue poco a poco?
+Fue súbito, de golpe.
+¿Ha notado mejoría, empeoramiento o sigue igual?
+Sigue igual.
+¿La había pasado antes?
+No, nunca.
+Vamos a buscar causas.
+¿Ha pasado frío o ha estado en corrientes de aire recientemente?
+Sí, ayer iba moto con la visera abierta.
+¿Ha tenido alguna infección viral, gripe o fiebre estos días?
+No.
+¿Ha tenido mucho estrés o algún golpe en la cabeza?
+Estrés sí, mucho trabajo.
+¿Ha ido al dentista o le han operado de algo recientemente?
+No.
+Vamos a explorar la cara.
+Dígame, ¿cuál es el lado afectado, derecho o izquierdo?
+El derecho.
+Por favor, intenté cerrar los ojos fuerte.
+Lo intenté, el derecho no cierro.
+Ahora intenté sonreír enseñando los dientes.
+No se mueve el audio derecho.
+¿Rota que se escapa la saliva o le cuesta pronunciar?
+Sí, se me cae el agua y hablo un poco mal.
+¿Síntomas sensitivos? ¿Le duele detrás de la oreja?
+Sí, un dolor punzante.
+¿Nota la cara acorchada o dormida?
+Sí, la mejilla.
+¿Tiene dolor de cabeza?
+No.
+¿Le duele dentro del oído o le supura?
+No.
+¿Oye menos o tiene zumbidos?
+Oigo bien, pero tengo un pitido constante.
+¿Le molestan los ruidos fuertes?
+Sí, mucho.
+¿Siente vértigo o inestabilidad?
+No.
+¿Ha notado cambios en el gusto?
+La comida me sabe de metal.
+¿Nota el ojo seco o le llora?
+No.
+¿Antecedentes familiares de parálisis?
+No.
+¿Fuma, bebe alcohol o consume drogas?
+Fumo medio paquete, alcohol es ocasional, drogas no.
+¿Alguna enfermedad importante o alergia?
+Hipertensión.
+¿Toma dedicación habitual?
+En alapril.
+Perfecto, la recetare corticoides.

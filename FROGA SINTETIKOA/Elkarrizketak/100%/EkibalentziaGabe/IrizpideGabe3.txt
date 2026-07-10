@@ -1,0 +1,261 @@
+Doctor: Buenos días. Soy el Dr. López. El motivo de esta entrevista es realizarle una historia clínica completa para evaluar detalladamente el problema facial que presenta y llegar a un diagnóstico preciso.
+Paciente: Buenos días, doctor. Me parece muy bien.
+Doctor: Empecemos con unos datos básicos. ¿Me dice su nombre completo y su edad?
+Paciente: Soy Martín Suárez y tengo 42 años.
+Doctor: ¿Cuál es su estado civil, dónde reside habitualmente y a qué se dedica?
+Paciente: Estoy casado, vivo aquí en el centro de Sevilla y soy profesor de instituto.
+Doctor: Estupendo, Martín. Dígame con sus propias palabras, ¿cuál es el motivo principal por el que ha venido hoy a la consulta?
+Paciente: Pues resulta que tengo media cara paralizada. Me cuesta hablar, el ojo no me cierra y la boca se me va para un lado.
+Doctor: Entiendo que es una situación incómoda. ¿Usted a qué atribuye que le haya sucedido esto?
+Paciente: Yo creo que fue por una corriente de aire. Ayer me quedé dormido en el sofá con el aire acondicionado dándome directo en la cara.
+Doctor: Es una posibilidad. ¿Me puede decir la fecha y la hora exacta en la que notó los primeros síntomas?
+Paciente: Fue ayer martes. Me desperté sobre las 8:00 de la mañana y lo noté en el baño.
+Doctor: ¿Diría que empezó de forma muy brusca, de golpe, o fue algo progresivo a lo largo de las horas?
+Paciente: Fue progresivo. Por la mañana notaba el labio raro, pero por la tarde ya estaba la cara entera.
+Doctor: Y desde ayer por la tarde hasta hoy, ¿se ha mantenido estable, ha notado mejoría o ha ido a peor?
+Paciente: Yo diría que está estable, ni mejor ni peor.
+Doctor: ¿Alguna vez en su vida había tenido un episodio previo similar de parálisis en la cara?
+Paciente: No, nunca. Es la primera vez.
+Doctor: Vamos a examinar los síntomas. Veo que afecta al lado izquierdo (lateralidad). Intente sonreír enseñando los dientes y luego cierre los ojos con todas sus fuerzas.
+Paciente: (Lo intenta) Ya ve, la sonrisa está torcida y el ojo izquierdo se me queda abierto.
+Doctor: Efectivamente, no puede cerrar el ojo y hay asimetría en la sonrisa. Cuando bebe líquidos, ¿nota que se le escapan por la comisura de los labios o tiene babeo? ¿Siente que se le ha alterado el habla?
+Paciente: Sí a ambas. Al beber agua me goteo, y al dar clase noto que arrastro algunas consonantes.
+Doctor: Hablemos de la sensibilidad. ¿Siente dolor justo detrás de la oreja izquierda? ¿Tiene dolor de cabeza generalizado (cefalea) o nota alteraciones en la sensibilidad de la piel de la cara al tocarse?
+Paciente: Dolor de cabeza no, pero detrás de la oreja tengo un dolor sordo constante. Y la piel de la mejilla la noto como acorchada o dormida.
+Doctor: Pasemos al oído. ¿Le duele por dentro o le supura líquido? ¿Ha notado pérdida de audición (hipoacusia)?
+Paciente: No me duele por dentro ni supura, y oír, oigo bien.
+Doctor: ¿Siente que los sonidos normales le retumban o le molestan mucho (hiperacusia)? ¿Escucha algún pitido o zumbido (acúfenos)? ¿Ha tenido vértigos, inestabilidad o alguna otitis reciente?
+Paciente: Otitis ni vértigos no. Pero sí noto los sonidos muy fuertes, como si hicieran eco en mi cabeza, y tengo un pitido leve de fondo.
+Doctor: ¿Ha notado alguna alteración en el sentido del gusto? ¿Tiene la boca o los ojos inusualmente secos, o por el contrario, lagrimeo? ¿Ha visto si le han salido pequeñas ampollas o vesículas en la lengua?
+Paciente: La comida me sabe a metálico. Noto la boca muy seca, como si no tuviera saliva. El ojo izquierdo lo tengo muy seco, aunque a veces me llora de repente. Y en la lengua no me ha salido nada, lo he mirado.
+Doctor: Vamos a hacer unas preguntas clave de seguridad neurológica. ¿Ha notado falta de fuerza o déficit motor en brazos o piernas? ¿Tiene problemas para encontrar las palabras o comprender lo que le digo?
+Paciente: No, muevo todo bien y mi cabeza funciona perfectamente.
+Doctor: ¿Tiene alguna alteración visual como visión doble o borrosa? ¿Dificultad al caminar o mala coordinación? ¿Se atraganta al tragar la comida (disfagia)? ¿Ha tenido pérdida de conocimiento o convulsiones?
+Paciente: Nada de eso. Veo bien, camino normal, trago bien aunque lento, y no me he desmayado.
+Doctor: ¿Cómo está repercutiendo esto en su calidad de vida? Me refiero al impacto en su habla, las molestias visuales por el ojo seco y su actividad laboral o social.
+Paciente: Me afecta bastante. He tenido que pedir la baja porque dar clase así es imposible. Además, el ojo seco me molesta mucho para leer y prefiero no salir a la calle para que no me vean así.
+Doctor: Lo comprendo perfectamente. Revisemos posibles factores desencadenantes recientes. ¿Ha tenido alguna infección viral o catarro? ¿Me confirma la exposición al frío que comentó? ¿Ha pasado por un estrés intenso, se ha dado algún golpe en la cabeza (TCE) o le han hecho algún procedimiento dental o cirugía reciente?
+Paciente: Tuve un resfriado fuerte la semana pasada. Lo del aire acondicionado directo, sí, se lo confirmo. Estrés también, estamos en época de exámenes. No me he dado ningún golpe, pero hace un mes me hicieron un empaste en el dentista, no sé si influye.
+Doctor: A nivel general, en estos últimos días, ¿ha tenido fiebre o sensación de malestar general?
+Paciente: Fiebre no me he medido, pero sí he estado con el cuerpo cortado, con malestar.
+Doctor: Repasemos sus antecedentes. Me confirmó antes que no había tenido episodios previos de parálisis. ¿Qué otras enfermedades importantes ha padecido en su vida?
+Paciente: Soy hipertenso y tengo hipotiroidismo.
+Doctor: ¿Le han realizado alguna cirugía previa relevante? ¿Qué tratamientos o medicación reciente o crónica toma?
+Paciente: Me operaron de apendicitis de niño. De medicación tomo Enalapril para la tensión y Eutirox todas las mañanas.
+Doctor: Por último, sobre sus hábitos. En su profesión, ¿está expuesto a tóxicos? ¿Consume tabaco, alcohol o drogas? ¿Tiene sus vacunas al día? ¿Hay antecedentes en su familia de enfermedades neurológicas o parálisis facial?
+Paciente: En el instituto solo estoy expuesto a la tiza. No fumo y no tomo drogas. Alcohol, solo una cerveza el fin de semana. Tengo la vacuna de la gripe puesta. En mi familia, mi padre tuvo un ictus, pero nadie ha tenido parálisis de la cara.
+
+PUNTUAZIOAK:
+
+Gemini 3.1 Pro --> 100 puntu
+
+gps-oss:120b-cloud --> 100 puntu
+
+## Evaluación del médico
+**Puntuación total: 100 / 100**
+
+| Área / criterio | Puntos obtenidos | Puntos máximos | Observaciones |
+|-----------------|------------------|----------------|----------------|
+| **1. Se presenta e indica el motivo de la entrevista** | **5 / 5** | 5 | Se
+presenta (“Soy el Dr. López”) y explica explícitamente que la entrevista tiene
+como objetivo levantar una historia clínica completa. |
+| **2. Identifica al paciente y obtiene datos de filiación** | **5 / 5** | 5 |
+Pregunta nombre, edad, estado civil, domicilio y ocupación. |
+| **3. Motivo de consulta y atribución** | **6 / 6** | 6 | Pregunta abierta del
+motivo y pregunta “¿a qué atribuye…?”. |
+| **4. Inicio, evolución y episodios previos** | **10 / 10** | 10 | Fecha‑hora
+exacta, forma de inicio (progresivo), evolución (estable), y pregunta por
+episodios previos. |
+| **5. Signos y síntomas faciales** | **8 / 8** | 8 | Lateralidad, cierre
+palpebral, simetría de la sonrisa, baboseo/escape de líquidos y alteración del
+habla. |
+| **6. Signos y síntomas sensitivos faciales** | **7 / 7** | 7 | Dolor
+retro‑auricular, cefalea y alteraciones de sensibilidad facial. |
+| **7. Síntomas otológicos y ORL** | **10 / 10** | 10 | Otalgia/otorrea,
+hipoacusia, hiperacusia, acúfenos, vértigo/inestabilidad y otitis reciente. |
+| **8. Otros síntomas por afectación del nervio facial** | **7 / 7** | 7 |
+Alteración del gusto, sequedad ocular, sequedad bucal y ausencia de vesículas en
+la lengua. |
+| **9. Síntomas neurológicos asociados (Red‑flags)** | **10 / 10** | 10 |
+Déficit motor en extremidades, trastorno del lenguaje, alteraciones visuales,
+marcha/coordinación, disfagia y alteración del nivel de conciencia/convulsiones.
+|
+| **10. Repercusión funcional, social y calidad de vida** | **3 / 3** | 3 |
+Impacto en el habla, visión/ojos secos y limitación laboral/social. |
+| **11. Factores desencadenantes y precipitantes** | **6 / 6** | 6 | Infección
+viral reciente, exposición a frío/aire acondicionado, estrés intenso,
+traumatismo craneo‑encefálico (negado) y procedimiento dental reciente. |
+| **12. Síntomas generales** | **4 / 4** | 4 | Fiebre (negada) y malestar
+general. |
+| **13. Antecedentes personales** | **7 / 7** | 7 | Episodios previos de
+parálisis facial (negado) y otras enfermedades (hipertensión, hipotiroidismo). |
+| **14. Tratamientos, cirugías y medicación** | **5 / 5** | 5 | Cirugía previa
+(apendicitis), tratamientos actuales (medicación crónica) y medicación
+(Enalapril, Eutirox). |
+| **15. Contexto social, laboral, hábitos + antecedentes familiares** |
+**7 / 7** | 7 | Ocupación/exposición laboral, tabaco, alcohol, drogas, vacunas
+al día y antecedentes familiares neurológicos (ictus paterno). |
+
+qwen3-vl:235b-cloud --> 100 puntu
+
+**Evaluación de la Consulta Médica según los Criterios Proporcionados**
+**Puntuación Total: 100/100**
+
+---
+
+### **1. Se presenta e indica el motivo de la entrevista**
+- **Se presenta al paciente**: **3/3**
+  *El médico dice: "Soy el Dr. López" (nombre y rol profesional).*
+- **Explica el motivo de la entrevista**: **2/2**
+  *Explica claramente: "El motivo de esta entrevista es realizarle una historia
+clínica completa para evaluar detalladamente el problema facial...".*
+  **Total: 5/5**
+
+---
+
+### **2. Identifica al paciente y obtiene datos de filiación**
+- **Nombre**: **1/1** (Pregunta: "¿Me dice su nombre completo?").
+- **Edad**: **1/1** (Pregunta explícita).
+- **Estado civil**: **1/1** (Pregunta: "¿Cuál es su estado civil?").
+- **Procedencia/residencia**: **1/1** (Pregunta: "¿dónde reside
+habitualmente?").
+- **Ocupación**: **1/1** (Pregunta: "¿a qué se dedica?").
+  **Total: 5/5**
+
+---
+
+### **3. Pregunta por Motivo de consulta y a qué lo atribuye**
+- **Motivo de consulta (pregunta abierta)**: **3/3** (Pregunta: "Dígame con sus
+propias palabras...").
+- **Atribución del problema por el paciente**: **3/3** (Pregunta: "¿Usted a qué
+atribuye que le haya sucedido esto?").
+  **Total: 6/6**
+
+---
+
+### **4. Inicio y evolución temporal del cuadro**
+- **Fecha y hora exacta de inicio**: **3/3** (Pregunta: "¿me puede decir la
+fecha y hora exacta?").
+- **Forma de inicio (brusco/progresivo)**: **2/2** (Pregunta: "¿fue de forma
+brusca o progresiva?").
+- **Evolución (mejoría/empeoramiento)**: **2/2** (Pregunta: "¿se ha mantenido
+estable, mejorado o empeorado?").
+- **Episodios previos similares**: **3/3** (Pregunta: "¿alguna vez había tenido
+un episodio previo?").
+  **Total: 10/10**
+
+---
+
+### **5. Pregunta por signos y síntomas**
+- **Lateralidad**: **1/1** (Confirma: "afecta al lado izquierdo").
+- **Cierre palpebral**: **2/2** (Evalúa: "cierre los ojos con fuerza").
+- **Simetría de la sonrisa**: **2/2** (Evalúa: "intente sonreír enseñando los
+dientes").
+- **Baboseo/escape de líquidos**: **2/2** (Pregunta: "¿se le escapan líquidos
+por la comisura?").
+- **Alteración del habla**: **1/1** (Pregunta: "¿siente que se ha alterado el
+habla?").
+  **Total: 8/8**
+
+---
+
+### **6. Pregunta por signos y síntomas sensitivos faciales**
+- **Dolor retroauricular**: **3/3** (Pregunta: "¿siente dolor detrás de la
+oreja?").
+- **Cefalea asociada**: **2/2** (Pregunta explícita).
+- **Alteraciones de la sensibilidad facial**: **2/2** (Pregunta: "¿nota
+alteraciones en la sensibilidad de la cara?").
+  **Total: 7/7**
+
+---
+
+### **7. Pregunta por Síntomas otológicos y ORL**
+- **Otalgia/otorrea**: **2/2** (Pregunta explícita).
+- **Hipoacusia**: **3/3** (Pregunta: "¿ha notado pérdida de audición?").
+- **Hiperacusia**: **1/1** (Pregunta: "¿siente que los sonidos retumban?").
+- **Acúfenos**: **1/1** (Pregunta: "¿escucha pitidos?").
+- **Vértigo o inestabilidad**: **2/2** (Pregunta explícita).
+- **Otitis reciente**: **1/1** (Pregunta: "¿ha tenido otitis reciente?").
+  **Total: 10/10**
+
+---
+
+### **8. Pregunta por otros Síntomas por afectación del nervio facial**
+- **Alteración del gusto**: **2/2** (Pregunta: "¿ha notado alteración en el
+gusto?").
+- **Sequedad ocular**: **2/2** (Pregunta: "¿tiene los ojos inusualmente
+secos?").
+- **Alteración de la salivación**: **2/2** (Pregunta: "¿tiene la boca seca?").
+- **Vesículas en lengua**: **1/1** (Pregunta explícita).
+  **Total: 7/7**
+
+---
+
+### **9. Pregunta por Síntomas neurológicos asociados (Red Flags)**
+- **Déficit motor en extremidades**: **3/3** (Pregunta explícita).
+- **Trastornos del lenguaje**: **2/2** (Pregunta: "¿problemas para encontrar
+palabras?").
+- **Alteraciones visuales**: **1/1** (Pregunta explícita).
+- **Trastorno de la marcha**: **1/1** (Pregunta explícita).
+- **Disfagia**: **2/2** (Pregunta explícita).
+- **Alteración del nivel de conciencia**: **1/1** (Pregunta explícita).
+  **Total: 10/10**
+
+---
+
+### **10. Repercusión funcional social y calidad de vida**
+- **Impacto en el habla**: **1/1** (Explora: "¿afecta su actividad laboral?").
+- **Visión / ojo seco**: **1/1** (Paciente refiere dificultad para leer).
+- **Actividad laboral o social**: **1/1** (Paciente menciona baja laboral y
+evita salir).
+  **Total: 3/3**
+
+---
+
+### **11. Pregunta por posibles Factores desencadenantes**
+- **Infección viral reciente**: **2/2** (Pregunta: "¿ha tenido infección
+viral?").
+- **Exposición a frío**: **1/1** (Confirma exposición al aire acondicionado).
+- **Estrés intenso**: **1/1** (Pregunta explícita).
+- **Traumatismo craneoencefálico**: **1/1** (Pregunta: "¿se ha dado algún
+golpe?").
+- **Procedimientos dentales**: **1/1** (Explora empaste dental reciente).
+  **Total: 6/6**
+
+---
+
+### **12. Pregunta por Síntomas generales**
+- **Fiebre**: **2/2** (Pregunta: "¿ha tenido fiebre?").
+- **Malestar general**: **2/2** (Pregunta explícita).
+  **Total: 4/4**
+
+---
+
+### **13. Pregunta por Antecedentes personales**
+- **Episodios previos de parálisis facial**: **3/3** (Cubierto en sección 4).
+- **Enfermedades previas**: **4/4** (Pregunta: "¿qué otras enfermedades ha
+padecido?").
+  **Total: 7/7**
+
+---
+
+### **14. Pregunta por Tratamientos, cirugías y medicación**
+- **Cirugías previas**: **2/2** (Pregunta: "¿le han realizado cirugías?").
+- **Tratamientos actuales**: **2/2** (Pregunta explícita).
+- **Medicación crónica**: **1/1** (Confirma uso de Enalapril y Eutirox).
+  **Total: 5/5**
+
+---
+
+### **15. Indaga sobre Contexto social, laboral y hábitos**
+- **Profesión y exposiciones laborales**: **1/1** (Explora: "¿está expuesto a
+tóxicos?").
+- **Tabaco**: **1/1** (Pregunta explícita).
+- **Alcohol**: **1/1** (Pregunta explícita).
+- **Drogas**: **1/1** (Pregunta explícita).
+- **Vacunas**: **1/1** (Pregunta: "¿tiene vacunas al día?").
+- **Antecedentes familiares**: **2/2** (Pregunta explícita sobre parálisis
+facial y enfermedades neurológicas).
+  **Total: 7/7**
+
+---

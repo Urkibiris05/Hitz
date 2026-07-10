@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:07,000
+Buenos días, soy el doctor Marin. Pase, le voy a hacer unas preguntas para evaluar su caso y ver que tratamiento necesita.
+
+2
+00:00:07,000 --> 00:00:08,000
+Gracias doctor.
+
+3
+00:00:08,000 --> 00:00:13,000
+Para la ficha, confírmeme su nombre, edad, estado civil y donde vive.
+
+4
+00:00:13,000 --> 00:00:16,000
+Carlos Ruiz, 42 años, casado, vivo en Madrid.
+
+5
+00:00:16,000 --> 00:00:18,000
+¿En qué trabajo usted, Carlos?
+
+6
+00:00:18,000 --> 00:00:19,000
+Soy taxista.
+
+7
+00:00:19,000 --> 00:00:22,000
+Cuénteme, ¿qué le pasa ya que cree que se debe?
+
+8
+00:00:22,000 --> 00:00:26,000
+Pues tengo la boca torcida, creo que es del aire acondicionado del taxi.
+
+9
+00:00:26,000 --> 00:00:29,000
+¿Cuándo empezó exactamente y cómo fue, brusco o lento?
+
+10
+00:00:29,000 --> 00:00:32,000
+Esta mañana a las 8, fue de golpe al mirarme al espejo.
+
+11
+00:00:32,000 --> 00:00:35,000
+¿Ha notado mejoría? ¿Ha ido a peor o está igual?
+
+12
+00:00:35,000 --> 00:00:37,000
+Sigue igual, no ha cambiado.
+
+13
+00:00:37,000 --> 00:00:39,000
+¿Le había aplazado esto alguna vez antes?
+
+14
+00:00:39,000 --> 00:00:41,000
+No, nunca.
+
+15
+00:00:41,000 --> 00:00:45,000
+Vamos a revisar síntomas. ¿Le cuesta cerrar el ojo o nota que se le cae la baba?
+
+16
+00:00:45,000 --> 00:00:49,000
+El ojo no me cierra bien y sí, se me escapa un poco la saliva.
+
+17
+00:00:49,000 --> 00:00:51,000
+¿Nota cambios en el gusto o el ojo seco?
+
+18
+00:00:51,000 --> 00:00:54,000
+La comida me sabe rara y el ojo me pica de seco.
+
+19
+00:00:54,000 --> 00:00:57,000
+Dígame si tiene dolor detrás de la oreja o dolor de cabeza.
+
+20
+00:00:57,000 --> 00:00:59,000
+Sí, dolor detrás de la oreja tengo.
+
+21
+00:00:59,000 --> 00:01:03,000
+Sobre el oído. ¿Oye menos, tiña zumbidos o se marea?
+
+22
+00:01:03,000 --> 00:01:06,000
+Oigo un pitido y estoy un poco mareado, pero oigo bien.
+
+23
+00:01:06,000 --> 00:01:08,000
+¿Le molestan los ruidos fuertes?
+
+24
+00:01:08,000 --> 00:01:10,000
+Sí, bastante.
+
+25
+00:01:10,000 --> 00:01:12,000
+Importante para descartar la gravedad.
+
+26
+00:01:12,000 --> 00:01:15,000
+¿Tiene fuerza en brazos y piernas? Levántelos.
+
+27
+00:01:15,000 --> 00:01:17,000
+Sí, tengo fuerza.
+
+28
+00:01:17,000 --> 00:01:19,000
+¿Le cuesta tragar comida o le cuesta hablar?
+
+29
+00:01:19,000 --> 00:01:22,000
+Tragar no, pero hablar sí, vocalizo mal.
+
+30
+00:01:22,000 --> 00:01:24,000
+¿Camina bien, ve doble?
+
+31
+00:01:24,000 --> 00:01:26,000
+Camino bien y veo bien.
+
+32
+00:01:26,000 --> 00:01:30,000
+Sobre las causas, ¿ha tenido fiebre o malestar general tipo gripe estos días?
+
+33
+00:01:30,000 --> 00:01:32,000
+No, nada de fiebre.
+
+34
+00:01:32,000 --> 00:01:36,000
+Aparte del aire, ¿ha tenido mucho estrés, algún golpe o oído al dentista hace poco?
+
+35
+00:01:36,000 --> 00:01:39,000
+Estrés sí, mucho tráfico. Golpes y dentista no.
+
+36
+00:01:39,000 --> 00:01:42,000
+¿Cómo le afecta esto para trabajar con el taxi?
+
+37
+00:01:42,000 --> 00:01:45,000
+Pues imagínense, no puedo trabajar así de cara al público.
+
+38
+00:01:45,000 --> 00:01:48,000
+Para terminar, ¿algún familiar ha tenido paralisis facial?
+
+39
+00:01:48,000 --> 00:01:50,000
+No que yo sepa.
+
+40
+00:01:50,000 --> 00:01:53,000
+¿Tiene enfermedades, alergias o toma medicación?
+
+41
+00:01:53,000 --> 00:01:55,000
+Estoy sano, no tomo nada.
+
+42
+00:01:55,000 --> 00:01:56,000
+¿No bebe alcohol?
+
+43
+00:01:56,000 --> 00:01:59,000
+No fumo, bebo cerveza los fines de semana.
+
+44
+00:01:59,000 --> 00:02:03,000
+Muy bien, es una parálisis periférica por el fiero y el estrés, le daré tratamiento.
+

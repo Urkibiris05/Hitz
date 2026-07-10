@@ -1,0 +1,362 @@
+**Dra. Laura Méndez:** Buenas tardes, soy la Dra. Laura Méndez, neuróloga. Necesito 
+hacerle unas preguntas para entender mejor lo que le ocurre.  
+
+**Carlos Ruiz:** Buenas tardes, doctora.  
+
+**Dra. Méndez:** ¿Me dice su nombre completo, por favor?  
+
+**Carlos:** Carlos Alberto Ruiz Fernández.  
+
+**Dra. Méndez:** ¿Cuál es su edad?  
+
+**Carlos:** Tengo 42 años.  
+
+**Dra. Méndez:** ¿Está casado?  
+
+**Carlos:** Sí, con Ana, y tenemos dos hijos.  
+
+**Dra. Méndez:** ¿De dónde es y dónde vive ahora?  
+
+**Carlos:** Soy de Monterrey, pero vivo en San Pedro Garza García.  
+
+**Dra. Méndez:** ¿A qué se dedica?  
+
+**Carlos:** Soy ingeniero civil en una constructora.  
+
+**Dra. Méndez:** ¿Qué le trae por aquí hoy?  
+
+**Carlos:** Desde hace dos días noto que la mitad derecha de mi cara está paralizada; la 
+sonrisa queda desequilibrada y no puedo cerrar bien el ojo derecho.  
+
+**Dra. Méndez:** ¿A qué cree que se deba este problema?  
+
+**Carlos:** Pienso que pudo ser por una infección de oído que tuve la semana pasada o 
+por el estrés del proyecto que estoy dirigiendo.  
+
+**Dra. Méndez:** ¿Recuerda la fecha y la hora exacta en que lo notó primero?  
+
+**Carlos:** Fue ayer a las 20:30, al llegar a casa.  
+
+**Dra. Méndez:** ¿El inicio fue brusco o progresivo?  
+
+**Carlos:** Fue muy brusco, como si la cara se “apagara” de repente.  
+
+**Dra. Méndez:** Desde entonces, ¿ha mejorado o empeorado?  
+
+**Carlos:** Ha ido y venido; a veces mejora un poco y luego vuelve a empeorar.  
+
+**Dra. Méndez:** ¿Ha tenido episodios similares antes?  
+
+**Carlos:** No, es la primera vez.  
+
+**Dra. Méndez:** ¿La debilidad está en un solo lado o ambos?  
+
+**Carlos:** Solo en el lado derecho.  
+
+**Dra. Méndez:** ¿Puede cerrar completamente el ojo derecho?  
+
+**Carlos:** No, se queda entreabierto y se me escapa una lágrima.  
+
+**Dra. Méndez:** Cuando sonríe, ¿la sonrisa es simétrica?  
+
+**Carlos:** No, la parte izquierda sube más que la derecha.  
+
+**Dra. Méndez:** ¿Se le escapa saliva o algún líquido sin querer?  
+
+**Carlos:** Sí, a veces se me escapa un poco de saliva al hablar.  
+
+**Dra. Méndez:** ¿Ha notado alguna alteración del habla?  
+
+**Carlos:** Un poco, las palabras con “s” suenan más débiles.  
+
+**Dra. Méndez:** ¿Siente dolor detrás de la oreja derecha?  
+
+**Carlos:** Sí, un dolor sordo que aparece y desaparece.  
+
+**Dra. Méndez:** ¿Tiene alguna cefalea asociada?  
+
+**Carlos:** Una leve jaqueca cuando intento concentrarme.  
+
+**Dra. Méndez:** ¿Hay pérdida de sensibilidad en la cara derecha?  
+
+**Carlos:** Sí, la zona está un poco entumecida.  
+
+**Dra. Méndez:** ¿Ha tenido dolor de oído o secreción?  
+
+**Carlos:** No dolor, pero ayer noté una secreción clara.  
+
+**Dra. Méndez:** ¿Ha notado pérdida de audición?  
+
+**Carlos:** Sí, mi oído derecho está un poco amortiguado.  
+
+**Dra. Méndez:** ¿Le molestan más los sonidos fuertes ahora (hiperacusia)?  
+
+**Carlos:** Sí, los ruidos fuertes me irritan más.  
+
+**Dra. Méndez:** ¿Tiene zumbidos en los oídos (acúfenos)?  
+
+**Carlos:** Un leve zumbido en el oído derecho.  
+
+**Dra. Méndez:** ¿Ha sentido vértigo o inestabilidad?  
+
+**Carlos:** No, nada de eso.  
+
+**Dra. Méndez:** ¿Le diagnosticaron otitis recientemente?  
+
+**Carlos:** Sí, una otitis media leve la semana pasada.  
+
+**Dra. Méndez:** ¿Ha notado cambios en el gusto, sobre todo en la mitad derecha de la 
+lengua?  
+
+**Carlos:** Los sabores dulces y salados son menos intensos en ese lado.  
+
+**Dra. Méndez:** ¿Siente sequedad ocular o menos lagrimeo en el ojo derecho?  
+
+**Carlos:** Exacto, el ojo derecho está más seco.  
+
+**Dra. Méndez:** ¿Ha notado alteración en la salivación, boca más seca?  
+
+**Carlos:** Sí, la boca se siente reseca del lado derecho.  
+
+**Dra. Méndez:** ¿Ve alguna vesícula o lesión en la lengua?  
+
+**Carlos:** No, la lengua está normal.  
+
+**Dra. Méndez:** ¿Tiene debilidad en extremidades?  
+
+**Carlos:** No, mis brazos y piernas están bien.  
+
+**Dra. Méndez:** ¿Algún trastorno del lenguaje más allá de lo mencionado?  
+
+**Carlos:** No.  
+
+**Dra. Méndez:** ¿Alteraciones visuales?  
+
+**Carlos:** No.  
+
+**Dra. Méndez:** ¿Problemas al caminar o coordinación?  
+
+**Carlos:** No.  
+
+**Dra. Méndez:** ¿Dificultad para tragar?  
+
+**Carlos:** No.  
+
+**Dra. Méndez:** ¿Pérdida de conciencia, convulsiones o desorientación?  
+
+**Carlos:** No, nunca.  
+
+**Dra. Méndez:** ¿Cómo afecta esto su habla en la vida cotidiana?  
+
+**Carlos:** Me cuesta comunicarme con claridad y me frustra en reuniones.  
+
+**Dra. Méndez:** ¿Le molesta la sequedad ocular?  
+
+**Carlos:** Sí, el ojo derecho se irrita con el aire acondicionado.  
+
+**Dra. Méndez:** ¿Cómo ha impactado su trabajo y actividades sociales?  
+
+**Carlos:** He tenido que ausentarme de la obra dos días y me siento menos confiado con 
+amigos.  
+
+**Dra. Méndez:** ¿Ha tenido alguna infección viral reciente, como gripe?  
+
+**Carlos:** Sí, la semana pasada tuve una gripe con fiebre.  
+
+**Dra. Méndez:** ¿Estuvo expuesto a corrientes de aire frío?  
+
+**Carlos:** Sí, al caminar a casa después del trabajo.  
+
+**Dra. Méndez:** ¿Ha vivido estrés intenso últimamente?  
+
+**Carlos:** Mucho, con la entrega del proyecto que debo terminar pronto.  
+
+**Dra. Méndez:** ¿Sufrió algún trauma craneal reciente?  
+
+**Carlos:** No.  
+
+**Dra. Méndez:** ¿Algún procedimiento dental o cirugía reciente?  
+
+**Carlos:** No.  
+
+**Dra. Méndez:** ¿Ha tenido fiebre en los últimos días?  
+
+**Carlos:** Sí, 38 °C hace tres días.  
+
+**Dra. Méndez:** ¿Se ha sentido con malestar general o cansancio?  
+
+**Carlos:** Sí, me siento más cansado y con una sensación de cuerpo pesado.  
+
+**Dra. Méndez:** Gracias, Carlos. Con esta información pasaremos a la exploración física 
+y a algunas pruebas para confirmar la causa y planificar el tratamiento.  
+
+**Carlos:** Muchas gracias, doctora.
+
+
+PUNTUAZIOAK:
+
+gpt-oss:120b-cloud (sortzailea) --> 66 puntu
+
+## Puntuación de la conversación  
+
+| Categoría (puntos totales) | Sub‑puntos cubiertos | Puntos obtenidos | Comentario |
+|----------------------------|----------------------|------------------|------------|
+| **Se presenta e indica el motivo de la entrevista** (5) | • Se presenta al paciente  
+<br>• Explica el motivo de la entrevista | **5** | ✔︎ Ambos sub‑puntos fueron incluidos 
+|
+| **Identifica al paciente y obtiene datos de filiación** (5) | Nombre, edad, estado 
+civil, procedencia/residencia, ocupación | **5** | ✔︎ Todos presentes |
+| **Pregunta por Motivo de consulta y a qué lo atribuye** (6) | Motivo abierto  
+<br>Atribución del problema | **6** | ✔︎ Ambos presentes |
+| **Pregunta por Inicio y evolución temporal del cuadro y episodios similares** (10) | 
+Fecha y hora exacta (✔︎) <br>Forma de inicio (✔︎) <br>Evolución (✔︎) <br>Episodios 
+previos similares (✗) | **7** | Falta mencionar episodios previos |
+| **Pregunta por signos y síntomas** (8) | Lateralidad (✔︎) <br>Cierre del ojo (✔︎) 
+<br>Simetría de sonrisa (✔︎) <br>Baboseo / escape de líquidos (✔︎) <br>Alteración del 
+habla (✔︎) | **8** | ✔︎ Todos cubiertos |
+| **Pregunta por signos y síntomas sensitivos faciales** (7) | Dolor retroauricular (✔︎) 
+<br>Cefalea (✔︎) <br>Alteraciones de sensibilidad facial (✔︎) | **7** | ✔︎ Todos 
+cubiertos |
+| **Pregunta por Síntomas otológicos y ORL** (10) | Otalgia/otorrea (✔︎) <br>Hipoacusia 
+(✔︎) <br>Hiperacusia (✔︎) <br>Acúfenos (✔︎) <br>Vértigo (✗) <br>Otitis reciente (✔︎) | 
+**8** | Falta Vértigo |
+| **Otros síntomas por afectación del nervio facial** (7) | Alteración del gusto (✔︎) 
+<br>Sequedad ocular (✔︎) <br>Alteración de la salivación (✔︎) <br>Vesículas en lengua 
+(✗) | **6** | Falta vesículas |
+| **Síntomas neurológicos asociados – Red flags** (10) | Déficit motor en extremidades 
+(✗) <br>Trastornos del lenguaje (✔︎) <br>Alteraciones visuales (✗) <br>Trastorno de la 
+marcha (✗) <br>Disfagia (✗) <br>Alteración del nivel de conciencia (✗) | **2** | Sólo se 
+preguntó trastorno del lenguaje |
+| **Repercusión funcional, social y calidad de vida** (3) | Impacto en el habla (✔︎) 
+<br>Visión / ojo seco (✔︎) <br>Actividad laboral/social (✔︎) | **3** | ✔︎ Todos 
+presentes |
+| **Factores desencadenantes y precipitantes** (6) | Infección viral reciente (✔︎) 
+<br>Exposición a frío (✔︎) <br>Estrés intenso (✔︎) <br>Traumatismo craneoencefálico (✗) 
+<br>Procedimientos dentales o cirugía reciente (✗) | **4** | Falta traumatismo y 
+procedimiento dental |
+| **Síntomas generales** (4) | Fiebre (✔︎) <br>Malestar general (✔︎) | **4** | ✔︎ Ambos 
+presentes |
+| **Antecedentes personales** (7) | Episodios previos de parálisis facial (✗) 
+<br>Enfermedades que ha padecido (✗) | **0** | No se preguntó ningún antecedente 
+personal |
+| **Tratamientos, cirugías y medicación** (5) | Cirugías previas (✗) <br>Tratamientos 
+actuales (✗) <br>Medicamento reciente o crónico (✗) | **0** | Ningún dato obtenido |
+| **Contexto social, laboral y hábitos + antecedentes familiares** (7) | Profesión y 
+exposiciones laborales (✔︎) <br>Tabaco (✗) <br>Alcohol (✗) <br>Drogas (✗) <br>Vacunas 
+(✗) <br>Antecedentes familiares neurológicos o parálisis facial (✗) | **1** | Sólo se 
+obtuvo la profesión |
+
+### Totales
+
+- **Puntos obtenidos:** 66  
+- **Puntos posibles:** 100  
+- **Porcentaje de cumplimiento:** **66 %**
+
+
+qwen3-vl:235b-cloud--> 91
+
+**Puntuación de la conversación médica: 91/100**
+
+---
+
+### **Desglose por criterios:**
+1. **Se presenta e indica el motivo de la entrevista**  
+   - ✅ **5/5**  
+   - Se presentó claramente ("soy la Dra. Laura Méndez, neuróloga") y explicó el 
+propósito del interrogatorio ("necesito hacerle preguntas para entender mejor lo que le 
+ocurre").
+
+2. **Identifica al paciente y obtiene datos de filiación**  
+   - ✅ **5/5**  
+   - Preguntó nombre completo, edad, estado civil, residencia y ocupación. Todos los 
+subpuntos cubiertos.
+
+3. **Pregunta por Motivo de consulta y a qué lo atribuye**  
+   - ✅ **6/6**  
+   - Pregunta abierta ("¿Qué le trae por aquí hoy?") y exploración de causas percibidas 
+("¿A qué cree que se deba este problema?").
+
+4. **Ingreso y evolución temporal del cuadro**  
+   - ✅ **10/10**  
+   - Fecha/hora exacta, forma de inicio (brusco), evolución ("ha ido y venido"), y 
+episodios previos. Todo cubierto.
+
+5. **Pregunta por signos y síntomas**  
+   - ✅ **8/8**  
+   - Lateralidad, cierre palpebral, simetría de sonrisa, baboseo y alteración del habla. 
+Todas las preguntas realizadas.
+
+6. **Síntomas sensitivos faciales**  
+   - ✅ **7/7**  
+   - Dolor retroauricular, cefalea y alteración de sensibilidad facial. Todas las 
+preguntas incluidas.
+
+7. **Síntomas otológicos y ORL**  
+   - ✅ **10/10**  
+   - Otalgia/otorrea, hipoacusia, hiperacusia, acúfenos, vértigo e infección de oído 
+reciente. Todas cubiertas.
+
+8. **Otros síntomas por afectación del nervio facial**  
+   - ✅ **7/7**  
+   - Alteración del gusto, sequedad ocular, salivación y lesiones en lengua. Todas las 
+preguntas realizadas.
+
+9. **Síntomas neurológicos asociados (Red flags)**  
+   - ✅ **10/10**  
+   - Déficit motor, trastornos del lenguaje, alteraciones visuales, coordinación, 
+disfagia y conciencia. Todas las áreas exploradas.
+
+10. **Repercusión funcional social y calidad de vida**  
+    - ✅ **3/3**  
+    - Impacto en el habla, sequedad ocular y actividad laboral/social. Todas las 
+preguntas incluidas.
+
+11. **Factores desencadenantes y precipitantes**  
+    - ✅ **6/6**  
+    - Infección viral, exposición a frío, estrés, trauma y procedimientos dentales. 
+Todas las preguntas realizadas.
+
+12. **Síntomas generales**  
+    - ✅ **4/4**  
+    - Fiebre y malestar general. Ambas preguntas incluidas.
+
+13. **Antecedentes personales**  
+    - ✅ **7/7**  
+    - Episodios previos de parálisis facial y enfermedades recientes (otitis, gripe). 
+Cubierto el requisito de "enfermedades que ha padecido" mediante preguntas específicas.
+
+14. **Tratamientos, cirugías y medicación**  
+    - ⚠️ **2/5**  
+    - Solo se preguntó por procedimientos dentales/cirugías recientes (2 puntos). **No 
+se indagó** sobre tratamientos actuales ni medicación crónica (3 puntos perdidos).
+
+15. **Contexto social, laboral y hábitos + antecedentes familiares**  
+    - ⚠️ **1/7**  
+    - Solo se confirmó la ocupación (1 punto). **No se exploraron** hábitos (tabaco, 
+alcohol, drogas), vacunas ni antecedentes familiares (6 puntos perdidos).
+
+---
+
+### **Observaciones clave:**
+- **Fortalezas:**  
+  - Exploración exhaustiva de síntomas neurológicos, otológicos y funcionales.  
+  - Preguntas precisas sobre evolución temporal y factores desencadenantes.  
+  - Claridad en la presentación y enfoque centrado en el paciente.
+
+- **Áreas de mejora:**  
+  - **Falta de indagación sobre hábitos tóxicos** (tabaco, alcohol) y antecedentes 
+familiares.  
+  - **No se abordó medicación actual o tratamientos recibidos**, relevante para 
+diagnóstico diferencial (ej.: corticoides en parálisis de Bell).
+
+---
+
+**Conclusión:**  
+Conversación clínica estructurada y eficiente, con cobertura completa en la mayoría de 
+los criterios. La puntuación se ve afectada principalmente por la ausencia de 
+exploración en hábitos de vida y antecedentes familiares, así como en detalles de 
+tratamiento actual. **91/100** refleja una evaluación rigurosa pero con oportunidades 
+para profundizar en aspectos sociales y terapéuticos.
+
+
+
