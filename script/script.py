@@ -43,77 +43,12 @@ def _extraer_json_desde_respuesta(texto_respuesta):
   raise ValueError("No se pudo extraer un JSON válido de la respuesta del modelo.")
 
 
-def _dividir_en_bloques(texto, max_palabras=220):
-  palabras = texto.split()
-  if not palabras:
-    return [""]
-
-  return [" ".join(palabras[i:i + max_palabras]) for i in range(0, len(palabras), max_palabras)]
-
-
-def _plantilla_resultado_wer(modelo_llm, error=None):
-  resultado = {
-    "modelo": modelo_llm,
-    "total_palabras_referencia": 0,
-    "sustituciones": 0,
-    "inserciones": 0,
-    "eliminaciones": 0,
-    "errores_graves": 0,
-    "errores_leves": 0,
-    "criterio_gravedad": "sin evaluar",
-    "wer_porcentaje": 0.0,
-    "explicacion_breve": "",
-    "ejemplos": [],
-  }
-
-  if error:
-    resultado["error"] = str(error)
-
-  return resultado
-
-
-def _sumar_resultados_wer(resultados, modelo_llm):
-  total_palabras = sum(int(r.get("total_palabras_referencia", 0)) for r in resultados)
-  sustituciones = sum(int(r.get("sustituciones", 0)) for r in resultados)
-  inserciones = sum(int(r.get("inserciones", 0)) for r in resultados)
-  eliminaciones = sum(int(r.get("eliminaciones", 0)) for r in resultados)
-  errores_graves = sum(int(r.get("errores_graves", 0)) for r in resultados)
-  errores_leves = sum(int(r.get("errores_leves", 0)) for r in resultados)
-
-  ejemplos = []
-  for resultado in resultados:
-    ejemplos.extend(resultado.get("ejemplos", []))
-
-  wer_porcentaje = 0.0
-  if total_palabras > 0:
-    wer_porcentaje = ((sustituciones + inserciones + eliminaciones) / total_palabras) * 100.0
-
-  criterio_gravedad = "errores agregados por bloques"
-  if errores_graves == 0 and errores_leves == 0:
-    criterio_gravedad = "sin errores detectados en los bloques"
-
-  return {
-    "modelo": modelo_llm,
-    "total_palabras_referencia": total_palabras,
-    "sustituciones": sustituciones,
-    "inserciones": inserciones,
-    "eliminaciones": eliminaciones,
-    "errores_graves": errores_graves,
-    "errores_leves": errores_leves,
-    "criterio_gravedad": criterio_gravedad,
-    "wer_porcentaje": wer_porcentaje,
-    "explicacion_breve": "Resultado agregado por bloques para reducir el tamaño del prompt.",
-    "ejemplos": ejemplos[:12],
-  }
-
-
-def _evaluar_wer_bloque(transcripcion_manual, transcripcion_automatica, modelo_llm, indice_bloque=None):
-  etiqueta_bloque = f"BLOQUE {indice_bloque}" if indice_bloque is not None else "TEXTO COMPLETO"
+def _evaluar_wer_con_un_modelo(transcripcion_manual, transcripcion_automatica, modelo_llm):
   prompt_wer = f"""
 Eres un evaluador de reconocimiento de voz en español.
-Compara TRANSCRIPCION_REFERENCIA y TRANSCRIPCION_AUTOMATICA del mismo bloque.
+Compara TRANSCRIPCION_REFERENCIA (ground truth) y TRANSCRIPCION_AUTOMATICA.
 
-Devuelve SOLO JSON válido con este formato exacto:
+Necesito que calcules WER (%) y devuelvas SOLO JSON válido (sin texto extra) con este formato exacto:
 {{
   "modelo": "{modelo_llm}",
   "total_palabras_referencia": <int>,
@@ -126,17 +61,16 @@ Devuelve SOLO JSON válido con este formato exacto:
   "wer_porcentaje": <float>,
   "explicacion_breve": "<string breve>",
   "ejemplos": [
-    {{"tipo": "sustitucion|insercion|eliminacion", "gravedad": "grave|leve", "referencia": "...", "hipotesis": "..."}}
+  {{"tipo": "sustitucion|insercion|eliminacion", "gravedad": "grave|leve", "referencia": "...", "hipotesis": "..."}}
   ]
 }}
 
 Reglas:
-1) WER = (sustituciones + inserciones + eliminaciones) / total_palabras_referencia * 100
+1) Usa WER = (sustituciones + inserciones + eliminaciones) / total_palabras_referencia * 100
 2) Si no hay errores, wer_porcentaje=0.0 y ejemplos puede estar vacío.
-3) No inventes contexto clínico.
-4) Devuelve solo JSON válido.
+3) No inventes contexto clínico: compara solo texto.
+4) Devuelve SOLO JSON válido.
 
-{etiqueta_bloque}
 TRANSCRIPCION_REFERENCIA:
 {transcripcion_manual}
 
@@ -148,34 +82,8 @@ TRANSCRIPCION_AUTOMATICA:
     {'role': 'user', 'content': prompt_wer}
   ])
 
-  return _extraer_json_desde_respuesta(respuesta['message']['content'])
-
-
-def _evaluar_wer_con_modelo_por_bloques(transcripcion_manual, transcripcion_automatica, modelo_llm, max_palabras=220):
-  bloques_manual = _dividir_en_bloques(transcripcion_manual, max_palabras=max_palabras)
-  bloques_automatica = _dividir_en_bloques(transcripcion_automatica, max_palabras=max_palabras)
-  total_bloques = max(len(bloques_manual), len(bloques_automatica))
-
-  resultados_bloques = []
-  for indice in range(total_bloques):
-    bloque_manual = bloques_manual[indice] if indice < len(bloques_manual) else ""
-    bloque_auto = bloques_automatica[indice] if indice < len(bloques_automatica) else ""
-
-    resultado_bloque = _evaluar_wer_bloque(bloque_manual, bloque_auto, modelo_llm, indice + 1)
-    resultados_bloques.append(resultado_bloque)
-
-  return _sumar_resultados_wer(resultados_bloques, modelo_llm)
-
-
-def _evaluar_wer_con_un_modelo(transcripcion_manual, transcripcion_automatica, modelo_llm):
-  try:
-    if len(transcripcion_manual.split()) > 220 or len(transcripcion_automatica.split()) > 220:
-      return _evaluar_wer_con_modelo_por_bloques(transcripcion_manual, transcripcion_automatica, modelo_llm)
-
-    return _evaluar_wer_bloque(transcripcion_manual, transcripcion_automatica, modelo_llm)
-  except Exception as error:
-    print(f"[!] WER con {modelo_llm} falló: {error}")
-    return _plantilla_resultado_wer(modelo_llm, error=error)
+  contenido = respuesta['message']['content']
+  return _extraer_json_desde_respuesta(contenido)
 
 
 def calcular_wer_con_llm(transcripcion_manual, transcripcion_automatica, modelo_llm_1, modelo_llm_2):
